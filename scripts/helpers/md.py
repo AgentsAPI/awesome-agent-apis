@@ -23,8 +23,8 @@ def format_api_row(actor):
   api_rating = math.trunc(actor.get('rating', 0) * 100) / 100
   api_rating_count = actor.get('rating_count')
 
-  name = re.sub(r'[|<>]', '', re.sub(r'\s+', ' ', api_name)).strip()
-  description = re.sub(r'[|<>]', '', re.sub(r'\s+', ' ', api_desc)).strip()
+  name = re.sub(r'[|<>[]', '', re.sub(r'\s+', ' ', api_name)).strip()
+  description = re.sub(r'[|<>[]', '', re.sub(r'\s+', ' ', api_desc)).strip()
   rating = f'⭐️ {api_rating} ({api_rating_count})' if api_rating > 0 else ''
 
   return f'| [{name}]({api_url}) | {rating} | {description} |'
