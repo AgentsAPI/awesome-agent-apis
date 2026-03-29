@@ -56,12 +56,12 @@ def build_main_readme(
 ):
   category_list = ''
   for c in sorted(category_stats, key=lambda x: x['name']):
-    category_list += f"- 🤖 [{c['name']}]({c['slug']}/README.md) — **{c['count']:,} APIs**\n"
+    category_list += f"- 🤖 [{c['name']}]({c['slug']}) — **{c['count']:,} APIs**\n"
 
   category_sections = "## 🔥 Explore Agent APIs by Category\n\n"
   for c in sorted(category_stats, key=lambda x: x['count'], reverse=True):
     category_sections += f"### 🤖 {c['name']}\n"
-    category_sections += f"📦 **{c['count']:,} APIs in this category** • [View all →]({c['slug']}/README.md)\n\n"
+    category_sections += f"📦 **{c['count']:,} APIs in this category** • [View all →]({c['slug']})\n\n"
     
     json_path = f"data/{c['slug']}.json"
 
@@ -69,7 +69,7 @@ def build_main_readme(
       with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-      top_apis = data[:40]
+      top_apis = data[:20]
 
       category_sections += '| API | Rating | Description |\n'
       category_sections += '|-----|--------|-------------|\n'
