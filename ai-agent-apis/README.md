@@ -3,7 +3,7 @@
 
 **Organized APIs by Ai**
 
-**2883 APIs in this category**
+**2886 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -2890,6 +2890,9 @@
 | [Grants.gov Federal Grant Search](https://apify.com/ryanclinton/grants-gov-search?fpr=hs6s8) |  | Search and extract structured federal grant opportunity data from Grants.gov -- the U.S. government's central portal for over 1,000 grant-making agencies and more than $500 billion in annual federal funding. |
 | [arXiv Paper Scraper](https://apify.com/cloud9_ai/arxiv-paper-scraper?fpr=hs6s8) |  | Scrape academic papers from arXiv.org. Search by keyword, browse categories, or get latest papers. Extract titles, abstracts, authors, PDF links, and citation data via arXiv API. |
 | [Crossref Academic Citation Scraper](https://apify.com/cloud9_ai/crossref-scraper?fpr=hs6s8) |  | Search and extract scholarly publication metadata from Crossref. Get DOIs, citations, authors, journals for 140M+ works. |
+| [X Intelligence Mcp](https://apify.com/constant_quadruped/x-intelligence-mcp?fpr=hs6s8) |  | Real-time Twitter/X intelligence with AI analysis. Search tweets, monitor brands, detect buying intent, compare competitors. Uses Apify scrapers + OpenAI. TOS-compliant alternative to xAI x_search. |
+| [Arxiv Paper Scraper](https://apify.com/openclawmara/arxiv-paper-scraper?fpr=hs6s8) |  |  |
+| [Huggingface Scraper](https://apify.com/openclawmara/huggingface-scraper?fpr=hs6s8) |  |  |
 
 ---
 

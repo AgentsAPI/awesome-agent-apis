@@ -3,7 +3,7 @@
 
 **Organized APIs by Lead Generation**
 
-**8540 APIs in this category**
+**8544 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -619,11 +619,11 @@
 | [Facebook Comments PPR](https://apify.com/danek/facebook-comments-ppr?fpr=hs6s8) | ⭐️ 3.97 (4) | Scrap Facebook comments fast and easy. It is designed to be fast and efficient, so it can extract a large number of comments for low price. It is also less likely to be blocked by Facebook. |
 | [Linkedin Profile Scraper](https://apify.com/logical_scrapers/linkedin-profile-scraper?fpr=hs6s8) | ⭐️ 3.96 (4) | 🚀 Fastest linkedin profile scraper. Easily extract comprehensive LinkedIn profile data, including name, headline, industry, location, experience, education, skills, certifications, and more. Automates LinkedIn data collection for lead generation, recruiting, research, and competitive analysis. |
 | [Facebook Post Scraper](https://apify.com/pratikdani/facebook-post-scraper?fpr=hs6s8) | ⭐️ 4.9 (3) | The Facebook Post Scraper Actor is a powerful tool designed to extract detailed information from Facebook posts using valid Facebook Post URLs. It provides comprehensive data about posts, including user information, engagement metrics, media attachments, and more. |
-| [Telegram Profile](https://apify.com/cheapget/telegram-profile?fpr=hs6s8) | ⭐️ 3.92 (4) | Batch extract deep Telegram profile metadata for users, bots, channels, and groups. Capture premium status, verification badges, member counts, and privacy settings. |
 | [Scale Google Maps Scraper](https://apify.com/huncho/google-maps-scraper?fpr=hs6s8) | ⭐️ 2.53 (8) | The most efficient way to scrape Google Maps at scale - $0.0004/result |
+| [Telegram Profile](https://apify.com/cheapget/telegram-profile?fpr=hs6s8) | ⭐️ 3.92 (4) | Batch extract deep Telegram profile metadata for users, bots, channels, and groups. Capture premium status, verification badges, member counts, and privacy settings. |
 | [Workday Job Scraper Fast Edition](https://apify.com/pulse_automation/workday-job-scraper-fast-edition?fpr=hs6s8) | ⭐️ 4.77 (3) | High-speed Workday job scraper that paginates a given Workday careers URL, applies optional keyword/location filters, fetches detail pages for descriptions and qualifications, and stores structured job postings to the default dataset. |
-| [Shopify Lead Scraper with 1M+ Email Database](https://apify.com/xmiso_scrapers/shopify-shops-email-leads-scraper?fpr=hs6s8) | ⭐️ 2.91 (6) | scrape shopify powered shops for ecommerce email leads from merchantgenius and own scraped sources. |
 | [Leads Scraper - ✅ Up to 10k with EMAILS ✅ similar to Apollo](https://apify.com/unlimitedleadtestinbox/unlimited-leads-scraper---up-to-10k-with-emails?fpr=hs6s8) | ⭐️ 1.89 (14) | Scrape Up to 10K leads per run with emails. Similar to Apollo. Using Unlimited leads database |
+| [Shopify Lead Scraper with 1M+ Email Database](https://apify.com/xmiso_scrapers/shopify-shops-email-leads-scraper?fpr=hs6s8) | ⭐️ 2.91 (6) | scrape shopify powered shops for ecommerce email leads from merchantgenius and own scraped sources. |
 | [Eventbrite Email Scraper – Advanced, Cheapest & Reliable 📧🎟️](https://apify.com/contactminerlabs/eventbrite-email-scraper---advanced-cheapest-reliable?fpr=hs6s8) | ⭐️ 3.27 (5) | 🔍 Scrape Eventbrite Emails Enter your search parameters to collect verified contact emails from Eventbrite profiles, along with profile title, bio, source URL & platform info 📊 Perfect for lead generation, influencer outreach & data enrichment in tools like Google Sheets or CRMs🧩 |
 | [E-Commerce Phone Number Scraper – Cheapest 🛍️📞 (All-in-One)](https://apify.com/scrapestorm/e-commerce-phone-number-scraper---cheapest-all-in-one?fpr=hs6s8) | ⭐️ 3.79 (4) | 🔍 Scrape Mass/Bulk E-Commerce Phone Numbers Easily Enter your search parameters (e.g. keyword & platform) to collect verified business phone numbers from top e-commerce sites and marketplaces 🛍️📞 Ideal for lead generation, dropshipping research, seller outreach, and data enrichment ⚡📊 |
 | [Craigslist Scraper](https://apify.com/viralanalyzer/craigslist-scraper?fpr=hs6s8) | ⭐️ 4.66 (3) | Scrape Craigslist listings across all categories and locations. Extract prices, descriptions, images, and contact details. |
@@ -8547,6 +8547,10 @@
 | [GotFriends.co.il Job Scraper](https://apify.com/swerve/gotfriends-scraper?fpr=hs6s8) |  | Scrape tech job listings from GotFriends.co.il — Israel's leading tech recruitment platform. Get job title, description, requirements, location, and more across 15+ categories. |
 | [DEV.to Article Scraper](https://apify.com/cloud9_ai/devto-scraper?fpr=hs6s8) |  | Scrape DEV.to articles, tags, and user profiles via Forem public API. Extract article metadata, content, reactions, comments, and author information. |
 | [Yahoo Finance Scraper](https://apify.com/cloud9_ai/yahoo-finance-scraper?fpr=hs6s8) |  | Scrape stock quotes, company profiles, and historical price data from Yahoo Finance. Get real-time prices, market cap, P/E ratios, dividends, and OHLCV history. |
+| [X Intelligence Mcp](https://apify.com/constant_quadruped/x-intelligence-mcp?fpr=hs6s8) |  | Real-time Twitter/X intelligence with AI analysis. Search tweets, monitor brands, detect buying intent, compare competitors. Uses Apify scrapers + OpenAI. TOS-compliant alternative to xAI x_search. |
+| [Apify Creator Scraper · Bulk Profile & Actor Data Export](https://apify.com/corent1robert/apify-users-sitemap-scraper?fpr=hs6s8) |  | Extract every public Apify creator profile in one run. Get name, username, published actors, and usage stats — ready to export as a lead list or enrich in your CRM |
+| [paypayfleamarket.yahoo.co.jp Search Scraper](https://apify.com/hello.datawizards/paypayfleamarket-search-scraper?fpr=hs6s8) |  | Scrape Yahoo Flea Market (PayPayフリマ) listings using keywords and extract structured data like price, title, images, description, category, and availability. Supports proxy configuration, multiple queries, and fast execution—perfect for market research, price tracking, and reselling insights. |
+| [Google Maps Leads Scraper with Emails](https://apify.com/rocky101/google-maps-leads-with-emails?fpr=hs6s8) |  | Scrape Google Maps business leads with phone, website, ratings, and emails — all in one run. No separate enrichment step needed. |
 
 ---
 

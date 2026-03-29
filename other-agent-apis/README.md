@@ -3,7 +3,7 @@
 
 **Organized APIs by Other**
 
-**3440 APIs in this category**
+**3447 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -3447,6 +3447,13 @@
 | [Coronavirus stats in China](https://apify.com/katerinahronik/covid-china?fpr=hs6s8) |  | Gets the statistics of the actual number of current confirmed, confirmed, suspected, cured and deceased people by COVID-19 in China from https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/json/DXYOverall.json. |
 | [Coronavirus stats in Romania](https://apify.com/vanadragos/covid-19-romania?fpr=hs6s8) |  | Gets an actual number of examined and infected people by COVID-19 in Romania from https://stirioficiale.ro/informatii |
 | [Csv Lead Processor](https://apify.com/ryanclinton/csv-lead-processor?fpr=hs6s8) |  |  |
+| [Fda 510k Medical Device Clearances](https://apify.com/pink_comic/fda-510k-medical-device-clearances?fpr=hs6s8) |  | Search FDA 510(k) medical device clearances. Returns device name, applicant, decision date, product code, and clearance status. Built for regulatory affairs and market research teams. |
+| [Professional License Lookup](https://apify.com/pink_comic/professional-license-lookup?fpr=hs6s8) |  |  |
+| [Building Permits Construction Leads](https://apify.com/pink_comic/building-permits-construction-leads?fpr=hs6s8) |  | Search building permit records across major US cities. Returns permit type, address, contractor, owner, project value, and status. Built for construction sales, lead gen, and market research. |
+| [Sec Insider Trading Tracker](https://apify.com/pink_comic/sec-insider-trading-tracker?fpr=hs6s8) |  | Track SEC Form 4 insider trading disclosures. Returns stock transactions, filing dates, and ownership changes. Built for investors, compliance teams, and analysts. |
+| [Ofac Sanctions Screening](https://apify.com/pink_comic/ofac-sanctions-screening?fpr=hs6s8) |  | Screen entities against OFAC SDN and consolidated sanctions lists. Returns match details, aliases, addresses, and program information. Built for KYC, AML, and trade compliance teams. |
+| [Framer Components Scraper](https://apify.com/parsebird/framer-components-scraper?fpr=hs6s8) |  | Extract component data from the Framer Marketplace. Browse all components or filter by category, pricing, and search query. Optionally visit detail pages for rich metadata including descriptions, install counts, categories, and creator emails. |
+| [Framer Plugins Scraper](https://apify.com/parsebird/framer-plugins-scraper?fpr=hs6s8) |  | Extract plugin data from the Framer Marketplace. Browse all plugins or filter by category, pricing, and search query. Optionally visit detail pages for rich metadata including descriptions, changelogs, version info, user counts, and creator emails. |
 
 ---
 

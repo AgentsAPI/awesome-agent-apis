@@ -3,7 +3,7 @@
 
 **Organized APIs by Developer Tools**
 
-**6443 APIs in this category**
+**6447 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -121,8 +121,8 @@
 | [Nukrigulf Job Scraper](https://apify.com/shahidirfan/Nukrigulf-Job-Scraper?fpr=hs6s8) | ⭐️ 4.69 (7) | Introducing the Nukrigulf Job Scraper, a lightweight actor for efficiently scraping job listings from Nukrigulf. Fast and simple. For best results and reliable data extraction, the use of residential proxies is strongly advised. Get the job data you need! |
 | [Instagram Story Details Scraper](https://apify.com/louisdeconinck/instagram-story-details-scraper?fpr=hs6s8) | ⭐️ 4.67 (7) | Extract detailed Instagram stories data for data analysis, content monitoring, and competitor research. Does not require authentication or login. Fast & easy to use. Supports photo & video stories. |
 | [Actor Readme Generator](https://apify.com/apify/actor-readme-generator?fpr=hs6s8) | ⭐️ 4.11 (8) | An AI agent that can generate a README for scrapers based on an Apify-approved template. |
-| [Profile Reactions Scraper for LinkedIn [No Cookies]](https://apify.com/apimaestro/linkedin-profile-reactions?fpr=hs6s8) | ⭐️ 5.0 (6) | Linkedin User Reactions Scraper: Extract reactions for LinkedIn profiles and users including post content, reactions, stats, article, media attachments and more. |
 | [DexScreener Scraper](https://apify.com/muhammetakkurtt/dexscreener-scraper?fpr=hs6s8) | ⭐️ 5.0 (6) | DexScreener Token Scraper collects real-time cryptocurrency data from DexScreener. It extracts token prices, liquidity, volumes and transactions across multiple blockchains (Solana, Ethereum, BSC). Supports custom sorting, time frames and delivers comprehensive token analytics for market analysis. |
+| [Profile Reactions Scraper for LinkedIn [No Cookies]](https://apify.com/apimaestro/linkedin-profile-reactions?fpr=hs6s8) | ⭐️ 5.0 (6) | Linkedin User Reactions Scraper: Extract reactions for LinkedIn profiles and users including post content, reactions, stats, article, media attachments and more. |
 | [Pitchbook Scraper  Investor Data](https://apify.com/parseforge/pitchbook-investors-scraper?fpr=hs6s8) | ⭐️ 5.0 (6) | Updated Feb 2026. PitchBook Investors Scraper for private equity and venture capital research. Pull investor contact details including emails and phone numbers from 423,000+ investors across all regions. Built for fund managers, placement agents, researchers, and analysts. |
 | [Legacy PhantomJS Crawler](https://apify.com/apify/legacy-phantomjs-crawler?fpr=hs6s8) | ⭐️ 5.0 (6) | Replacement for the legacy Apify Crawler product with a backward-compatible interface. The Actor uses PhantomJS headless browser to recursively crawl websites and extract data from them using a piece of front-end JavaScript code. |
 | [Leads ✅ Finder  Similar to Apollo LinkedIn Leads Generator](https://apify.com/braveleads/leads-finder-linkedin-apollo-leads-generator?fpr=hs6s8) | ⭐️ 5.0 (6) | $1/1K leads. Get premium leads similar to apollo, linkedin, zoominfo. ✅ Work emails, Phone numbers and more |
@@ -6450,6 +6450,10 @@
 | [Error Messages Deduplication](https://apify.com/petrpatek/get-debug-items-from-dataset?fpr=hs6s8) |  | Filter items from the dataset with `#debug` fieldName and saves them to the dataset and deduplicates `errorMessages` so you don't have to go through all the errors. |
 | [Cloud Staging Test](https://apify.com/ryanclinton/cloud-staging-test?fpr=hs6s8) |  | Cloud Staging Test. Available on the Apify Store with pay-per-event pricing. |
 | [Lever Jobs Scraper — All Companies, All Jobs](https://apify.com/deadlyaccurate/lever-jobs-scraper?fpr=hs6s8) |  | Scrape jobs from 600+ Lever companies. Auto-discovers boards — no URLs needed. Structured output: title, team, department, location, workplace type, apply URL. Unified/raw/both modes. Regex filters. |
+| [SEO Meta Tag Analyzer](https://apify.com/constant_quadruped/seo-meta-analyzer?fpr=hs6s8) |  | Audit any URL for SEO: title length, meta description, Open Graph tags, heading hierarchy, image alt texts, keyword density, mobile viewport, canonical URL, schema markup, and more. |
+| [Apify Creator Scraper · Bulk Profile & Actor Data Export](https://apify.com/corent1robert/apify-users-sitemap-scraper?fpr=hs6s8) |  | Extract every public Apify creator profile in one run. Get name, username, published actors, and usage stats — ready to export as a lead list or enrich in your CRM |
+| [Framer Components Scraper](https://apify.com/parsebird/framer-components-scraper?fpr=hs6s8) |  | Extract component data from the Framer Marketplace. Browse all components or filter by category, pricing, and search query. Optionally visit detail pages for rich metadata including descriptions, install counts, categories, and creator emails. |
+| [Framer Plugins Scraper](https://apify.com/parsebird/framer-plugins-scraper?fpr=hs6s8) |  | Extract plugin data from the Framer Marketplace. Browse all plugins or filter by category, pricing, and search query. Optionally visit detail pages for rich metadata including descriptions, changelogs, version info, user counts, and creator emails. |
 
 ---
 
