@@ -4,6 +4,18 @@ import math
 import json
 from scripts.helpers.utils import sort_api_list
 
+def format_category_name(name):
+  mapping = {
+    'Ai': 'AI',
+    'Seo': 'SEO',
+    'Mcp': 'MCP'
+  }
+
+  for k, v in mapping.items():
+    name = re.sub(rf'\b{k}\b', v, name)
+
+  return name 
+
 def format_api_row(actor):
   api_name = actor.get('name') or ''
   api_url = actor.get('url') or '#'
@@ -56,11 +68,11 @@ def build_main_readme(
 ):
   category_list = ''
   for c in sorted(category_stats, key=lambda x: x['name']):
-    category_list += f"- 🤖 [{c['name']}]({c['slug']}) — **{c['count']:,} APIs**\n"
+    category_list += f"- 🤖 [{format_category_name(c['name'])}]({c['slug']}) - {c['count']:,} APIs\n"
 
   category_sections = "## 🔥 Explore Agent APIs by Category\n\n"
-  for c in sorted(category_stats, key=lambda x: x['count'], reverse=True):
-    category_sections += f"### 🤖 {c['name']}\n"
+  for c in sorted(category_stats, key=lambda x: x['name'])[:10]:
+    category_sections += f"### 🤖 {format_category_name(c['name'])}\n"
     category_sections += f"📦 **{c['count']:,} APIs in this category** • [View all →]({c['slug']})\n\n"
     
     json_path = f"data/{c['slug']}.json"
@@ -69,7 +81,7 @@ def build_main_readme(
       with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-      top_apis = data[:10]
+      top_apis = data[:15]
 
       category_sections += '| API | Rating | Description |\n'
       category_sections += '|-----|--------|-------------|\n'
