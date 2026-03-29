@@ -96,20 +96,20 @@
     "url": "https://apify.com/crawlerbros/etsy-scraper?fpr=hs6s8"
   },
   {
-    "id": "bhqfOgMdFw9ab4D4S",
-    "name": "Instagram Transcript Scraper",
-    "description": "Extract transcripts from Instagram videos and reels using auto-generated captions or AI-powered speech-to-text. Returns clean, timestamped transcript segments with full video metadata.",
-    "rating": 4.999999999999999,
-    "rating_count": 13,
-    "url": "https://apify.com/crawlerbros/instagram-transcript-scraper?fpr=hs6s8"
-  },
-  {
     "id": "8xOaoHOpHOrgKG7oe",
     "name": "Indeed Jobs Scraper",
     "description": "Scrape jobs from Indeed worldwide. Search by keywords and location across 60+ countries. Get full job descriptions, salaries, company info, ratings, and more. No login or API key needed.",
     "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/crawlerbros/indeed-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "bhqfOgMdFw9ab4D4S",
+    "name": "Instagram Transcript Scraper",
+    "description": "Extract transcripts from Instagram videos and reels using auto-generated captions or AI-powered speech-to-text. Returns clean, timestamped transcript segments with full video metadata.",
+    "rating": 4.999999999999999,
+    "rating_count": 13,
+    "url": "https://apify.com/crawlerbros/instagram-transcript-scraper?fpr=hs6s8"
   },
   {
     "id": "zjHvqBELFZjCG7EYO",
@@ -1008,14 +1008,6 @@
     "url": "https://apify.com/parseforge/yatco-scraper?fpr=hs6s8"
   },
   {
-    "id": "drYfVwbtEdPqbFkiC",
-    "name": "DuckDuckGo Scraper | Pay Per Event",
-    "description": "DuckDuckGo search scraper that extracts comprehensive search results including organic results, ads, knowledge graph, news, inline images, videos, and related searches. Features localization, safe search, and date. Perfect for market research, SEO analysis, and competitive intelligence.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/johnvc/DuckDuckGoSEOScraper?fpr=hs6s8"
-  },
-  {
     "id": "enUmNny2eNO4pE269",
     "name": "Yandex  | Scrape Yandex Search Results at Scale - Per Result",
     "description": "The ONLY Pay Per Result Apify Actor specifically designed for Yandex search scraping. Perfect for researchers, marketers, and developers who need reliable access to Yandex search results. Supports 15+ domains, 19 languages, and provides clean, structured data extraction with intelligent pagination.",
@@ -1200,22 +1192,6 @@
     "url": "https://apify.com/viralanalyzer/coingecko-crypto-intelligence?fpr=hs6s8"
   },
   {
-    "id": "kifGBetQiTQuJ2N1D",
-    "name": "Indiamart Product Scraper",
-    "description": "This Apify actor retrieves product and supplier data through the IndiaMart search API. Search by query and city to collect structured product information including name, price, company, contact details, and location. Perfect for B2B lead generation, market research, and sourcing products from India.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/indiamart-product-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "gejp7w4m1NVn8q5cw",
-    "name": "Trustpilot Business Scraper",
-    "description": "Retrieves verified business data from Trustpilot using search queries, delivering structured details like business name, trust score, review count, contact info, location, and categories—ideal for B2B lead generation, market research, and business intelligence.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/trustpilot-business-scraper?fpr=hs6s8"
-  },
-  {
     "id": "c2QfTV7Gsb5Gs5DKo",
     "name": "Yahoo Finance Intelligence",
     "description": "Extract Yahoo Finance data: stock prices, financials, analyst ratings, news, and historical data. Track any ticker or market.",
@@ -1256,14 +1232,6 @@
     "url": "https://apify.com/viralanalyzer/tradingview-screener?fpr=hs6s8"
   },
   {
-    "id": "IvU84ZreUAYA2MfB2",
-    "name": "Fssai Scraper",
-    "description": "Validates FSSAI license numbers using the FoSCoS API with AES-128-ECB encrypted communication. Retrieves CSRF tokens via Playwright, decrypts responses, and returns structured JSON with license details like business name, address, status, and category.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/fssai-scraper?fpr=hs6s8"
-  },
-  {
     "id": "GhKNywNOCuwVOksFd",
     "name": "Figma File Generate",
     "description": "Extracts structured data from Figma files including component names, frames, text layers, colors, and design metadata using the Figma API. Perfect for design audits, documentation, or converting design tokens to code.",
@@ -1302,6 +1270,38 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/crawlerbros/amazon-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "drYfVwbtEdPqbFkiC",
+    "name": "DuckDuckGo Scraper | Pay Per Event",
+    "description": "DuckDuckGo search scraper that extracts comprehensive search results including organic results, ads, knowledge graph, news, inline images, videos, and related searches. Features localization, safe search, and date. Perfect for market research, SEO analysis, and competitive intelligence.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/johnvc/DuckDuckGoSEOScraper?fpr=hs6s8"
+  },
+  {
+    "id": "kifGBetQiTQuJ2N1D",
+    "name": "Indiamart Product Scraper",
+    "description": "This Apify actor retrieves product and supplier data through the IndiaMart search API. Search by query and city to collect structured product information including name, price, company, contact details, and location. Perfect for B2B lead generation, market research, and sourcing products from India.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/indiamart-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gejp7w4m1NVn8q5cw",
+    "name": "Trustpilot Business Scraper",
+    "description": "Retrieves verified business data from Trustpilot using search queries, delivering structured details like business name, trust score, review count, contact info, location, and categories—ideal for B2B lead generation, market research, and business intelligence.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/trustpilot-business-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "IvU84ZreUAYA2MfB2",
+    "name": "Fssai Scraper",
+    "description": "Validates FSSAI license numbers using the FoSCoS API with AES-128-ECB encrypted communication. Retrieves CSRF tokens via Playwright, decrypts responses, and returns structured JSON with license details like business name, address, status, and category.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/fssai-scraper?fpr=hs6s8"
   },
   {
     "id": "aUz1Rf2n45CuHvStY",
