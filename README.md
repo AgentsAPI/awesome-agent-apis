@@ -1,15 +1,23 @@
 <a id="top"></a>
 
-# Awesome Agent APIs
+<h1 align="center">Awesome Agent APIs</h1>
 
-> A collection of APIs designed to power your agents 🤖
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0091ea&height=200&section=header&text=Awesome%20Agent%20APIs&fontSize=40&fontColor=ffffff" />
+</p>
 
-![GitHub stars](https://img.shields.io/github/stars/AgentsAPI/awesome-agent-apis?style=social)
-![Vistors](https://visitor-badge.laobi.icu/badge?page_id=AgentsAPI.awesome-agent-apis&title=Visitors)
-![Categories](https://img.shields.io/badge/Categories-17-blue?logo=adafruit)
-![API](https://img.shields.io/badge/APIs-55189-blue?logo=chainguard)
-![Updated Daily](https://img.shields.io/badge/Updated-today-00c853?logo=rubocop)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=googlegemini)
+<p align="center">
+  <i>A collection of <b>50,000+ APIs</b> designed to power your agents 🤖</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AgentsAPI/awesome-agent-apis?style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AgentsAPI.awesome-agent-apis&title=Visitors" />
+  <img src="https://img.shields.io/badge/Categories-17-blue?logo=adafruit" />
+  <img src="https://img.shields.io/badge/APIs-55189-blue?logo=chainguard" />
+  <img src="https://img.shields.io/badge/Updated-today-00c853?logo=rubocop" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=googlegemini" />
+</p>
 
 ## 🌟 Why Agent APIs?
 
