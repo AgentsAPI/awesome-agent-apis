@@ -26,7 +26,7 @@ class ApifyScraper():
       'description': actor.get('description', ''),
       'rating': actor.get('actorReviewRating'),
       'rating_count': actor.get('actorReviewCount'),
-      'url': f'https://apify.com/{actor.get('username')}/{actor.get('name')}?fpr=hs6s8'
+      'url': f"https://apify.com/{actor.get('username')}/{actor.get('name')}?fpr=hs6s8"
     }
 
   def get_popular_actors(
