@@ -56,7 +56,7 @@ def build_main_readme(
 ):
   category_list = ''
   for c in sorted(category_stats, key=lambda x: x['name']):
-    category_list += f'- 🤖 [{c['name']}]({c['slug']}/README.md) — **{c['count']:,} APIs**\n'
+    category_list += f"- 🤖 [{c['name']}]({c['slug']}/README.md) — **{c['count']:,} APIs**\n"
 
   category_sections = "## 🔥 Explore Agent APIs by Category\n\n"
   for c in sorted(category_stats, key=lambda x: x['count'], reverse=True):
