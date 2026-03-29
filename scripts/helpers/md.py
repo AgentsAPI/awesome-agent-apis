@@ -23,8 +23,8 @@ def format_api_row(actor):
   api_rating = math.trunc(actor.get('rating', 0) * 100) / 100
   api_rating_count = actor.get('rating_count')
 
-  name = re.sub(r'[|<>[]', '', re.sub(r'\s+', ' ', api_name)).strip()
-  description = re.sub(r'[|<>[]', '', re.sub(r'\s+', ' ', api_desc)).strip()
+  name = re.sub(r'[|<>\[\]\s]+', ' ', api_name).strip()
+  description = re.sub(r'[|<>\[\]\s]+', ' ', api_desc).strip()
   rating = f'⭐️ {api_rating} ({api_rating_count})' if api_rating > 0 else ''
 
   return f'| [{name}]({api_url}) | {rating} | {description} |'
@@ -71,7 +71,7 @@ def build_main_readme(
     category_list += f"- 🤖 [{format_category_name(c['name'])}]({c['slug']}) - {c['count']:,} APIs\n"
 
   category_sections = "## 🔥 Explore Agent APIs by Category\n\n"
-  for c in sorted(category_stats, key=lambda x: x['name'])[:10]:
+  for c in sorted(category_stats, key=lambda x: x['name']):
     category_sections += f"### 🤖 {format_category_name(c['name'])}\n"
     category_sections += f"📦 **{c['count']:,} APIs in this category** • [View all →]({c['slug']})\n\n"
     
@@ -81,7 +81,7 @@ def build_main_readme(
       with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-      top_apis = data[:15]
+      top_apis = data[:25]
 
       category_sections += '| API | Rating | Description |\n'
       category_sections += '|-----|--------|-------------|\n'
@@ -99,21 +99,23 @@ def build_main_readme(
 
   content = re.sub(
     r'## 📚 API Categories\n\n.*?(?=\n## |\Z)',
-    f'## 📚 API Categories\n\n{category_list.strip()}\n\n',
+    f'## 📚 API Categories\n\n{category_list.strip()}\n',
     content,
     flags=re.S
   )
 
   content = re.sub(
-    r'## 🔥 Explore APIs by Category\n\n.*?(?=\n## |\Z)',
+    r'## 🔥 Explore Agent APIs by Category\n\n.*?(?=\n## |\Z)',
     '',
     content,
     flags=re.S
   )
 
-  content = content.replace(
-    '## 📚 API Categories',
-    f'## 📚 API Categories\n\n{category_list.strip()}\n\n---\n\n{category_sections.strip()}'
+  content = re.sub(
+    r'(## 📚 API Categories\n\n.*?)(?=\n## |\Z)',
+    r'\1\n---\n\n' + category_sections.strip() + '\n',
+    content,
+    flags=re.S
   )
 
   content = re.sub(r'APIs-\d+', f'APIs-{total_apis}', content)
