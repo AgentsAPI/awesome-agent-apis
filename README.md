@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/AgentsAPI/awesome-agent-apis?style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AgentsAPI.awesome-agent-apis&title=Visitors" />
   <img src="https://img.shields.io/badge/Categories-17-blue?logo=adafruit" />
-  <img src="https://img.shields.io/badge/APIs-55189-blue?logo=chainguard" />
+  <img src="https://img.shields.io/badge/APIs-55196-blue?logo=chainguard" />
   <img src="https://img.shields.io/badge/Updated-today-00c853?logo=rubocop" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=googlegemini" />
 </p>
@@ -59,21 +59,21 @@ With these APIs, your agents can:
 
 ## 📚 API Categories
 
-- 🤖 [Agents](agents-agent-apis) - 1,335 APIs
+- 🤖 [Agents](agents-agent-apis) - 1,336 APIs
 - 🤖 [AI](ai-agent-apis) - 2,887 APIs
 - 🤖 [Automation](automation-agent-apis) - 11,264 APIs
-- 🤖 [Developer Tools](developer-tools-agent-apis) - 6,447 APIs
+- 🤖 [Developer Tools](developer-tools-agent-apis) - 6,448 APIs
 - 🤖 [Ecommerce](ecommerce-agent-apis) - 4,563 APIs
 - 🤖 [Integrations](integrations-agent-apis) - 1,397 APIs
 - 🤖 [Jobs](jobs-agent-apis) - 1,675 APIs
-- 🤖 [Lead Generation](lead-generation-agent-apis) - 8,543 APIs
+- 🤖 [Lead Generation](lead-generation-agent-apis) - 8,544 APIs
 - 🤖 [MCP Servers](mcp-servers-agent-apis) - 347 APIs
 - 🤖 [News](news-agent-apis) - 953 APIs
 - 🤖 [Open Source](open-source-agent-apis) - 825 APIs
-- 🤖 [Other](other-agent-apis) - 3,447 APIs
+- 🤖 [Other](other-agent-apis) - 3,448 APIs
 - 🤖 [Real Estate](real-estate-agent-apis) - 1,584 APIs
-- 🤖 [SEO Tools](seo-tools-agent-apis) - 1,449 APIs
-- 🤖 [Social Media](social-media-agent-apis) - 6,107 APIs
+- 🤖 [SEO Tools](seo-tools-agent-apis) - 1,451 APIs
+- 🤖 [Social Media](social-media-agent-apis) - 6,108 APIs
 - 🤖 [Travel](travel-agent-apis) - 810 APIs
 - 🤖 [Videos](videos-agent-apis) - 1,556 APIs
 
@@ -83,7 +83,7 @@ With these APIs, your agents can:
 ## 🔥 Explore Agent APIs by Category
 
 ### 🤖 Agents
-📦 **1,335 APIs in this category** • [View all →](agents-agent-apis)
+📦 **1,336 APIs in this category** • [View all →](agents-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -110,8 +110,8 @@ With these APIs, your agents can:
 | [R3 DE](https://apify.com/gunmetal/r3-de?fpr=hs6s8) | ⭐️ 4.99 (4) | R³-DE is a multi-layer NLP pipeline that transforms raw text or scraped content into structured records with speakers, entities, actions, states, intent, sentiment, causality, confidence scores, and prompt–completion pairs, ideal for training chatbots, instruction-tuned LLMs, and safety-critical AI. |
 | [Linkedin Company Employees](https://apify.com/api-empire/linkedin-company-employees?fpr=hs6s8) | ⭐️ 4.09 (4) | The LinkedIn Company Employees Scraper extracts public employee data from LinkedIn company pages, including names, positions, locations, and profile links. Ideal for recruiters, analysts, and marketers to identify talent, map organizations, and support B2B lead generation efforts. |
 | [Reddit Scraper](https://apify.com/macrocosmos/reddit-scraper?fpr=hs6s8) | ⭐️ 5.0 (3) | Scrape Reddit data, via URL, subreddit, keyword, username. |
-| [Perplexity 2.0](https://apify.com/winbayai/perplexity-2-0?fpr=hs6s8) | ⭐️ 4.99 (3) | Our advanced API, powered by AI, enables seamless Google、Bing、Wiki... data search and analysis, transforming raw data into actionable insights. It streamlines data retrieval for market research and trend tracking, enhancing decision-making accuracy across diverse industries. |
 | [AI Model Comparison](https://apify.com/onescales/ai-model-comparison?fpr=hs6s8) | ⭐️ 5.0 (3) | Compare responses from multiple AI models side by side and let AI analyze them to deliver the single best answer. |
+| [Bitcoin Price by Finmap.io](https://apify.com/finmap/bitcoin-price?fpr=hs6s8) | ⭐️ 5.0 (3) | Generates the accurate current and historical Bitcoin (BTC) price data for any timeframe, at a low cost. Historical intervals: Daily, weekly, and monthly. Currencies supported: USD, EUR, and GBP. Contact us if you need more. We take pride in offer accurate financial data and great customer care. |
 
 ---
 
@@ -171,8 +171,8 @@ With these APIs, your agents can:
 | [YellowPages USA Business Lead Scraper](https://apify.com/delicious_zebu/yellowpages-usa-business-lead-scraper?fpr=hs6s8) | ⭐️ 4.99 (25) | Effortlessly gather business data from YellowPages (US) based on keywords and locations or directly from filtered URLs. With customizable sorting and pagination options, you can scrape valuable business details like names, addresses, ratings, and more—perfect for market research and lead generation! |
 | [Google Ads Scraper (2X Faster, More Data)](https://apify.com/lexis-solutions/google-ads-scraper?fpr=hs6s8) | ⭐️ 4.61 (28) | Scrape any company's current & past Google ads – 2× faster than any competitor with unique extra fields they don't have. Get ad copy, impressions, shown dates, media (images & videos), plus unique insights like full ad links, first shown date & audience targeting. |
 | [Youtube Transcript Scraper](https://apify.com/pintostudio/youtube-transcript-scraper?fpr=hs6s8) | ⭐️ 4.17 (34) | Looking for a reliable way to extract transcripts from YouTube videos? 🎥✨ Look no further! The YouTube-Transcript-Scraper has you covered. 🚀 It effortlessly retrieves transcripts while offering additional valuable insights. Ready to start? Let’s scrape away! 🕵️‍♂️💻 |
-| [Amazon Product Details Scraper](https://apify.com/delicious_zebu/amazon-product-details-scraper?fpr=hs6s8) | ⭐️ 4.99 (23) | Effortlessly scrape comprehensive Amazon product details, including pricing, reviews, ratings, availability, and more. Ideal for market analysis, competitor tracking, and data-driven decision-making. 🚀 |
 | [YellowPages Australia Lead Generator](https://apify.com/delicious_zebu/yellowpages-australia-lead-generator?fpr=hs6s8) | ⭐️ 5.0 (23) | Effortlessly scrape detailed business data from YellowPages.com.au by keyword, location, and filters like “Open Now” or “Popular.” Fast, flexible, and ideal for lead generation or market research. |
+| [Amazon Product Details Scraper](https://apify.com/delicious_zebu/amazon-product-details-scraper?fpr=hs6s8) | ⭐️ 4.99 (23) | Effortlessly scrape comprehensive Amazon product details, including pricing, reviews, ratings, availability, and more. Ideal for market analysis, competitor tracking, and data-driven decision-making. 🚀 |
 | [Google Jobs Scraper](https://apify.com/orgupdate/google-jobs-scraper?fpr=hs6s8) | ⭐️ 3.52 (47) | The latest and most advanced Google Job Scraper. Our Indeed, LinkedIn, and Google Jobs Scraper rolled into one. This scraper extracts real-time job postings at scale from any active Google Jobs search results from all over the world. A new research tool built for recruitment, insights and HR. |
 | [Yelp Advanced Business Scraper: Pay Per Result](https://apify.com/delicious_zebu/yelp-advanced-business-scraper-pay-per-result?fpr=hs6s8) | ⭐️ 4.85 (23) | Effortlessly scrape detailed restaurant data from Yelp, including ratings, reviews, amenities, and operating hours. Perfect for building robust datasets for market analysis, apps, or research projects. |
 | [Trustpilot Scraper Pro](https://apify.com/coder_zoro/Trustpilot-Scraper-Pro?fpr=hs6s8) | ⭐️ 4.72 (24) | Trustpilot Scraper Pro is a powerful Apify actor that extracts detailed business information and customer reviews from Trustpilot. Choose between two modes: scrape company data (name, rating, contact, etc.) or collect reviews with filters. |
@@ -182,7 +182,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Developer Tools
-📦 **6,447 APIs in this category** • [View all →](developer-tools-agent-apis)
+📦 **6,448 APIs in this category** • [View all →](developer-tools-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -314,7 +314,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Lead Generation
-📦 **8,543 APIs in this category** • [View all →](lead-generation-agent-apis)
+📦 **8,544 APIs in this category** • [View all →](lead-generation-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -446,7 +446,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Other
-📦 **3,447 APIs in this category** • [View all →](other-agent-apis)
+📦 **3,448 APIs in this category** • [View all →](other-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -512,7 +512,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 SEO Tools
-📦 **1,449 APIs in this category** • [View all →](seo-tools-agent-apis)
+📦 **1,451 APIs in this category** • [View all →](seo-tools-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -520,8 +520,8 @@ With these APIs, your agents can:
 | [Naver Map Search Results Scraper](https://apify.com/delicious_zebu/naver-map-search-results-scraper?fpr=hs6s8) | ⭐️ 4.95 (30) | Input any search term and collect detailed information from Naver Maps (https://map.naver.com) results, including business names, addresses, phone numbers, ratings, and more. Fast, flexible, and tailored to your needs! |
 | [Naver Shopping Product Scraper](https://apify.com/delicious_zebu/naver-shopping-product-scraper?fpr=hs6s8) | ⭐️ 4.95 (29) | Efficiently scrape detailed product data from Naver Shopping! 🚀 Simply input a search keyword and specify the number of pages, and get comprehensive product details like pricing, seller info, reviews, and more. |
 | [Yelp Business Info Scraper](https://apify.com/delicious_zebu/yelp-business-info-scraper?fpr=hs6s8) | ⭐️ 5.0 (26) | Quickly gather rich, detailed data from Yelp business pages—perfect for insights and analysis! 🚀 |
-| [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (25) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
 | [YouTube Video Scraper by Keyword](https://apify.com/delicious_zebu/youtube-video-scraper-by-keyword?fpr=hs6s8) | ⭐️ 4.99 (25) | Quickly search and scrape YouTube videos based on any keyword with detailed insights including title, publisher, view count, and more. Perfect for market research, competitor analysis, and trend tracking. |
+| [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (25) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
 | [Amazon Product Data Scraper](https://apify.com/delicious_zebu/amazon-product-data-scraper?fpr=hs6s8) | ⭐️ 4.8 (25) | Scrape detailed Amazon product data, including ratings, prices, availability, and reviews, from any custom list or keyword search. Fast, precise, and tailored for your needs! |
 | [Trustpilot Scraper Pro](https://apify.com/coder_zoro/Trustpilot-Scraper-Pro?fpr=hs6s8) | ⭐️ 4.72 (24) | Trustpilot Scraper Pro is a powerful Apify actor that extracts detailed business information and customer reviews from Trustpilot. Choose between two modes: scrape company data (name, rating, contact, etc.) or collect reviews with filters. |
 | [Google Search Results (SERP) Scraper](https://apify.com/scraperlink/google-search-results-serp-scraper?fpr=hs6s8) | ⭐️ 4.68 (23) | 🔥 ~$0.05/1K results ($0.50/1,000 SERPs) 🔥 **CHEAPEST** Google Search Results (SERP) Scraper with real-time SERP data and support for multiple countries. Billed per 1 full SERP page (~10 results) — making it ~10× cheaper than others. |
@@ -545,7 +545,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Social Media
-📦 **6,107 APIs in this category** • [View all →](social-media-agent-apis)
+📦 **6,108 APIs in this category** • [View all →](social-media-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -625,8 +625,8 @@ With these APIs, your agents can:
 | [TikTok Profile & Video Data Extractor](https://apify.com/delicious_zebu/tiktok-profile-video-data-extractor?fpr=hs6s8) | ⭐️ 5.0 (28) | High-speed TikTok profile scraper for in-depth data. Capture extensive profile and video details instantly—ideal for analytics and trend insights. |
 | [YouTube Channel Video Scraper](https://apify.com/delicious_zebu/youtube-channel-video-scraper?fpr=hs6s8) | ⭐️ 4.96 (27) | Fast and stable YouTube profile scraper with expert support! 🚀 |
 | [TikTok Video & Comment Scraper](https://apify.com/delicious_zebu/tiktok-video-comment-scraper?fpr=hs6s8) | ⭐️ 5.0 (26) | Effortlessly extract rich TikTok video details and comments with stable, high-speed data collection! |
-| [YouTube Video Scraper by Keyword](https://apify.com/delicious_zebu/youtube-video-scraper-by-keyword?fpr=hs6s8) | ⭐️ 4.99 (25) | Quickly search and scrape YouTube videos based on any keyword with detailed insights including title, publisher, view count, and more. Perfect for market research, competitor analysis, and trend tracking. |
 | [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (25) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
+| [YouTube Video Scraper by Keyword](https://apify.com/delicious_zebu/youtube-video-scraper-by-keyword?fpr=hs6s8) | ⭐️ 4.99 (25) | Quickly search and scrape YouTube videos based on any keyword with detailed insights including title, publisher, view count, and more. Perfect for market research, competitor analysis, and trend tracking. |
 | [YouTube Comments Scraper](https://apify.com/streamers/youtube-comments-scraper?fpr=hs6s8) | ⭐️ 4.96 (25) | This alternative YouTube Data API has no limits or quotas. Extract YouTube comments data from one or multiple YouTube videos: full comment text, posting date, author username, video title, videoId. Download YouTube comments in JSON, CSV, and Excel. |
 | [Fast YouTube Channel Scraper](https://apify.com/streamers/youtube-channel-scraper?fpr=hs6s8) | ⭐️ 4.29 (30) | This alternative YouTube Data API has no limits or quotas. Use it to scrape one or multiple YouTube channels: channel info, URL, total number of subscribers, videos and views, creation date. Try it and get basic video data. You can download extracted data in JSON, CSV, and Excel. |
 | [Youtube Transcript](https://apify.com/dz_omar/youtube-transcript-metadata-extractor?fpr=hs6s8) | ⭐️ 5.0 (20) | 🎥Extract complete transcripts with precise timestamps ⏱️ and comprehensive video metadata from any YouTube video — ⚡Fast, reliable, and ready to use. |
