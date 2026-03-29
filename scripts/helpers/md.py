@@ -69,7 +69,7 @@ def build_main_readme(
       with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-      top_apis = data[:20]
+      top_apis = data[:10]
 
       category_sections += '| API | Rating | Description |\n'
       category_sections += '|-----|--------|-------------|\n'
