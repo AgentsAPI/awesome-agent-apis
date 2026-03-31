@@ -3,7 +3,7 @@
 
 **Organized APIs by Open Source**
 
-**825 APIs in this category**
+**826 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -44,7 +44,7 @@
 | [Apify Email Signature Generator](https://apify.com/apify/email-signature-generator?fpr=hs6s8) | ⭐️ 4.31 (4) | Generates a standardized email signature for Apify team members, using provided details. |
 | [Anon Lab](https://apify.com/bikrambiswas/anon-lab?fpr=hs6s8) | ⭐️ 5.0 (3) | Anon Lab is an open research workspace that transforms anonymity and privacy papers into readable explanations and executable code. Built on the Free Haven Anonymity Bibliography, it makes decades of privacy research interactive, reproducible, and usable for developers and researchers. |
 | [Apify Scraper](https://apify.com/dz_omar/apify-scraper?fpr=hs6s8) | ⭐️ 5.0 (3) | Extract actor data from the Apify Store, including pricing, stats, and user info. Supports multiple queries, filters, and crash-safe state persistence. 🧑‍💻 Open-source and ideal for research, analysis, and discovering tools. |
-| [Firestore Import](https://apify.com/apify/firestore-import?fpr=hs6s8) | ⭐️ 4.99 (3) | Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function. |
+| [Firestore Import](https://apify.com/apify/firestore-import?fpr=hs6s8) | ⭐️ 5.0 (3) | Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function. |
 | [Content Checker](https://apify.com/jakubbalada/content-checker?fpr=hs6s8) | ⭐️ 4.89 (3) | Monitor a website or web page for content changes. Automatically saves before and after screenshots and sends an email notification when content changes are detected. |
 | [Proxy Test](https://apify.com/apify/proxy-test?fpr=hs6s8) | ⭐️ 4.85 (3) | This actor simply tests given array of URLs against selected proxy URLs or Apify proxy groups. |
 | [Example Web Server](https://apify.com/apify/example-web-server?fpr=hs6s8) | ⭐️ 4.78 (3) | This example demonstrates how to use web server in actor as communication channel with outer world. Read more at Apify docs https://docs.apify.com/actors/running#container-web-server |
@@ -60,9 +60,9 @@
 | [Scrape And Bypass Any Url Using Scrappey](https://apify.com/dormic/apify-scrappey?fpr=hs6s8) | ⭐️ 5.0 (2) | A template for scraping data from web pages using the Scrappey.com API service integrated with an Apify Actor. This actor provides a robust solution for handling complex web scraping scenarios, including sites with anti-bot protection such as Cloudflare, Datadome, PerimeterX and all other forms. |
 | [Browserbase MCP Server](https://apify.com/agentify/browserbase-mcp-server?fpr=hs6s8) | ⭐️ 5.0 (2) | A Model Context Protocol (MCP) server that provides browser automation capabilities using Browserbase. |
 | [Example using GitHub Gist](https://apify.com/apify/example-github-gist?fpr=hs6s8) | ⭐️ 5.0 (2) | Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away. |
-| [Example Selenium](https://apify.com/apify/example-selenium?fpr=hs6s8) | ⭐️ 4.99 (2) | Example of loading a web page in headless Chrome using Selenium Webdriver. |
+| [Example Selenium](https://apify.com/apify/example-selenium?fpr=hs6s8) | ⭐️ 5.0 (2) | Example of loading a web page in headless Chrome using Selenium Webdriver. |
 | [Upload to Web3](https://apify.com/onescales/upload-to-web3?fpr=hs6s8) | ⭐️ 5.0 (2) | Bulk upload files to the decentralized web (IPFS) - backup images, PDFs, videos, and any file type to permanent, censorship-resistant storage. Uses Pinata API and IPFS pinning for fast, reliable Web3 file uploads and more. |
-| [Website Image Scraper](https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8) | ⭐️ 5.0 (2) | Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download. |
+| [Website Image Scraper](https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8) | ⭐️ 4.99 (2) | Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download. |
 | [Example Code Runner (Python)](https://apify.com/apify/example-code-runner-python?fpr=hs6s8) | ⭐️ 5.0 (2) | Python Actor to run code examples from the documentation via "Run on Apify" links. |
 | [Keywords Extractor](https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8) | ⭐️ 4.78 (2) | Use our free website keyword extractor to crawl any website and extract keyword counts on each page. |
 | [Qdrant Integration](https://apify.com/apify/qdrant-integration?fpr=hs6s8) | ⭐️ 4.66 (2) | Transfer data from Apify Actors to a Qdrant vector database. |
@@ -98,7 +98,7 @@
 | [Mixnet-paper-scraper](https://apify.com/bikrambiswas/mixnet-paper-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Scrapes academic papers on Mixnet, Nym, and privacy technology from arXiv and verified research sources. Filters by keyword and year. Returns title, authors, abstract, publication year, and PDF links. Perfect for privacy researchers and developers. Uses arXiv API with fallback Nym papers. |
 | [Webpage Singer 🎶](https://apify.com/josef.prochazka/webpage-singer?fpr=hs6s8) | ⭐️ 5.0 (1) | Ever wondered what a website would sound like as a song? This Actor takes any webpage, turns its content into lyrics, and transforms it into a track in your favorite genre. Just drop in a URL, pick a style, and let the AI do the rest. |
 | [Article Text Extractor](https://apify.com/mtrunkat/article-text-extractor?fpr=hs6s8) | ⭐️ 5.0 (1) | Simply extracts article texts and other meta info from the given URL. Uses https://github.com/ageitgey/node-unfluff which is a NodeJS implementation of https://github.com/grangier/python-goose. |
-| [Actor Testing](https://apify.com/pocesar/actor-testing?fpr=hs6s8) | ⭐️ 4.99 (1) | Test your actors with varying inputs and expected outputs, duplicates, bad output fields, or unexpected log messages using Jasmine |
+| [Actor Testing](https://apify.com/pocesar/actor-testing?fpr=hs6s8) | ⭐️ 5.0 (1) | Test your actors with varying inputs and expected outputs, duplicates, bad output fields, or unexpected log messages using Jasmine |
 | [Linkedin Email Scraper](https://apify.com/bhansalisoft/linkedin-email-scraper?fpr=hs6s8) | ⭐️ 1.7 (4) | Linkedin Email Scraper- Scrap Emails from linkedin specific profile using google search engine |
 | [Instagram Followers Scrapper](https://apify.com/mohamedgb00714/instagram-followers-scrapper?fpr=hs6s8) | ⭐️ 2.4 (2) | Extract ONLY Instagram follower data at 500+ users/min. Proxy support, human behavior simulation, configurable pagination. Ideal for focused market research. |
 | [Kickstarter Scraper](https://apify.com/qbie/kickstarter-scraper?fpr=hs6s8) | ⭐️ 4.0 (1) | Search Kickstarter projects based on your selected criteria and get structured data on matching projects. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed. Forked from misceres/kickstarter-search. |
@@ -832,6 +832,7 @@
 | [Anti Captcha](https://apify.com/petr_cermak/anti-captcha?fpr=hs6s8) |  |  |
 | [Github Issues Tracker](https://apify.com/lukaskrivka/github-issues-to-spreadsheet?fpr=hs6s8) |  | Collect all open issues from GitHub repositories across multiple accounts and upload them to your spreadsheet. Make teams more productive with efficient issue tracking and never miss one. |
 | [Error Messages Deduplication](https://apify.com/petrpatek/get-debug-items-from-dataset?fpr=hs6s8) |  | Filter items from the dataset with `#debug` fieldName and saves them to the dataset and deduplicates `errorMessages` so you don't have to go through all the errors. |
+| [Taiwan Listed Companies — Quarterly Financials](https://apify.com/quiet_dictionary/taiwan-mops-financial-statements?fpr=hs6s8) |  | Fetch quarterly income statements, balance sheets, and cash flow statements for every TWSE/OTC-listed Taiwanese company — translated into English with typed numeric fields. Data sourced directly from Taiwan's official financial disclosure system (MOPS), updated each quarter. |
 
 ---
 
