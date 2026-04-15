@@ -27,7 +27,7 @@
     "id": "KLCcCF6cMJMden8ZD",
     "name": "Reddit MCP Scraper",
     "description": "Unified Reddit scraper supporting 3 modes: (1) Subreddit posts with content extraction, (2) Post comments with threading, (3) User profiles with metadata. Extract comprehensive data including scores, timestamps, flairs, NSFW flags, and more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlerbros/reddit-mcp-scraper?fpr=hs6s8"
   },
@@ -67,7 +67,7 @@
     "id": "jzGXL39AgmD19Ul2d",
     "name": "Markdownify MCP Server",
     "description": "Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8"
   },
@@ -96,14 +96,6 @@
     "url": "https://apify.com/the.beast/workflow-orchestrator?fpr=hs6s8"
   },
   {
-    "id": "GIAYjuencvjJbAPvN",
-    "name": "Fast Google Search Results Scraper",
-    "description": "Paste keywords in bulk → get clean, clickable URLs.\nThis ultra-lightweight Google SERP scraper is built for non-technical teams who need links fast for lead prospecting and market research. No giant payloads, no complex setup",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/6sigmag/fast-google-search-results-scraper?fpr=hs6s8"
-  },
-  {
     "id": "pP89MLYlHpenyYt5Y",
     "name": "Domain Availability, Expiry, WHOIS, DNS, IP, ASN, 70+ TLD",
     "description": "Domain availability and expiry dates, WHOIS & RDAP data,  DNS (A, MX, NS, TXT),  IP geolocation and ASN details, calculates domain age, and supports batch processing. Supports 70+ TLDs, handles errors gracefully, and delivers clean, structured JSON output.",
@@ -120,10 +112,18 @@
     "url": "https://apify.com/cheapget/telegram-group-member?fpr=hs6s8"
   },
   {
+    "id": "GIAYjuencvjJbAPvN",
+    "name": "Fast Google Search Results Scraper",
+    "description": "Paste keywords in bulk → get clean, clickable URLs.\nThis ultra-lightweight Google SERP scraper is built for non-technical teams who need links fast for lead prospecting and market research. No giant payloads, no complex setup",
+    "rating": 4.999999999999999,
+    "rating_count": 4,
+    "url": "https://apify.com/6sigmag/fast-google-search-results-scraper?fpr=hs6s8"
+  },
+  {
     "id": "aUz1Rf2n45CuHvStY",
     "name": "HTML/Website Media Scraper",
     "description": "The Advanced Website Media Extractor & Scraper is a comprehensive media extraction tool that supports images, videos, audio, documents, archives, e-books, fonts, apps, and contact information from websites. Features advanced filtering, proxy support, and detailed analytics.",
-    "rating": 4.878251003332616,
+    "rating": 4.878251003332617,
     "rating_count": 4,
     "url": "https://apify.com/hlymrk/html-web-media-scraper?fpr=hs6s8"
   },
@@ -155,7 +155,7 @@
     "id": "TpLqaxMYSJzwVnXoj",
     "name": "Telegram Channel Message",
     "description": "Extract Telegram messages, reactions, and media from channels and groups. Includes forward chain tracking, sender metadata, service events, and date-range filters",
-    "rating": 4.466406482483417,
+    "rating": 4.466406482483416,
     "rating_count": 3,
     "url": "https://apify.com/cheapget/telegram-channel-message?fpr=hs6s8"
   },
@@ -195,7 +195,7 @@
     "id": "dJWj757pVx5untEuq",
     "name": "Indeed Job Search",
     "description": "Automate your job search data collection with the Indeed Jobs Scraper. Extract detailed job postings, company reviews, and salary information from Indeed efficiently.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/indeed-job-search?fpr=hs6s8"
   },
@@ -219,7 +219,7 @@
     "id": "u0sG3Wiy5pdt9mIfU",
     "name": "Email Verifier & Validator | Bulk Deliverability Check",
     "description": "Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean email lists to reduce bounce rates.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/michael.g/email-verifier-validator?fpr=hs6s8"
   },
@@ -427,7 +427,7 @@
     "id": "MnjGHMSrTj6BdgQv0",
     "name": "Google Keyword  Scraper ( With SEO Metrics )",
     "description": "Discover keyword ideas instantly, scrapes Google autocomplete, expands with similar keywords, and adds SEO metrics.",
-    "rating": 2.146029324881515,
+    "rating": 2.146029324881516,
     "rating_count": 2,
     "url": "https://apify.com/dxbear/google-keyword-scraper?fpr=hs6s8"
   },
@@ -1226,7 +1226,7 @@
   {
     "id": "w1i845Q4Lv4MskXc5",
     "name": "PII Detection MCP - Detect, Mask & Scan for Personal Data",
-    "description": "Real MCP server for Claude Desktop. Detect and mask personally identifiable information (PII) in text and images. GDPR/CCPA compliance tool. Local AI, zero data exposure. Connect via Standby URL.",
+    "description": "Automatically find sensitive personal information in documents. Mask or remove private data for compliance.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/pii-detection-mcp?fpr=hs6s8"
@@ -1250,7 +1250,7 @@
   {
     "id": "u10Vq9D9MnaGCKM14",
     "name": "Screenshot Analysis MCP Server — UI Analysis & Accessibility",
-    "description": "Real MCP server for Claude Desktop. Analyze UI screenshots for layout quality, visual changes, accessibility issues, extract text via OCR, and generate detailed page descriptions. Connect directly from Claude Desktop via Standby URL.",
+    "description": "Analyze website screenshots for accessibility, design quality, and user experience issues.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/screenshot-analysis-mcp?fpr=hs6s8"
@@ -1986,7 +1986,7 @@
   {
     "id": "PEsDdearYyn62tkQE",
     "name": "Audio Intelligence MCP - Transcribe, Summarize & Analyze",
-    "description": "Real MCP server for Claude Desktop. Transcribe audio to text, generate summaries, and analyze content (speakers, sentiment, topics). Powered by Whisper (MIT) + Qwen (Apache 2.0). Connect directly via Standby URL.",
+    "description": "Convert speech to text, create summaries, and extract key information from podcasts, meetings, and interviews automatically.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/audio-intelligence-mcp?fpr=hs6s8"
@@ -2802,7 +2802,7 @@
   {
     "id": "kiN167W7b2DxPgXR1",
     "name": "Image Upscale MCP - AI Super Resolution 2x/4x",
-    "description": "AI-powered image upscaling with optional face enhancement. 2x or 4x super resolution.",
+    "description": "Make blurry photos crystal clear. Upscale images to 2x or 4x resolution without losing quality.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/image-upscale-mcp?fpr=hs6s8"
@@ -2826,7 +2826,7 @@
   {
     "id": "Nbq9qxi2YT7abDWgw",
     "name": "PDF Table Extract MCP - Tables to JSON & CSV",
-    "description": "Extract tables from PDF documents and convert to structured JSON. Uses PDFium backend (Apache 2.0). No Ghostscript required.",
+    "description": "Pull tables out of PDF documents automatically. Convert to JSON or CSV for data analysis.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/table-extract-pdf-mcp?fpr=hs6s8"
@@ -3034,7 +3034,7 @@
   {
     "id": "ekmQklbezcM3IeMEG",
     "name": "Video Scene Detect MCP - Auto Chapters & Scene Analysis",
-    "description": "Detect scene changes in videos and auto-generate YouTube chapters. Powered by PySceneDetect (BSD-3-Clause). Connect directly via Standby URL for MCP integration.",
+    "description": "Automatically break videos into scenes and generate chapters. Perfect for YouTube and video platforms.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/scene-detect-mcp?fpr=hs6s8"
@@ -3114,7 +3114,7 @@
   {
     "id": "YQ39G87AQb38xmTwh",
     "name": "Meeting Notes MCP - Transcribe, Summarize & Analyze",
-    "description": "AI-powered meeting transcription, summarization with action items, and speaker analysis. Powered by Whisper + Qwen.",
+    "description": "Record meetings, automatically convert speech to text, create summaries, and generate action items.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/meeting-notes-mcp?fpr=hs6s8"
@@ -3162,7 +3162,7 @@
   {
     "id": "TtN7il1ExbqJc6PqR",
     "name": "ShippingRates — Shipping Intelligence MCP Server",
-    "description": "FREE until May 2026! 24 MCP tools for ocean shipping intelligence. D&D rates, freight, surcharges, local charges, inland haulage, port data, congestion, vessel schedules, risk scoring. Covers Maersk, MSC, CMA-CGM, Hapag-Lloyd, ONE, COSCO, ZIM, Evergreen across 158 countries.",
+    "description": "Apify-hosted ShippingRates MCP for AI agents. Trial 24 shipping intelligence tools on Apify, then move serious workflows onto the direct ShippingRates MCP, API, dashboard, and docs. Covers 7 shipping lines, 169 countries, 1,542 ports, and 14,304 verified D&D tariffs.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/vinaybhosle/shippingrates-mcp?fpr=hs6s8"
@@ -3306,7 +3306,7 @@
   {
     "id": "uuqqtfqlGL10exB7D",
     "name": "Alt Text Generator MCP",
-    "description": "AI-powered alt text generator using Qwen2.5-VL vision model. Generates WCAG-compliant alt text and detailed descriptions for images.",
+    "description": "Create clear, descriptive alt text for any image using AI. Helps visually impaired users and improves search engine rankings.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/alt-text-generator-mcp?fpr=hs6s8"
@@ -3386,7 +3386,7 @@
   {
     "id": "bWxEzEBODXknza9u0",
     "name": "Podcast Show Notes MCP - Generate Notes, Chapters & Highlights",
-    "description": "Real MCP server for Claude Desktop. Generate podcast show notes with key takeaways, timestamped chapters, and highlights. No full verbatim transcript — summary and structured insights only. Powered by Whisper (MIT) + Qwen (Apache 2.0). Connect directly via Standby URL.",
+    "description": "Create detailed show notes and chapters for podcasts automatically. Save hours of manual work.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/podcast-show-notes-mcp?fpr=hs6s8"
@@ -3418,7 +3418,7 @@
   {
     "id": "2ZsjqadtQ46vs9Z97",
     "name": "Video Caption MCP - Generate & Translate Subtitles",
-    "description": "Real MCP server for Claude Desktop. Generate captions/subtitles from user-uploaded audio/video files (SRT or VTT format) using Whisper AI. Translate existing captions to other languages. Upload your own files only — no YouTube/Vimeo/TikTok downloads. Connect directly via Standby URL.",
+    "description": "Generate captions and subtitles for videos. Automatically translate into multiple languages.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/video-caption-mcp?fpr=hs6s8"
@@ -3434,7 +3434,7 @@
   {
     "id": "NrrSkqY6eqMraE2fG",
     "name": "Subtitle Generator MCP - SRT/VTT from Audio & Video",
-    "description": "Real MCP server for Claude Desktop. Generate SRT/VTT subtitles from audio and video files, translate subtitles to any language. Whisper AI, local processing. Connect via Standby URL.",
+    "description": "Automatically generate subtitles from audio and video. Create captions for YouTube, streaming, and accessibility.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/subtitle-generator-mcp?fpr=hs6s8"
@@ -3466,7 +3466,7 @@
   {
     "id": "jCh39yppcO6WJ04FK",
     "name": "SEC Visual Analysis MCP - Chart and Table AI",
-    "description": "Real MCP server for Claude Desktop. Analyzes charts, tables, and images in SEC EDGAR filings (10-K, 10-Q, 8-K) using local AI vision. Compare charts, extract table data, detect risk indicators, and summarize visual content. Connect directly from Claude Desktop via Standby URL.",
+    "description": "Extract data from charts and tables in SEC documents. Convert visualizations to structured data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/sec-visual-analysis-mcp?fpr=hs6s8"
@@ -3474,7 +3474,7 @@
   {
     "id": "JqF0VYIXiimypps9B",
     "name": "Content Factory MCP Server — AI Content Transformation",
-    "description": "Real MCP server for Claude Desktop. Transform text into 8 content types: Q&A, reports, quizzes, flashcards, mind maps, data tables, slide decks, podcast scripts. Plus TTS audio. Connect directly from Claude Desktop via Standby URL.",
+    "description": "Transform content across formats: summarize articles, expand outlines, translate languages, and repurpose for different platforms.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/content-factory-mcp?fpr=hs6s8"
@@ -3498,7 +3498,7 @@
   {
     "id": "vB24wLAFTjJ5bwPIE",
     "name": "Vision Product Analyzer MCP - Classify, Inspect & Analyze",
-    "description": "Real MCP server for Claude Desktop. Classify product images, inspect quality for defects, and analyze products comprehensively. Powered by Qwen2.5-VL (Apache 2.0). Connect directly via Standby URL.",
+    "description": "Analyze product images automatically. Classify items, inspect quality, and detect defects.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/vision-product-analyzer-mcp?fpr=hs6s8"
@@ -3530,7 +3530,7 @@
   {
     "id": "R11wOaHaBYdcIqOGe",
     "name": "Document Intelligence MCP - OCR, Summary & Classification",
-    "description": "Real MCP server for Claude Desktop. Extract text (OCR), summarize, classify, and extract tables from document images. Powered by Qwen2.5-VL (Apache 2.0). Connect directly from Claude Desktop via Standby URL.",
+    "description": "Automatically read PDFs and documents. Extract text, create summaries, and categorize documents by type.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/document-intelligence-mcp?fpr=hs6s8"
@@ -3594,7 +3594,7 @@
   {
     "id": "hi9c6OPzPvQzi0YeF",
     "name": "Sentiment Analysis MCP - Emotion, Intent & Batch Analysis",
-    "description": "Real MCP server for Claude Desktop. Analyze text sentiment with 6 emotion dimensions, classify intent with urgency, and batch process multiple texts. Local AI, zero API costs. Connect via Standby URL.",
+    "description": "Analyze text sentiment, emotions, and intent. Rate if text is positive, negative, or neutral at scale.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/sentiment-analysis-mcp?fpr=hs6s8"
@@ -4194,7 +4194,7 @@
   {
     "id": "xT8SdI6nq03fNhm7G",
     "name": "Code Review Intelligence MCP - Review, Explain & Generate",
-    "description": "Real MCP server for Claude Desktop. Review code for bugs and security issues, explain code logic, and generate or refactor code. Powered by Qwen2.5-Coder (Apache 2.0). Connect directly via Standby URL.",
+    "description": "Get AI-powered feedback on code quality, security issues, and improvement suggestions. Explain complex code in plain English.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ntriqpro/code-review-intelligence-mcp?fpr=hs6s8"
