@@ -51,7 +51,7 @@
     "id": "mnpodfgT78RRnnnAT",
     "name": "YouTube Video Data Scraper",
     "description": "Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 26,
     "url": "https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8"
   },
@@ -99,7 +99,7 @@
     "id": "UfWh2pRz7tkJkVH16",
     "name": "Yelp Scraper",
     "description": "Extract business data, reviews, ratings, and contact information from Yelp. Search by keyword and location or scrape specific business pages",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 19,
     "url": "https://apify.com/crawlerbros/yelp-scraper?fpr=hs6s8"
   },
@@ -107,7 +107,7 @@
     "id": "20nRTxLD3a3jIlZbZ",
     "name": "Facebook Ads Scraper Pro",
     "description": "Extract Facebook Ad Library data: creatives, targeting & metrics. $0.40 = 1,000 Successful Ad scrapeds * cheaper & more complete. 📱",
-    "rating": 4.913510180139319,
+    "rating": 4.913510180139321,
     "rating_count": 19,
     "url": "https://apify.com/dz_omar/facebook-ads-scraper-pro?fpr=hs6s8"
   },
@@ -184,10 +184,18 @@
     "url": "https://apify.com/crawlerbros/wikipedia-scraper?fpr=hs6s8"
   },
   {
+    "id": "c4nFVDjlngMDb3hUJ",
+    "name": "Canva Template Scraper",
+    "description": "Extract Canva template metadata including title, description, image, colors palette, fonts, size, creator, category, and breadcrumbs. Works on any public Canva template URL.",
+    "rating": 5,
+    "rating_count": 14,
+    "url": "https://apify.com/crawlerbros/canva-scraper?fpr=hs6s8"
+  },
+  {
     "id": "WdHZSibGS9YmXroTH",
     "name": "App Store Scraper",
     "description": "Scrape Apple App Store search results and app details using the public iTunes API. Extract app name, rating, reviews, price, developer info, screenshots, and more.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 14,
     "url": "https://apify.com/crawlerbros/appstore-scraper?fpr=hs6s8"
   },
@@ -195,17 +203,9 @@
     "id": "U1Mx2FXyLakosdgo5",
     "name": "OSINT Scraper",
     "description": "Search paste sites and code sharing platforms (Pastebin, GitHub Gist, Ideone, Paste.org, Textbin) for leaked keywords, credentials, and sensitive data using Google SERP-based discovery.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 14,
     "url": "https://apify.com/crawlerbros/osint-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "c4nFVDjlngMDb3hUJ",
-    "name": "Canva Template Scraper",
-    "description": "Extract Canva template metadata including title, description, image, colors palette, fonts, size, creator, category, and breadcrumbs. Works on any public Canva template URL.",
-    "rating": 5,
-    "rating_count": 14,
-    "url": "https://apify.com/crawlerbros/canva-scraper?fpr=hs6s8"
   },
   {
     "id": "gFtgG31RZJYlphznm",
@@ -216,20 +216,20 @@
     "url": "https://apify.com/web_wanderer/amazon-reviews-extractor?fpr=hs6s8"
   },
   {
-    "id": "Z4sywsKElwDI1VWWv",
-    "name": "Google Search Results Scraper",
-    "description": "Scrape Google SERP data at scale. Get thousands of results including titles, links, snippets, knowledge graph data, related search terms, People Also Ask, and more. Export to JSON, CSV, Excel. A reliable Google Search API alternative for SEO, keyword research, and competitor analysis.",
-    "rating": 5,
-    "rating_count": 13,
-    "url": "https://apify.com/datarava/google-search-results-scraper?fpr=hs6s8"
-  },
-  {
     "id": "n2eZb8PjtHDlpMKWv",
     "name": "Bing Search Scraper",
     "description": "Scrape Bing search results. Extract titles, URLs, descriptions, and snippets for any search query with market/language targeting.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/crawlerbros/bing-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Z4sywsKElwDI1VWWv",
+    "name": "Google Search Results Scraper",
+    "description": "Scrape Google SERP data at scale. Get thousands of results including titles, links, snippets, knowledge graph data, related search terms, People Also Ask, and more. Export to JSON, CSV, Excel. A reliable Google Search API alternative for SEO, keyword research, and competitor analysis.",
+    "rating": 4.999999999999999,
+    "rating_count": 13,
+    "url": "https://apify.com/datarava/google-search-results-scraper?fpr=hs6s8"
   },
   {
     "id": "FK9vCzb6beu6SZ2Tj",
@@ -243,7 +243,7 @@
     "id": "Kb4wPJu4Re5u7iFLU",
     "name": "Facebook Ads Url Parser",
     "description": "Copy any Facebook Ad Library URL and instantly extract ads data.\nNo setup, no filters to configure just paste the URL and run",
-    "rating": 4.647608502009226,
+    "rating": 4.647608502009227,
     "rating_count": 14,
     "url": "https://apify.com/dz_omar/facebook-ads-url?fpr=hs6s8"
   },
@@ -259,7 +259,7 @@
     "id": "XVF1TlI7sEYsysN7c",
     "name": "Bluesky Posts Scraper 🌐📊",
     "description": "Easily gather data about posts from Bluesky 🌐. Enter a keyword to retrieve key info like post content, author name, profile URL, avatar image, and engagement metrics 🔍. Seamlessly integrate with tools like Google Drive, Zapier, & more 🔗 to streamline your workflow & boost productivity! ⚡",
-    "rating": 4.767220876346339,
+    "rating": 4.76722087634634,
     "rating_count": 13,
     "url": "https://apify.com/scrapestorm/bluesky-posts-scraper?fpr=hs6s8"
   },
@@ -275,7 +275,7 @@
     "id": "yUvj8W0M4T0HhZKyA",
     "name": "Semrush Scraper",
     "description": "Extract enterprise-level SEO data from Semrush including domain authority, traffic analytics, keyword rankings, backlink profiles, trending sites & competitor insights. Supports bulk analysis with historical trends. Download as CSV, JSON, Excel, XML & more.",
-    "rating": 4.915970396328911,
+    "rating": 4.915970396328912,
     "rating_count": 12,
     "url": "https://apify.com/radeance/semrush-scraper?fpr=hs6s8"
   },
@@ -307,7 +307,7 @@
     "id": "5vA8G3k1KezFKjtde",
     "name": "Google Scholar Scraper",
     "description": "Scrape academic papers, articles, and citations from Google Scholar. Search by keywords with filters for year range, document type, sort order, and article type. Extract titles, authors, citations, links, and more.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 10,
     "url": "https://apify.com/crawlerbros/google-scholar-scraper?fpr=hs6s8"
   },
@@ -323,7 +323,7 @@
     "id": "tnudF2IxzORPhg4r8",
     "name": "Google Images Scraper",
     "description": "Scrape image details from images.google.com. Add your query and number of images and extract image details such as image URL, image source, description, image dimensions, thumbnail, and more. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other tools.",
-    "rating": 4.452576251189254,
+    "rating": 4.452576251189255,
     "rating_count": 12,
     "url": "https://apify.com/hooli/google-images-scraper?fpr=hs6s8"
   },
@@ -379,7 +379,7 @@
     "id": "8Gic54XXaFVLfPzgj",
     "name": "Website Logo Finder – Extract Logos from Any URL",
     "description": "Easily find and extract logos from any website URL. This tool helps you instantly get brand logos for websites—perfect for marketing, research, design, and automation tasks.",
-    "rating": 4.699542472334155,
+    "rating": 4.699542472334154,
     "rating_count": 9,
     "url": "https://apify.com/coder_luffy/website-logo-finder?fpr=hs6s8"
   },
@@ -387,7 +387,7 @@
     "id": "c354GeIfPbpfryNzN",
     "name": "Google Search Results Scraper",
     "description": "Scrape Google Search result pages (SERPs) and extract structured data: organic results, paid ads, related queries, and People Also Ask. Supports country/language targeting, time filters, pagination, and CSV-friendly output.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/google-search-results-scraper?fpr=hs6s8"
   },
@@ -419,7 +419,7 @@
     "id": "y3x2armdp8rJTe1Qg",
     "name": "Google Images Scraper",
     "description": "Google Images Scraper collects image URLs, alt text, source pages, and metadata from Google Images. Use it as an API, with Python or Node.js, or via npm. Ideal for datasets, AI training, research, and automation. Exports in JSON, CSV, or Excel.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/scraper-engine/google-images-scraper?fpr=hs6s8"
   },
@@ -443,7 +443,7 @@
     "id": "vX4OyUdqIoP3jYWBU",
     "name": "YouTube Full Channel,Playlists,Shorts,Live...",
     "description": "Extracts metadata and scripts from all YT content, identifying smart keywords like #hashtags and @channelnames. It supports playlists, shorts, live, podcasts, courses, channels, videos, and batch requests.",
-    "rating": 4.971783052448416,
+    "rating": 4.971783052448417,
     "rating_count": 8,
     "url": "https://apify.com/dz_omar/Youtube-Scraper-Pro?fpr=hs6s8"
   },
@@ -459,7 +459,7 @@
     "id": "dOS0kffPpoDDMF9LE",
     "name": "Reddit Scraper — Posts, Comments, Search & AI Answers",
     "description": "The only Reddit scraper with AI Answers + TLS fingerprinting. Scrape posts, comments, search results & subreddits. No API key, no login. AI-ready JSON output. 6 actions in 1   Actor. Browser-grade anti-detection. Parallel comment fetching. $5/1k posts.",
-    "rating": 4.875216953986963,
+    "rating": 4.875216953986964,
     "rating_count": 8,
     "url": "https://apify.com/openclawai/reddit-deep-scraper?fpr=hs6s8"
   },
@@ -467,15 +467,39 @@
     "id": "YcEbOuZR2CaxXznyD",
     "name": "Google Maps Scraper",
     "description": "Effortlessly gather places data from Google Maps using our advanced scraper. Search by keyword or location, retrieve reviews, and analyze insights for informed decisions. Fast, customizable, and reliable. Get valuable location information with ease.",
-    "rating": 3.390402704946016,
+    "rating": 3.390402704946017,
     "rating_count": 14,
     "url": "https://apify.com/epctex/google-maps-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "7lYFx41I8vv371L9D",
+    "name": "Tiktok Hashtag Scraper",
+    "description": "Experience the power of our state-of-the-art TikTok scraper, meticulously designed to fetch videos, hashtags, shares, followers, hearts, names, posts, URLs, and music data. Obtain comprehensive insights with ease, and choose your preferred data format: be it HTML, JSON, CSV, Excel, or XML.",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/epctex/tiktok-hashtag-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "wpqSEeXTWl7qdQVEW",
+    "name": "🏯 Urbandictionary Scraper",
+    "description": "Introducing the Urban Dictionary Scraper, your ultimate tool for diving into the world of contemporary slang, memes, and expressions! With this user-friendly and versatile scraper, you can effortlessly search for any keyword and retrieve a treasure trove of definitions.",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/apidojo/urbandictionary-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "FU5kPkREa2rdypuqb",
+    "name": "Ultimate Screenshot",
+    "description": "🚀 Capture ANY website as HD screenshots, videos, or PDFs! 📸 100+ device presets (iPhone, Android, tablets). Perfect for web scraping, monitoring, testing & marketing. Export as PNG/JPEG/PDF/MP4/GIF. Fast, reliable, proxy-ready. Try FREE now!",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/dz_omar/ultimate-screenshot?fpr=hs6s8"
   },
   {
     "id": "TtddA9bvLVJo8vE7K",
     "name": "Website Links Graph Generator",
     "description": "Creates an oriented graph visualizing links between webpages. Outputs: graph.png (visual network diagram) and graph.json (structured data) saved to Key-Value Store, plus detailed dataset of all crawled pages. Configure depth, boundaries, and layout.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/web-link-graph-visualizer?fpr=hs6s8"
   },
@@ -496,22 +520,6 @@
     "url": "https://apify.com/onescales/bulk-qr-codes?fpr=hs6s8"
   },
   {
-    "id": "7lYFx41I8vv371L9D",
-    "name": "Tiktok Hashtag Scraper",
-    "description": "Experience the power of our state-of-the-art TikTok scraper, meticulously designed to fetch videos, hashtags, shares, followers, hearts, names, posts, URLs, and music data. Obtain comprehensive insights with ease, and choose your preferred data format: be it HTML, JSON, CSV, Excel, or XML.",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/epctex/tiktok-hashtag-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "wpqSEeXTWl7qdQVEW",
-    "name": "🏯 Urbandictionary Scraper",
-    "description": "Introducing the Urban Dictionary Scraper, your ultimate tool for diving into the world of contemporary slang, memes, and expressions! With this user-friendly and versatile scraper, you can effortlessly search for any keyword and retrieve a treasure trove of definitions.",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/apidojo/urbandictionary-scraper?fpr=hs6s8"
-  },
-  {
     "id": "z1uitnWXLWADvk0zg",
     "name": "Web Crawler & Semantic Schema-Enhanced Extractor",
     "description": "Depth-controlled web crawler that transforms websites into structured analytics-ready data. Starting from one or more URLs, it crawls internal links up to a configurable depth and outputs detailed JSON records per page",
@@ -523,7 +531,7 @@
     "id": "sfJFjHmxOg0WnfvYI",
     "name": "Bulk Image Downloader",
     "description": "The Bulk Image Downloader is a powerful Apify actor that extracts and downloads images from web pages or processes direct image URLs in bulk. Whether you need to download a single image or thousands of images from multiple websites, this tool handles it all efficiently.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/onescales/bulk-image-downloader?fpr=hs6s8"
   },
@@ -534,14 +542,6 @@
     "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/epctex/similarweb-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "FU5kPkREa2rdypuqb",
-    "name": "Ultimate Screenshot",
-    "description": "🚀 Capture ANY website as HD screenshots, videos, or PDFs! 📸 100+ device presets (iPhone, Android, tablets). Perfect for web scraping, monitoring, testing & marketing. Export as PNG/JPEG/PDF/MP4/GIF. Fast, reliable, proxy-ready. Try FREE now!",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/dz_omar/ultimate-screenshot?fpr=hs6s8"
   },
   {
     "id": "0agGNDsYzPJbAje8T",
@@ -563,7 +563,7 @@
     "id": "z1gFGf2V4VIGcxaSk",
     "name": "ImportYeti Trade Intelligence Scraper",
     "description": "Scrape US import/export trade data from ImportYeti: companies, suppliers, shipments, top trading partners, trademarks, countries, and shipment recency. HTTP-only, no login, no proxy.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/importyeti-scraper?fpr=hs6s8"
   },
@@ -571,7 +571,7 @@
     "id": "yZveMqchfKfvzcssk",
     "name": "Thomasnet Suppliers Scraper",
     "description": "Scrape B2B supplier company profiles from Thomasnet.com (industrial manufacturers, machinists, distributors).",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/thomasnet-suppliers-scraper?fpr=hs6s8"
   },
@@ -579,7 +579,7 @@
     "id": "k1SSpTlzV44fyzapx",
     "name": "SEMrush Free Website Stats Scraper",
     "description": "Scrape SEMrush public website overview (Authority Score, Visits, Referring Domains, Backlinks) from semrush.com/website/. HTTP-only, no login, no proxy.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/semrush-scraper?fpr=hs6s8"
   },
@@ -587,7 +587,7 @@
     "id": "L8sgvOPs0Ucu1QLy7",
     "name": "Dentist & Healthcare Provider Lead Scraper",
     "description": "Scrape dentist, doctor, clinic, orthodontist, and other healthcare provider leads from Google Maps. Enriches each lead with emails and social media profiles via website crawl.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/dentist-lead-scraper?fpr=hs6s8"
   },
@@ -595,7 +595,7 @@
     "id": "5w3arkcMy3Jwd4zuc",
     "name": "Website Contact Finder",
     "description": "Crawl any website and extract emails, phone numbers, and social media profiles. Smart prioritisation of /contact, /about, /team pages. HTTP-only, no browser.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/crawlerbros/website-contact-finder?fpr=hs6s8"
   },
@@ -632,20 +632,20 @@
     "url": "https://apify.com/tri_angle/similarweb-scraper?fpr=hs6s8"
   },
   {
+    "id": "2pMMmZz0N610HIloR",
+    "name": "URL to BibTeX Converter",
+    "description": "Convert any URL (academic papers, articles, books, web pages) to properly formatted BibTeX citations. Automatically extracts metadata from arXiv, PubMed, IEEE, ACM, and general web pages. Supports multiple citation types.",
+    "rating": 5.000000000000001,
+    "rating_count": 6,
+    "url": "https://apify.com/crawlerbros/url-to-bibtex-converter?fpr=hs6s8"
+  },
+  {
     "id": "VOjoxywiTbdQoe4lu",
     "name": "TripAdvisor Reviews Scraper",
     "description": "Effortlessly extract chosen places on Tripadvisor. Extract the review text, URL, rating, date of travel, published date, basic reviewer info, owner's response, helpful votes, images, review language, place details. Download reviews in XML, JSON, CSV.",
     "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/crucial_binoculars/TripAdvisor-Reviews-Scraper?fpr=hs6s8"
-  },
-  {
-    "id": "2pMMmZz0N610HIloR",
-    "name": "URL to BibTeX Converter",
-    "description": "Convert any URL (academic papers, articles, books, web pages) to properly formatted BibTeX citations. Automatically extracts metadata from arXiv, PubMed, IEEE, ACM, and general web pages. Supports multiple citation types.",
-    "rating": 5,
-    "rating_count": 6,
-    "url": "https://apify.com/crawlerbros/url-to-bibtex-converter?fpr=hs6s8"
   },
   {
     "id": "I4F3OfghlbcbwlsgT",
@@ -683,7 +683,7 @@
     "id": "NhPFybfZbHGsFcbuG",
     "name": "💙 Ultimate Facebook Ads Library Scraper 💙",
     "description": "🚀#1 Ultimate Facebook Ads Scraper 💙 Fast, professional extraction for competitive intelligence. Get ad creatives, status & more from FB Pages or Search URLs. Get deep audience demographics (age/gender), reach metrics & much more! High-velocity, enterprise-grade scraping and costs pennies!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/ultimate-facebook-ads-library-scraper?fpr=hs6s8"
   },
@@ -691,7 +691,7 @@
     "id": "V8SFJw3gKgULelpok",
     "name": "Google Search Scraper",
     "description": "Boost SEO with our tool! Explore organic & paid results, People Also Ask, and Related Queries. Select countries, languages, and precise locations for tailored insights.",
-    "rating": 3.116939656769791,
+    "rating": 3.11693965676979,
     "rating_count": 12,
     "url": "https://apify.com/epctex/google-search-scraper?fpr=hs6s8"
   },
@@ -715,25 +715,25 @@
     "id": "yGieNbIOqrfpQKRAN",
     "name": "Google Search Results Scraper (SERP)",
     "description": "SERP - Google Search Scraper with unbeatable pricing! $0.002/query gets you 10 results FREE + $0.0002/extra item. Event-based billing = pay only for what you need. Ideal for SEO monitoring, keyword research & market analysis. No proxy required!",
-    "rating": 3.227501616435826,
+    "rating": 3.227501616435827,
     "rating_count": 10,
     "url": "https://apify.com/apidojo/google-search-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "a9FRBeCzGmdKRb944",
-    "name": "Youtube Scraper",
-    "description": "Extract full public YouTube channel data including subscribers, views, videos, verification status, country, business email availability, descriptions, profile images, and social links in clean structured format.",
-    "rating": 5,
-    "rating_count": 5,
-    "url": "https://apify.com/knutty_xanadu/youtube-scraper?fpr=hs6s8"
   },
   {
     "id": "X1hcO2DDL89v1ScMC",
     "name": "Youtube Comments Scraper",
     "description": "YouTube Comments Scraper extracts comments from any public YouTube video or channel. Gather usernames, timestamps, likes, replies, and full comment text. Ideal for sentiment analysis, audience research, or content insights. Export clean structured data in JSON, CSV, or Excel.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/scraper-engine/youtube-comments-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "a9FRBeCzGmdKRb944",
+    "name": "Youtube Scraper",
+    "description": "Extract full public YouTube channel data including subscribers, views, videos, verification status, country, business email availability, descriptions, profile images, and social links in clean structured format.",
+    "rating": 4.999999999999999,
+    "rating_count": 5,
+    "url": "https://apify.com/knutty_xanadu/youtube-scraper?fpr=hs6s8"
   },
   {
     "id": "yzajVNNlRgva1QBU4",
@@ -747,7 +747,7 @@
     "id": "y7gc70pJD81ubH2I9",
     "name": "Yandex | Scrape Yandex Search Results at Scale",
     "description": "The ONLY Apify Actor specifically designed for Yandex search scraping. Perfect for researchers, marketers, and developers who need reliable access to Yandex search results. Supports 15+ domains, 19 languages, and provides clean, structured data extraction with intelligent pagination.",
-    "rating": 4.432358590738576,
+    "rating": 4.432358590738575,
     "rating_count": 5,
     "url": "https://apify.com/johnvc/Scrape-Yandex?fpr=hs6s8"
   },
@@ -755,7 +755,7 @@
     "id": "IOrPh0bOfzJiGxsvk",
     "name": "✨ Google Images Scraper",
     "description": "⚡️ Blazing-fast Google Images Scraper. Fetch image URLs, alt-text & titles by keyword in seconds. Delivers clean JSON for AI training, visual research, and automated content pipelines.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/damilo/google-images-scraper?fpr=hs6s8"
   },
@@ -763,7 +763,7 @@
     "id": "uQFNgLIkBNzwryLqD",
     "name": "Pitches Pro",
     "description": "Create pitch templates for your startup, product, partnership, or idea. Input your goals to get 30 variations across 6 channels (email, social DMs, website, elevator pitch, LinkedIn, etc.) - all optimized for conversion. Perfect for pitching anything you want to grow for your business or personal.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/onescales/pitches-pro?fpr=hs6s8"
   },
@@ -771,7 +771,7 @@
     "id": "FOFLwhGcJyDatO1JQ",
     "name": "Shopify AppStore Apps and Reviews Scraper",
     "description": "A powerful Apify Actor designed to extract comprehensive data from the Shopify App Store. This scraper can discover all available apps, collect detailed application information, and extract user reviews from any Shopify app, making it perfect for market research, and competitor analysis.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/appmarketdata/shopify-appstore-apps-and-reviews-scraper?fpr=hs6s8"
   },
@@ -779,7 +779,7 @@
     "id": "Ydn4maFhCW1LSS9Y7",
     "name": "Google Search Scraper",
     "description": "Extract structured Google results across Search, Images, Videos, Places, Maps, News, Shopping, Scholar, Autocomplete, and Patents. Supports query/category batching, localization, pagination, retries, and clean dataset output.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/api-ninja/google-search-scraper?fpr=hs6s8"
   },
@@ -787,7 +787,7 @@
     "id": "pP89MLYlHpenyYt5Y",
     "name": "Domain Availability, Expiry, WHOIS, DNS, IP, ASN, 70+ TLD",
     "description": "Domain availability and expiry dates, WHOIS & RDAP data,  DNS (A, MX, NS, TXT),  IP geolocation and ASN details, calculates domain age, and supports batch processing. Supports 70+ TLDs, handles errors gracefully, and delivers clean, structured JSON output.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/datascoutapi/DomainDaddy?fpr=hs6s8"
   },
@@ -819,7 +819,7 @@
     "id": "YGyLcwY7L1nVPhhAV",
     "name": "Similarweb Scraper : Traffic, Rankings & Competitors",
     "description": "Extract traffic estimates, global rankings, engagement metrics, and competitor data from any domain, fast, reliable, and block-resistant.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/just_scrape/similarweb-advanced-scraper?fpr=hs6s8"
   },
@@ -843,7 +843,7 @@
     "id": "nWhM7vTPu16lcwuIg",
     "name": "Google Trends Scraper FAST",
     "description": "Get instant access to 🔥 daily trending searches by country and analyze Google Trends keyword search trends. This ultimate API alternative gives developers and data scientists programmatic access to Google Trends data without limitations.",
-    "rating": 4.882045380583565,
+    "rating": 4.882045380583566,
     "rating_count": 4,
     "url": "https://apify.com/data_xplorer/google-trends-fast-scraper?fpr=hs6s8"
   },
@@ -851,7 +851,7 @@
     "id": "aUz1Rf2n45CuHvStY",
     "name": "HTML/Website Media Scraper",
     "description": "The Advanced Website Media Extractor & Scraper is a comprehensive media extraction tool that supports images, videos, audio, documents, archives, e-books, fonts, apps, and contact information from websites. Features advanced filtering, proxy support, and detailed analytics.",
-    "rating": 4.878251003332617,
+    "rating": 4.878251003332616,
     "rating_count": 4,
     "url": "https://apify.com/hlymrk/html-web-media-scraper?fpr=hs6s8"
   },
@@ -867,7 +867,7 @@
     "id": "5ylQCrmemlwHpSCwO",
     "name": "(New) Best Website Traffic Generator",
     "description": "Draw targeted traffic to your websites, mimic real user behaviour and view their stats on Google analytics. Auto discover links on the page and crawl the entire websites in few minutes while giving you complete control. Use the tool to generate page views, stress test the website.",
-    "rating": 3.633820957996837,
+    "rating": 3.633820957996838,
     "rating_count": 6,
     "url": "https://apify.com/harshmaur/website-traffic-generator?fpr=hs6s8"
   },
@@ -883,7 +883,7 @@
     "id": "LmsGue7uLdsQlhwV7",
     "name": "Traffic Booster! 🚀",
     "description": "The solution if you need quick web traffic! quickly get some more visits to test your new google analytics layout, or add some extra views to a webpage to look more professional! Traffic booster does it all!",
-    "rating": 4.422961367935882,
+    "rating": 4.422961367935881,
     "rating_count": 4,
     "url": "https://apify.com/bluebird/traffic-generator?fpr=hs6s8"
   },
@@ -955,7 +955,7 @@
     "id": "ftKm2bcovx3Np2xmY",
     "name": "Google Forums API",
     "description": "Extract forum threads, Q&A, and community discussions from Google Search’s \"Forums\" tab. Supports 40+ countries, custom localization (GL/HL), and pagination. Get structured JSON data from Reddit, LinkedIn, Quora, and niche forums for sentiment analysis, market research, or AI training.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/google-forums-search-api?fpr=hs6s8"
   },
@@ -1019,7 +1019,7 @@
     "id": "7l60rxAJrJCxb86qJ",
     "name": "Perplexity 2.0",
     "description": "Our advanced API, powered by AI, enables seamless Google、Bing、Wiki... data search and analysis, transforming raw data into actionable insights. It streamlines data retrieval for market research and trend tracking, enhancing decision-making accuracy across diverse industries.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/winbayai/perplexity-2-0?fpr=hs6s8"
   },
@@ -1051,7 +1051,7 @@
     "id": "amgczT0ze0g2ngFl9",
     "name": "Google Trends Scraper",
     "description": "Scrape Google Trends data for any keyword. Extract Interest Over Time (0–100), Related Topics, and Related Queries. Supports country/region targeting, custom time ranges (past hour to 2004–present), and category filtering for accurate trend insights.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/google-trends-scraper?fpr=hs6s8"
   },
@@ -1075,7 +1075,7 @@
     "id": "F1ITW3XNjGuy7ZzcM",
     "name": "✨ Google Shopping Scraper",
     "description": "⚡ Lightning-fast Google Shopping scraper that captures live product listings straight from Google’s Shopping tab. Extract prices, ratings, sellers, availability, images and  more—fully localized by keyword, language, and country with automatic pagination. Ideal for e-commerce price monitoring...",
-    "rating": 4.527829971212595,
+    "rating": 4.527829971212596,
     "rating_count": 3,
     "url": "https://apify.com/damilo/google-shopping-apify?fpr=hs6s8"
   },
@@ -1083,7 +1083,7 @@
     "id": "Wp7dqFe9caZ8pMcYY",
     "name": "Pinterest Keyword Autocomplete Scraper",
     "description": "The Pinterest Keyword Autocomplete Scraper is an essential tool for discovering keyword suggestions on Pinterest. By providing dynamic autocomplete options based on user input, it enhances the search experience and helps users find the content they’re looking for more effectively! 🌟",
-    "rating": 4.390960941018238,
+    "rating": 4.390960941018239,
     "rating_count": 3,
     "url": "https://apify.com/easyapi/pinterest-keyword-autocomplete-scraper?fpr=hs6s8"
   },
@@ -1091,7 +1091,7 @@
     "id": "LyXcAGTiFNWjgv4bP",
     "name": "Google Keyword Planner MCP",
     "description": "A comprehensive Google Keyword Planner MCP Actor that provides keyword research, search volume analysis, and location-based targeting using Google's official data. Ideal for SEO professionals, digital marketers, and content creators seeking data-driven keyword strategies.",
-    "rating": 2.817137838838777,
+    "rating": 2.817137838838776,
     "rating_count": 6,
     "url": "https://apify.com/smacient/google-keyword-planner-mcp?fpr=hs6s8"
   },
@@ -1107,7 +1107,7 @@
     "id": "CmTM2s642JFhpBbOi",
     "name": "Instagram Profile Scraper 🔥🔥",
     "description": "Efficiently extract instagram profiles",
-    "rating": 4.328495654562592,
+    "rating": 4.328495654562591,
     "rating_count": 3,
     "url": "https://apify.com/boneswill/instagram-profile-scraper?fpr=hs6s8"
   },
@@ -1115,7 +1115,7 @@
     "id": "jWD4G57HhqYY0mFhd",
     "name": "Instagram Scraper Followers / Following✅ No cookies ✅",
     "description": "Download an Instagram account’s followers or following. Input a username or array. Auto-paginates with safe delays and outputs clean JSON/CSV (id, username, name, profile link, privacy flags). Free users: limited by available run budget.\nPaid users: limited by requested results and max cost per run.",
-    "rating": 3.529645875120153,
+    "rating": 3.529645875120152,
     "rating_count": 4,
     "url": "https://apify.com/scraping_solutions/instagram-scraper-followers-following-no-cookies?fpr=hs6s8"
   },
@@ -1134,6 +1134,14 @@
     "rating": 3.805336971504579,
     "rating_count": 3,
     "url": "https://apify.com/contactminerlabs/amazon-email-scraper---advanced-cheapest-reliable?fpr=hs6s8"
+  },
+  {
+    "id": "vpZ2s6fhXgCbRVn4X",
+    "name": "Facebook Ads Library Scraper",
+    "description": "Scrape ads from Facebook Ad Library without cookies or authentication. Search by keywords or page names, filter by country, ad status, ad type, and media type. Extracts ad text, page info, media URLs, dates, CTA, landing page links, and more.",
+    "rating": 2.758641205998547,
+    "rating_count": 5,
+    "url": "https://apify.com/crawlerbros/facebook-ads-library-scraper?fpr=hs6s8"
   },
   {
     "id": "MpiXDtz9K7VIc94rz",
@@ -1163,7 +1171,7 @@
     "id": "HZnmNyCMVZTH2q34Y",
     "name": "Google Ads Scraper",
     "description": "Extract details about ads from Google Ads Transparency Centar. Scrape ad details like when it was run, ad targeting, advertiser and content of ad. Download ad data in JSON, XML, Excel format.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/ivanvs/google-ads-scraper?fpr=hs6s8"
   },
@@ -1187,7 +1195,7 @@
     "id": "A0mbiJG03dUk4EZ7S",
     "name": "Google Image Search",
     "description": "Enables users to search for images on Google based on specific keywords",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/devisty/google-image-search?fpr=hs6s8"
   },
@@ -1219,7 +1227,7 @@
     "id": "kvS9N9VhK8HacPSpG",
     "name": "Social Media and Contact Info Extractor - Gather Key Details",
     "description": "Efficiently collect essential contact information and social media profiles with our extractor tool. Ideal for building comprehensive databases, enhancing outreach strategies, and fostering connections in the digital landscape",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/dainty_screw/Social-Media-and-Contact-Info-Extractor?fpr=hs6s8"
   },
@@ -1259,7 +1267,7 @@
     "id": "f2jWZcFtNz7SeL7We",
     "name": "YouTube Transcript/Metadata Scraper 😋",
     "description": "Introducing the most comprehensive and robust YouTube metadata web scraper on Apify. Get video details, AI summary, creator/channel details, engagement statistics, transcripts, and more from YouTube videos and shorts via a single interface.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/toludare/youtube-metadata-scraper-all?fpr=hs6s8"
   },
@@ -1275,7 +1283,7 @@
     "id": "2c2kftwH6EDXARSzZ",
     "name": "Websites Traffic Generator",
     "description": "Boost your website’s visibility with realistic visits from different countries and devices. This Actor simulates natural browsing behavior using smart routing and customizable traffic patterns - no coding required.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/m3web/websites-traffic-generator?fpr=hs6s8"
   },
@@ -1355,7 +1363,7 @@
     "id": "noFTmmLJUfOoK2NHI",
     "name": "AI Markdown Maker",
     "description": "Convert any web page into clean, AI ready markdown format in seconds. Perfect for feeding content to AI models, creating documentation, or archiving web content in a portable format. In addition it intelligently parse web content, removing ads, navigation, and other clutter. Generate Markdown Today!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/onescales/bulk-ai-markdown-maker?fpr=hs6s8"
   },
@@ -1371,7 +1379,7 @@
     "id": "6PRKySwOgKDfe4LM8",
     "name": "MercadoLibre Product Detail Scraper 🛍️ - Cheap",
     "description": "Discover top MercadoLibre products with ⚡fast data extraction! Sort by 🔥 popularity, 🕒 newest listings, or 💰 price. Get key info like product specs, images, seller details & reviews. Perfect for 📊 market analysis, competitor tracking & finding 🛍️ trending items!",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/mercadolibre-product-detail-scraper---cheap?fpr=hs6s8"
   },
@@ -1387,7 +1395,7 @@
     "id": "eXJaHocUVaVeWQoBK",
     "name": "Easy IndexNow",
     "description": "Fast-track your content indexing with IndexNow. Bulk submit up to 10,000 URLs and instantly notify ChatGPT, Bing, Yandex, Naver, Seznam and Yep about your website page updates. (Simple easy indexing for search engines & SEO)",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/onescales/easy-indexnow?fpr=hs6s8"
   },
@@ -1395,7 +1403,7 @@
     "id": "b5wukW2IJZJ6hpl8d",
     "name": "Sqoosh Image Compressor",
     "description": "Optimize images for SEO with the Squoosh Actor on Apify. Batch compress, resize, and convert images to WebP, AVIF, and MozJPEG to boost site speed and Core Web Vitals. Automate high-performance image optimization for web scraping and developer workflows with ease.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/eunit/sqoosh-image-compressor?fpr=hs6s8"
   },
@@ -1411,7 +1419,7 @@
     "id": "5q5ApFrey7IKhhrAf",
     "name": "Domain Age Checker",
     "description": "Bulk domain age lookup tool. Get registration date, expiration date, and domain history for hundreds of domains at once. Supports .com, .co.uk, .io, .ai, and 100+ TLDs.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/onescales/domain-age-checker?fpr=hs6s8"
   },
@@ -1419,7 +1427,7 @@
     "id": "SzPe5jIcFPf11mHwr",
     "name": "Amazon Keywords Discovery Tool 🎯",
     "description": "🔍 Discover untapped keywords and topics in seconds! Get real-time search suggestions and insights from amazon search engines. Perfect for SEO specialists, content creators, and marketers looking to optimize their keyword strategy and uncover valuable long-tail opportunities.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/easyapi/amazon-keywords-discovery-tool?fpr=hs6s8"
   },
@@ -1427,7 +1435,7 @@
     "id": "xKhlvYGLOF7cFj3i6",
     "name": "Simple HTTP Status Code Checker",
     "description": "This Apify Actor allows you to check in bulk HTTP status codes and redirects for a list of URL's. It's a useful tool for SEO audits, website maintenance, and link checking.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/onescales/simple-http-status-code-checker?fpr=hs6s8"
   },
@@ -1451,7 +1459,7 @@
     "id": "zfaNGMX8GsylRxC29",
     "name": "Malt Profiles Scraper by query",
     "description": "Extrayez les profils freelance de Malt.fr par mots-clés. Données : nom, TJM, note, avis, projets réalisés, compétences, position dans les résultats. Pagination jusqu'à 5 pages. Idéal pour l'analyse concurrentielle et le recrutement de freelances.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shoya/malt-profile-scraper?fpr=hs6s8"
   },
@@ -1507,7 +1515,7 @@
     "id": "yuouFNJYYYlOFts5u",
     "name": "Google Maps Extractor",
     "description": "Extract business data from Google Maps fast—names, addresses, phone numbers, websites, and more. Perfect for building B2B lead lists, local SEO targeting, or sales outreach automation. Clean, structured results ready for CRM import.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scraper-engine/google-maps-extractor?fpr=hs6s8"
   },
@@ -1547,7 +1555,7 @@
     "id": "9nFFw8jWGl5Lm7BzZ",
     "name": "Advanced SEO Audit Tool - AI-Powered Insights",
     "description": "Perform end-to-end SEO, performance, UX, social media, and payment gateway analysis. Generate actionable recommendations to enhance website visibility, user experience, and ranking. Optimized for all business types with AI-driven suggestions.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/ittechinnovators/advanced-seo-audit-tool---ai-powered-insights?fpr=hs6s8"
   },
@@ -1563,7 +1571,7 @@
     "id": "f7ixP6jMowwXYSRKD",
     "name": "Trip.com Hotel Scraper",
     "description": "Crawl hotel data from Trip.com. You can search by a city, a specific hotel, or a point of interest (POI).From this actor, you can obtain basic information such as the hotel’s name and location, as well as price, currency, images, reviews, ratings, and more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shinkiro.h/trip-hotel-scraper?fpr=hs6s8"
   },
@@ -1579,7 +1587,7 @@
     "id": "fR1odQREoRbqRou29",
     "name": "Salesforce AppExchange Market Intelligence&Competitive Analysis",
     "description": "Discover, Analyze, and Export Salesforce AppExchange Apps\nThe Salesforce AppExchange Intelligence Engine is an advanced Apify Actor that automatically discovers Salesforce AppExchange applications and extracts structured metadata for market research, competitive intelligence, and ecosystem analysis.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/adinfosys-labs/salesforce-appexchange-discovery-engine---apps-reviews?fpr=hs6s8"
   },
@@ -1611,7 +1619,7 @@
     "id": "Xqo9n8tv413k7oZjl",
     "name": "Website Intelligence Analyzer (OSINT)",
     "description": "All-in-one website analysis tool. Run 30 OSINT checks on any URL — DNS, SSL, WHOIS, tech stack, security headers, email security, open ports, and more. Get a complete site profile in seconds.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/onescales/website-intelligence-analyzer-osint?fpr=hs6s8"
   },
@@ -1643,7 +1651,7 @@
     "id": "aqPbs3KeH9aD8b22w",
     "name": "SimilarWeb Fast Scraper — Website Traffic, Rankings & Analytics",
     "description": "Extract SimilarWeb data for any domain in seconds. Get traffic stats, global rankings, top keywords, traffic sources,\nAI traffic insights, and similar sites — all in one fast parallel run.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/pro100chok/similarweb-scraper?fpr=hs6s8"
   },
@@ -1651,7 +1659,7 @@
     "id": "PWXtukCP0dxJbIY8h",
     "name": "Advanced Website Crawling Actor",
     "description": "A fast and reliable scraper for any website that extracts clean HTML, Markdown, and text content. Provides clean, structured data with support for dynamic rendering, recursive sitemap discovery, SSL bypass, and easy API integration for your applications.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/techforce.global/advanced-website-crawling-actor?fpr=hs6s8"
   },
@@ -1683,7 +1691,7 @@
     "id": "NdeCRkivknDKG4RfI",
     "name": "Bing Search Scraper",
     "description": "Scrape search results from Bing.com. You can get the total number of results, organic results, paid results, people also ask, related queries and more.",
-    "rating": 4.5,
+    "rating": 4.499999999999999,
     "rating_count": 2,
     "url": "https://apify.com/tri_angle/bing-search-scraper?fpr=hs6s8"
   },
@@ -1691,7 +1699,7 @@
     "id": "s8AkVqUZB1cg8hkMu",
     "name": "Web Traffic Spike Simulator X",
     "description": "Simulates realistic web traffic spikes triggered by viral posts on X (Twitter), mimicking user engagement patterns that influence SEO and search visibility. Using this Actor produces realistic referral bursts that affect search rankings and online reach over time.",
-    "rating": 4.448656262828853,
+    "rating": 4.448656262828852,
     "rating_count": 2,
     "url": "https://apify.com/m3web/web-traffic-spike-simulator-x?fpr=hs6s8"
   },
@@ -1699,7 +1707,7 @@
     "id": "b0AZEdG2WGln6jZux",
     "name": "BBB Advanced Scraper",
     "description": "The BBB Advanced Scraper enables quick and efficient data extraction from the Better Business Bureau website. It gathers information from business profiles, providing valuable insights for reputation analysis, competitor tracking, and compliance monitoring.",
-    "rating": 4.383905739442814,
+    "rating": 4.383905739442813,
     "rating_count": 2,
     "url": "https://apify.com/piotrv1001/bbb-advanced-scraper?fpr=hs6s8"
   },
@@ -1707,7 +1715,7 @@
     "id": "9X8SkcQSE7SFyCp3u",
     "name": "URL Mapper",
     "description": "Map every link on any website in seconds. URLMapper instantly crawls a single page, returns a complete JSON of internal URLs, supports keyword filtering, and plugs straight into any Apify workflow or API so you can pre-crawl, audit SEO, or feed clean link lists into larger scrapers.",
-    "rating": 4.381996862638428,
+    "rating": 4.381996862638427,
     "rating_count": 2,
     "url": "https://apify.com/marcoet/url-mapper?fpr=hs6s8"
   },
@@ -1715,7 +1723,7 @@
     "id": "NRzGu7xR83tudau6J",
     "name": "Similarweb",
     "description": "SimilarWeb analytics for any website (public data). It's fast and costs little!",
-    "rating": 4.251136825377824,
+    "rating": 4.251136825377825,
     "rating_count": 2,
     "url": "https://apify.com/canadesk/similarweb?fpr=hs6s8"
   },
@@ -1731,7 +1739,7 @@
     "id": "434bTYc7ZZjlC3VLS",
     "name": "Amazon Search Scraper",
     "description": "This Amazon Search Scraper allows you to scrape the products on Amazon. It extracts data from Amazon search pages in structured formats such as JSON, XML, CSV, or Excel.",
-    "rating": 3.318045119631551,
+    "rating": 3.31804511963155,
     "rating_count": 2,
     "url": "https://apify.com/amazon-scraper/amazon-search-terms-scraper?fpr=hs6s8"
   },
@@ -1771,7 +1779,7 @@
     "id": "3MDNxsSfLkvWWfsES",
     "name": "SE Ranking Scraper",
     "description": "Extract SEO data from SE Ranking including domain authority, AI citations, brand visibility, keyword cpc, displayed advertisers , organic & paid traffic insights, backlink history & rank trends. Supports bulk domain analysis & multi-region data export to CSV, JSON, Excel, XML & more.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/radeance/seranking-scraper?fpr=hs6s8"
   },
@@ -1963,7 +1971,7 @@
     "id": "pHsn4UfYFDlpuzSQN",
     "name": "Content Humanizer",
     "description": "Transform AI-generated text into natural, human-like content with ease. Perfect for creators, marketers, and businesses seeking authentic, engaging, and SEO-friendly content.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/akash9078/ai-content-humanizer?fpr=hs6s8"
   },
@@ -2003,7 +2011,7 @@
     "id": "gt00A5awlaRmNFUzd",
     "name": "Twitter (X) Trends Scraper (PPE)",
     "description": "Scrape real-time Twitter/X trends from any country or city. Get top 50 trending hashtags, tweet counts, and hourly history. Ideal for social media monitoring, viral topic tracking, and market research. Fast, reliable, and supports granular location data.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/eunit/x-twitter-trends-ppe?fpr=hs6s8"
   },
@@ -2227,7 +2235,7 @@
     "id": "4CNWWNZqWdMlvnbRR",
     "name": "Website Url Keyword Extractor",
     "description": "Advanced SEO actor for deep keyword insights from any URL. Features Cloudflare bypass, hybrid scraping, and NLP-driven analysis (RAKE, TF-IDF). Extract LSI, long-tail, and commercial intent keywords. Includes e-commerce modes and visual HTML reports for competitive research and planning.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/charmed_magnolia/website-url-keyword-extractor?fpr=hs6s8"
   },
@@ -2467,7 +2475,7 @@
     "id": "7BhF4151OSrcQueku",
     "name": "HTML Scraper pro",
     "description": "The HTML Scraper Pro is a powerful tool designed to extract the HTML source code and metadata from websites. It uses advanced web scraping techniques to retrieve the full HTML content of web pages,page title and HTTP status code.This tool is ideal for data extraction, website analysis, and archiving",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapingxpert/html-scraper-pro?fpr=hs6s8"
   },
@@ -2518,22 +2526,6 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/benthepythondev/google-maps-business-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "On7JjcmzYjtHRnlCo",
-    "name": "Zendesk Multilingual Ticket Exporter",
-    "description": "Incrementally export and translate Zendesk support tickets into any language using Lingo.dev. Perfect for cross-border support analysis, AI training, and creating unified multilingual datasets.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/muhammetakkurtt/zendesk-multilingual-ticket-exporter?fpr=hs6s8"
-  },
-  {
-    "id": "XGG2snkLJyPKHamaA",
-    "name": "Amazon Search Scraper",
-    "description": "A smart scraper to extract products, prices, and ratings from Amazon search results\n\nCurrently, this tool scrapes data from the US Marketplace (amazon.com) in USD Multi-region support (UK, DE, EG, etc.) is coming soon in the next update!",
-    "rating": 5.000000000000001,
-    "rating_count": 1,
-    "url": "https://apify.com/asparagus_cocktail/amazon-scraper-selenium?fpr=hs6s8"
   },
   {
     "id": "fYulyoBoRWZ5AlSvn",
@@ -2619,7 +2611,7 @@
     "id": "vUH9LdVHsQqI3fjt4",
     "name": "Google Play Reviews Scraper",
     "description": "Scrape Google Play reviews at scale with features competitors don't offer. Perfect for sentiment analysis, competitor research, and automation workflows.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/webdatalabs/google-play-reviews-scraper?fpr=hs6s8"
   },
@@ -2627,7 +2619,7 @@
     "id": "zZmqGyd8JWH6b7nrr",
     "name": "Notion Marketplace Scraper",
     "description": "Scrape templates, categories, ratings, and creator profiles from Notion's official template marketplace. Perfect for competitive analysis, market research, creator monitoring, and discovering trending Notion templates.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/webdatalabs/notion-marketplace-scraper?fpr=hs6s8"
   },
@@ -2638,14 +2630,6 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/cryptdarkly/google-ads-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "fv5DwWyGnWIwx3NyD",
-    "name": "Similarweb Website Analytics | $20 per month",
-    "description": "Extract SimilarWeb traffic data, rankings, keywords, and competitor insights for up to 50 domains in parallel.\"",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/pro100chok/similarweb-website-analytics?fpr=hs6s8"
   },
   {
     "id": "ScmWgmLLe7cNxt7UR",
@@ -2694,14 +2678,6 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lisaakinfiieva/i18n-audit?fpr=hs6s8"
-  },
-  {
-    "id": "NAeSxrRU4eSSwNugy",
-    "name": "App Store Scraper & Localization Analyzer",
-    "description": "Find strong US apps missing French, German, Spanish, or other localizations. Scrape metadata, language support, and country-specific reviews to validate App Store opportunities before you build.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/kazkn/apple-app-store-localization-scraper?fpr=hs6s8"
   },
   {
     "id": "tMBuvIWerKDiqyggW",
@@ -2779,7 +2755,7 @@
     "id": "wpar7Jqll3fDdyLZA",
     "name": "KKday Reviews Scraper",
     "description": "KKday Review Scraper extracts product reviews from KKday pages, with support for translation, sorting by rating or recency, cutoff dates, and clean structured output for analysis, SEO, and market research.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/knagymate/kkday-reviews-scraper?fpr=hs6s8"
   },
@@ -2787,7 +2763,7 @@
     "id": "pVAAdUsAtm7ykvwi2",
     "name": "Web Summit Schedule Scraper - Cheap 🎤📊🚀🌐",
     "description": "Looking to collect real-time event sessions & speaker insights from Web Summit? 🎤🔎\n\nWith this scraper, you can extract data including session titles, tracks, stages, speakers, schedules, and direct URLs\n\nPerfect for event intelligence, networking insights & conference analytics 📊🚀",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/web-summit-schedule-scraper---cheap?fpr=hs6s8"
   },
@@ -2795,9 +2771,41 @@
     "id": "h0eRviQewswnuRKrk",
     "name": "Naver Place Reviews",
     "description": "Scrape visitor reviews, ratings & statistics from Naver Place (네이버 플레이스) — Korea's #1 local business platform. Extract korean business reviews, naver map reviews, naver place api data, south korea review analytics. Ideal for sentiment analysis & competitive intelligence.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/oxygenated_quagmire/naver-place-reviews?fpr=hs6s8"
+  },
+  {
+    "id": "GkbN2Xz8dgwflSsmM",
+    "name": "Ai SEO Content Curator",
+    "description": "The SEO Actor performs a full SEO audit for each URL, extracting key SEO metrics like titles, meta descriptions, and keywords. It also retrieves network information and integrates SEO audit data providing a comprehensive analysis stored in an organized database for further use.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/quaking_pail/ai-seo-content-markdown-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "On7JjcmzYjtHRnlCo",
+    "name": "Zendesk Multilingual Ticket Exporter",
+    "description": "Incrementally export and translate Zendesk support tickets into any language using Lingo.dev. Perfect for cross-border support analysis, AI training, and creating unified multilingual datasets.",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/muhammetakkurtt/zendesk-multilingual-ticket-exporter?fpr=hs6s8"
+  },
+  {
+    "id": "XGG2snkLJyPKHamaA",
+    "name": "Amazon Search Scraper",
+    "description": "A smart scraper to extract products, prices, and ratings from Amazon search results\n\nCurrently, this tool scrapes data from the US Marketplace (amazon.com) in USD Multi-region support (UK, DE, EG, etc.) is coming soon in the next update!",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/asparagus_cocktail/amazon-scraper-selenium?fpr=hs6s8"
+  },
+  {
+    "id": "fv5DwWyGnWIwx3NyD",
+    "name": "Similarweb Website Analytics | $20 per month",
+    "description": "Extract SimilarWeb traffic data, rankings, keywords, and competitor insights for up to 50 domains in parallel.\"",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/pro100chok/similarweb-website-analytics?fpr=hs6s8"
   },
   {
     "id": "SNpqDJRf4P2ryDrdi",
@@ -2808,12 +2816,12 @@
     "url": "https://apify.com/alien_force/netflix-search-scraper?fpr=hs6s8"
   },
   {
-    "id": "GkbN2Xz8dgwflSsmM",
-    "name": "Ai SEO Content Curator",
-    "description": "The SEO Actor performs a full SEO audit for each URL, extracting key SEO metrics like titles, meta descriptions, and keywords. It also retrieves network information and integrates SEO audit data providing a comprehensive analysis stored in an organized database for further use.",
-    "rating": 4.999999999999999,
-    "rating_count": 1,
-    "url": "https://apify.com/quaking_pail/ai-seo-content-markdown-scraper?fpr=hs6s8"
+    "id": "9Qmr7CUJ3fVH6bAmC",
+    "name": "Linkedin Employees Scraper",
+    "description": "Effortlessly gather LinkedIn URLs and names of employees in bulk. Ideal for HR and recruitment, this tool quickly provides essential contact information, simplifying talent search and networking opportunities.",
+    "rating": 1.327524255188572,
+    "rating_count": 21,
+    "url": "https://apify.com/caprolok/linkedin-employees-scraper?fpr=hs6s8"
   },
   {
     "id": "4pk0g8nqBJorlmlx9",
@@ -2822,14 +2830,6 @@
     "rating": 3.044236573534491,
     "rating_count": 2,
     "url": "https://apify.com/novi/tiktok-trend-api?fpr=hs6s8"
-  },
-  {
-    "id": "9Qmr7CUJ3fVH6bAmC",
-    "name": "Linkedin Employees Scraper",
-    "description": "Effortlessly gather LinkedIn URLs and names of employees in bulk. Ideal for HR and recruitment, this tool quickly provides essential contact information, simplifying talent search and networking opportunities.",
-    "rating": 1.327524255188572,
-    "rating_count": 21,
-    "url": "https://apify.com/caprolok/linkedin-employees-scraper?fpr=hs6s8"
   },
   {
     "id": "eNiEN4Q3ln9u1rHcf",
@@ -2928,14 +2928,6 @@
     "url": "https://apify.com/caprolok/facebook-pages-scraper?fpr=hs6s8"
   },
   {
-    "id": "vpZ2s6fhXgCbRVn4X",
-    "name": "Facebook Ads Library Scraper",
-    "description": "Scrape ads from Facebook Ad Library without cookies or authentication. Search by keywords or page names, filter by country, ad status, ad type, and media type. Extracts ad text, page info, media URLs, dates, CTA, landing page links, and more.",
-    "rating": 1.542562955157305,
-    "rating_count": 5,
-    "url": "https://apify.com/crawlerbros/facebook-ads-library-scraper?fpr=hs6s8"
-  },
-  {
     "id": "MnjGHMSrTj6BdgQv0",
     "name": "Google Keyword  Scraper ( With SEO Metrics )",
     "description": "Discover keyword ideas instantly, scrapes Google autocomplete, expands with similar keywords, and adds SEO metrics.",
@@ -2963,7 +2955,7 @@
     "id": "kbucDUaJSGeBRO9zQ",
     "name": "Google Maps Scraper",
     "description": "Enter one or more keywords and get Google Maps Information back, including Business Name, Address, Website, Business Hours, Number of Reviews and Number of Stars.",
-    "rating": 3,
+    "rating": 3.0,
     "rating_count": 1,
     "url": "https://apify.com/wisteria_banjo/google-maps-scraper?fpr=hs6s8"
   },
@@ -3147,7 +3139,7 @@
     "id": "qIYF8xI8cQh7D4QYu",
     "name": "UI/UX Auditor",
     "description": "🚀 Ultimate AI based UI/UX Auditor for Website : Comprehensive analysis covering UX/UI, performance, accessibility, SEO, mobile, conversion & tech stack. AI-powered insights with 7 analysis types. Perfect for agencies & developers!\n#ai, #ux-analysis, seo, accessibility, #performance, #web-scraping",
-    "rating": 1.219084487206302,
+    "rating": 1.219084487206301,
     "rating_count": 2,
     "url": "https://apify.com/lenient_grove/ai-ux-auditor-apify?fpr=hs6s8"
   },
@@ -3174,6 +3166,14 @@
     "rating": 1.144323909040369,
     "rating_count": 2,
     "url": "https://apify.com/leadsbrary/google-maps-email-extractor?fpr=hs6s8"
+  },
+  {
+    "id": "NAeSxrRU4eSSwNugy",
+    "name": "App Store Scraper & Localization Analyzer",
+    "description": "Find strong US apps missing French, German, Spanish, or other localizations. Scrape metadata, language support, and country-specific reviews to validate App Store opportunities before you build.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/kazkn/apple-app-store-localization-scraper?fpr=hs6s8"
   },
   {
     "id": "KBr92FKPHrongGrKN",
@@ -7218,7 +7218,7 @@
   {
     "id": "wJILhGwhAXWPfqBA2",
     "name": "Sitemap Analyzer API | sitemap.xml SEO Audit",
-    "description": "Parse nested XML sitemaps to extract exhaustive URL lists instantly. Perform automated HEAD requests to find broken links and map directory structures.",
+    "description": "Analyze sitemap.xml files for structure, freshness, broken URLs, and crawl-ready SEO insights at scale.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/taroyamada/sitemap-analyzer?fpr=hs6s8"
@@ -8954,7 +8954,7 @@
   {
     "id": "TrhJ0DJxjSP2IiuHB",
     "name": "AI Brand Visibility Monitor API | Google + Reddit Tracker",
-    "description": "Track your brand's presence across Google search results and Reddit posts. Capture exact rank deltas, competitor overlap, and platform-specific visibility scores.",
+    "description": "See whether your AI brand is appearing, climbing, or disappearing in Google and Reddit prompts, then get rank deltas, competitor overlap, and weekly action items.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/taroyamada/ai-visibility-monitor-actor?fpr=hs6s8"
@@ -9410,7 +9410,7 @@
   {
     "id": "Mkf2MMndaW7UdtuOP",
     "name": "robots.txt AI Policy Monitor | GPTBot ClaudeBot",
-    "description": "Track how domains restrict AI crawlers and LLM training bots. Parse robots.txt files to extract exact policies for GPTBot, ClaudeBot, and Google-Extended.",
+    "description": "Detect GPTBot, ClaudeBot, Google-Extended, and other AI crawler policies in robots.txt, then monitor policy shifts over time.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/taroyamada/robotstxt-ai-checker?fpr=hs6s8"
@@ -9498,7 +9498,7 @@
   {
     "id": "LupMh9Kdj6vgwlHMb",
     "name": "Schema.org Validator API | JSON-LD + Microdata",
-    "description": "Audit website JSON-LD and Microdata markup for SEO compliance. Detect syntax errors, identify missing recommended properties, and track quality scores.",
+    "description": "Validate JSON-LD and Microdata across multiple pages, score markup quality, and flag missing or malformed Schema.org data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/taroyamada/structured-data-validator?fpr=hs6s8"
@@ -13406,6 +13406,46 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/datapilot/skill-curator-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "w4cg5YaCTWgMy11XK",
+    "name": "App Store and Play Store Review Scraper",
+    "description": "Pulls every review for any iOS App Store or Google Play app: rating, title, body, reviewer, date, app version, country, and developer replies. Track release sentiment, flag regressions per version, and benchmark competitors.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/scrapemint/app-review-intelligence?fpr=hs6s8"
+  },
+  {
+    "id": "qkYndMjLaZTO0mxrv",
+    "name": "Reddit Lead Monitor: Subreddit and Keyword Alert Feed",
+    "description": "Watches subreddits for posts that match your keywords, upvote floor, and age window. Dedupes across runs so you only get new matches. Output JSON, CSV, or Excel. For SaaS founders, marketers, and support teams hunting leads and brand mentions on Reddit.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/scrapemint/reddit-lead-monitor?fpr=hs6s8"
+  },
+  {
+    "id": "pj0G9L1OjH21OlF9J",
+    "name": "Google Search Results Scraper",
+    "description": "Google Search Results Scraper that extracts titles, URLs, snippets, and positions for any keyword, so you can automate SEO research, rank tracking, and competitive analysis without manual searching.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/kawsar/google-search-results-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "DqWdbqL3aYFdgwaFI",
+    "name": "Google Trends Scraper",
+    "description": "Extract Google Trends data — interest over time, regional breakdowns, related queries and topics — by search term or URL.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/solidcode/google-trends-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "AlLZQRbXRpNlwHH5K",
+    "name": "Google Search Scraper - Most Comprehensive",
+    "description": "🔥 ~$1/1K pages 🔥 Scrape Google into 40+ structured sections: organic results, knowledge panel with cast/ratings/streaming prices, finance with earnings, shopping with filters, AI overview, PAA with answers, perspectives, video key moments, hotels, local pack, flights, lyrics, sports, ads.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/kaix/google-serp-scraper?fpr=hs6s8"
   },
   {
     "id": "TlVLaCwtEDzO0Nxps",
