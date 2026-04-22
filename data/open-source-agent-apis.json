@@ -11,7 +11,7 @@
     "id": "moJRLRc85AitArpNN",
     "name": "Web Scraper",
     "description": "Crawls arbitrary websites using a web browser and extracts structured data from web pages using a provided JavaScript function. The Actor supports both recursive crawling and lists of URLs, and automatically manages concurrency for maximum performance.",
-    "rating": 4.258345110850228,
+    "rating": 4.258345110850229,
     "rating_count": 76,
     "url": "https://apify.com/apify/web-scraper?fpr=hs6s8"
   },
@@ -19,7 +19,7 @@
     "id": "LpVuK3Zozwuipa5bp",
     "name": "LinkedIn Profile Scraper + Email ✅ No Cookies",
     "description": "Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more. No cookies or account required.",
-    "rating": 4.706002691356309,
+    "rating": 4.706002691356308,
     "rating_count": 35,
     "url": "https://apify.com/harvestapi/linkedin-profile-scraper?fpr=hs6s8"
   },
@@ -27,7 +27,7 @@
     "id": "YrQuEkowkNCLdk4j2",
     "name": "Cheerio Scraper",
     "description": "Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a Node.js code. Supports both recursive crawling and lists of URLs. This actor is a high-performance alternative to apify/web-scraper for websites that do not require JavaScript.",
-    "rating": 4.65842974265101,
+    "rating": 4.658429742651009,
     "rating_count": 23,
     "url": "https://apify.com/apify/cheerio-scraper?fpr=hs6s8"
   },
@@ -51,8 +51,8 @@
     "id": "3ox4R101TgZz67sLr",
     "name": "RAG Web Browser",
     "description": "Web browser for OpenAI Assistants, RAG pipelines, or AI agents, similar to a web browser in ChatGPT. It queries Google Search, scrapes the top N pages, and returns their content as Markdown for further processing by an LLM. It can also scrape individual URLs.",
-    "rating": 3.781870158759073,
-    "rating_count": 20,
+    "rating": 4.117729993995867,
+    "rating_count": 21,
     "url": "https://apify.com/apify/rag-web-browser?fpr=hs6s8"
   },
   {
@@ -115,7 +115,7 @@
     "id": "YPh5JENjSSR6vBf2E",
     "name": "Legacy PhantomJS Crawler",
     "description": "Replacement for the legacy Apify Crawler product with a backward-compatible interface. The Actor uses PhantomJS headless browser to recursively crawl websites and extract data from them using a piece of front-end JavaScript code.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/apify/legacy-phantomjs-crawler?fpr=hs6s8"
   },
@@ -155,7 +155,7 @@
     "id": "E2jjCZBezvAZnX8Rb",
     "name": "Hello World Example",
     "description": "The simplest Actor you will see today. It takes a greeting message on input, prints it, and stores a new message as the output. That's all.",
-    "rating": 4.866666666666666,
+    "rating": 4.866666666666667,
     "rating_count": 5,
     "url": "https://apify.com/apify/hello-world?fpr=hs6s8"
   },
@@ -179,7 +179,7 @@
     "id": "jbh0zHol24i9VITYz",
     "name": "SuperScraper API",
     "description": "Generic REST API for scraping websites: send a URL and get back HTML. This Actor is a drop-in replacement for ScrapingBee, ScrapingAnt, and ScraperAPI services. And it is open-source!",
-    "rating": 4.143780042900405,
+    "rating": 4.143780042900404,
     "rating_count": 6,
     "url": "https://apify.com/apify/super-scraper-api?fpr=hs6s8"
   },
@@ -187,7 +187,7 @@
     "id": "vYhZNvISh70s4czXl",
     "name": "Dataset Query Engine",
     "description": "Use natural language queries to retrieve results from an Apify dataset.  \nThis Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results.",
-    "rating": 4.625,
+    "rating": 4.624999999999999,
     "rating_count": 5,
     "url": "https://apify.com/jiri.spilka/dataset-query-engine?fpr=hs6s8"
   },
@@ -312,20 +312,20 @@
     "url": "https://apify.com/dz_omar/apify-scraper?fpr=hs6s8"
   },
   {
-    "id": "y7trvJ7NMqMGYH87q",
-    "name": "Anon Lab",
-    "description": "Anon Lab is an open research workspace that transforms anonymity and privacy papers into readable explanations and executable code. Built on the Free Haven Anonymity Bibliography, it makes decades of privacy research interactive, reproducible, and usable for developers and researchers.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/bikrambiswas/anon-lab?fpr=hs6s8"
-  },
-  {
     "id": "Z2B65CMPn2aEXnfFk",
     "name": "Firestore Import",
     "description": "Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/apify/firestore-import?fpr=hs6s8"
+  },
+  {
+    "id": "y7trvJ7NMqMGYH87q",
+    "name": "Anon Lab",
+    "description": "Anon Lab is an open research workspace that transforms anonymity and privacy papers into readable explanations and executable code. Built on the Free Haven Anonymity Bibliography, it makes decades of privacy research interactive, reproducible, and usable for developers and researchers.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/bikrambiswas/anon-lab?fpr=hs6s8"
   },
   {
     "id": "ctMjXHGFjGPwBzCrq",
@@ -408,10 +408,18 @@
     "url": "https://apify.com/apify/image-diff?fpr=hs6s8"
   },
   {
+    "id": "3Pp61GRohzeO18mfN",
+    "name": "Website Image Scraper",
+    "description": "Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8"
+  },
+  {
     "id": "SdlcUciRgXdRUxNBA",
     "name": "Omni Jobs Board Scraper ~$2 per 500 results",
     "description": "international Jobs Board Scraper\nSearch 14+ job boards across UK, US, EU & remote in one run\nReed, Totaljobs, CV-Library, CWJobs, Indeed (6 countries), USAJobs, RemoteOK, Arbeitnow & Adzuna. Deduplicated results with parsed salaries and optional salary benchmarks.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/doggo/uk-jobs-board-scraper?fpr=hs6s8"
   },
@@ -419,7 +427,7 @@
     "id": "UE49UoVO31wJe4yW5",
     "name": "Market Mind AI",
     "description": "Analyze real-time news and social media stock sentiment to uncover key market trends and investor interest. It provides a market summary with top discussions and emerging opportunities. With personalized insights based on your profile, it helps you make data-driven investment decisions",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/katzino/market-mind-ai?fpr=hs6s8"
   },
@@ -488,14 +496,6 @@
     "url": "https://apify.com/onescales/upload-to-web3?fpr=hs6s8"
   },
   {
-    "id": "3Pp61GRohzeO18mfN",
-    "name": "Website Image Scraper",
-    "description": "Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8"
-  },
-  {
     "id": "Vp9ZpPLeEfFDK2nbt",
     "name": "X402 Checker",
     "description": "Check any URL for X402 Support — or a bulk list — to instantly discover whether it supports the X402 HTTP payment protocol. For every X402 enabled endpoint, the actor extracts the price, currency, network, payment endpoint, and raw payment headers.",
@@ -504,10 +504,26 @@
     "url": "https://apify.com/onescales/x402-checker?fpr=hs6s8"
   },
   {
+    "id": "4GTGBCOGLfgrUhcb3",
+    "name": "YouTube To Transcript",
+    "description": "Extract YouTube transcripts from public video URLs",
+    "rating": 4.999999999999999,
+    "rating_count": 2,
+    "url": "https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8"
+  },
+  {
+    "id": "Z4bFYcd6g3cxCVVGq",
+    "name": "AI YouTube Transcript Analyzer",
+    "description": "Prompt + YouTube URL -> { ❤️‍🔥 }",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/hexa-api/youtube-transcript-ai-analyzer?fpr=hs6s8"
+  },
+  {
     "id": "fgCg268Rg9Yrvrx24",
     "name": "Keywords Extractor",
     "description": "Use our free website keyword extractor to crawl any website and extract keyword counts on each page.",
-    "rating": 4.781511805944948,
+    "rating": 4.781511805944947,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8"
   },
@@ -595,7 +611,7 @@
     "id": "ou2buPCN9hYdGLVdT",
     "name": "Merge, Dedup & Transform Datasets",
     "description": "The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8"
   },
@@ -675,7 +691,7 @@
     "id": "gQnCswZksZUL1uZhw",
     "name": "OMR Review Scraper",
     "description": "Scrapes software reviews from OMR",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapers123/omr-review-scraper?fpr=hs6s8"
   },
@@ -792,26 +808,10 @@
     "url": "https://apify.com/xmiso_scrapers/finstat-scraper?fpr=hs6s8"
   },
   {
-    "id": "4GTGBCOGLfgrUhcb3",
-    "name": "YouTube To Transcript",
-    "description": "Extract YouTube transcripts from public video URLs",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8"
-  },
-  {
-    "id": "Z4bFYcd6g3cxCVVGq",
-    "name": "AI YouTube Transcript Analyzer",
-    "description": "Prompt + YouTube URL -> { ❤️‍🔥 }",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/hexa-api/youtube-transcript-ai-analyzer?fpr=hs6s8"
-  },
-  {
     "id": "1KoCTvsASIAXqkvY7",
     "name": "Linkedin Email Scraper",
     "description": "Linkedin Email Scraper- Scrap Emails from linkedin specific profile using google search engine",
-    "rating": 1.700430143691936,
+    "rating": 1.700430143691935,
     "rating_count": 4,
     "url": "https://apify.com/bhansalisoft/linkedin-email-scraper?fpr=hs6s8"
   },
@@ -819,7 +819,7 @@
     "id": "JfdkZB3fyv6nc13KO",
     "name": "Instagram Followers Scrapper",
     "description": "Extract ONLY Instagram follower data at 500+ users/min. Proxy support, human behavior simulation, configurable pagination. Ideal for focused market research.",
-    "rating": 2.407116481990715,
+    "rating": 2.407116481990716,
     "rating_count": 2,
     "url": "https://apify.com/mohamedgb00714/instagram-followers-scrapper?fpr=hs6s8"
   },
@@ -859,7 +859,7 @@
     "id": "Wa8AOJpMTOnV1V7uX",
     "name": "Pcpartpicker Scraper",
     "description": "Scrape and collect detailed PC component information from the PCPartPicker website.",
-    "rating": 1.876505246642063,
+    "rating": 1.876505246642064,
     "rating_count": 2,
     "url": "https://apify.com/matyascimbulka/pcpartpicker-scraper?fpr=hs6s8"
   },
@@ -5602,7 +5602,7 @@
   {
     "id": "iZLM697EwjvQ2CRE3",
     "name": "Email Extractor - Find Emails on Any Site",
-    "description": "Extract email addresses from any website — pages, linked docs, contact forms. Crawl entire domains. Built-in deduplication and validation. 16+ users trust this tool. Custom extraction pipeline: $100 pilot, spinov001@gmail.com",
+    "description": "Get YOUR outreach-ready email list in minutes — 18+ real runs. No Hunter.io cap, no Apollo seat fee, no manual LinkedIn pain. Emails with page title, URL, role hint. Pipeline 00 pilot — spinov001@gmail.com by Friday. Tips: t.me/scraping_ai",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/email-extractor-pro?fpr=hs6s8"
@@ -5626,7 +5626,7 @@
   {
     "id": "gekwgxM0rPkVVIzUG",
     "name": "Google News Scraper - Headlines Fast",
-    "description": "Scrape Google News for any topic — headlines, sources, timestamps, URLs. Filter by date, language, region. Essential for media monitoring, PR, and competitive intelligence. Used by 25+ teams. Custom news pipeline: $100 pilot, spinov001@gmail.com",
+    "description": "Monitor YOUR competitors in Google News — 31+ real runs from PR + intel teams. No official API, no RSS limit, no blocks. Titles, dates, snippets, source URLs as CSV. Custom alert pipeline $100 pilot — email spinov001@gmail.com by Friday. Tips: t.me/scraping_ai",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/google-news-scraper?fpr=hs6s8"
@@ -5874,7 +5874,7 @@
   {
     "id": "CaYe2FsKeAWggzLSY",
     "name": "Bluesky Scraper - Posts and Profiles",
-    "description": "Scrape Bluesky posts, profiles, and feeds. Extract text, images, likes, reposts from the decentralized social network. Perfect for social media research and brand monitoring. 12+ runs. Custom social monitoring: $100 pilot, spinov001@gmail.com",
+    "description": "Scrape Bluesky posts, profiles, feeds. Extract text, images, likes, reposts from decentralized social. Ideal for social research and brand monitoring. 14+ runs. Custom social pipeline built in 48h: $100 pilot. Reply by Friday. spinov001@gmail.com → t.me/scraping_ai",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/bluesky-scraper?fpr=hs6s8"
@@ -5930,7 +5930,7 @@
   {
     "id": "3Xh1gevCPtr6Ve2b2",
     "name": "Hacker News Scraper - Posts and Comments",
-    "description": "Scrape Hacker News — front page, new, Show HN, Ask HN, jobs — without the official API's rate limits. Returns title, URL, score, comments, and author as JSON/CSV. Perfect for trend tracking and launch monitoring. Custom pipeline? Pilot $100 / 48h: spinov001@gmail.com. @scraping_ai",
+    "description": "Scrape HN top/new/Show HN/Ask HN/jobs — no rate limits. Returns title, URL, score, comments, author as JSON/CSV. Ideal for trend tracking and launch monitoring. 16+ runs. Custom pipeline built in 48h: $100 pilot. Reply by Friday. spinov001@gmail.com → t.me/scraping_ai",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/hacker-news-scraper?fpr=hs6s8"
@@ -6730,7 +6730,7 @@
   {
     "id": "Qa5IVWki2t8asLmtI",
     "name": "YouTube Comments Scraper — All Comments, Any Video",
-    "description": "Extract YouTube comments from any video — text, author, likes, replies, timestamps. Bulk-process multiple videos. Perfect for sentiment analysis and audience research. Custom pipeline: $100 pilot, spinov001@gmail.com",
+    "description": "Extract YouTube comments: text, author, likes, replies, timestamps. Bulk CSV/JSON export for sentiment analysis. Need a custom YouTube data pipeline? $100 pilot in 48h. Reply by Friday for priority slot. spinov001@gmail.com · t.me/scraping_ai",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/youtube-comments-scraper?fpr=hs6s8"
@@ -6774,5 +6774,29 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/acebuilds/gbp-auditor?fpr=hs6s8"
+  },
+  {
+    "id": "HKwyyz8movDvhskAG",
+    "name": "Apify Actor Monitor",
+    "description": "Monitors your Apify account actor performance. Takes daily snapshots, computes diffs, and delivers an HTML report via email.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/thenetaji/apify-actor-monitor?fpr=hs6s8"
+  },
+  {
+    "id": "8LREY4ngng9ZhoLpY",
+    "name": "Youtube Video Downloader",
+    "description": "A YouTube Video Downloader is a software tool, web application, or browser extension that allows users to save YouTube videos directly to their local device for offline viewing. Instead of streaming content repeatedly, users can download videos and watch them anytime without an internet connection.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/ssyoutube/youtube-video-downloader?fpr=hs6s8"
+  },
+  {
+    "id": "WwuR7fws2t5gIJud4",
+    "name": "Amrico's Lead Limiter 🌟Delete # leads in the same company",
+    "description": "Upload a CSV of leads, set a max number of leads per domain, and the actor removes the excess, starting from the lowest job-title seniority and prioritizing tech-sector titles. 🌟Private use for Amrico's partners (amr@amrico.net)",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/amr-mando/lead-limiter?fpr=hs6s8"
   }
 ]
