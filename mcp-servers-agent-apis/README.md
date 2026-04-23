@@ -3,7 +3,7 @@
 
 **Organized APIs by Mcp Servers**
 
-**540 APIs in this category**
+**547 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -15,8 +15,8 @@
 | [Email Verifier by Million Verifier - $1/1k emails](https://apify.com/account56/email-verifier?fpr=hs6s8) | ⭐️ 4.83 (9) | ✅ #1 Email Verification Service ✅ Only pay for valid and invalid emails ✅ No charge for catch all emails ✅ Easily verify emails from apollo, zoominfo etc |
 | [⭐️ FREE Reddit Scraper Pro](https://apify.com/spry_wholemeal/reddit-scraper?fpr=hs6s8) | ⭐️ 5.0 (8) | Free Reddit scraper that does what the paid ones do but better. No API keys needed, no usage fees. Pairs with ready-made n8n workflow templates for lead gen and content research. |
 | [Tester MCP Client](https://apify.com/jiri.spilka/tester-mcp-client?fpr=hs6s8) | ⭐️ 4.99 (8) | A model context protocol (MCP) client that connects to any MCP server using Streamable HTTP and displays the conversation in a chat-like UI. It is a standalone Actor server designed for testing MCP servers over Stremable HTTP. |
-| [Google Maps MCP](https://apify.com/crawlerbros/google-maps-mcp?fpr=hs6s8) | ⭐️ 5.0 (7) | Unified Apify MCP server for Google Maps. Search for businesses and extract comprehensive data including ratings, reviews, contact info, and more. Scrape detailed reviews from any Google Maps place. |
-| [Markdownify MCP Server](https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8) | ⭐️ 5.0 (7) | Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools. |
+| [Google Maps MCP](https://apify.com/crawlerbros/google-maps-mcp?fpr=hs6s8) | ⭐️ 4.99 (7) | Unified Apify MCP server for Google Maps. Search for businesses and extract comprehensive data including ratings, reviews, contact info, and more. Scrape detailed reviews from any Google Maps place. |
+| [Markdownify MCP Server](https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8) | ⭐️ 4.99 (7) | Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools. |
 | [Fast Website Content Crawler](https://apify.com/6sigmag/fast-website-content-crawler?fpr=hs6s8) | ⭐️ 4.9 (7) | A high-performance web scraper that rapidly extracts and analyzes content from multiple websites simultaneously. Perfect for competitive research, content aggregation, and website structure analysis. |
 | [Workflow Orchestrator](https://apify.com/the.beast/workflow-orchestrator?fpr=hs6s8) | ⭐️ 5.0 (4) | Chain 11,000+ Apify Actors into automated workflows. Pre-built templates for price comparison, lead generation, SEO analysis. 5x faster with parallel execution, auto-retry on failures. Perfect for AI agents. |
 | [Telegram Group Member](https://apify.com/cheapget/telegram-group-member?fpr=hs6s8) | ⭐️ 5.0 (4) | Instantly extract thousands of Telegram members from any group. Access complete user profiles, including phone numbers, bios, and demographics for targeted outreach. |
@@ -547,6 +547,13 @@
 | [Toolstem Financial Data](https://apify.com/toolstem/toolstem-mcp-server?fpr=hs6s8) |  | Agent-ready financial intelligence MCP tools. Stock snapshots, deep company metrics, stock screening, and side-by-side company comparison — all with derived signals and pre-computed math. Designed for AI agents, not raw API passthrough. |
 | [NIH Grants MCP](https://apify.com/red.cars/nih-grants-mcp?fpr=hs6s8) |  | NIH RePORTER grant intelligence for AI agents. Search NIH grants, publications, organization funding profiles, researcher career data, and funding trends via the NIH RePORTER API. |
 | [Reddit MCP Server — Claude, ChatGPT, Cursor, Codex](https://apify.com/makework36/reddit-mcp-server?fpr=hs6s8) |  | Native Reddit MCP server for AI agents. 7 Reddit tools (search, subreddits, posts+comments, users, trending) over Streamable HTTP. Works with Claude Desktop, Cursor, ChatGPT, OpenAI Codex, Agents SDK, Windsurf. No Reddit API key. Pay per tool call. |
+| [Academic Research MCP — AI Agent Scholar Paper Discovery](https://apify.com/red.cars/academic-research-mcp?fpr=hs6s8) |  | Search 600M+ academic papers, grants, and citations for AI agents. One tool call to CrossRef, OpenAlex, and Semantic Scholar. |
+| [Drug Intelligence MCP](https://apify.com/red.cars/drug-intelligence-mcp?fpr=hs6s8) |  | Pharmaceutical drug intelligence for AI agents |
+| [PDF Tools MCP Server](https://apify.com/zekovdev/pdf-mcp-apify?fpr=hs6s8) |  | Merge, split, rotate, watermark, extract text, delete pages, reorder, and set metadata on PDFs. 11 tools via MCP. Fully local processing — zero external APIs, your PDFs stay private. Works with Claude, Cursor, VS Code, ChatGPT. |
+| [Clutch.co Scraper — Extract Agency Leads & Reviews](https://apify.com/khadinakbar/clutch-scraper?fpr=hs6s8) |  | Scrape Clutch.co company listings to extract structured B2B lead data: company name, star rating, review count, hourly rate, min project size, employees, location, services, and website. Supports all Clutch categories and bulk pagination. MCP-compatible for AI agent workflows. |
+| [University Research MCP — AI Agent Academic Database Interface](https://apify.com/red.cars/university-research-mcp?fpr=hs6s8) |  | Generate institutional reports, researcher profiles, patent landscapes, and funding analysis from 8 academic databases for AI agents. |
+| [Tech Scout Report — Technology Commercialization Intelligence](https://apify.com/red.cars/tech-scouting-report-mcp?fpr=hs6s8) |  | Scout technology trends, patent landscapes, and funding signals for AI agents across 8 academic and government databases. |
+| [Patent Search MCP — AI Agent Patent Intelligence](https://apify.com/red.cars/patent-search-mcp?fpr=hs6s8) |  | Search patents across USPTO, EPO, and Google Patents for AI agents. One tool call to find patents, citations, and company landscapes. |
 
 ---
 
