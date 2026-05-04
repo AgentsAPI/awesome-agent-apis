@@ -3,7 +3,7 @@
     "id": "KLCcCF6cMJMden8ZD",
     "name": "Reddit MCP Scraper",
     "description": "Unified Reddit scraper supporting 3 modes: (1) Subreddit posts with content extraction, (2) Post comments with threading, (3) User profiles with metadata. Extract comprehensive data including scores, timestamps, flairs, NSFW flags, and more.",
-    "rating": 4.857412685641728,
+    "rating": 4.857412685641729,
     "rating_count": 33,
     "url": "https://apify.com/crawlerbros/reddit-mcp-scraper?fpr=hs6s8"
   },
@@ -19,7 +19,7 @@
     "id": "oAuCIx3ItNrs2okjQ",
     "name": "Reddit Scraper Lite",
     "description": "Pay Per Result, unlimited Reddit web scraper to crawl posts, comments, communities, and users without login. Limit web scraping by number of posts or items and extract all data in a dataset in multiple formats.",
-    "rating": 4.417388844780766,
+    "rating": 4.417388844780767,
     "rating_count": 33,
     "url": "https://apify.com/trudax/reddit-scraper-lite?fpr=hs6s8"
   },
@@ -43,7 +43,7 @@
     "id": "o6Vjla6MePKxZPLg1",
     "name": "Weather Forecast",
     "description": "The Weather Forecast Scraper collects daily weather data for a city, including temperature, conditions, wind, humidity, precipitation, and UV index. It supports solar forecasting, trip planning, data dashboards, and research on weather and solar patterns.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/accelerationengg/weather-forecast?fpr=hs6s8"
   },
@@ -59,7 +59,7 @@
     "id": "RbCLCCRDG8GEi6Uaq",
     "name": "Product Hunt Scraper",
     "description": "Scrape data on products and their team members from Product Hunt, which features new launches every day. Export scraped data, schedule via API, and integrate with other tools or AI workflows.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 12,
     "url": "https://apify.com/michael.g/product-hunt-scraper?fpr=hs6s8"
   },
@@ -91,7 +91,7 @@
     "id": "2dZb9qNraqcbL8CXP",
     "name": "Twitter Tweets Scraper",
     "description": "Enter the X URL to quickly collect the latest tweet data. Based on the X search interface, with countless quantity and time constraints, the tweet results are sorted in reverse chronological order.",
-    "rating": 4.971698136543954,
+    "rating": 4.971698136543955,
     "rating_count": 11,
     "url": "https://apify.com/gentle_cloud/twitter-tweets-scraper?fpr=hs6s8"
   },
@@ -112,14 +112,6 @@
     "url": "https://apify.com/epctex/reddit-scraper?fpr=hs6s8"
   },
   {
-    "id": "mfB8OsXLfdeiQpkql",
-    "name": "Google News Scraper",
-    "description": "Unlock timely news insights with our Google News data retrieval tool. Get the latest news on any news at any time, and more. Effortless and powerful. 📰🔍 #NewsData",
-    "rating": 4.999999999999999,
-    "rating_count": 8,
-    "url": "https://apify.com/epctex/google-news-scraper?fpr=hs6s8"
-  },
-  {
     "id": "ufWSmbnMd2Y86SqAe",
     "name": "Crunchbase News Scraper",
     "description": "Extract startup, funding, M&A, and tech news articles from news.crunchbase.com like title, content, author, date, categories, tags, featured image. Uses the public WordPress REST API. No proxy required.",
@@ -131,7 +123,7 @@
     "id": "rpBmnfJvijlcsdXAh",
     "name": "ESPN Rosters & Player Stats",
     "description": "Scrape team rosters and player career statistics from ESPN across 16 leagues and 5 sports. No account or proxy required.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/espn-rosters-player-stats?fpr=hs6s8"
   },
@@ -139,7 +131,7 @@
     "id": "oEZmw1vztXpKlwodh",
     "name": "ESPN News",
     "description": "Scrape ESPN news articles and headlines across 16 leagues and 5 sports. Optional team filter. No account or proxy required.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/espn-news?fpr=hs6s8"
   },
@@ -147,7 +139,7 @@
     "id": "YI7T82z34vdLQzBtM",
     "name": "ESPN Standings",
     "description": "Scrape league standings tables from ESPN across 16 leagues and 5 sports. Supports current and historical seasons. No account or proxy required.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/espn-standings?fpr=hs6s8"
   },
@@ -155,15 +147,31 @@
     "id": "SWcMqYdRIqNdteQ6m",
     "name": "ESPN Scores & Schedules",
     "description": "Scrape live scores, final results, and upcoming game schedules from ESPN across 16 leagues and 5 sports. No account or proxy required.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/espn-scores-schedules?fpr=hs6s8"
+  },
+  {
+    "id": "jdpretjiwDOVZQ91Z",
+    "name": "Hacker News Scraper",
+    "description": "Scrape Hacker News stories, comments, jobs, and user profiles. Modes: top/new/best/ask/show/jobs/past/item/user/search. Filters: minScore, domainFilter, dateRange, commentMinScore. No proxy, no auth.",
+    "rating": 5,
+    "rating_count": 8,
+    "url": "https://apify.com/crawlerbros/hackernews-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "mfB8OsXLfdeiQpkql",
+    "name": "Google News Scraper",
+    "description": "Unlock timely news insights with our Google News data retrieval tool. Get the latest news on any news at any time, and more. Effortless and powerful. 📰🔍 #NewsData",
+    "rating": 4.999999999999999,
+    "rating_count": 8,
+    "url": "https://apify.com/epctex/google-news-scraper?fpr=hs6s8"
   },
   {
     "id": "WeOty7LW7tLRrD2UD",
     "name": "Dun & Bradstreet Scraper",
     "description": "Effortlessly extract valuable company information, financial projections, industry insights, and more from the extensive Dun & Bradstreet commercial database. Dive deep into the D&B Data Cloud, Business Directory, articles, companies, and industries with customized search terms.",
-    "rating": 4.977995684779433,
+    "rating": 4.977995684779432,
     "rating_count": 8,
     "url": "https://apify.com/epctex/dnb-scraper?fpr=hs6s8"
   },
@@ -171,7 +179,7 @@
     "id": "JBefhs9roQqoTQXHv",
     "name": "TikTok Comment API",
     "description": "Super Fast TikTok Comment API. Seamlessly retrieve comments with speed and efficiency. You don't need to pay for proxy because we use our own.",
-    "rating": 4.720723341929544,
+    "rating": 4.720723341929545,
     "rating_count": 8,
     "url": "https://apify.com/novi/tiktok-comment-api?fpr=hs6s8"
   },
@@ -179,7 +187,7 @@
     "id": "VLTbmGTg8PBfcOlpK",
     "name": "Newsweek Scraper",
     "description": "Scrape the latest articles right away from Newsweek. Retrieve your news directly with the information of title, body, published time, updated time, keywords, images, videos, and many more! Get your data with JSON, XML, Excel, CSV, or many other options. Extremely fast, optimized, and with no limits!",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 7,
     "url": "https://apify.com/epctex/newsweek-scraper?fpr=hs6s8"
   },
@@ -267,7 +275,7 @@
     "id": "mZrVfFsEelXdq6cgj",
     "name": "Capterra Scraper",
     "description": "Extract valuable data from the Capterra software database with our Capterra Scraper. Gather product information, related products, insights, portfolio, real client reviews, and more. Explore top software listings for your business.",
-    "rating": 3.391935538798067,
+    "rating": 3.391935538798068,
     "rating_count": 12,
     "url": "https://apify.com/epctex/capterra-scraper?fpr=hs6s8"
   },
@@ -291,7 +299,7 @@
     "id": "cvrQKZSuvxeyicMLN",
     "name": "B2B Sales Trigger Intelligence",
     "description": "Detect high-intent B2B sales triggers hiring surges, funding rounds, executive changes, and news momentum from a list of company names. Produces a graded (A/B/C/D) priority list with rationale and source signals.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/crawlerbros/b2b-sales-triggers?fpr=hs6s8"
   },
@@ -315,7 +323,7 @@
     "id": "9ZOeQ6nfBn9vj9YCC",
     "name": "market-reaction-intelligence",
     "description": "Global stock volatility tracker. Detects spikes in US/Intl markets, scrapes local news, and uses AI (GPT/Claude/Gemini) to explain why. Delivers real-time Discord & Email alerts plus visual dashboards.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 5,
     "url": "https://apify.com/agrawalheyramb/market-reaction-intelligence?fpr=hs6s8"
   },
@@ -323,7 +331,7 @@
     "id": "CkLDY9GAQf6QlP6GP",
     "name": "Google Jobs Scraper",
     "description": "The most advanced Google Jobs Scraper available! Built with enterprise-grade flexibility, lightning-fast performance, and comprehensive customization options. Extract detailed job data, application links, company information, and full job descriptions.  Unlimited usage, no monthly rental fees.",
-    "rating": 4.354738040874653,
+    "rating": 4.354738040874654,
     "rating_count": 5,
     "url": "https://apify.com/johnvc/Google-Jobs-Scraper?fpr=hs6s8"
   },
@@ -331,7 +339,7 @@
     "id": "Cg24PsQKREIAlzs86",
     "name": "Techstars Scraper",
     "description": "Scrape data on Techstars companies from the Techstars portfolio. Export scraped data, schedule via API, and integrate with other tools or AI workflows.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/michael.g/techstars-scraper?fpr=hs6s8"
   },
@@ -354,7 +362,7 @@
   {
     "id": "8vxvc9BwwG34zvS5P",
     "name": "Telegram Group Member",
-    "description": "Get every member of any Telegram group — names, usernames, phone (when public), bios, and profile pics. Thousands at once, in one click.",
+    "description": "Extract Telegram group members with names, usernames, public phone numbers, bios, and profile photos. Collect thousands of members in one run.",
     "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/cheapget/telegram-group-member?fpr=hs6s8"
@@ -368,18 +376,10 @@
     "url": "https://apify.com/scrapeio/google-news-scraper?fpr=hs6s8"
   },
   {
-    "id": "jdpretjiwDOVZQ91Z",
-    "name": "Hacker News Scraper",
-    "description": "Scrape Hacker News stories, comments, jobs, and user profiles. Modes: top/new/best/ask/show/jobs/past/item/user/search. Filters: minScore, domainFilter, dateRange, commentMinScore. No proxy, no auth.",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/crawlerbros/hackernews-scraper?fpr=hs6s8"
-  },
-  {
     "id": "dbZIaJtydIJMik9Db",
     "name": "Topic Radar",
     "description": "Track any topic across the internet and get aggregated, ranked results from multiple sources in one place. Perfect for market research, competitive intelligence, trend monitoring, content creation, and staying updated on any subject.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/mick-johnson/topic-radar?fpr=hs6s8"
   },
@@ -395,7 +395,7 @@
     "id": "2s3kSMq7tpuC3bI6M",
     "name": "Twitter (X.com) Search Scraper",
     "description": "Easily extract tweets from Twitter (X.com) search results with our powerful Twitter Search Scraper. Get full tweet data, including text, engagement, media, and user info. Export in JSON, CSV, Excel, or HTML—perfect for social media monitoring, market research, competitor analysis, and trend tracking",
-    "rating": 2.561336971642879,
+    "rating": 2.56133697164288,
     "rating_count": 10,
     "url": "https://apify.com/web.harvester/easy-twitter-search-scraper?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "DUQGXW0OXkmviN1s2",
     "name": "Telegram Channel Scraper",
     "description": "Scrape Telegram channel messages, media, reactions, and member counts. Monitor public channels and analyze messaging trends.",
-    "rating": 4.481816707884857,
+    "rating": 4.481816707884858,
     "rating_count": 4,
     "url": "https://apify.com/viralanalyzer/telegram-channel-scraper?fpr=hs6s8"
   },
@@ -424,14 +424,6 @@
     "url": "https://apify.com/johnvc/fuelprices?fpr=hs6s8"
   },
   {
-    "id": "xDRbhy9Rshc9fTBB7",
-    "name": "Google News Scraper",
-    "description": "Scrape Google News articles from news.google.com using any search query. Extract title, source, date, link, and snippet. Optional deep scrape visits each article to collect full text, author, images, keywords, metadata, word count, and reading time.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/google-news-scraper?fpr=hs6s8"
-  },
-  {
     "id": "QhLdTalbsGrBICNte",
     "name": "Stock Trends Analyzer",
     "description": "AI-powered stock market trends analyzer. Get real-time reasons for top gainers, losers, most active, and trending stocks. Understand stock price movements, volume spikes and market sentiment with clear, data-driven insights.",
@@ -443,7 +435,7 @@
     "id": "Vaxm7fVgEyEkVeYs8",
     "name": "Twitter/X Scraper - Tweets, Profiles & Trends",
     "description": "Scrape Twitter/X: tweets, user profiles, followers, hashtags, and trending topics.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/twitter-scraper?fpr=hs6s8"
   },
@@ -451,7 +443,7 @@
     "id": "Zo9PrgWnd6wb7A1ja",
     "name": "Hackernews Intelligence",
     "description": "Scrape Hacker News stories, comments, and discussions. Track tech trends, startup news, and developer community sentiment.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/hackernews-intelligence?fpr=hs6s8"
   },
@@ -459,7 +451,7 @@
     "id": "WVCRsJ3ufEEc5IVsn",
     "name": "Wikipedia Trending",
     "description": "Scrape Wikipedia trending articles, page views, and edit history. Track popular topics and analyze public interest trends.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/wikipedia-trending?fpr=hs6s8"
   },
@@ -467,7 +459,7 @@
     "id": "VArjXAKLJC7zPmpJf",
     "name": "Reddit Scraper - Posts, Comments & Subreddits",
     "description": "Extract Reddit posts, comments, subreddit data, and user profiles.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/reddit-scraper?fpr=hs6s8"
   },
@@ -475,15 +467,15 @@
     "id": "DHyTB85r6JnYTYPC6",
     "name": "RSS & News Intelligence - Real-Time AI Monitor",
     "description": "Monitor RSS feeds and Google News with AI-powered summarization.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/rss-news-intelligence?fpr=hs6s8"
   },
   {
     "id": "8QfidRKcSVYICkwrq",
     "name": "Best Job Search",
-    "description": "Search jobs across LinkedIn, Indeed and Glassdoor in one place — salary, remote, country, and keyword filters across 60+ countries. Pay only for results you keep. Cheap and fast.",
-    "rating": 4.999999999999999,
+    "description": "Search LinkedIn, Indeed, and Glassdoor jobs in one run. Filter by salary, remote status, country, and keyword across 60+ countries; pay only for kept results.",
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/cheapget/best-job-search?fpr=hs6s8"
   },
@@ -494,22 +486,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/parseforge/pr-newswire-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "MdCpnRYYUx5YEtLZK",
-    "name": "Reddit User Profile Posts & Comments Scraper",
-    "description": "Unlock Reddit's potential with our advanced scraper! Effortlessly gather comprehensive user data from public profiles. Perfect for researchers, marketers, and analysts. Enjoy high-speed performance, structured JSON output, and zero setup. Start scraping today with Apify's reliable infrastructure!",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/louisdeconinck/reddit-user-profile-posts-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "XVOx3BhhNaNmKqy56",
-    "name": "Reddit Scraper Lite",
-    "description": "Pay-per-result, unlimited Reddit web scraper that crawls posts, comments, communities, and users without requiring login. It allows limiting scraping by the number of posts or items and exports all extracted data into multiple dataset formats",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/reddit-scraper-lite?fpr=hs6s8"
   },
   {
     "id": "GxtxtkTcmOgyxkAta",
@@ -523,7 +499,7 @@
     "id": "xxCgm38ifv9HcLl9z",
     "name": "US Congress Financial Disclosures and Stock Trading Data",
     "description": "This Apify actor provides comprehensive access to US Congressional financial disclosure and stock trading data. Search for transactions by congressional member name, specific report dates, date ranges, or stock ticker symbols. Perfect for journalists, researchers, and transparency advocates.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/us-congress-financial-disclosures-and-stock-trading-data?fpr=hs6s8"
   },
@@ -539,7 +515,7 @@
     "id": "HdgyPZHzcpt5Zfad4",
     "name": "Industry Updates Scrapper",
     "description": "Scrape the latest Indian industry news from top sources like Economic Times, Mint & The Hindu Business Line. Get full articles with images, published dates & source URLs in clean CSV format. Perfect for market research, content curation & business intelligence. Fast, reliable & proxy-enabled.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/ai-scraper-labs/Industry-updates-scrapper?fpr=hs6s8"
   },
@@ -550,6 +526,30 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/GoogleNewsAPI?fpr=hs6s8"
+  },
+  {
+    "id": "xDRbhy9Rshc9fTBB7",
+    "name": "Google News Scraper",
+    "description": "Scrape Google News articles from news.google.com using any search query. Extract title, source, date, link, and snippet. Optional deep scrape visits each article to collect full text, author, images, keywords, metadata, word count, and reading time.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/google-news-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "MdCpnRYYUx5YEtLZK",
+    "name": "Reddit User Profile Posts & Comments Scraper",
+    "description": "Unlock Reddit's potential with our advanced scraper! Effortlessly gather comprehensive user data from public profiles. Perfect for researchers, marketers, and analysts. Enjoy high-speed performance, structured JSON output, and zero setup. Start scraping today with Apify's reliable infrastructure!",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/louisdeconinck/reddit-user-profile-posts-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "XVOx3BhhNaNmKqy56",
+    "name": "Reddit Scraper Lite",
+    "description": "Pay-per-result, unlimited Reddit web scraper that crawls posts, comments, communities, and users without requiring login. It allows limiting scraping by the number of posts or items and exports all extracted data into multiple dataset formats",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/reddit-scraper-lite?fpr=hs6s8"
   },
   {
     "id": "qp6mKSScYoutYqCOa",
@@ -570,7 +570,7 @@
   {
     "id": "awbkkk1w2CKtNBScC",
     "name": "Telegram Profile",
-    "description": "Look up any Telegram user, bot, channel, or group — premium status, verification, member counts, and privacy settings. Search many at once.",
+    "description": "Look up Telegram users, bots, channels, or groups with premium status, verification, member counts, privacy settings, and bulk search support.",
     "rating": 3.84246911247387,
     "rating_count": 4,
     "url": "https://apify.com/cheapget/telegram-profile?fpr=hs6s8"
@@ -602,7 +602,7 @@
   {
     "id": "TpLqaxMYSJzwVnXoj",
     "name": "Telegram Channel Message",
-    "description": "Download Telegram channel and group messages — text, media, reactions, forwards, and replies. Filter by date. Works on public channels, no account required.",
+    "description": "Download public Telegram channel and group messages with text, media, reactions, forwards, replies, and date filters. No account required.",
     "rating": 4.466406482483416,
     "rating_count": 3,
     "url": "https://apify.com/cheapget/telegram-channel-message?fpr=hs6s8"
@@ -618,7 +618,7 @@
   {
     "id": "fN4fJgXUfEbeYjNxL",
     "name": "TikTok Live Recorder",
-    "description": "Record any TikTok Live stream automatically. Save broadcasts in HD for replay, archive, or repost. Set it once, get the file when the stream ends.",
+    "description": "Record TikTok Live streams automatically in HD. Save broadcasts for replay, archive, or repost workflows and receive the file when the stream ends.",
     "rating": 3.861350440196031,
     "rating_count": 3,
     "url": "https://apify.com/cheapget/tiktok-live-recorder?fpr=hs6s8"
@@ -635,7 +635,7 @@
     "id": "1qlJKmvZAABMtZoar",
     "name": "Streem Article Scraper",
     "description": "Extract full-text articles and metadata from Streem article links with ease. This actor is built for reliability and scalability—simply provide a list of Streem URLs, and it will crawl each page, clean the content, and return structured results.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/devninja/streem-article-scraper?fpr=hs6s8"
   },
@@ -666,7 +666,7 @@
   {
     "id": "dJWj757pVx5untEuq",
     "name": "Indeed Job Search",
-    "description": "Search Indeed jobs worldwide — full descriptions, salaries, company reviews, and apply links. Filter by remote, country, role, and posted date. Pay per result, no setup.",
+    "description": "Search Indeed jobs worldwide with full descriptions, salaries, company reviews, apply links, remote filters, country filters, and posted-date filters. Pay per result.",
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/indeed-job-search?fpr=hs6s8"
@@ -731,7 +731,7 @@
     "id": "MJqE9QpI2jlFVZa3z",
     "name": "Financial News Sentiment Analyzer",
     "description": "Multi-source financial sentiment analysis using VADER ($0.02/article) or LLM ($0.05/article) engines. Scrapes Yahoo, Google News, and SEC EDGAR. Features budget caps and live market enrichment (Price, P/E, Market Cap). Delivers structured JSON for trading systems and AI agents.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scionic_dev/financial-news-sentiment?fpr=hs6s8"
   },
@@ -787,7 +787,7 @@
     "id": "dEEMWx8bctbMBKmA5",
     "name": "Google Ads & Insight Scraper",
     "description": "Extract ADS or INSIGHTS from a search url on google ads transparency website. From adstransparency.google.com get data about advertisers, regions, ADS, spend per advertisers / regions and more. Details on information page. Extract and analyze data from Google's Ads Transparency Center.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/saswave/google-ads-insight-scraper?fpr=hs6s8"
   },
@@ -803,7 +803,7 @@
     "id": "nD89ddq3SgUPchsIO",
     "name": "Twitter Profile",
     "description": "Scrap all necessary data from Twitter profile in no-time. No need for a Twitter account.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/danek/twitter-profile?fpr=hs6s8"
   },
@@ -867,7 +867,7 @@
     "id": "vA4gf92kM0CJ9Su7T",
     "name": "Subreddit Trend Finder",
     "description": "Catch trending Reddit posts before and as they go viral. Scans multiple subreddits simultaneously, scores content by real engagement velocity, and surfaces the fastest-rising posts ranked by momentum — not just raw upvotes. Built for marketers, social media managers, journalists, and creators.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/sentry/subreddit-trend-finder?fpr=hs6s8"
   },
@@ -898,7 +898,7 @@
   {
     "id": "bamrx68ppJrF5TyOv",
     "name": "YouTube Video Downloader",
-    "description": "Download YouTube videos in 4K, HD, or audio-only. Includes Shorts and YouTube Music with captions, comments, and thumbnails. Paste a link, no app needed.",
+    "description": "Download YouTube videos in 4K, HD, or audio-only, including Shorts and YouTube Music. Export captions, comments, thumbnails, and media from a pasted link.",
     "rating": 2.69089135747668,
     "rating_count": 4,
     "url": "https://apify.com/cheapget/youtube-video-downloader?fpr=hs6s8"
@@ -1002,7 +1002,7 @@
   {
     "id": "EMV1QDp4tfmdUWeo5",
     "name": "Reddit Community Profile",
-    "description": "Look up any subreddit — subscribers, top posts, trending topics, mod team, and rules. Get the full community picture in one view.",
+    "description": "Look up any subreddit profile with subscribers, top posts, trending topics, moderators, rules, and community details for Reddit audience research.",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/cheapget/reddit-community-profile?fpr=hs6s8"
@@ -1363,7 +1363,7 @@
     "id": "CxyE7pcHQC1GxoFTi",
     "name": "Twitter Trends API Global/Country",
     "description": "A robust, affordable actor that fetches real-time Twitter (X.com) trends for various locations worldwide. Results are automatically stored in your default Apify dataset for easy integration and analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/practicaltools/twitterTrendsAPI?fpr=hs6s8"
   },
@@ -1371,7 +1371,7 @@
     "id": "WcaJxyaQoz7dJhRUX",
     "name": "Yahoo Finance Scraper",
     "description": "This Apify Actor scrapes financial data from [Yahoo Finance](https://finance.yahoo.com). It can retrieve stock prices, company details, historical data, and more. The extracted data is structured as JSON and can be exported in multiple formats.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/harvest/yahoo-finance-scraper?fpr=hs6s8"
   },
@@ -1442,7 +1442,7 @@
   {
     "id": "ceeA8aQjRcp3E6cNx",
     "name": "Best Video Downloader",
-    "description": "💎 $0.25/video any length 🚀 Download videos from 1000+ sites in 4K — TikTok, YouTube, Instagram, Twitter — no watermark, with title, thumbnail, and top comments.",
+    "description": "Download videos from 1000+ sites in 4K, including TikTok, YouTube, Instagram, and X. $0.25 per video with title, thumbnail, top comments, and no watermark.",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/cheapget/best-video-downloader?fpr=hs6s8"
@@ -1450,7 +1450,7 @@
   {
     "id": "ay04FddyeCI9hkXJG",
     "name": "Social Media Marketing",
-    "description": "Turn any video into ready-to-post social media content — AI-generated captions, hashtags, and eye-catching images for Instagram, TikTok, Twitter, and more. Paste a link, get posts.",
+    "description": "Turn any video link into social media assets with AI captions, hashtags, and images for Instagram, TikTok, X, and other channels. Paste a link, get posts.",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/cheapget/social-media-marketing?fpr=hs6s8"
@@ -1458,8 +1458,8 @@
   {
     "id": "ztXfL0bIWLugy66yJ",
     "name": "TikTok Video Downloader",
-    "description": "Download TikTok videos without watermark in HD. Save trending clips, original audio, and creator info — repost-ready in one click.",
-    "rating": 5,
+    "description": "Download TikTok videos in HD without watermark. Save trending clips with original audio and creator info for archiving, reposting, or content research.",
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/cheapget/tiktok-video-downloader?fpr=hs6s8"
   },
@@ -1522,8 +1522,8 @@
   {
     "id": "OFdvsjf7TqVYuQPky",
     "name": "Glassdoor Job Search",
-    "description": "Search Glassdoor jobs with real salary ranges, employee reviews, and culture scores across 60+ countries. Find your next role with the inside scoop.",
-    "rating": 2.738762960314911,
+    "description": "Search Glassdoor jobs across 60+ countries with salary ranges, employee reviews, culture scores, company details, and apply links for informed job research.",
+    "rating": 2.73876296031491,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/glassdoor-job-search?fpr=hs6s8"
   },
@@ -1570,8 +1570,8 @@
   {
     "id": "E9f5oS7cOn2Kgw0uy",
     "name": "Video to Text",
-    "description": "💎 $0.3/video any length — Convert any video to text. 1000+ sites, auto language detection, timestamps, downloadable subtitles, and instant translation to 100+ languages.",
-    "rating": 1.927710766137816,
+    "description": "Convert videos from 1000+ sites to text for $0.30 per video. Includes auto language detection, timestamps, subtitles, downloads, and translation to 100+ languages.",
+    "rating": 1.927710766137817,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/video-to-text?fpr=hs6s8"
   },
@@ -1619,7 +1619,7 @@
     "id": "egar8SjmU9fXaZph6",
     "name": "X (Twitter) Trends Scraper",
     "description": "Scrape real-time Twitter/X trends from any country or city. Get top 50 trending hashtags, tweet counts, and hourly history. Ideal for social media monitoring, viral topic tracking, and market research. Fast, reliable, and supports granular location data.",
-    "rating": 1.058904289967389,
+    "rating": 1.05890428996739,
     "rating_count": 2,
     "url": "https://apify.com/eunit/x-twitter-trends-scraper?fpr=hs6s8"
   },
@@ -3546,7 +3546,7 @@
   {
     "id": "o1jXchn04PSHWYRPG",
     "name": "𝕏(twitter) Community Profile",
-    "description": "Look up any X (Twitter) Community — creator, member counts, trending hashtags, and top posts. 14+ details per community in one query.",
+    "description": "Look up X (Twitter) Communities with creator details, member counts, trending hashtags, top posts, and 14+ fields per community.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/x-community-profile?fpr=hs6s8"
@@ -3786,7 +3786,7 @@
   {
     "id": "NFWpiIrH8lepzKJoL",
     "name": "𝕏(twitter) User Profile",
-    "description": "Look up any X (Twitter) profile — verification, follower stats, engagement, pinned tweet, and pro-account info. 35+ details. Search many handles at once.",
+    "description": "Look up X (Twitter) profiles with verification, follower stats, engagement, pinned tweet, pro-account info, and 35+ fields for bulk handle research.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/x-user-profile?fpr=hs6s8"
@@ -7466,7 +7466,7 @@
   {
     "id": "Xzx9cQ28OerGtBV3o",
     "name": "Reddit Post Search",
-    "description": "Search any topic across all of Reddit. Find posts, full comment threads, votes, and the communities discussing them. Cross-subreddit keyword search in one query.",
+    "description": "Search Reddit posts across communities by keyword. Export posts, votes, full comment threads, and subreddit context for market research and topic discovery.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/reddit-post-search?fpr=hs6s8"
@@ -7650,7 +7650,7 @@
   {
     "id": "ArH4ExWA6fVhpwgqD",
     "name": "Reddit Community Post",
-    "description": "Read all posts from any subreddit — title, body, author, score, timestamps, and full comment threads with replies. Browse Reddit without an account.",
+    "description": "Read subreddit posts by community and sort order. Export title, body, author, score, timestamps, 40+ metadata fields, and optional nested comment threads.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/reddit-community-post?fpr=hs6s8"
@@ -8130,7 +8130,7 @@
   {
     "id": "gekwgxM0rPkVVIzUG",
     "name": "Google News Scraper — Headlines, Any Topic, Export",
-    "description": "Monitor competitors in Google News in minutes. No official API, no RSS limits, no blocks. Titles, dates, snippets, source URLs as CSV. 44+ runs. For PR + brand monitoring + crisis alerts. spinov001@gmail.com · blog.spinov.online · t.me/scraping_ai",
+    "description": "Monitor competitors in Google News in minutes. No official API, no RSS limits, no blocks. Titles, dates, snippets, source URLs as CSV. 50 lifetime runs · 8 paying users. For PR + brand monitoring + crisis alerts. spinov001@gmail.com · blog.spinov.online · t.me/scraping_ai",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/google-news-scraper?fpr=hs6s8"
@@ -8746,7 +8746,7 @@
   {
     "id": "E4AxzjmyF6mhrmww2",
     "name": "LinkedIn Job Search",
-    "description": "Search LinkedIn jobs across 200+ countries — salaries, required skills, company details, and easy-apply links. No login or LinkedIn account needed.",
+    "description": "Search LinkedIn jobs across 200+ countries. Export salaries, required skills, company details, and easy-apply links; no LinkedIn account or login needed.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/linkedin-job-search?fpr=hs6s8"
@@ -8754,7 +8754,7 @@
   {
     "id": "OFnTh9yMuUwXPZe4e",
     "name": "Reddit User Profile",
-    "description": "Look up any Reddit user — comment history, posting patterns, top subreddits, and karma. See their full Reddit story on one page.",
+    "description": "Look up Reddit user profiles with comment history, posting patterns, top subreddits, karma, and activity signals for audience and community research.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/reddit-user-profile?fpr=hs6s8"
@@ -8762,7 +8762,7 @@
   {
     "id": "zSJMwA6pZ817yodN3",
     "name": "Find Any Company On LinkedIn",
-    "description": "Look up any company on LinkedIn — industry, size, type, headquarters, website, phone, specialties, employee count, followers, office locations, and featured staff. One URL, instant result, no login needed.",
+    "description": "Look up any LinkedIn company profile by URL. Export industry, size, HQ, website, phone, specialties, followers, office locations, and featured staff; no login.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/find-any-company-on-linkedin?fpr=hs6s8"
@@ -8770,7 +8770,7 @@
   {
     "id": "bdFppjxrVjQpbiLmo",
     "name": "Zillow Real Estate",
-    "description": "Search Zillow homes by ZIP, city, or state — price, Zestimate, Rent Zestimate, price history, days on market. For sale, rent, and recently sold listings.",
+    "description": "Search Zillow homes by ZIP, city, or state. Export price, Zestimate, Rent Zestimate, price history, days on market, and for-sale, rent, or sold listing data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/zillow-real-estate?fpr=hs6s8"
@@ -8778,7 +8778,7 @@
   {
     "id": "W2lvRDegavvqPn0Pr",
     "name": "US Real Estate",
-    "description": "Find US homes for sale and rent — price, MLS, agent contact, photos, and open houses. All 50 states, 7 listing types, 50+ details per property. Search by ZIP, city, or state.",
+    "description": "Search US homes for sale or rent by ZIP, city, or state. Export price, MLS, agent contact, photos, open houses, 7 listing types, and 50+ property details.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/us-real-estate?fpr=hs6s8"
@@ -8786,7 +8786,7 @@
   {
     "id": "QlV6JXKESJembXKsQ",
     "name": "Reddit Community User",
-    "description": "Get the full member list of any subreddit — usernames, karma, account age, trophies, and post-history links. One click, no Reddit account needed.",
+    "description": "Get subreddit member lists with usernames, karma, account age, trophies, and post-history links. Search one community without a Reddit account.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/reddit-community-user?fpr=hs6s8"
@@ -8898,7 +8898,7 @@
   {
     "id": "0SHtjFyh3L6V8fLDT",
     "name": "Google Business Profile",
-    "description": "Look up any business on Google Maps — verified phone, email, website, social links, hours, popular times, photos, and reviews. 40+ details with worldwide coverage.",
+    "description": "Look up any Google Maps business profile. Export phone, email, website, social links, hours, popular times, photos, reviews, and 40+ worldwide details.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/google-business-profile?fpr=hs6s8"
@@ -8994,7 +8994,7 @@
   {
     "id": "KdZEBj7bgFgCh2Mg1",
     "name": "TikTok Video Lookup",
-    "description": "Get the full story behind any TikTok video — internal TikTok Score, Recommend Type, hidden SEO data, audio metadata, full comments, and original music link. 50+ details per video.",
+    "description": "Look up any TikTok video with 50+ details, including TikTok Score, Recommend Type, hidden SEO data, audio metadata, comments, and original music links.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/tiktok-video-lookup?fpr=hs6s8"
@@ -9002,7 +9002,7 @@
   {
     "id": "GQUd4aDw89LUD9IRZ",
     "name": "YouTube Niche Scraper",
-    "description": "Search YouTube by keyword and get video results with related channel details, contact emails, stats, and links in one output. Built for creator research, outreach, and keyword discovery.",
+    "description": "Search YouTube by keyword and export videos with channel details, contact emails, stats, and links for creator research, outreach, and keyword discovery.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/youtube-niche-scraper?fpr=hs6s8"
@@ -9010,7 +9010,7 @@
   {
     "id": "FiN3qhAHDYW2nV3Wx",
     "name": "Video Subtitles Downloader",
-    "description": "Download subtitles from 1000+ video sites. Auto-converts 9 formats (VTT, ASS, TTML, JSON and more) into clean SRT — paste a link, get a ready-to-use subtitle file.",
+    "description": "Download subtitles from 1000+ video sites and convert 9 formats, including VTT, ASS, TTML, and JSON, into clean SRT from a pasted video link.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/video-subtitles-downloader?fpr=hs6s8"
@@ -9018,7 +9018,7 @@
   {
     "id": "DWlxiR8rGSilY8GHd",
     "name": "Instagram To Text",
-    "description": "Turn Instagram reels, stories, and videos into searchable text. AI transcription, timestamped captions, and instant translation to 100+ languages. Paste a link, get text.",
+    "description": "Convert Instagram reels, stories, and videos to searchable text with AI transcription, timestamped captions, and translation to 100+ languages from a pasted link.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/instagram-to-text?fpr=hs6s8"
@@ -9042,7 +9042,7 @@
   {
     "id": "xbKLwhle3H8lmpXTG",
     "name": "Find Anyone On LinkedIn",
-    "description": "Look up any person on LinkedIn — job title, company, education, skills, certifications, and contact links. Paste a profile URL, get the full picture instantly.",
+    "description": "Look up any LinkedIn person profile by URL. Export job title, company, education, skills, certifications, and contact links for recruiting or lead research.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/find-anyone-on-linkedin?fpr=hs6s8"
@@ -9122,7 +9122,7 @@
   {
     "id": "nU312PzlPsPH0na31",
     "name": "Instagram Profile",
-    "description": "Look up any Instagram profile — bio, followers, posts, reels, verified status, business info, contact details, and related profiles. 34 fields per account, up to 1,000 at once",
+    "description": "Look up Instagram profiles in bulk. Export bio, followers, posts, reels, verified status, business info, contacts, related profiles, and 34 fields per account.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/instagram-profile?fpr=hs6s8"
@@ -9162,7 +9162,7 @@
   {
     "id": "694ZurZD4xBPBM6oc",
     "name": "Instagram Post",
-    "description": "Get recent Instagram posts from any public profile — captions, media links, likes, comments, play counts, and profile context. Download photos and videos to your storage. One profile per run.",
+    "description": "Get recent posts from any public Instagram profile. Export captions, media URLs, likes, comments, play counts, profile context, and downloadable photos or videos.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/instagram-post?fpr=hs6s8"
@@ -9210,7 +9210,7 @@
   {
     "id": "ecd1FhF9Ipe7t98Ms",
     "name": "Instagram Explore",
-    "description": "Find what's trending on Instagram right now. Get public Explore posts across topics like Fashion, Music, Food, Travel, and more — with captions, media links, engagement counts, and topic labels.",
+    "description": "Find public Instagram Explore posts by topic, including Fashion, Music, Food, and Travel. Export captions, media URLs, engagement counts, and topic labels.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/cheapget/instagram-explore?fpr=hs6s8"
@@ -9886,5 +9886,37 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/gio21/apple-podcasts-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "vBQPKeCkwg5Zz8BkR",
+    "name": "Promodescuentos Scraper",
+    "description": "High-precision data extraction tool designed for promodescuentos.com, Mexico largest social shopping community. It allows you to monitor the latest bargains, track price errors, and analyze consumer trends by capturing the full technical metadata of deals, vouchers, and discussions.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/saswave/promodescuentos-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "iyKfJkc3FUax9WoDE",
+    "name": "Pepper Scraper",
+    "description": "High-precision data extraction tool designed for nl.pepper.com & pepper.pl, EU largest social shopping community. It allows you to monitor the latest bargains, track price errors, and analyze consumer trends by capturing the full technical metadata of deals, vouchers, and discussions.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/saswave/pepper-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "A1wRUM9fjOE6jIPks",
+    "name": "Preisjaeger Scraper",
+    "description": "High-precision data extraction tool designed for preisjaeger.at, Austria largest social shopping community. It allows you to monitor the latest bargains, track price errors, and analyze consumer trends by capturing the full technical metadata of deals, vouchers, and discussions.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/saswave/preisjaeger-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Vw6gsfWHZrz1ZcYOA",
+    "name": "MCP Server: HackerNews — Search, Comments, Show HN",
+    "description": "Apify MCP server for AI agents: 6 tools to query HackerNews via Algolia API. Search stories/comments, top front page, Show HN trending, user profiles. Free official API, $0.005/call.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/dltik/mcp-server-hackernews?fpr=hs6s8"
   }
 ]
