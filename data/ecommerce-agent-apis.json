@@ -11,7 +11,7 @@
     "id": "XtaWFhbtfxyzqrFmd",
     "name": "Facebook Ad Library Scraper",
     "description": "Scrape facebook ads from ad library search results and ads run by facebook pages - Fast and lightweight. $0.75 per 1000 results",
-    "rating": 4.633700187992723,
+    "rating": 4.633700187992724,
     "rating_count": 85,
     "url": "https://apify.com/curious_coder/facebook-ads-library-scraper?fpr=hs6s8"
   },
@@ -51,7 +51,7 @@
     "id": "imHauyZAb4ZhYkgZG",
     "name": "eBay Product Details Scraper",
     "description": "eBay Product Details Scraper lets you extract rich product data from eBay by simply providing product page URLs. Get detailed info like seller stats, product price, condition, shipping details, and more—efficient and accurate!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 27,
     "url": "https://apify.com/delicious_zebu/ebay-product-details-scraper?fpr=hs6s8"
   },
@@ -59,7 +59,7 @@
     "id": "p8ayTDW1EedV8GNgA",
     "name": "Yelp Advanced Data Scraper",
     "description": "Effortlessly scrape detailed restaurant data from Yelp, including ratings, reviews, amenities, and operating hours. Perfect for building robust datasets for market analysis, apps, or research projects.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 26,
     "url": "https://apify.com/delicious_zebu/yelp-advanced-data-scraper?fpr=hs6s8"
   },
@@ -83,17 +83,9 @@
     "id": "jSOgUYGeXbBJvWwNk",
     "name": "Amazon Product Data Scraper",
     "description": "Scrape detailed Amazon product data, including ratings, prices, availability, and reviews, from any custom list or keyword search. Fast, precise, and tailored for your needs!",
-    "rating": 4.837068777529472,
+    "rating": 4.837068777529471,
     "rating_count": 26,
     "url": "https://apify.com/delicious_zebu/amazon-product-data-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "8bXnzCF4JVgMMA5cM",
-    "name": "eBay Product Listing Scraper",
-    "description": "Extract product information from any eBay listing page, including search results, filtered listings, and category pages. Perfect for collecting detailed data like product titles, prices, shipping costs, and more.",
-    "rating": 5.000000000000001,
-    "rating_count": 24,
-    "url": "https://apify.com/delicious_zebu/ebay-product-listing-scraper?fpr=hs6s8"
   },
   {
     "id": "U3DyJ7kdhQlYyeQKd",
@@ -107,15 +99,23 @@
     "id": "M4Czf0ZkskFDHHaDT",
     "name": "eBay Items Scraper",
     "description": "Scrape eBay search results, category pages, and item listings. Extract product titles, prices, conditions, sellers, shipping costs, images, and more.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 24,
     "url": "https://apify.com/crawlerbros/ebay-items-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "8bXnzCF4JVgMMA5cM",
+    "name": "eBay Product Listing Scraper",
+    "description": "Extract product information from any eBay listing page, including search results, filtered listings, and category pages. Perfect for collecting detailed data like product titles, prices, shipping costs, and more.",
+    "rating": 4.999999999999999,
+    "rating_count": 24,
+    "url": "https://apify.com/delicious_zebu/ebay-product-listing-scraper?fpr=hs6s8"
   },
   {
     "id": "5k1xD3vAudzjTBS7E",
     "name": "eBay Store Scraper",
     "description": "eBay Store Product Scraper allows you to collect detailed information from any eBay store. Simply provide the store URL, and this Actor will scrape all product details, including pricing, images, shipping info, and more.",
-    "rating": 4.665647419186071,
+    "rating": 4.665647419186072,
     "rating_count": 26,
     "url": "https://apify.com/delicious_zebu/ebay-store-scraper?fpr=hs6s8"
   },
@@ -160,14 +160,6 @@
     "url": "https://apify.com/delicious_zebu/amazon-reviews-scraper-with-advanced-filters?fpr=hs6s8"
   },
   {
-    "id": "JziY9YnglkuoWMDsq",
-    "name": "Gumtree Scraper",
-    "description": "Scrape listings from Gumtree Australia (.com.au), Gumtree UK (.com), and Gumtree South Africa (.co.za). Extract titles, prices, descriptions, images, seller info, location, and more from search results and individual listing pages.",
-    "rating": 5,
-    "rating_count": 22,
-    "url": "https://apify.com/crawlerbros/gumtree-scraper?fpr=hs6s8"
-  },
-  {
     "id": "4rB6N2WXNPMq65jft",
     "name": "ZonaProp Scraper",
     "description": "Scrape real estate listings from ZonaProp.com.ar, Argentina's leading property portal. Extract prices, locations, features, images, and publisher info.",
@@ -176,10 +168,18 @@
     "url": "https://apify.com/crawlerbros/zonaprop-scraper?fpr=hs6s8"
   },
   {
+    "id": "JziY9YnglkuoWMDsq",
+    "name": "Gumtree Scraper",
+    "description": "Scrape listings from Gumtree Australia (.com.au), Gumtree UK (.com), and Gumtree South Africa (.co.za). Extract titles, prices, descriptions, images, seller info, location, and more from search results and individual listing pages.",
+    "rating": 4.999999999999999,
+    "rating_count": 22,
+    "url": "https://apify.com/crawlerbros/gumtree-scraper?fpr=hs6s8"
+  },
+  {
     "id": "61WFZGx48ladiqz3t",
     "name": "Trustpilot Scraper Pro",
     "description": "Trustpilot Scraper Pro is a powerful Apify actor that extracts detailed business information and customer reviews from Trustpilot. Choose between two modes: scrape company data (name, rating, contact, etc.) or collect reviews with filters.",
-    "rating": 4.726258523932148,
+    "rating": 4.726258523932149,
     "rating_count": 24,
     "url": "https://apify.com/coder_zoro/Trustpilot-Scraper-Pro?fpr=hs6s8"
   },
@@ -192,20 +192,20 @@
     "url": "https://apify.com/crawlerbros/etsy-scraper?fpr=hs6s8"
   },
   {
-    "id": "SkhufQ9vFnIs33AjL",
-    "name": "Shopify Scraper",
-    "description": "Scrape products from any Shopify store. Extract product titles, prices, variants, SKUs, images, descriptions, inventory availability, and more using Shopify's public products.json API.",
-    "rating": 5,
-    "rating_count": 21,
-    "url": "https://apify.com/crawlerbros/shopify-scraper?fpr=hs6s8"
-  },
-  {
     "id": "LWGtCREyk55EzeEby",
     "name": "Google Shopping Scraper",
     "description": "Scrape Google Shopping search results. Extract product titles, prices, merchant names, ratings, reviews, images, and shipping info for any search query.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 21,
     "url": "https://apify.com/crawlerbros/google-shopping-insights?fpr=hs6s8"
+  },
+  {
+    "id": "SkhufQ9vFnIs33AjL",
+    "name": "Shopify Scraper",
+    "description": "Scrape products from any Shopify store. Extract product titles, prices, variants, SKUs, images, descriptions, inventory availability, and more using Shopify's public products.json API.",
+    "rating": 4.999999999999999,
+    "rating_count": 21,
+    "url": "https://apify.com/crawlerbros/shopify-scraper?fpr=hs6s8"
   },
   {
     "id": "qxhON70fwi8cHds3n",
@@ -296,20 +296,20 @@
     "url": "https://apify.com/crawlerbros/yelp-scraper?fpr=hs6s8"
   },
   {
-    "id": "RVD1eMi1HErdopeKa",
-    "name": "WooCommerce Scraper",
-    "description": "Scrape products, categories, tags, attributes, and reviews from any WooCommerce store.",
-    "rating": 5.000000000000001,
-    "rating_count": 18,
-    "url": "https://apify.com/crawlerbros/woocommerce-scraper?fpr=hs6s8"
-  },
-  {
     "id": "X0XUtPS1r7nVIHj2y",
     "name": "Dubizzle Product Search Scraper",
     "description": "Scrape product listings from Dubizzle UAE for motors, real estate, jobs, electronics, and more. Extract prices, photos, seller info, location, and 70+ fields per listing.",
     "rating": 5,
     "rating_count": 18,
     "url": "https://apify.com/crawlerbros/dubizzle-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "RVD1eMi1HErdopeKa",
+    "name": "WooCommerce Scraper",
+    "description": "Scrape products, categories, tags, attributes, and reviews from any WooCommerce store.",
+    "rating": 4.999999999999999,
+    "rating_count": 18,
+    "url": "https://apify.com/crawlerbros/woocommerce-scraper?fpr=hs6s8"
   },
   {
     "id": "N8vqwV9wL9wpIsLDz",
@@ -339,7 +339,7 @@
     "id": "TR9lgadYNwLrtjHMC",
     "name": "Kickstarter Project Scraper",
     "description": "Extract crowdfunding project data from Kickstarter like name, blurb, goal, pledged amount, backers, deadline, creator, category, country, and more. Uses the public search API for reliable results.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 17,
     "url": "https://apify.com/crawlerbros/kickstarter-scraper?fpr=hs6s8"
   },
@@ -363,7 +363,7 @@
     "id": "gFtgG31RZJYlphznm",
     "name": "Amazon Reviews Scraper",
     "description": "[UPDATED] Scrape Amazon reviews per product! Filter by stars, keywords, media & verified purchases. Extract global reviews (20+ regions). Export JSON/CSV. Perfect for market research & SEO.",
-    "rating": 4.291077099315067,
+    "rating": 4.291077099315068,
     "rating_count": 18,
     "url": "https://apify.com/web_wanderer/amazon-reviews-extractor?fpr=hs6s8"
   },
@@ -387,7 +387,7 @@
     "id": "r7AcO3FrGEdrUUteA",
     "name": "RockAuto Parts Scraper",
     "description": "Search RockAuto.com, the largest free public US auto-parts catalogue by keyword or part number. Returns manufacturer, part number, category, price, core charge, pack size, and Info-page URL per listing. HTTP-only, no proxy, no API key, no login.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/crawlerbros/rockauto-parts-scraper?fpr=hs6s8"
   },
@@ -395,17 +395,9 @@
     "id": "qZcTjbYQeVscEWzgp",
     "name": "Shopify Scraper Pro",
     "description": "Scrape any Shopify store(s) at scale: products, collections, search, on-sale tracking, multi-store batches. Filters: price/vendor/type/tags/title/sale/availability/date. Multi-endpoint fallback. HTTP-only, no auth, no proxy.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/crawlerbros/shopify-scraper-pro?fpr=hs6s8"
-  },
-  {
-    "id": "c3yCAhPnSeO801Q6m",
-    "name": "Amazon Bestseller Scraper",
-    "description": "Scrapes Amazon Best Sellers, Movers and Shakers, New Releases, Most Wished For, and Most Gifted product lists. Extracts product details including name, price, URL, thumbnail, and position. Supports multiple Amazon domains: US, UK, DE, FR, ES, and IT",
-    "rating": 5.000000000000001,
-    "rating_count": 13,
-    "url": "https://apify.com/crawlerbros/amazon-bestseller-scraper?fpr=hs6s8"
   },
   {
     "id": "FK9vCzb6beu6SZ2Tj",
@@ -464,10 +456,26 @@
     "url": "https://apify.com/crawlerbros/eventbrite-scraper?fpr=hs6s8"
   },
   {
+    "id": "30JhodgeMvlyoqIjq",
+    "name": "Kleinanzeigen Scraper",
+    "description": "Scrape classified listings from Kleinanzeigen.de (formerly eBay Kleinanzeigen). Extract listing details including title, price, description, location, seller info, images, and category-specific attributes.",
+    "rating": 5,
+    "rating_count": 13,
+    "url": "https://apify.com/crawlerbros/kleinanzeigen-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "c3yCAhPnSeO801Q6m",
+    "name": "Amazon Bestseller Scraper",
+    "description": "Scrapes Amazon Best Sellers, Movers and Shakers, New Releases, Most Wished For, and Most Gifted product lists. Extracts product details including name, price, URL, thumbnail, and position. Supports multiple Amazon domains: US, UK, DE, FR, ES, and IT",
+    "rating": 4.999999999999999,
+    "rating_count": 13,
+    "url": "https://apify.com/crawlerbros/amazon-bestseller-scraper?fpr=hs6s8"
+  },
+  {
     "id": "yILDYKTnlF58Db7rr",
     "name": "Whop.com Scraper",
     "description": "Scrape Whop.com community listings by search query, category, or URL. Extracts id, title, route, verified, member count, reviews, creator pitch, owner, images. HTTP-only, no proxy.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 13,
     "url": "https://apify.com/crawlerbros/whop-scraper?fpr=hs6s8"
   },
@@ -475,17 +483,9 @@
     "id": "iUxFQp4pO7QasMHSX",
     "name": "DoorDash Restaurant Scraper",
     "description": "Extract restaurant info + complete menus from DoorDash store pages like name, address, cuisine, breadcrumbs, FAQ, and full menu sections with item names, descriptions, and prices.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 13,
     "url": "https://apify.com/crawlerbros/doordash-restaurant-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "30JhodgeMvlyoqIjq",
-    "name": "Kleinanzeigen Scraper",
-    "description": "Scrape classified listings from Kleinanzeigen.de (formerly eBay Kleinanzeigen). Extract listing details including title, price, description, location, seller info, images, and category-specific attributes.",
-    "rating": 5,
-    "rating_count": 13,
-    "url": "https://apify.com/crawlerbros/kleinanzeigen-scraper?fpr=hs6s8"
   },
   {
     "id": "AI8ImglC0lL5o8Mxj",
@@ -523,7 +523,7 @@
     "id": "gUtzpgSANCUe5Gxdy",
     "name": "Zalando Scraper",
     "description": "Scrape Zalando product data across all European markets. \nExtracts product name, brand, price, currency, discount, \nimages, color, variants & description. Supports UK, DE, \nFR, IT, ES and more. Fast, reliable & easy to use. 🚀",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 11,
     "url": "https://apify.com/vistics/zalando-scraper?fpr=hs6s8"
   },
@@ -531,7 +531,7 @@
     "id": "uhnWJREFQincZz4uM",
     "name": "Home Depot Product Scraper",
     "description": "Scrape product listings from homedepot.com by keyword or direct URL. Returns product ID, title, brand, price, rating, reviews, image, and URL.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 11,
     "url": "https://apify.com/crawlerbros/homedepot-scraper?fpr=hs6s8"
   },
@@ -539,7 +539,7 @@
     "id": "ml2DQuaLqClbpKUxy",
     "name": "MercadoLibre Product Scraper",
     "description": "Scrape products from MercadoLibre across Mexico. Returns product title, price, currency, condition, seller, thumbnail, and permalink.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 11,
     "url": "https://apify.com/crawlerbros/mercadolibre-scraper?fpr=hs6s8"
   },
@@ -547,7 +547,7 @@
     "id": "kfirklPHcIpdg9jgo",
     "name": "Foodpanda Restaurant & Menu Scraper",
     "description": "Scrape Foodpanda restaurants by URL or location. Extracts name, rating, cuisines, delivery details, and full nested menus. Supports Singapore, Bangladesh, Pakistan, Hong Kong, and Malaysia.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 11,
     "url": "https://apify.com/crawlerbros/foodpanda-scraper?fpr=hs6s8"
   },
@@ -579,7 +579,7 @@
     "id": "1juBl6QedWJ3bwbgZ",
     "name": "App Store Data Extractor - Scrape reviews too!",
     "description": "Discover a vast collection of apps, movies, podcasts, reviews, and more on iTunes and the App Store. Extract comprehensive data including images, ISBN, author, description, title, language, user ratings, and reviews focused on countries without limitations. Unlimited and extremely fast!",
-    "rating": 4.962946660250846,
+    "rating": 4.962946660250845,
     "rating_count": 10,
     "url": "https://apify.com/epctex/appstore-scraper?fpr=hs6s8"
   },
@@ -587,7 +587,7 @@
     "id": "xYHAh66JcxDGnzs4G",
     "name": "AliExpress Scraper",
     "description": "Effortlessly extract descriptions, images, feedback, questions, prices, and shipping information from AliExpress. Customize country, language, and region preferences for enhanced data gathering.",
-    "rating": 4.947324763938607,
+    "rating": 4.947324763938608,
     "rating_count": 10,
     "url": "https://apify.com/epctex/aliexpress-scraper?fpr=hs6s8"
   },
@@ -598,6 +598,14 @@
     "rating": 4.281384735509675,
     "rating_count": 12,
     "url": "https://apify.com/xmiso_scrapers/eu-amazon-sellers-email-leads?fpr=hs6s8"
+  },
+  {
+    "id": "RMKw398cdpe4Xfxcm",
+    "name": "immobilienscout24 Scraper 💚 (By search URL)",
+    "description": "🔥 Fast #1 ImmoScout24 search pages scraper for Germany 🇩🇪, Switzerland 🇨🇭 & Austria 🇦🇹!\nScrape search results for just $1 per 1k listings. Get data in seconds via JSON, CSV, Excel, or API. Simply paste the URL and extract thousands of listings instantly!\nFast, cheap & DACH-ready. ⚡",
+    "rating": 4.999999999999999,
+    "rating_count": 9,
+    "url": "https://apify.com/azzouzana/immobilienscout24-de-search-results-scraper-by-search-url?fpr=hs6s8"
   },
   {
     "id": "h4eXF5vzdKwdBZeSc",
@@ -648,10 +656,26 @@
     "url": "https://apify.com/axesso_data/amazon-search-scraper?fpr=hs6s8"
   },
   {
+    "id": "Hopq3yebWETdVJ4wA",
+    "name": "Gumtree [Only $1.75💰] [com & com.au & co.za] Search Jobs, Cars",
+    "description": "💰$1.75 per 1,000 results, extract detailed listings including pricing history, seller info, vehicle specs (VIN, mileage, condition), electronics details, and furniture dimensions. Get rich media (images, videos), location data, and competitor analysis.",
+    "rating": 5.000000000000001,
+    "rating_count": 8,
+    "url": "https://apify.com/memo23/gumtree-cheerio?fpr=hs6s8"
+  },
+  {
+    "id": "dsYHmuqeHvtR7NYxx",
+    "name": "Shopify Products Scraper",
+    "description": "Scrape every product from any Shopify store: title, vendor, price, compare-at price, variants, stock status, and images. Just enter the store domain. No API keys or category URLs needed. Export data, run via API, schedule and monitor runs, or integrate with other tools.",
+    "rating": 5.000000000000001,
+    "rating_count": 8,
+    "url": "https://apify.com/trovevault/shopify-products-scraper?fpr=hs6s8"
+  },
+  {
     "id": "Rcgzp5lwattLx95SA",
     "name": "Daraz Product Scraper",
     "description": "The fastest Daraz product scraper on Apify — 4,000+ products in under 40 seconds for only $0.69/1k results. Works in Bangladesh · Pakistan · Nepal · Sri Lanka · Myanmar.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 8,
     "url": "https://apify.com/itclan-bd/daraz-product-scraper?fpr=hs6s8"
   },
@@ -672,14 +696,6 @@
     "url": "https://apify.com/happitap/competitor-marketing-change-monitor?fpr=hs6s8"
   },
   {
-    "id": "RMKw398cdpe4Xfxcm",
-    "name": "immobilienscout24 Scraper 💚 (By search URL)",
-    "description": "🔥 Fast #1 ImmoScout24 search pages scraper for Germany 🇩🇪, Switzerland 🇨🇭 & Austria 🇦🇹!\nScrape search results for just $1 per 1k listings. Get data in seconds via JSON, CSV, Excel, or API. Simply paste the URL and extract thousands of listings instantly!\nFast, cheap & DACH-ready. ⚡",
-    "rating": 5.000000000000001,
-    "rating_count": 8,
-    "url": "https://apify.com/azzouzana/immobilienscout24-de-search-results-scraper-by-search-url?fpr=hs6s8"
-  },
-  {
     "id": "Ca7tBqNduWgy2A2pq",
     "name": "Autotrader.co.uk [$0.85💰] | Unlimited | Richest output",
     "description": "💰$0.85 per 1,000 cars, extract vehicle data from AutoTrader.co.uk: pricing, specs (make/model/year/mileage), finance quotes with APR/payments, dealer ratings & contact, high-res images, vehicle checks, and CTAs. Ideal for automotive market analysis & lead generation.",
@@ -696,18 +712,10 @@
     "url": "https://apify.com/epctex/walmart-scraper?fpr=hs6s8"
   },
   {
-    "id": "Hopq3yebWETdVJ4wA",
-    "name": "Gumtree [Only $1.75💰] [com & com.au & co.za] Search Jobs, Cars",
-    "description": "💰$1.75 per 1,000 results, extract detailed listings including pricing history, seller info, vehicle specs (VIN, mileage, condition), electronics details, and furniture dimensions. Get rich media (images, videos), location data, and competitor analysis.",
-    "rating": 4.999999999999999,
-    "rating_count": 8,
-    "url": "https://apify.com/memo23/gumtree-cheerio?fpr=hs6s8"
-  },
-  {
     "id": "ZhSGsaq9MHRnWtStl",
     "name": "Amazon ASINs Scraper",
     "description": "Gets you product data from Amazon. Unofficial API. Scrapes and downloads product information without using the Amazon API, including reviews, prices, descriptions.",
-    "rating": 4.975259599200586,
+    "rating": 4.975259599200587,
     "rating_count": 8,
     "url": "https://apify.com/junglee/amazon-asins-scraper?fpr=hs6s8"
   },
@@ -731,7 +739,7 @@
     "id": "ayQYM0y9STWJt4en5",
     "name": "Olx Brasil Imoveis Scraper",
     "description": "🏠 Extraia anúncios de imóveis da OLX Brasil com preço, localização e detalhes completos. Ideal para análise de mercado e monitoramento. 💬 Achou caro? Entre em contato comigo e conversamos!",
-    "rating": 4.78868701440532,
+    "rating": 4.788687014405322,
     "rating_count": 8,
     "url": "https://apify.com/israeloriente/olx-brasil-imoveis-scraper?fpr=hs6s8"
   },
@@ -739,7 +747,7 @@
     "id": "XPhRbIwITcALIMq1S",
     "name": "Smarty.cz Product Scraper",
     "description": "Scrape all Smarty.cz products. Add one or more product category URLs and extract product details, prices, ratings, and availability data. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other tools.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/bytepulselabs/smarty-product-scraper?fpr=hs6s8"
   },
@@ -747,7 +755,7 @@
     "id": "yPIv8Th9a43ZDuxKu",
     "name": "Lidl Scraper",
     "description": "Extract product data from Lidl.de - prices, delivery dates, categories & detailed product info. Search by keywords or scrape specific categories. Fast, efficient scraping with advanced filtering. Perfect for price monitoring, market research & competitive analysis of German retail products.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 7,
     "url": "https://apify.com/epctex/lidl-scraper?fpr=hs6s8"
   },
@@ -763,7 +771,7 @@
     "id": "0agGNDsYzPJbAje8T",
     "name": "Website Speed Checker",
     "description": "Easily get Website Speed Data with Google Lighthouse performance metrics & Core Web Vitals Tool (Performance Score, FCP, LCP, TBT, CLS, Speed Index) from any webpage/URL, whether you're analyzing or testing a single URL or thousands in bulk. Run scraper in seconds for one time, on schedule, or API.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 7,
     "url": "https://apify.com/onescales/website-speed-checker?fpr=hs6s8"
   },
@@ -771,7 +779,7 @@
     "id": "h9kEJvo62ufE8PkSC",
     "name": "Kickstarter Scraper",
     "description": "The ultimate and most all-encompassing Kickstarter tool you'll ever discover. With powerful search features, you can instantly locate and access any live project on Kickstarter.com. Search by location, project status, funding progress, and more. User-friendly, cost-effective, and without limitations",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/epctex/kickstarter-scraper?fpr=hs6s8"
   },
@@ -779,7 +787,7 @@
     "id": "b9MYjkEgbqYKmeux2",
     "name": "Asos Data Scraper",
     "description": "Asos Data Scraper allows seamless extraction of publicly available data from ASOS products. It efficiently gathers essential information such as images and descriptions. The actor's capabilities extend to supporting category URLs, enabling comprehensive scraping.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/epctex/asos-scraper?fpr=hs6s8"
   },
@@ -787,7 +795,7 @@
     "id": "vetQadT3W7gHG48Np",
     "name": "Forever21 Scraper",
     "description": "Extract any product data from Forever21 easily! Images, sizes, SKUs, quantities, colors, and many more values are ready for you. Search for any keyword, filter by your needs, or get category pages! Export your data by XML, JSON, CSV, Excel or HTML.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/epctex/forever21-scraper?fpr=hs6s8"
   },
@@ -795,7 +803,7 @@
     "id": "lGaMjRFhMNdwVDhAj",
     "name": "ShopWSS.com Scraper",
     "description": "Scrape ShopWSS.com to crawl shoes, clothing, and accessories. Fetch their details including title, description, images, variants, and many more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/epctex/shopwss-scraper?fpr=hs6s8"
   },
@@ -843,7 +851,7 @@
     "id": "5PYnrlTi3BbZ7HoOZ",
     "name": "Fast Trustpilot Reviews Scraper API | TrustScores & Reviews",
     "description": "Lightning-fast Trustpilot Reviews Scraper that extracts 100-200 reviews per second at just $0.50 per 1K reviews. Features custom mapping, secure processing, and rich data output. Perfect for e-commerce managers, analysts, and researchers seeking customer insights.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 7,
     "url": "https://apify.com/agents/trustpilot-reviews?fpr=hs6s8"
   },
@@ -862,14 +870,6 @@
     "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/bytepulselabs/zoot-product-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "dsYHmuqeHvtR7NYxx",
-    "name": "Shopify Products Scraper",
-    "description": "Scrape every product from any Shopify store: title, vendor, price, compare-at price, variants, stock status, and images. Just enter the store domain. No API keys or category URLs needed. Export data, run via API, schedule and monitor runs, or integrate with other tools.",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/trovevault/shopify-products-scraper?fpr=hs6s8"
   },
   {
     "id": "aoKpDkM3ILkEbUfig",
@@ -923,7 +923,7 @@
     "id": "XAYU3jQyB1paRVpeM",
     "name": "Pap.fr Scraper (By Search URL)",
     "description": "🔥Très simple! Entrez le lien vers la page de recherche pap.fr et obtenir les résultats! ⚡ Extraire rapidement les infos détaillées sur les propriétés ( titre, description, photos, évaluations énergétique prix, contacts, transport et plus encore) à faible coût, avec exportation en JSON, CSV, EXCEL..",
-    "rating": 4.493461363359467,
+    "rating": 4.493461363359466,
     "rating_count": 7,
     "url": "https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-search-url?fpr=hs6s8"
   },
@@ -931,9 +931,17 @@
     "id": "vYKIXfBDWmdWiY9hv",
     "name": "Simple SEO Data Extractor",
     "description": "Grab SEO data from any webpage / URL and export the URL, Title Tag, Meta Description, Meta Keywords, Status Code, H1, H2, Canonical Tag and Meta Robots easily. Run the scraper for 1-100,000 pages. Run one time or on schedule or via API and Get an SEO Report for Any Site.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/onescales/simple-seo-data-extractor?fpr=hs6s8"
+  },
+  {
+    "id": "g0IhWzFAhWVvfyIX1",
+    "name": "EBAY | Search | Store | Seller Pages | Single Item",
+    "description": "Unofficial eBay API to extract data from eBay search results and product details with our eBay Search Results and Listing Details Scraper. Perfect for market research, price tracking, and detailed product analysis—get all the information you need, in one go.",
+    "rating": 5.000000000000001,
+    "rating_count": 6,
+    "url": "https://apify.com/memo23/apify-ebay-search-cheerio?fpr=hs6s8"
   },
   {
     "id": "hpCaO7JHXEQ5WThud",
@@ -942,14 +950,6 @@
     "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/immowelt-de-search-results-scraper-by-search-url?fpr=hs6s8"
-  },
-  {
-    "id": "g0IhWzFAhWVvfyIX1",
-    "name": "EBAY | Search | Store | Seller Pages | Single Item",
-    "description": "Unofficial eBay API to extract data from eBay search results and product details with our eBay Search Results and Listing Details Scraper. Perfect for market research, price tracking, and detailed product analysis—get all the information you need, in one go.",
-    "rating": 5,
-    "rating_count": 6,
-    "url": "https://apify.com/memo23/apify-ebay-search-cheerio?fpr=hs6s8"
   },
   {
     "id": "f1wE5t35KMLFHlH6M",
@@ -979,7 +979,7 @@
     "id": "TSUnfKDcCCOsOZFoJ",
     "name": "SeLoger bureaux-commerces scraper (by search URL) 💙",
     "description": "🔥 Scraping des annonces SeLoger bureaux-commerces ! ⚡ Rapide et économique, il permet d'extraire titres, descriptions, photos, prix, contacts, évaluation énergétique et bien plus. Exportez en JSON, CSV, HTML, EXCEL ouAPI. Entrez  l’URL de la page de recherche et laissez-nous faire le reste ! 🚀",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/seloger-bureaux-commerces-scraper-by-search-url?fpr=hs6s8"
   },
@@ -1035,15 +1035,31 @@
     "id": "PataeAthih1fU9TX7",
     "name": "Mercadolivre Scraper (Brasil português)",
     "description": "MercadoLivre Scraper para produtos e ofertas do dia é uma ferramenta de web scraping de última geração, criada para o site brasileiro MercadoLivre, que permite coletar dados públicos do MercadoLivre de forma fácil e eficiente.",
-    "rating": 4.642464915750704,
+    "rating": 4.642464915750703,
     "rating_count": 6,
     "url": "https://apify.com/karamelo/mercadolivre-scraper-brasil-portugues?fpr=hs6s8"
+  },
+  {
+    "id": "369lCizjubzE0ZE6s",
+    "name": "FLIPPA.com | Only $1💰 | Search by Url | Detail Pages | Scraper",
+    "description": "💰$1 per 1,000 results, scrape Flippa search & listings. Extract Revenue, Profit, Multiples, Traffic (Views/Uniques) & Seller Verification. Supports SaaS, Apps & Domains.",
+    "rating": 5.000000000000001,
+    "rating_count": 5,
+    "url": "https://apify.com/memo23/flippa-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "PUgTX5UlxsRT6WSWZ",
+    "name": "$1.5/1K 🤎 Marktplaats.nl Scraper PRO (By Search URL)",
+    "description": "🔥 Fast #1 Marktplaats search & category scraper for the Netherlands!\nScrape second-hand listings for just $1 per 1k results. Get data in seconds via JSON, CSV, Excel, or API. Simply paste your search or category URL and extract thousands of ads instantly!\nFast, cheap & NL-ready. ⚡",
+    "rating": 5.000000000000001,
+    "rating_count": 5,
+    "url": "https://apify.com/azzouzana/marktplaats-nl-scraper-pro-by-search-url?fpr=hs6s8"
   },
   {
     "id": "akOZkYAzhWDh4WVOG",
     "name": "Barnes and Noble Product Scraper",
     "description": "Gather product details with the Barnes and Noble Product Scraper. Extract titles, authors, prices, and ISBNs directly from Barnes and Noble. Optimize your e-commerce strategy with accurate, up-to-date data.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 5,
     "url": "https://apify.com/lexis-solutions/barnesandnoble-scraper?fpr=hs6s8"
   },
@@ -1067,17 +1083,17 @@
     "id": "9s3duMAXpCKZHpgI6",
     "name": "Otto.de Scraper",
     "description": "The Otto.de Apify Scraper is an automated tool for extracting valuable data from Otto.de - one of the leading e-commerce platforms in Germany. It provides businesses with insights for market analysis, competitor monitoring, and price tracking. Ideal for e-commerce and market research.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 5,
     "url": "https://apify.com/lexis-solutions/otto-de-scraper?fpr=hs6s8"
   },
   {
-    "id": "369lCizjubzE0ZE6s",
-    "name": "FLIPPA.com | Only $1💰 | Search by Url | Detail Pages | Scraper",
-    "description": "💰$1 per 1,000 results, scrape Flippa search & listings. Extract Revenue, Profit, Multiples, Traffic (Views/Uniques) & Seller Verification. Supports SaaS, Apps & Domains.",
+    "id": "cQAW12gQGh78gXWfi",
+    "name": "$1/1K 💙 Carsales.com.au Scraper (By Search URL)",
+    "description": "⚡ #1 Scrape carsales.com.au vehicle listings from any search URL. Get prices, photos, specs, highlights, seller notes, contact info, and much more for every car. Export to JSON, CSV, or API. Fast and affordable at just $1 per 1,000 listings. Grab your search URLs and you’re good to go! 🚀",
     "rating": 5,
     "rating_count": 5,
-    "url": "https://apify.com/memo23/flippa-scraper?fpr=hs6s8"
+    "url": "https://apify.com/azzouzana/carsales-com-au-scraper-by-search-url?fpr=hs6s8"
   },
   {
     "id": "8mZj9cSPz89fTgTdN",
@@ -1091,7 +1107,7 @@
     "id": "ZngwJY05Citdevf0m",
     "name": "Firmy.cz Search Scraper 🔍🏢 🇨🇿 - Cheap Levný",
     "description": "Easily collect business listings from Firmy.cz, one of Czechia’s largest business directories. Simply enter a search URL to extract key insights like address, phone, opening hours, rating & more ⭐ Seamlessly integrate the data into your analytics tools for lead generation, or competitor analysis 📊",
-    "rating": 4.305874522182712,
+    "rating": 4.305874522182711,
     "rating_count": 6,
     "url": "https://apify.com/scrapestorm/firmy-cz-search-scraper---cheap-levny?fpr=hs6s8"
   },
@@ -1123,7 +1139,7 @@
     "id": "qRSfN5MBLbaEbSU6n",
     "name": "Vivino Scraper — Ratings, Prices & Taste Profiles",
     "description": "Extract wine ratings, prices, taste profiles, reviews, and grape varieties from Vivino. Search by wine name or URL. Fast HTTP-only approach with no browser needed. Export JSON, CSV, or Excel.",
-    "rating": 4.847898758336161,
+    "rating": 4.847898758336162,
     "rating_count": 5,
     "url": "https://apify.com/mrbridge/vivino-wine-data-scraper?fpr=hs6s8"
   },
@@ -1131,7 +1147,7 @@
     "id": "7WXZyKLZvyOPbf5Ih",
     "name": "Tiktok Shop Creators",
     "description": "TikTok Shop Creators - Gain powerful insights into TikTok Shop creators — their performance (GMV, units sold, engagement), audience, and content trends — all in one request.",
-    "rating": 4.161557478932885,
+    "rating": 4.161557478932886,
     "rating_count": 6,
     "url": "https://apify.com/lemur/tiktok-shop-creators?fpr=hs6s8"
   },
@@ -1147,7 +1163,7 @@
     "id": "t4Juw9jWflJjgpynE",
     "name": "Walmart Product Detail Scraper",
     "description": "Scrape full product detail pages on walmart.com, walmart.ca or walmart.com.mx",
-    "rating": 4.666666666666667,
+    "rating": 4.666666666666666,
     "rating_count": 5,
     "url": "https://apify.com/e-commerce/walmart-product-detail-scraper?fpr=hs6s8"
   },
@@ -1171,7 +1187,7 @@
     "id": "pVHUOwMvyGUgT9Qff",
     "name": "Tesco UK & Ireland Scraper",
     "description": "Extract product details like UPC / GTIN, price, competitor price, category, availability, promotions, nutrition, and images from Tesco UK & IE at scale. Scrape by product or category listing URLs with auto-pagination. Export data as HTML Table, JSON, JSONL, CSV, Excel, XML, or RSS.",
-    "rating": 4.293306653125863,
+    "rating": 4.293306653125862,
     "rating_count": 5,
     "url": "https://apify.com/radeance/tesco-scraper?fpr=hs6s8"
   },
@@ -1187,7 +1203,7 @@
     "id": "l43NkeQ5ZTbdljNRj",
     "name": "Mercadolibre Product Scraper",
     "description": "$0.8 / 1000 results , no proxies needed. Fast and reliable scraper for MercadoLibre product pages and search results. Support all domains. Perfect for competitive analysis, price monitoring, e-commerce intelligence, catalog enrichment, and high-volume data extraction.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/saswave/mercadolibre-product-scraper?fpr=hs6s8"
   },
@@ -1227,7 +1243,7 @@
     "id": "ouAIOm4LAbJVjQQ9I",
     "name": "$1.5/1K 💙 Realcommercial.com.au Scraper PRO (By Search URL)",
     "description": "#1 🔥 No-code scraper for realcommercial.com.au search pages.  \nPaste URLs and extract comprehensive details; prices, attributes, address, phone numbers, emails, and more!  \nExport to JSON, CSV, Excel, or API. Fast, affordable, and easy. Start now! 🚀",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/azzouzana/realcommercial-com-au-scraper-pro-by-search-url?fpr=hs6s8"
   },
@@ -1267,17 +1283,9 @@
     "id": "YGyLcwY7L1nVPhhAV",
     "name": "Similarweb Scraper : Traffic, Rankings & Competitors",
     "description": "Extract traffic estimates, global rankings, engagement metrics, and competitor data from any domain, fast, reliable, and block-resistant.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/just_scrape/similarweb-advanced-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "cQAW12gQGh78gXWfi",
-    "name": "$1/1K 💙 Carsales.com.au Scraper (By Search URL)",
-    "description": "⚡ #1 Scrape carsales.com.au vehicle listings from any search URL. Get prices, photos, specs, highlights, seller notes, contact info, and much more for every car. Export to JSON, CSV, or API. Fast and affordable at just $1 per 1,000 listings. Grab your search URLs and you’re good to go! 🚀",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/azzouzana/carsales-com-au-scraper-by-search-url?fpr=hs6s8"
   },
   {
     "id": "FOFLwhGcJyDatO1JQ",
@@ -1299,7 +1307,7 @@
     "id": "wg0VauOpdGxnXknOX",
     "name": "All In One Shopify Scraper",
     "description": "All In One Shopify Scraper : Scrapes product listings from Shopify stores. Designed for stable, production-scale scraping.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/gauzy_penguin/Shopify-Scraper?fpr=hs6s8"
   },
@@ -1310,14 +1318,6 @@
     "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/memo23/facebook-marketplace-cheerio?fpr=hs6s8"
-  },
-  {
-    "id": "PUgTX5UlxsRT6WSWZ",
-    "name": "$1.5/1K 🤎 Marktplaats.nl Scraper PRO (By Search URL)",
-    "description": "🔥 Fast #1 Marktplaats search & category scraper for the Netherlands!\nScrape second-hand listings for just $1 per 1k results. Get data in seconds via JSON, CSV, Excel, or API. Simply paste your search or category URL and extract thousands of ads instantly!\nFast, cheap & NL-ready. ⚡",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/azzouzana/marktplaats-nl-scraper-pro-by-search-url?fpr=hs6s8"
   },
   {
     "id": "aHsoBbHh2RXpD2nrL",
@@ -1363,7 +1363,7 @@
     "id": "HOQ7J8VpusAOEbb6p",
     "name": "Instagram Hashtag Scraper Pro ✅ No cookies ✅",
     "description": "Instagram Hashtag Scraper API: Automatically extract public Instagram posts by hashtag. Perfect for trend analysis, campaign monitoring, and real-time content collection.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/scraping_solutions/instagram-hashtag-scraper-pro-no-cookies?fpr=hs6s8"
   },
@@ -1371,7 +1371,7 @@
     "id": "wX0zicoijgjSpc9nl",
     "name": "eBay Sold Listings Intelligence",
     "description": "Get real market prices from eBay sold listings. See what items ACTUALLY sold for, not asking prices. Includes pricing analytics, market velocity, demand levels, and recommended listing price. Perfect for resellers, collectors, estate sales, inheritance sales.",
-    "rating": 4.060247686005662,
+    "rating": 4.060247686005661,
     "rating_count": 5,
     "url": "https://apify.com/marielise.dev/ebay-sold-listings-intelligence?fpr=hs6s8"
   },
@@ -1379,7 +1379,7 @@
     "id": "APa5EQZZaXHWBmogv",
     "name": "Ozon.ru Product Scraper PRO | Парсер товаров Ozon",
     "description": "Full product data for any Ozon URL or search query - pricing, specs, variants, reviews, sellers, price history. Search with filters (price, rating, delivery). Tile-only mode 5x cheaper. JSON/CSV/Excel. No login. | Товары Ozon: цены, характеристики, варианты, отзывы, продавцы, история цен.",
-    "rating": 4.819590723950069,
+    "rating": 4.81959072395007,
     "rating_count": 4,
     "url": "https://apify.com/zen-studio/ozon-scraper-pro?fpr=hs6s8"
   },
@@ -1387,7 +1387,7 @@
     "id": "nfWPDHJzRb80PsNo1",
     "name": "Leboncoin Scraper (API) Pro 🇫🇷 - Annonces & Prix",
     "description": "Leboncoin.fr Scraper API: Extract classified ads with prices, locations, seller info, and photos. Filter by category, price range, and area. For market research, price monitoring, and competitive analysis across France.",
-    "rating": 4.758325004239999,
+    "rating": 4.758325004239998,
     "rating_count": 4,
     "url": "https://apify.com/clearpath/leboncoin-api?fpr=hs6s8"
   },
@@ -1411,7 +1411,7 @@
     "id": "MMQdritoUWpzUVbah",
     "name": "AllTrails Scraper",
     "description": "Supercharge your outdoor adventure planning with our comprehensive AllTrails Scraper! Automate collection of detailed trail information, ratings, reviews, and photos from AllTrails.com. Perfect for hikers, outdoor enthusiasts, and travel planners who need accurate without manual work.",
-    "rating": 3.896330439267165,
+    "rating": 3.896330439267164,
     "rating_count": 5,
     "url": "https://apify.com/parseforge/alltrails-scraper?fpr=hs6s8"
   },
@@ -1427,7 +1427,7 @@
     "id": "iVldsZF5aXuJe3FqV",
     "name": "Amazon Seller Competition Monitoring",
     "description": "$0.02 / 1000 results. Amazon seller scraper. Monitor sellers competition on a specific ASIN product number from any amazon domain. Collect data about buy boxe position, pricing, ratings, deliveries, discounts, seller id, seller name",
-    "rating": 4.4474686187564,
+    "rating": 4.447468618756399,
     "rating_count": 4,
     "url": "https://apify.com/saswave/amazon-seller-monitoring?fpr=hs6s8"
   },
@@ -1443,7 +1443,7 @@
     "id": "XX8HRK0M62EEfpwNe",
     "name": "WooCommerce Scraper ⭐5.0",
     "description": "💫 Scrape  WooCommerce and WordPress websites",
-    "rating": 3.648323332091051,
+    "rating": 3.64832333209105,
     "rating_count": 5,
     "url": "https://apify.com/jupri/woocommerce?fpr=hs6s8"
   },
@@ -1475,7 +1475,7 @@
     "id": "0gHYjpGMUO3VmnYmH",
     "name": "Linkedin Company Employees",
     "description": "The LinkedIn Company Employees Scraper extracts public employee data from LinkedIn company pages, including names, positions, locations, and profile links. Ideal for recruiters, analysts, and marketers to identify talent, map organizations, and support B2B lead generation efforts.",
-    "rating": 4.091117866431766,
+    "rating": 4.091117866431765,
     "rating_count": 4,
     "url": "https://apify.com/api-empire/linkedin-company-employees?fpr=hs6s8"
   },
@@ -1483,7 +1483,7 @@
     "id": "rgmJSzSEMzYZDDauS",
     "name": "eBay Reviews Scraper",
     "description": "Extract data from hundreds of eBay reviews. Get eBay review data, including text, rating, submission time, position, possible reply, reviewer username, item name, price with currency & more. Integrate eBay Reviews Scraper with other tools to streamline your workflow.",
-    "rating": 4.066666666666666,
+    "rating": 4.066666666666667,
     "rating_count": 4,
     "url": "https://apify.com/e-commerce/store-ebay?fpr=hs6s8"
   },
@@ -1491,7 +1491,7 @@
     "id": "F1ITW3XNjGuy7ZzcM",
     "name": "✨ Google Shopping Scraper",
     "description": "⚡ Lightning-fast Google Shopping scraper that captures live product listings straight from Google’s Shopping tab. Extract prices, ratings, sellers, availability, images and  more—fully localized by keyword, language, and country with automatic pagination. Ideal for e-commerce price monitoring...",
-    "rating": 4.028862647925967,
+    "rating": 4.028862647925968,
     "rating_count": 4,
     "url": "https://apify.com/damilo/google-shopping-apify?fpr=hs6s8"
   },
@@ -1504,10 +1504,66 @@
     "url": "https://apify.com/lucascode/facebook-advert-scraper?fpr=hs6s8"
   },
   {
+    "id": "OrZZZLAkfrg4SQIqT",
+    "name": "Amazon product scraper",
+    "description": "Fastest and powerful Amazon product scraper tool that extracts detailed product information from Amazon product pages, including title, price, features, images, technical specifications, and ratings.  Automate data collection for market research, price comparison and competitive analysis.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/logical_scrapers/amazon-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "nXuoYVbO0NSN0gUi1",
+    "name": "eBay Product Scraper",
+    "description": "Scrapes eBay product listings using search URLs or category pages. Extracts title, price, condition, seller, shipping, location, availability, images, and product identifiers.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/ebay-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "KXy0nNSMKq2vThBHB",
+    "name": "Yahoo Shopping Search Scraper",
+    "description": "Extract product listings, prices, seller info, and descriptions from Yahoo Shopping. Supports price filtering, sorting, category filtering, merchant filtering, and pagination. Returns structured JSON data for market research and price monitoring.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/johnvc/Yahoo-Shopping-Search-Scraper?fpr=hs6s8"
+  },
+  {
+    "id": "jm4192gDoX7CHY7IB",
+    "name": "Amazon Best Sellers Scraper",
+    "description": "Extracts real-time product listings from Amazon's Best Sellers pages with structured data including title, ASIN, rank, price, ratings, reviews, and more. Perfect for eCommerce competitor analysis, product research, and trend monitoring.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/happitap/amazon-best-sellers-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "kifGBetQiTQuJ2N1D",
+    "name": "Indiamart Product Scraper",
+    "description": "This Apify actor retrieves product and supplier data through the IndiaMart search API. Search by query and city to collect structured product information including name, price, company, contact details, and location. Perfect for B2B lead generation, market research, and sourcing products from India.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeai/indiamart-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "oo5F51R2W9jWYPvyK",
+    "name": "Fwrd Scraper",
+    "description": "FWRD Scraper is a high-performance actor designed to extract detailed product data from FWRD.com, Whether you need to monitor luxury fashion trends, track competitor pricing, or analyze new arrivals, this scraper delivers accurate, structured data in JSON, CSV, or Excel formats.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/logical_scrapers/fwrd-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "mGJPeX9cK8czaUGtx",
+    "name": "$1.5/1K ❤️ Redbook.com.au Scraper PRO (By Search URL)",
+    "description": "#1 ⚡ RedBook.com.au Scraper - Extract car research listings with price guides, keys details, ratings, title & much more! $1.50 per 1,000 listings. Export to JSON, CSV, Excel or API. Bot protection bypassed. Grab your search URLs and you're good to go! 🚀",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/azzouzana/redbook-com-au-scraper-pro-by-search-url?fpr=hs6s8"
+  },
+  {
     "id": "Xn9TPbfMffe55zEOd",
     "name": "Olx Product Scraper",
     "description": "This Apify actor scrapes classified ads from OLX India, extracting detailed listings for motorcycles, cars, electronics, and real estate by visiting each product’s detail page and collecting structured data.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/olx-product-scraper?fpr=hs6s8"
   },
@@ -1515,7 +1571,7 @@
     "id": "uf6MmwBLIv8M1Gl31",
     "name": "Myntra Products Scraper",
     "description": "Scrape product listings from Myntra using search queries and filters. Extract key data like product name, price, brand, ratings, images, and URLs. Supports pagination and customizable inputs for efficient e-commerce data collection.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/myntra-product-search-scraper?fpr=hs6s8"
   },
@@ -1523,7 +1579,7 @@
     "id": "3sSRgcgXhckMyhLi2",
     "name": "ZZZ Google Maps  Business  Scraper",
     "description": "Advanced Google Maps business data scraper with intelligent geographic processing, precise land filtering, and comprehensive business information extraction. Features smart location parsing, ocean point filtering using Natural Earth data, concurrent processing, and flexible proxy support.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/jinzha/google-maps-scraper-plus?fpr=hs6s8"
   },
@@ -1531,7 +1587,7 @@
     "id": "t3aqdJ0dMIm2BcwlT",
     "name": "Shopify Collection Scraper",
     "description": "Scrape product data from Shopify collection pages. Extract titles, prices, variants, images, descriptions, tags, inventory, and product URLs using Shopify JSON endpoints. Supports pagination and exports structured datasets for competitor analysis, catalog monitoring, and e-commerce research",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/shopify-collection-scraper?fpr=hs6s8"
   },
@@ -1539,7 +1595,7 @@
     "id": "j5zrkWVoWOqz3HSl5",
     "name": "Facebook Page Scraper $4 / 1000 results",
     "description": "$4 / 1000 results. Extract data from facebook company contact intro page. Collect informations at scale about: phone, email, page id, name, description, industry category, likes, followers, followings, ratings, website, social network links",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/saswave/facebook-company-page-scraper?fpr=hs6s8"
   },
@@ -1547,7 +1603,7 @@
     "id": "xuji1SdZ9pIlJkALF",
     "name": "Quikr Product Scraper",
     "description": "Retrieves product listings from Quikr via its search API, allowing searches by category, brand, product type, and city to collect structured data such as product name, price, condition, and contact details—ideal for market research, price comparison, and product intelligence.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/quikr-product-scraper?fpr=hs6s8"
   },
@@ -1587,7 +1643,7 @@
     "id": "0n1cNYZdMvTEoy2us",
     "name": "WLW Scraper - B2B Supplier Leads from Wer liefert was",
     "description": "Gather B2B supplier and manufacturer leads from WLW (werliefertwas.de), focused on the DACH market.\nExtract verified company data including contacts, locations, company size, and product portfolios.\nExport results to Excel, CSV, JSON, or use them directly in your CRM or automation workflows.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/plowdata/wlw-company-scraper?fpr=hs6s8"
   },
@@ -1595,17 +1651,9 @@
     "id": "i6v1PLsfabafMhOUU",
     "name": "Meesho Reviews Scraper 🛍️",
     "description": "Extract detailed product reviews from Meesho.com, including ratings, comments, review images, and author information. Perfect for market research, sentiment analysis, and product feedback monitoring.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/easyapi/meesho-reviews-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "OrZZZLAkfrg4SQIqT",
-    "name": "Amazon product scraper",
-    "description": "Fastest and powerful Amazon product scraper tool that extracts detailed product information from Amazon product pages, including title, price, features, images, technical specifications, and ratings.  Automate data collection for market research, price comparison and competitive analysis.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/logical_scrapers/amazon-product-scraper?fpr=hs6s8"
   },
   {
     "id": "xxCgm38ifv9HcLl9z",
@@ -1619,7 +1667,7 @@
     "id": "R57V4xhyjrtoFaH5T",
     "name": "1688.com Search Scraper",
     "description": "Search and scrapes product data (prices, sellers, sales) from 1688.com with keyword search, pagination, and proxy support. Built for bulk B2B data extraction using Apify.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/songd/1688-search-scraper?fpr=hs6s8"
   },
@@ -1707,7 +1755,7 @@
     "id": "R50LEKLu8B6u8DqcT",
     "name": "Amazon.de Sellers Leads Scraper",
     "description": "Scrapes Sellers data from Amazon.de based on your preferences, get leads directly from source, emails included",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/xmiso_scrapers/amazon-de-sellers-leads-scraper?fpr=hs6s8"
   },
@@ -1718,14 +1766,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/justdial-business-leads-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "nXuoYVbO0NSN0gUi1",
-    "name": "eBay Product Scraper",
-    "description": "Scrapes eBay product listings using search URLs or category pages. Extracts title, price, condition, seller, shipping, location, availability, images, and product identifiers.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/ebay-scraper?fpr=hs6s8"
   },
   {
     "id": "L9KenStO5gSvEDnmb",
@@ -1742,14 +1782,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/coder_zoro/sitemap-detector?fpr=hs6s8"
-  },
-  {
-    "id": "KXy0nNSMKq2vThBHB",
-    "name": "Yahoo Shopping Search Scraper",
-    "description": "Extract product listings, prices, seller info, and descriptions from Yahoo Shopping. Supports price filtering, sorting, category filtering, merchant filtering, and pagination. Returns structured JSON data for market research and price monitoring.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/johnvc/Yahoo-Shopping-Search-Scraper?fpr=hs6s8"
   },
   {
     "id": "OQYwQ4p9Z53s53Gx4",
@@ -1774,14 +1806,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/lexis-solutions/cargurus-com?fpr=hs6s8"
-  },
-  {
-    "id": "jm4192gDoX7CHY7IB",
-    "name": "Amazon Best Sellers Scraper",
-    "description": "Extracts real-time product listings from Amazon's Best Sellers pages with structured data including title, ASIN, rank, price, ratings, reviews, and more. Perfect for eCommerce competitor analysis, product research, and trend monitoring.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/happitap/amazon-best-sellers-scraper?fpr=hs6s8"
   },
   {
     "id": "4UAPrwZb1XOlkCJKK",
@@ -1835,7 +1859,7 @@
     "id": "paBd2Bv9ONUFkVddB",
     "name": "Facebook Ad Library - 5$/month",
     "description": "Scrape Facebook ads library reliably and efficiently!",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/insight_api_labs/facebook-ad-library-rental?fpr=hs6s8"
   },
@@ -1843,7 +1867,7 @@
     "id": "4ks1oxJ8HMQsrabrJ",
     "name": "Flipkart Product Scraper",
     "description": "This Apify actor automatically scrapes product listings from Flipkart based on your search term.\nIt extracts structured product data with key fields (productId, title, price, mrp, rating, ratingCount, image, url) — perfect for product analysis and price comparison.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/flipkart-product-scraper?fpr=hs6s8"
   },
@@ -1883,7 +1907,7 @@
     "id": "nRUXbCu7py1cgol1b",
     "name": "ZZZ Google Maps Scraper 1",
     "description": "Advanced Google Maps business data scraper with intelligent geographic processing, precise land filtering, and comprehensive business information extraction. Features smart location parsing, ocean point filtering using Natural Earth data, concurrent processing, and flexible proxy support.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/jinzha/zzz-google-maps-scraper-1?fpr=hs6s8"
   },
@@ -1922,7 +1946,7 @@
   {
     "id": "ixdpN9HvpNJll3GLn",
     "name": "Free LinkedIn Company Finder - Company URLs & Full Profile Data",
-    "description": "Find LinkedIn company pages from any domain list. Get URLs + full profiles (industry, size, HQ, followers, email, phone, socials, e-commerce supplier flag). $2.50/1K results. No LinkedIn account needed for Fast Mode. Apollo, Clearbit & Proxycurl alternative.",
+    "description": "Find LinkedIn company pages from any domain list. Get URLs + full profiles (industry, size, HQ, followers, email, phone, socials, e-commerce supplier flag). $2.00/1K results. No LinkedIn account needed for Fast Mode. Apollo, Clearbit & Proxycurl alternative.",
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/yonecode/linkedin-company-enricher?fpr=hs6s8"
@@ -1947,7 +1971,7 @@
     "id": "pWlhOqSznChFZqJs7",
     "name": "Trustpilot Scraper - Reviews, Ratings & Companies",
     "description": "Extract Trustpilot reviews, ratings, and company data at scale.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/trustpilot-scraper?fpr=hs6s8"
   },
@@ -1958,22 +1982,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapestorm/wildberries-product-scraper---cheap-deshyovyy-vayldberriz?fpr=hs6s8"
-  },
-  {
-    "id": "kifGBetQiTQuJ2N1D",
-    "name": "Indiamart Product Scraper",
-    "description": "This Apify actor retrieves product and supplier data through the IndiaMart search API. Search by query and city to collect structured product information including name, price, company, contact details, and location. Perfect for B2B lead generation, market research, and sourcing products from India.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeai/indiamart-product-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "oo5F51R2W9jWYPvyK",
-    "name": "Fwrd Scraper",
-    "description": "FWRD Scraper is a high-performance actor designed to extract detailed product data from FWRD.com, Whether you need to monitor luxury fashion trends, track competitor pricing, or analyze new arrivals, this scraper delivers accurate, structured data in JSON, CSV, or Excel formats.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/logical_scrapers/fwrd-scraper?fpr=hs6s8"
   },
   {
     "id": "EWJJBZPbKewlzua1b",
@@ -1990,14 +1998,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/louisdeconinck/wallapop-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "mGJPeX9cK8czaUGtx",
-    "name": "$1.5/1K ❤️ Redbook.com.au Scraper PRO (By Search URL)",
-    "description": "#1 ⚡ RedBook.com.au Scraper - Extract car research listings with price guides, keys details, ratings, title & much more! $1.50 per 1,000 listings. Export to JSON, CSV, Excel or API. Bot protection bypassed. Grab your search URLs and you're good to go! 🚀",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/azzouzana/redbook-com-au-scraper-pro-by-search-url?fpr=hs6s8"
   },
   {
     "id": "Y0QGH7cuqgKtNbEgt",
@@ -2035,7 +2035,7 @@
     "id": "q6wd7AaGgAM81UiOw",
     "name": "Competitor Price Tracker - Amazon, Shopify & More",
     "description": "Track competitor product prices across Amazon, Shopify, WooCommerce, and any e-commerce site. Extracts price, currency, availability via JSON-LD, OpenGraph, and CSS heuristics.",
-    "rating": 4.72017250423684,
+    "rating": 4.720172504236842,
     "rating_count": 3,
     "url": "https://apify.com/forward_workstation/competitor-price-tracker?fpr=hs6s8"
   },
@@ -2043,7 +2043,7 @@
     "id": "fVL47vA0rfwknZcpK",
     "name": "LinkedIn Ads Scraper 🔍🌍 (Advanced & Cheaper 💰)",
     "description": "Looking for a LinkedIn ads scraper to fetch sponsored ad details? 🔍 With the LinkedIn Ads Scraper 🚀, easily collect ad listings based on keywords, companies, locations & more. Retrieve details like advertiser names, ad headlines, commentary, image URLs, event dates, and links to detailed ad pages",
-    "rating": 2.802239712081683,
+    "rating": 2.802239712081684,
     "rating_count": 6,
     "url": "https://apify.com/scrapestorm/linkedin-ads-scraper-advanced-cheaper?fpr=hs6s8"
   },
@@ -2051,7 +2051,7 @@
     "id": "vIWXCqlIfkyC0vCcw",
     "name": "Craigslist Scraper",
     "description": "Scrape Craigslist listings across all categories and locations. Extract prices, descriptions, images, and contact details.",
-    "rating": 4.669120107059216,
+    "rating": 4.669120107059218,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/craigslist-scraper?fpr=hs6s8"
   },
@@ -2059,7 +2059,7 @@
     "id": "dh8ZNhxV8nVztaJuD",
     "name": "Walmart Fast Product Scraper",
     "description": "Quickly scrape product details from search listing pages on walmart.com or walmart.ca",
-    "rating": 4.666666666666665,
+    "rating": 4.666666666666666,
     "rating_count": 3,
     "url": "https://apify.com/e-commerce/walmart-fast-product-scraper?fpr=hs6s8"
   },
@@ -2067,7 +2067,7 @@
     "id": "NZjjFOxwepFmKXL6F",
     "name": "Blinkit Product Scraper",
     "description": "Powerful Blinkit scraper to extract real-time product data — prices, stock, ratings & variants by location. Supports multi-query search, pagination & Apify proxy for 403 bypass. Ideal for price tracking, market research & inventory analytics.",
-    "rating": 4.584442183144368,
+    "rating": 4.584442183144369,
     "rating_count": 3,
     "url": "https://apify.com/jocular_quisling/blinkit-product-scraper?fpr=hs6s8"
   },
@@ -2115,7 +2115,7 @@
     "id": "omgr8VWKxGZrtwQKJ",
     "name": "Whatnot Search Scraper",
     "description": "Scrape Whatnot.com search results, unofficial API. Extract listings, livestreams, products, and users.",
-    "rating": 4.374063923830334,
+    "rating": 4.374063923830335,
     "rating_count": 3,
     "url": "https://apify.com/epicscrapers/whatnot-scraper?fpr=hs6s8"
   },
@@ -2147,7 +2147,7 @@
     "id": "RFgSFodd9VW3EglR7",
     "name": "US Restaurants Scraper With Emails And Social Links",
     "description": "Trying to find all vegan, LGBTQ+ friendly, wheelchair accessible restaurants? Searching for all McDonald's? Whatever is your taste find it through huge database of restaurants, choose from many filters available,  with emails and social links scraped where available.",
-    "rating": 3.763093045211529,
+    "rating": 3.763093045211528,
     "rating_count": 3,
     "url": "https://apify.com/xmiso_scrapers/us-restaurants-scraper-with-emails-and-social-links?fpr=hs6s8"
   },
@@ -2155,7 +2155,7 @@
     "id": "UvcKMPXJ4PMcd8J0y",
     "name": "Google Ad Transparency Scraper",
     "description": "Extract and analyze data from Google's Ads Transparency Center. Monitor advertising spending, targeting strategies, and campaign performance across all advertisers. Get detailed insights into ad creatives, impressions, and demographics.",
-    "rating": 3.007205189607268,
+    "rating": 3.007205189607269,
     "rating_count": 4,
     "url": "https://apify.com/xtech/google-ad-transparency-scraper?fpr=hs6s8"
   },
@@ -2166,6 +2166,86 @@
     "rating": 2.974828371250882,
     "rating_count": 4,
     "url": "https://apify.com/piotrv1001/temu-listings-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gidsIBKDcyXdGF0zi",
+    "name": "Scrapeunblocker",
+    "description": "ScrapeUnblocker allows to bypass anti-bot services and scrape the full page source of any given URL within seconds.",
+    "rating": 2.929408232456852,
+    "rating_count": 4,
+    "url": "https://apify.com/scrapeunblocker/scrapeunblocker?fpr=hs6s8"
+  },
+  {
+    "id": "lAeHOoRs8jUldXSn5",
+    "name": "Leboncoin Cars Phone Leads Scraper",
+    "description": "Extract Leboncoin car ads with phone numbers using filters like city, price range, brand, fuel, gearbox, mileage, year, and seller type. Export structured results in JSON or CSV.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/mostafa-ennadi/leboncoin-cars-phone-leads-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "nhBBS8ZBEW4equFu9",
+    "name": "Daraz.pk Scraper",
+    "description": "Efficiently scrape product details, prices, and reviews from Daraz.pk, Pakistan's largest e-commerce platform. This lightweight actor ensures fast data extraction. For consistent results and to bypass anti-scraping measures, residential proxies are strongly recommended.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/shahidirfan/Daraz-pk-Scraper?fpr=hs6s8"
+  },
+  {
+    "id": "HKojvg6HLant9ochD",
+    "name": "Amazon France Sellers Leads Scraper",
+    "description": "Scrapes contact info including emails from Amazon France marketplace based on your selection, choose sellers from any keyword/category you need.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/xmiso_scrapers/amazon-france-sellers-leads-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "SzPe5jIcFPf11mHwr",
+    "name": "Amazon Keywords Discovery Tool 🎯",
+    "description": "🔍 Discover untapped keywords and topics in seconds! Get real-time search suggestions and insights from amazon search engines. Perfect for SEO specialists, content creators, and marketers looking to optimize their keyword strategy and uncover valuable long-tail opportunities.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/easyapi/amazon-keywords-discovery-tool?fpr=hs6s8"
+  },
+  {
+    "id": "zGhd4ucc2ffvbsw2k",
+    "name": "Sainsbury's Scraper",
+    "description": "Scrape product data from Sainsbury's Groceries webiste, the biggest supermarket chain based in the United Kingdom. Extract price, image, description, nutrition info, promotions and more. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/natanielsantos/sainsbury-s-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "JWEHgf5HWeoLlbchr",
+    "name": "Google Shopping Scraper",
+    "description": "Scrape Google Shopping products by keyword and extract prices, ratings, reviews, seller/store info, offers, shipping & more. Ideal for price monitoring, competitor research, and e-commerce market analysis.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/burbn/google-shopping-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "eOx7btKVgiegLYrmO",
+    "name": "TikTok Shop Reviews Pro ⭐️",
+    "description": "Extract TikTok Shop product reviews from product URLs, product IDs, or search-discovered products. Collect rating, review text, reviewer metadata, media flags, and product context for ecommerce intelligence.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/sentry/tiktok-shop-reviews-pro?fpr=hs6s8"
+  },
+  {
+    "id": "MTwERknGMhw084JeA",
+    "name": "TikTok Shop Store Monitor Pro  💾",
+    "description": "Monitor TikTok Shop seller stores and detect catalog changes across runs. Track matched products, price changes, additions, removals, and store-level snapshots for competitive ecommerce intelligence.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/sentry/tiktok-shop-store-monitor-pro?fpr=hs6s8"
+  },
+  {
+    "id": "MgqDrxBkXJGDF4P7I",
+    "name": "Flipkart Reviews Scraper  ⭐",
+    "description": "Instantly extract detailed product reviews, ratings, and customer feedback from Flipkart. Perfect for sentiment analysis, market research, and monitoring competitor products. Unlock valuable e-commerce insights and data to power your business growth today!",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/shahidirfan/flipkart-reviews-scraper?fpr=hs6s8"
   },
   {
     "id": "c1ZKJa4j8Xra8QsFL",
@@ -2179,7 +2259,7 @@
     "id": "TW5CeA3pbmeOcjQKY",
     "name": "Pump.fun Crypto Scraper 💰📈 - Cheap",
     "description": "Discover Solana meme coins with ⚡fast data from Pump.fun! Sort by 📈 trades, 🕒 creation date, or 💰 market cap. Get key info like market stats, social links & trading data. Perfect for 📊 analysis & spotting 🔥 trending tokens!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/pump-fun-crypto-scraper---cheap?fpr=hs6s8"
   },
@@ -2195,7 +2275,7 @@
     "id": "H5c4XsixqpRsmuGFh",
     "name": "Amazon Product Scraper (Reviews & Ratings only)",
     "description": "Scrape from Amazon reviews and ratings",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/rousing_fiddle/my-actor?fpr=hs6s8"
   },
@@ -2203,23 +2283,15 @@
     "id": "sbhs8tAvijU4yJb3M",
     "name": "Myntra Product Scraper 🛍️",
     "description": "Extract detailed product data from Myntra, India’s leading fashion e-commerce platform. Efficiently gather prices, descriptions, images, and specifications for market research. For the most reliable performance and to ensure uninterrupted access, using residential proxies is highly recommended.",
-    "rating": 4.999999999999999,
-    "rating_count": 2,
-    "url": "https://apify.com/shahidirfan/Myntra-Product-Scraper?fpr=hs6s8"
-  },
-  {
-    "id": "lAeHOoRs8jUldXSn5",
-    "name": "Leboncoin Cars Phone Leads Scraper",
-    "description": "Extract Leboncoin car ads with phone numbers using filters like city, price range, brand, fuel, gearbox, mileage, year, and seller type. Export structured results in JSON or CSV.",
     "rating": 5,
     "rating_count": 2,
-    "url": "https://apify.com/mostafa-ennadi/leboncoin-cars-phone-leads-scraper?fpr=hs6s8"
+    "url": "https://apify.com/shahidirfan/Myntra-Product-Scraper?fpr=hs6s8"
   },
   {
     "id": "5lnEEZaNNBD8VeFAN",
     "name": "Mobile / Phone Number Finder : $4 / 100 Mobiles",
     "description": "🔍 Find mobile number 📞 instantly for any LinkedIn profile.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/code_crafter/mobile-finder?fpr=hs6s8"
   },
@@ -2235,7 +2307,7 @@
     "id": "xlWThR6pfc9ka55eH",
     "name": "Bulk Email Validator PRO+ CSV Input(ZeroBounce Alt)✅ $1.01/1000",
     "description": "$1.01/1000 - Validate your emails with all top grade methods 📧 Bulk CSV & output with original columns without manual matching ✅⚠️ Occasional downtime on Google account authentication, automatically showing undeliverable to deliverable emails. Approach with caution with a small pre test before bulk",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/amr-mando/email-verifier?fpr=hs6s8"
   },
@@ -2299,7 +2371,7 @@
     "id": "PckUHA7aAofqzGwpx",
     "name": "Amazon-review-count",
     "description": "This scraper is very easy to use.\nInput your Amazon product URL and scrap the number of reviews and rating.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shahidul566/amazon-review-count?fpr=hs6s8"
   },
@@ -2307,7 +2379,7 @@
     "id": "VvC3SAtWVyFJYvkYG",
     "name": "iHerb Product Scraper 🌿",
     "description": "Extract detailed product data from iHerb with blazing speed! Instantly gather pricing, images, reviews, and descriptions for supplements, beauty, and health items. Built for high-performance data extraction and market analysis. Get accurate results in seconds without complex configurations.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/iHerb-product-scraper?fpr=hs6s8"
   },
@@ -2371,7 +2443,7 @@
     "id": "wfwUDYeoKiAz3bFfE",
     "name": "Autodoc.co.uk Scraper",
     "description": "Unlock rich automotive parts insights from Autodoc UK—discover accurate pricing, trusted brands, real-time availability, detailed specs, ratings, and imagery. Ideal for competitive pricing analysis, inventory benchmarking, and e-commerce growth. Fast, reliable, and fully customizable.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/lexis-solutions/autodoc-co-uk-scraper?fpr=hs6s8"
   },
@@ -2387,7 +2459,7 @@
     "id": "sS4i8gsYYWzZQcOJ3",
     "name": "Coupang Products Crawler",
     "description": "Extract structured product data from Coupang, Korea's largest e-commerce platform. Get prices, ratings, images, delivery info & more for any search query. Parallel processing, automatic retries, clean JSON output. Perfect for price monitoring, market research & competitive analysis in Korean market.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/amit123/coupang-products-crawler?fpr=hs6s8"
   },
@@ -2395,7 +2467,7 @@
     "id": "qYKWZH35JbyiXzl9g",
     "name": "Wine Searcher Regions Scraper — Rankings & Scores",
     "description": "Extract wine average prices, critics scores, grape varieties, and popularity data from Wine-Searcher region pages. Recursive sub-region crawling from countries to appellations. Automatic pagination and anti-bot handling. Export JSON, CSV, or Excel.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/mrbridge/wine-searcher-region-scraper?fpr=hs6s8"
   },
@@ -2411,7 +2483,7 @@
     "id": "atanai8HrwCpCBlt5",
     "name": "Leboncoin Scraper Ppe",
     "description": "Scrape Leboncoin classified ads with pay-per-result pricing. Extract prices, full descriptions, seller phone numbers and GPS coordinates from France's largest marketplace. Covers real estate, cars, jobs, fashion and electronics. Pay only for ads successfully scraped, residential proxies included.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/silentflow/leboncoin-scraper-ppr?fpr=hs6s8"
   },
@@ -2424,18 +2496,10 @@
     "url": "https://apify.com/onescales/stress-test-tool?fpr=hs6s8"
   },
   {
-    "id": "nhBBS8ZBEW4equFu9",
-    "name": "Daraz.pk Scraper",
-    "description": "Efficiently scrape product details, prices, and reviews from Daraz.pk, Pakistan's largest e-commerce platform. This lightweight actor ensures fast data extraction. For consistent results and to bypass anti-scraping measures, residential proxies are strongly recommended.",
-    "rating": 5.000000000000001,
-    "rating_count": 2,
-    "url": "https://apify.com/shahidirfan/Daraz-pk-Scraper?fpr=hs6s8"
-  },
-  {
     "id": "uMnsf6khYz0VsDGlg",
     "name": "Facebook Ad Library Scraper",
     "description": "Ultra-fast Facebook Ads Library scraper with advanced filtering. Extract ads from Meta Ads Library in seconds! Perfect for competitor analysis, market research, and ad intelligence.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/apipi/facebook-ad-library-scraper?fpr=hs6s8"
   },
@@ -2467,7 +2531,7 @@
     "id": "7pJDQRxTMex0GHcWI",
     "name": "Ebay Scraper Pro",
     "description": "Fast, reliable eBay product scraper with seller analytics, engagement metrics, and variant extraction. Extract product listings with images, prices, sold counts, and seller reputation data from eBay.com, eBay.de, and eBay.co.uk.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/webdatalabs/ebay-scraper-pro?fpr=hs6s8"
   },
@@ -2523,7 +2587,7 @@
     "id": "5tKSkL6MGS7edm1aL",
     "name": "Notino Scraper",
     "description": "Scrape product data from Notino - including prices, reviews, ratings, and images. Ideal for market research, trend tracking, and e-commerce analytics in beauty and cosmetics. Fast, structured, and customizable.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/lexis-solutions/notino-scraper?fpr=hs6s8"
   },
@@ -2531,7 +2595,7 @@
     "id": "xeEotFjdrGXtFqYIT",
     "name": "eBay Scraper - Product listings",
     "description": "Extract comprehensive eBay product data including titles, prices, seller feedback, shipping costs, item conditions, and 35+ data points. Perfect for e-commerce professionals, market researchers, and price comparison analysts. Supports advanced search filters, categories, and direct URLs.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/ebay-scraper?fpr=hs6s8"
   },
@@ -2539,7 +2603,7 @@
     "id": "wqcApjVGdOlaDv7ql",
     "name": "Rappi Restaurants & Stores Scraper",
     "description": "Get restaurant listings with ratings and delivery info, and store data including markets, pharmacies, and liquor stores. Supports Colombia, Mexico, Brazil, Peru, Chile, Argentina, Ecuador, Uruguay, and Costa Rica. Export data with images, URLs, ratings, prices, metadata.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/rappi-scraper?fpr=hs6s8"
   },
@@ -2547,7 +2611,7 @@
     "id": "qmxCUTBbc8FfZedDy",
     "name": "Target Product Scraper - Extract Data Instantly",
     "description": "Extract product data from Target.com effortlessly. This powerful scraper collects prices, reviews, descriptions, images, and availability in real-time. Perfect for price monitoring, competitor analysis, and market research. Export data in multiple formats. Fast, reliable, and easy to use.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/target-scraper?fpr=hs6s8"
   },
@@ -2555,7 +2619,7 @@
     "id": "3Sr6hmGNR6A0wdj5Z",
     "name": "Costco Product Scraper (Get Real Product Prices!)",
     "description": "Extract comprehensive product data from Costco.com including prices, member prices, descriptions, ratings, reviews, specifications, images, and availability. Supports both direct product URLs and search queries. Handles bot protection with proxy support. Perfect for price monitoring and research.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/costco-scraper?fpr=hs6s8"
   },
@@ -2582,14 +2646,6 @@
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/codingfrontend/indiamart-search-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "HKojvg6HLant9ochD",
-    "name": "Amazon France Sellers Leads Scraper",
-    "description": "Scrapes contact info including emails from Amazon France marketplace based on your selection, choose sellers from any keyword/category you need.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/xmiso_scrapers/amazon-france-sellers-leads-scraper?fpr=hs6s8"
   },
   {
     "id": "uWHEg6rc66GA17Xah",
@@ -2619,7 +2675,7 @@
     "id": "fR1odQREoRbqRou29",
     "name": "Salesforce AppExchange Market Intelligence&Competitive Analysis",
     "description": "Discover, Analyze, and Export Salesforce AppExchange Apps\nThe Salesforce AppExchange Intelligence Engine is an advanced Apify Actor that automatically discovers Salesforce AppExchange applications and extracts structured metadata for market research, competitive intelligence, and ecosystem analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/adinfosys-labs/salesforce-appexchange-discovery-engine---apps-reviews?fpr=hs6s8"
   },
@@ -2627,7 +2683,7 @@
     "id": "vwroWO2eLJh09Yld4",
     "name": "Store Screenshot Url",
     "description": "Effortlessly capture and extract URL screenshots with the Store Screenshot URL Extractor. This powerful Apify actor is designed to streamline your data collection process, providing high-quality snapshots of web pages with ease. Ideal for market research, content verification, and SEO analysis, this",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/dainty_screw/store-screenshot-url?fpr=hs6s8"
   },
@@ -2659,7 +2715,7 @@
     "id": "NBfaneiyAtoS8TPRo",
     "name": "Website Closers Scraper",
     "description": "Unlock the potential of digital business acquisitions with our powerful scraper for WebsiteClosers.com. Effortlessly gather key metrics like asking price, cash flow, and more. Ideal for market research, lead generation, and building a comprehensive database of online businesses for sale.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/louisdeconinck/website-closers-scraper?fpr=hs6s8"
   },
@@ -2667,7 +2723,7 @@
     "id": "ufdrGmzUosY8bH5xm",
     "name": "Gumroad Scraper",
     "description": "Extract valuable product data from Gumroad with ease. This scraper collects detailed information about products, pricing, sellers, and ratings. Perfect for market research, competitor analysis, and building product feeds. Supports multiple search parameters and automated pagination.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/louisdeconinck/gumroad-scraper?fpr=hs6s8"
   },
@@ -2675,7 +2731,7 @@
     "id": "Njb12aFNCJE1OgiJw",
     "name": "GOG.com Game Scraper",
     "description": "Unlock the power of data with our GOG Scraper! Seamlessly extract detailed game information from GOG.com, including prices, descriptions, and system requirements. Perfect for analytics, marketing, and database integration. Automate your game data collection and stay ahead in the gaming industry!",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/louisdeconinck/gogcom-game-scraper?fpr=hs6s8"
   },
@@ -2691,7 +2747,7 @@
     "id": "e1iWYVCiRG2YEaZ1c",
     "name": "Amazon  Scraper",
     "description": "🛍️ Amazon Search Scraper — Collect real-time product data from Amazon by just entering keywords 🔎 or product URLs 🔗! Get title, price, ratings ⭐, stock info & images 🖼️ in clean structured format. Perfect for price tracking 💰, market research 📊 & competitor analysis 🚀.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/neuro-scraper/amazon-keyword-scraper?fpr=hs6s8"
   },
@@ -2699,7 +2755,7 @@
     "id": "z6b3NUW9h1FpBGGvC",
     "name": "PlayStation Store Scraper 🎮🛒 (Search by URL)",
     "description": "Easily Fetch Game Details from the PlayStation Store 🎮\nGet product info, related items, categories, discounts 💸, and editions 📦. Explore the vast database 🌍, search with any PlayStation URL 🔑💱. Discover key gaming insights! 🛍️",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/playstation-store-scraper-search-by-url?fpr=hs6s8"
   },
@@ -2715,33 +2771,9 @@
     "id": "iIHVc8rAgtyPu8BHr",
     "name": "Website Check",
     "description": "Checks website availability, pixels, shop system and uses Gemini AI for qualitative analysis. Website of Lead Vitality & Tech Checker. Using Gemini with ApiKey is [optional]. Website analysed costs only charged if scraper was not blocked or timeout. Errors occur when website offline - valid result.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/gt-scraping/website-check?fpr=hs6s8"
-  },
-  {
-    "id": "SzPe5jIcFPf11mHwr",
-    "name": "Amazon Keywords Discovery Tool 🎯",
-    "description": "🔍 Discover untapped keywords and topics in seconds! Get real-time search suggestions and insights from amazon search engines. Perfect for SEO specialists, content creators, and marketers looking to optimize their keyword strategy and uncover valuable long-tail opportunities.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/easyapi/amazon-keywords-discovery-tool?fpr=hs6s8"
-  },
-  {
-    "id": "zGhd4ucc2ffvbsw2k",
-    "name": "Sainsbury's Scraper",
-    "description": "Scrape product data from Sainsbury's Groceries webiste, the biggest supermarket chain based in the United Kingdom. Extract price, image, description, nutrition info, promotions and more. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/natanielsantos/sainsbury-s-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "JWEHgf5HWeoLlbchr",
-    "name": "Google Shopping Scraper",
-    "description": "Scrape Google Shopping products by keyword and extract prices, ratings, reviews, seller/store info, offers, shipping & more. Ideal for price monitoring, competitor research, and e-commerce market analysis.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/burbn/google-shopping-scraper?fpr=hs6s8"
   },
   {
     "id": "rdOwbSNd2e3a5nTug",
@@ -2787,7 +2819,7 @@
     "id": "Hr1hjEAGdYMr1RbUj",
     "name": "TikTok Shop Search Pro 🔥",
     "description": "TikTok Shop scraper for keyword and region search. Extract product IDs, titles, brands, sellers, prices, ratings, reviews, SKU pricing, and ranking data in clean structured output for ecommerce research, competitor tracking, trend discovery, and product sourcing.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/sentry/tiktok-shop-search-pro?fpr=hs6s8"
   },
@@ -2803,7 +2835,7 @@
     "id": "sOP6xLhtLwlXKtCSG",
     "name": "Shopify Price Tracker",
     "description": "Monitor Shopify product prices in real-time, get smart alerts on price changes, and never miss a deal again. Perfect for dropshippers, store owners, and e-commerce analysts. Supports scheduled checks, saved product lists, and automatic price comparisons.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/unanimous_venus/shopify-price-tracker?fpr=hs6s8"
   },
@@ -2811,7 +2843,7 @@
     "id": "fidBLTpxnz3Owo6Zm",
     "name": "Advanced Leboncoin scraper",
     "description": "Leboncoin scraper. Collect product from any search website leboncoin.fr Advanced Web crawler for ecommerce leboncoin. Extract phonenumber from detail pages. For market research, price monitoring, competitive analysis, business intelligence. Efficient data extraction and reduced runtime costs.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/saswave/advanced-leboncoin-scraper?fpr=hs6s8"
   },
@@ -2859,7 +2891,7 @@
     "id": "EKV9JwPBWO7gd6pap",
     "name": "Funnel Sniper",
     "description": "Detect CTAs, pricing signals, promotions, and basic product/category info from e‑commerce sites.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/moehefner/funnel-sniper-actor?fpr=hs6s8"
   },
@@ -2872,26 +2904,10 @@
     "url": "https://apify.com/sentry/reddit-mentions-scraper?fpr=hs6s8"
   },
   {
-    "id": "eOx7btKVgiegLYrmO",
-    "name": "TikTok Shop Reviews Pro ⭐️",
-    "description": "Extract TikTok Shop product reviews from product URLs, product IDs, or search-discovered products. Collect rating, review text, reviewer metadata, media flags, and product context for ecommerce intelligence.",
-    "rating": 5.000000000000001,
-    "rating_count": 2,
-    "url": "https://apify.com/sentry/tiktok-shop-reviews-pro?fpr=hs6s8"
-  },
-  {
-    "id": "MTwERknGMhw084JeA",
-    "name": "TikTok Shop Store Monitor Pro  💾",
-    "description": "Monitor TikTok Shop seller stores and detect catalog changes across runs. Track matched products, price changes, additions, removals, and store-level snapshots for competitive ecommerce intelligence.",
-    "rating": 5.000000000000001,
-    "rating_count": 2,
-    "url": "https://apify.com/sentry/tiktok-shop-store-monitor-pro?fpr=hs6s8"
-  },
-  {
     "id": "8EM2KQP90np87iSY5",
     "name": "Alibaba Listings Scraper",
     "description": "The Alibaba Listings Scraper extracts paginated product results from Alibaba based on a search query, capturing product titles, prices, images, URLs, discounts, delivery estimates, ratings, and reviews—ideal for market research and supplier analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/piotrv1001/alibaba-listings-scraper?fpr=hs6s8"
   },
@@ -2899,7 +2915,7 @@
     "id": "yv6NR80h0SwLZw1HV",
     "name": "TCGPLAYER Scraper",
     "description": "Collect Pokemon card prices, seller listings, and market data from TCGPlayer. Search by card name, set, rarity, or card type. Get real-time market prices, lowest listings with shipping costs, seller ratings, and detailed card attributes. Built for collectors, traders, and resellers.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/tcgplayer-scraper?fpr=hs6s8"
   },
@@ -2910,14 +2926,6 @@
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/airbnb-profile-reviews-scraper---cheap?fpr=hs6s8"
-  },
-  {
-    "id": "MgqDrxBkXJGDF4P7I",
-    "name": "Flipkart Reviews Scraper  ⭐",
-    "description": "Instantly extract detailed product reviews, ratings, and customer feedback from Flipkart. Perfect for sentiment analysis, market research, and monitoring competitor products. Unlock valuable e-commerce insights and data to power your business growth today!",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/shahidirfan/flipkart-reviews-scraper?fpr=hs6s8"
   },
   {
     "id": "K6Qr0gwjhbWbg3nSt",
@@ -2955,7 +2963,7 @@
     "id": "sF1NHbIBV1f33mvjy",
     "name": "Unlimited Trustpilot Reviews Scraper",
     "description": "$0.2 / 1000 results in 20 seconds, no proxies. Trustpilot reviews scraper handles requests at scale for faster output return and results.\nUse trustpilot filters and extract all reviews from a company. Text content, title, rating, publication date, experience date, name, number of reviews from user",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/saswave/unlimited-trustpilot-reviews-scraper?fpr=hs6s8"
   },
@@ -2971,7 +2979,7 @@
     "id": "bQQXCnhfZv946J3Vs",
     "name": "Shein Product Scraper",
     "description": "Extract product data from Shein including prices, images, descriptions, sizes, and ratings. Perfect for market research, price comparison, inventory monitoring, and competitive analysis. Get structured data in JSON or CSV format with reliable parsing.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/shein-product-scraper?fpr=hs6s8"
   },
@@ -2998,6 +3006,14 @@
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/dz_omar/leboncoin-fr-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "hHO9oVnraeiFBfwW3",
+    "name": "Facebook Marketplace Vehicle Scraper + Real Time Notifications",
+    "description": "Scrape Facebook Marketplace vehicles by make, model, year, price, and mileage. Features exact listing dates, real-time Discord notifications, smart age filtering, and deduplication. Optimized for lowest cost per run using advanced extraction techniques. Export to JSON, CSV, or Excel.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/raidr-api/facebook-marketplace-vehicle-scraper?fpr=hs6s8"
   },
   {
     "id": "MAvVExUY8ZJuDZ8bj",
@@ -3027,7 +3043,7 @@
     "id": "3BFvqWmuNuo3FpdR8",
     "name": "Property24 Africa Scraper",
     "description": "Scrape property listings from Property24 across 7 African countries. Get prices, locations, bedrooms, bathrooms, size and more — exported as JSON, CSV or Excel in minutes.",
-    "rating": 4.703441119498423,
+    "rating": 4.703441119498424,
     "rating_count": 2,
     "url": "https://apify.com/ashersam01/property24-africa-scraper?fpr=hs6s8"
   },
@@ -3035,7 +3051,7 @@
     "id": "3SYpdwDazFXZ3klo4",
     "name": "Glassdoor Jobs Scraper - Most Comprehensive",
     "description": "🔥 ~$0.1/1K jobs 🔥 Scrape Glassdoor job listings with title, description, salary, location, and company details.",
-    "rating": 4.672766409378465,
+    "rating": 4.672766409378466,
     "rating_count": 2,
     "url": "https://apify.com/kaix/glassdoor-jobs-scraper?fpr=hs6s8"
   },
@@ -3043,7 +3059,7 @@
     "id": "JQpuWvyoEnYQUzSaI",
     "name": "Amazon Phone Number Scraper – Cheapest & Reliable 📧⚡",
     "description": "🔍 Scrape Mass/Bulk Amazon Phone Numbers\n\nEnter your search parameters to collect verified phone numbers from Amazon profiles, along with profile title, bio snippet, country, source URL & platform info 📞\nPerfect for lead generation and contact enrichment in tools like Google Sheetsor CRMs⚡📇",
-    "rating": 3.379394112357024,
+    "rating": 3.379394112357025,
     "rating_count": 3,
     "url": "https://apify.com/contactminerlabs/amazon-phone-number-scraper---cheapest-reliable?fpr=hs6s8"
   },
@@ -3075,7 +3091,7 @@
     "id": "msZqWKQgqnanppTxE",
     "name": "Zomato Reviews Scraper 🔍🇮🇳💬 - Cheap",
     "description": "🔍 Easily Scrape Zomato Reviews\nEnter a restaurant URL to collect real customer reviews from Zomato 🍽️\nGet insights such as review text, rating, author, timestamp, experience type & more 🕵️‍♀️\nSeamlessly integrate with tools like Google Drive to automate workflows and boost productivity ⚡📊",
-    "rating": 4.524187081511474,
+    "rating": 4.524187081511475,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/zomato-reviews-scraper---cheap?fpr=hs6s8"
   },
@@ -3083,7 +3099,7 @@
     "id": "az4j45JvEYLZxdo6M",
     "name": "Douyin Search Scraper",
     "description": "This scraper can help you to get search data from https://www.douyin.com/ 抖音 which is Chinese Version of tiktok.",
-    "rating": 4.51468609068047,
+    "rating": 4.514686090680471,
     "rating_count": 2,
     "url": "https://apify.com/kuaima/douyin-search?fpr=hs6s8"
   },
@@ -3107,7 +3123,7 @@
     "id": "RBXUUFGqgLwblRZYV",
     "name": "Local.ch Business Scraper - Billig Cheap🔍📞🇨🇭🏢",
     "description": "Looking to collect business listings from local.ch? 🏢🔎\n\nWith this scraper, you can extract business data including name, categories, address, city, ratings, contact details (phone, email), websites, opening hours & more\n\nPerfect for lead generation, competitor research, and structured datasets 📊",
-    "rating": 3.143043922369026,
+    "rating": 3.143043922369025,
     "rating_count": 3,
     "url": "https://apify.com/scrapestorm/local-ch-business-scraper---billig-cheap?fpr=hs6s8"
   },
@@ -3139,7 +3155,7 @@
     "id": "IQWVxgJfMO0o9MDwU",
     "name": "OLX Brasil Carros Data Scraper",
     "description": "🚗💨 Scrape OLX Brazil car listings with precision! Advanced filters: state, brand, price, mileage, year, color, FIPE. 🛡️ Anti-bot tech, unlimited pagination. 📊 Extract complete vehicle data + high-res photos.  🇧🇷 180+ brands, all states!",
-    "rating": 4.078628371958117,
+    "rating": 4.078628371958118,
     "rating_count": 2,
     "url": "https://apify.com/israeloriente/olx-cars-scraper?fpr=hs6s8"
   },
@@ -3187,7 +3203,7 @@
     "id": "QrdkHOap2H2LvbyZk",
     "name": "Youtube Video Downloader PRO",
     "description": "𝗙𝗶𝗻𝗮𝗹𝗹𝘆 - 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗧𝗵𝗮𝘁 𝗗𝗼𝗲𝘀𝗻'𝘁 𝗦𝘂𝗰𝗸\nNo more one-at-a-time downloads or missing metadata. Concurrent processing, full data extraction, multiple formats. The professional solution for serious YouTube data collection.",
-    "rating": 2.596043878883506,
+    "rating": 2.596043878883505,
     "rating_count": 3,
     "url": "https://apify.com/xtech/youtube-video-downloader?fpr=hs6s8"
   },
@@ -3211,7 +3227,7 @@
     "id": "p89uz21ptfu7Zg3RT",
     "name": "Noon Advanced Scraper",
     "description": "Scrape everything with Noon Advanced Scraper ! Whole category, search results, list of products, ratings, reviews, pricing info, and more... Last Update: Mar 22, 2026",
-    "rating": 3.393014788782785,
+    "rating": 3.393014788782786,
     "rating_count": 2,
     "url": "https://apify.com/buseta/noon-advanced-scraper?fpr=hs6s8"
   },
@@ -3251,7 +3267,7 @@
     "id": "XwFkTh2eKZw8Bt5nS",
     "name": "Meta (Facebook) Ad Library Scraper - Efficient & Fast",
     "description": "Scrape the Meta Ad Library for Facebook and Instagram ads. Extract ad copy, images, videos, spend, impressions, and advertiser transparency data. No account or API key required.",
-    "rating": 3.306590451087213,
+    "rating": 3.306590451087212,
     "rating_count": 2,
     "url": "https://apify.com/automly/facebook-ad-library-scraper?fpr=hs6s8"
   },
@@ -3294,14 +3310,6 @@
     "rating": 3.088257345839843,
     "rating_count": 2,
     "url": "https://apify.com/bestankit/kickstarter-prelaunch-tracker?fpr=hs6s8"
-  },
-  {
-    "id": "gidsIBKDcyXdGF0zi",
-    "name": "Scrapeunblocker",
-    "description": "ScrapeUnblocker allows to bypass anti-bot services and scrape the full page source of any given URL within seconds.",
-    "rating": 2.266065168466097,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeunblocker/scrapeunblocker?fpr=hs6s8"
   },
   {
     "id": "tyZZaK2zB3FtPpe4o",
@@ -3403,7 +3411,7 @@
     "id": "Img8lfMRf3lXNOIXl",
     "name": "Zara",
     "description": "Scrape products from zara.com websites. All available countries and languages. Filter by Category or Product. Fast and efficient. n8n node: n8n-nodes-zara",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/datasaurus/zara?fpr=hs6s8"
   },
@@ -3427,7 +3435,7 @@
     "id": "Tz1xkvheBTzpMe7Ui",
     "name": "PRO kleinanzeigen.de | Listings Crawler (JSON output) API",
     "description": "Business-grade kleinanzeigen listings (No. 1 tool 2026) to extract Stellenanzeigen, Immobilien, Elektronik & Gebrauchtwagen. Preisvergleich, vehicles, electronics, consumer goods. providing valuable PRO insights for market research,market analysis. Easy agents.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/yellowchimp/kleinanzeigen?fpr=hs6s8"
   },
@@ -3443,7 +3451,7 @@
     "id": "5iQq315Lumg7Az01I",
     "name": "Amazon Bestsellers Scraper",
     "description": "Amazon Bestsellers Scraper is a powerful Apify actor designed to efficiently extract real-time data from Amazon's Best Sellers lists. This actor is tailored for businesses, researchers, and individuals who seek to monitor and analyze market trends, product rankings, and pricing dynamics",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/dainty_screw/amazon-bestsellers-scraper?fpr=hs6s8"
   },
@@ -3467,7 +3475,7 @@
     "id": "luqM0Flqq376IUhdc",
     "name": "Etsy Review Scraper",
     "description": "The Etsy Review Scraper  is an easy scraper to extract reviews from specified Etsy shop.  The Etsy review scraper is easy to use, simply provide the shop name and the scraper will do the magic providing you the reviews from the products. etsy scraper python",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/getdataforme/etsy-review-scraper?fpr=hs6s8"
   },
@@ -3547,7 +3555,7 @@
     "id": "YPqQpMMjsiLQqyYsN",
     "name": "Scrape Alibaba Suppliers",
     "description": "Obtain a list of Alibaba suppliers using a keyword or Search URL.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/shareze001/scrape-alibaba-suppliers?fpr=hs6s8"
   },
@@ -3579,7 +3587,7 @@
     "id": "1qp9Bpg05Nyi51ieE",
     "name": "Tesco Grocery Scraper",
     "description": "💫 Scrape Tesco.com Grocery",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/jupri/tesco-grocery?fpr=hs6s8"
   },
@@ -3619,7 +3627,7 @@
     "id": "K0MhAI9N9SI4KMpiV",
     "name": "Apple App Store Review Scraper",
     "description": "Scrape reviews for apps on the Apple App Store",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scraped/apple-app-store-review-scraper?fpr=hs6s8"
   },
@@ -3651,7 +3659,7 @@
     "id": "kVjAnAafdNBiDn0yK",
     "name": "Amazon Product Scraper",
     "description": "$0.80 / 1000 results. Amazon scraper collect data from any amazon domain name. Input can be a list of product ASIN or a search url",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/saswave/amazon-product-scraper?fpr=hs6s8"
   },
@@ -3667,7 +3675,7 @@
     "id": "RTtOrCLuwbdkujaID",
     "name": "Shopify Products Scraper - Automate Product Extraction",
     "description": "Automate monitoring prices on the most popular solution for building online stores and selling products online. Crawl arbitrary Shopify-powered online stores and extract a list of all products in a structured form, including product title, price, description, etc.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/dainty_screw/shopify-products-scraper?fpr=hs6s8"
   },
@@ -3699,7 +3707,7 @@
     "id": "v0zEvPZ3hkv0WHVe0",
     "name": "Facebook Marketplace Scraper",
     "description": "Facebook marketplace Scraper, our advanced scraper is designed to collect comprehensive details of products and listings from Facebook Marketplace. It effortlessly extract all relevant information about items listed for sale, including product descriptions, prices, seller details, and more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/getdataforme/facebook-marketplace-scraper?fpr=hs6s8"
   },
@@ -3715,7 +3723,7 @@
     "id": "dJuPPQyoVpvIWPq3l",
     "name": "Catawiki Search Scraper 📈✨ - Faster & Cheaper",
     "description": "Catawiki Search Scraper 🔍 allows you to extract detailed auction data with customizable filters. Gather insights on auction titles, descriptions, sellers, bidding prices, images, and more for research or marketing! 🌟📊📝 Perfect for analyzing auction trends and popular listings on Catawiki.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/catawiki-search-scraper---faster-cheaper?fpr=hs6s8"
   },
@@ -3827,7 +3835,7 @@
     "id": "BVUER4CUQhFmP87Ds",
     "name": "Instagram Purchase‑Intent Lead Finder",
     "description": "Discover real buyers on Instagram by searching posts with keywords (e.g., Saree, Kids wear) and locations (e.g., Chennai, Pune), then auto‑identify commenters with purchase‑intent phrases like price, DM, link. Export clean lead rows with profile insights. Works at scale on Apify.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/ittechinnovators/instagram-purchase-intent-lead-finder?fpr=hs6s8"
   },
@@ -3851,7 +3859,7 @@
     "id": "uQgzX2ukr4Cm52FYL",
     "name": "Apolloduck.co.uk Scraper",
     "description": "Scrape boat listings from Apolloduck.co.uk—including vessel types, prices, locations, specs, and seller contacts. Ideal for marine market analysis, price tracking, and trend insights. Fast, structured, and customizable extraction from the UK’s leading boat classifieds.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lexis-solutions/apolloduck-co-uk-scraper?fpr=hs6s8"
   },
@@ -3859,7 +3867,7 @@
     "id": "sgNWmgYljZ24i2CGY",
     "name": "Walmart Product Scraper",
     "description": "A data extraction actor specializing in Walmart's product catalog. Efficiently retrieves product details, pricing, availability, and reviews, providing structured data for market analysis, competitor monitoring, and e-commerce applications, ensuring accurate and up-to-date information.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/pratikdani/walmart-product-scraper?fpr=hs6s8"
   },
@@ -3939,7 +3947,7 @@
     "id": "cH6jC0hYCwR79FgQC",
     "name": "Rakuten Marketplace Scraper",
     "description": "Extract product data from Rakuten Japan marketplace efficiently. Get product names, prices, reviews, availability, and more using official Rakuten API. Perfect for market research, price monitoring, and competitive analysis.\n楽天市場の商品データを効率的に収集。公式APIを使用して商品名、価格、レビュー、在庫状況などを取得。市場調査、価格監視、競合分析に最適。",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/hassy/rakuten-marketplace-scraper?fpr=hs6s8"
   },
@@ -3995,7 +4003,7 @@
     "id": "Fe56ixNMCZnWGDAAp",
     "name": "Trustpilot Reviews",
     "description": "Scrape reviews from Trustpilot. Works with all of the website's filters and sorting options. Fast and efficient. n8n-nodes-trustpilot-reviews. n8n node: n8n-nodes-trustpilot-reviews",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/datasaurus/trustpilot-reviews?fpr=hs6s8"
   },
@@ -4027,7 +4035,7 @@
     "id": "vuuqhK5CDgMLwBRaY",
     "name": "IKEA Products Bycategory",
     "description": "This actor extracts product information from IKEA's online catalog by category.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/happyendpoint/ikea-products-bycategory?fpr=hs6s8"
   },
@@ -4035,7 +4043,7 @@
     "id": "utntS7S1ij9mehZWc",
     "name": "Pracuj.pl Jobs Scraper 🇵🇱💼 - Cheap (Tani)",
     "description": "Easily collect job listings from Pracuj.pl, Poland’s leading career and recruitment platform. Just enter any job search URL to extract key details like job title, company, contract type, work mode & posting status 🔍 Seamlessly integrate with your tools for hiring analytics or ATS automation📊",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/pracuj-pl-jobs-scraper---cheap-tani?fpr=hs6s8"
   },
@@ -4131,7 +4139,7 @@
     "id": "QO1WsGkLsHaldobnH",
     "name": "Kayak Car Rentals Scraper - Cheap 🚗🌍💰",
     "description": "🔎 Easily collect Kayak car rental listings by providing one or multiple Kayak car search URLs\n\nExtract useful insights such as 🚗 Car Brand 🏷 Car Class 💵 Price per Day 💰 Total Price 🏢 Rental Provider 🔗 Booking URL and more\n\nPerfect for travel price comparison & mobility data analysis 🚗🌍📊",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/kayak-car-rentals-scraper---cheap?fpr=hs6s8"
   },
@@ -4243,7 +4251,7 @@
     "id": "r1znfwdlD1TYWIq78",
     "name": "Hepsiburada Product Reviews Api",
     "description": "The Hepsiburada Product Details Page Scraper extracts detailed product data from all including reviews, ratings, merchants, image URLs, etc., by providing product sku id.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/caa_software/hepsiburada-product-reviews-api?fpr=hs6s8"
   },
@@ -4259,7 +4267,7 @@
     "id": "gh8arwNdIXtwqSlVx",
     "name": "HelloPeter Apify Actor",
     "description": "Scrape customer reviews for any business listed on HelloPeter.com.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/mm_actors/HelloPeter-Apify-Actor?fpr=hs6s8"
   },
@@ -4267,7 +4275,7 @@
     "id": "f9Kph1JGwowTV5X7m",
     "name": "Noon Reviews Scraper 📊 - Cheap",
     "description": "Collect Noon.com product reviews by URL 🛍️ Access detailed review data including reviewer names, ratings, comments, images & more 📋 Perfect for analyzing customer feedback researching products & gathering data for projects or market study 📊 Ideal for shoppers marketers & e-commerce professionals",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/noon-reviews-scraper---cheap?fpr=hs6s8"
   },
@@ -4435,7 +4443,7 @@
     "id": "q0iCPpRF9YlYZkxoV",
     "name": "Open Library Scraper",
     "description": "Comprehensive scraper for Open Library to extract books, authors, subjects, and list data from the Internet Archive’s platform. Supports multiple search types and ebook filtering, providing automated, structured access to Open Library’s extensive bibliographic collection.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/parseforge/open-library-scraper?fpr=hs6s8"
   },
@@ -4483,7 +4491,7 @@
     "id": "kF2kcYa5xgTGMU7cu",
     "name": "Made In China Scraper",
     "description": "Automate your product sourcing with our Made-in-China scraper. Collect daily product and supplier data, including prices, MOQ, certifications, and contacts. Ideal for importers, buyers, and sourcing agents needing fast, accurate insights without manual work.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/parseforge/made-in-china-scraper?fpr=hs6s8"
   },
@@ -4723,7 +4731,7 @@
     "id": "IDseSbW1AGFpsxTXx",
     "name": "2dehands.be Scraper - Cheap 🔎🛍️📊",
     "description": "Looking to collect listings from 2dehands.be? 🛍️🔎\n\nWith this scraper, you can extract detailed listing information including title, price, description, attributes, seller, location, posting date, images, listing URL & much more\n\nPerfect for market analysis price monitoring & structured datasets 📊",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/2dehands-be-scraper---cheap?fpr=hs6s8"
   },
@@ -4955,7 +4963,7 @@
     "id": "2RxcjZaDkebrWBtUv",
     "name": "Bol.com Scraper (Pay Per Result)",
     "description": "A scraper for Bol.com to fetch product details, prices, and availability from both listing and individual product pages. Perfect for price comparison, analytics, and AI training. Pricing: $0.005/result. 10 results on free trial.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/123webdata/bol-scraper?fpr=hs6s8"
   },
@@ -4979,7 +4987,7 @@
     "id": "z4FgDQfoi5eHmlV9S",
     "name": "Petfinder Scraper (Pay Per Result)",
     "description": "A scraper for Petfinder to extract pet listing details, descriptions, and contact information from both search and profile pages. Useful for dataset creation, analytics, and integrations. Pricing: $0.005/result. 10 results on free trial.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/123webdata/petfinder-scraper?fpr=hs6s8"
   },
@@ -4995,7 +5003,7 @@
     "id": "vO60rbuy9oRmzPzzt",
     "name": "LDLC Product Scraper (Pay Per Result)",
     "description": "A scraper for LDLC to collect electronics product data, specifications, and prices from both category and item pages. Great for price monitoring, reporting, and AI model training. Pricing: $0.005/result. 10 results on free trial.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/123webdata/ldlc-scraper?fpr=hs6s8"
   },
@@ -5075,7 +5083,7 @@
     "id": "QSV2DeUMZVbjD2fmv",
     "name": "Amazon Product Offers Scraper",
     "description": "Amazon Product Offers Scraper, You can scrape Amazon Product Offers by Product URLs from 9 different Amazon domains: .com, com.au, .in, co.jp, .co.uk, .de, .fr, .es and .it.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/amazon-scraper/amazon-product-offers-scraper?fpr=hs6s8"
   },
@@ -5131,7 +5139,7 @@
     "id": "5CKqgJGRMUp5CGd7S",
     "name": "Zooplus Scraper (Pay Per Result)",
     "description": "A scraper for Zooplus to extract pet product listings, prices, and details from both category and product pages. Ideal for price tracking, AI datasets, and market analysis. Pricing: $0.005/result. 10 results on free trial.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/123webdata/zooplus-scraper?fpr=hs6s8"
   },
@@ -5155,7 +5163,7 @@
     "id": "zMQhFOimV66V4TVdS",
     "name": "Amazon Email Scraper - Advanced, Fast & Cheapest",
     "description": "🛒 Amazon Email Scraper helps you gather seller and brand emails from Amazon listings 🚀 Scale eCommerce outreach and sourcing 📧",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/contacts-api/amazon-email-scraper-fast-advanced-and-cheapest?fpr=hs6s8"
   },
@@ -5307,7 +5315,7 @@
     "id": "WvsiAh8fAMHOXyB9b",
     "name": "Airbnb Images Scraper",
     "description": "Airbnb Ld Scraper extracts listing details from any Airbnb property URL. Collect prices, photos, amenities, host info, ratings, availability, and descriptions. Ideal for market research, pricing analysis, investment insights, and workflows needing structured Airbnb listing data.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/api-empire/airbnb-images-scraper?fpr=hs6s8"
   },
@@ -5395,7 +5403,7 @@
     "id": "IqxnIHFgI26K1yPRh",
     "name": "Geizhals Scraper",
     "description": "Extract price comparisons, product specifications, and merchant offers from Geizhals, the leading price comparison platform in the DACH region. This lightweight actor is optimized for speed. For consistent results and to prevent blocking, using residential proxies is highly recommended",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/Geizhals-Scraper?fpr=hs6s8"
   },
@@ -5547,7 +5555,7 @@
     "id": "vBqLlIuEBOoQeuql6",
     "name": "Rapid Google Maps Scraper",
     "description": "Lightning-fast Google Maps scraper that can collect up to 200 listings per minute. Get names, addresses, phone numbers, images, hours, reviews, and ratings in structured format. Uses advanced HTTP request for superior performance, reliability and efficiency compared to traditional scrapers.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/perfectscrape/rapid-google-maps-scraper?fpr=hs6s8"
   },
@@ -5635,7 +5643,7 @@
     "id": "nPQxwKrtkAacKCwsO",
     "name": "Glovo Product Scraper",
     "description": "Glovo Scraper extracts comprehensive restaurant and category data from Glovo for market analysis and competitive research. Offers automated, reliable scraping with structured JSON output, retry mechanisms, and rate limiting. Ideal for businesses seeking up-to-date delivery service insights",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/blagoysimandoff/glovo-product-scraper?fpr=hs6s8"
   },
@@ -5651,7 +5659,7 @@
     "id": "zKBIp59ID8CLJuc1H",
     "name": "EBay Scraper Ultimate",
     "description": "This Apify Actor allows you to scrape detailed product data from eBay listings quickly and reliably. It is ideal for e-commerce research, price monitoring, competitor analysis, dropshipping, and market intelligence.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/nikhuge/eBay-scraper-ultimate?fpr=hs6s8"
   },
@@ -5699,7 +5707,7 @@
     "id": "2T4Lth8nCEmhhI0uQ",
     "name": "Dermstore Products Scraper - Cheap 🛍️📊🧴",
     "description": "Looking to collect product listings & e-commerce insights from Dermstore? 🧴🔎\n\nWith this scraper, you can extract product data including title, brand, price, ratings, reviews, promotions, sponsored labels & URLs\n\nPerfect for e-commerce intelligence, price monitoring & beauty market analytics 📊🚀",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/dermstore-products-scraper---cheap?fpr=hs6s8"
   },
@@ -5707,7 +5715,7 @@
     "id": "D494MVDvILs2ZfA9N",
     "name": "TeePublic Products Scraper - Cheap 🔎🛍️👕",
     "description": "Looking to collect product listings & print-on-demand insights from TeePublic? 👕🔎\n\nWith this scraper you can extract product data including title, prices, styles, tags, colors & product URLs\n\nPerfect for print-on-demand intelligence, trend discovery, competitor analysis & e-commerce analytics 📊🚀",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/teepublic-products-scraper---cheap?fpr=hs6s8"
   },
@@ -5923,7 +5931,7 @@
     "id": "CJOXbqsQT6uyoUep9",
     "name": "Amazon Products & Reviews Scraper",
     "description": "Scrape Amazon product listings and customer reviews. Filter by keyword, ASIN or category. Captures rating, review text, verified purchase status, price and product metadata.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrappinglatam/amazon-reviews-scraper?fpr=hs6s8"
   },
@@ -5931,7 +5939,7 @@
     "id": "EKvbWDJpNpmurYA5u",
     "name": "Gulf Used Car Scraper - Multi-Platform MENA Automotive Data",
     "description": "Scrapes used car listings from DubiCars, YallaMotor, and Dubizzle Motors across UAE, Saudi Arabia, and 5+ Gulf countries. Extracts prices, specs, mileage, seller info, and photos into normalized structured data with change detection.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/constructive_calm/gulf-used-car-scraper?fpr=hs6s8"
   },
@@ -5947,17 +5955,9 @@
     "id": "rpGhsx64IbXMWXhHj",
     "name": "Google Maps Scraper - Most Comprehensive",
     "description": "🔥 ~$0.1/1K places 🔥 The most comprehensive Google Maps scraper available. Extract 76+ fields per place including photos, review breakdowns, owner info, contacts, coordinates, and 30+ service options. Just type a keyword and location.",
-    "rating": 5.000000000000001,
-    "rating_count": 1,
-    "url": "https://apify.com/kaix/google-maps-places-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "hHO9oVnraeiFBfwW3",
-    "name": "Facebook Marketplace Vehicle Scraper + Real Time Notifications",
-    "description": "Scrape Facebook Marketplace vehicles by make, model, year, price, and mileage. Features exact listing dates, real-time Discord notifications, smart age filtering, and deduplication. Optimized for lowest cost per run using advanced extraction techniques. Export to JSON, CSV, or Excel.",
     "rating": 5,
     "rating_count": 1,
-    "url": "https://apify.com/raidr-api/facebook-marketplace-vehicle-scraper?fpr=hs6s8"
+    "url": "https://apify.com/kaix/google-maps-places-scraper?fpr=hs6s8"
   },
   {
     "id": "CK9PMIxFt7FqqybNW",
@@ -6051,7 +6051,7 @@
     "id": "0XdQGitwIYhD2Fm8N",
     "name": "Glovo Scraper — Restaurants, Supermarkets, Shops",
     "description": "Scrape any Glovo URL in any country — restaurant menus with every dish + price, and full 360° catalog for supermarkets, shops, and pharmacies (every SKU, not just featured carousels). Browser-free, public JSON API. Per-event billing — pay for what you scrape.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/gooyer.co/glovo-scraper?fpr=hs6s8"
   },
@@ -6131,7 +6131,7 @@
     "id": "SOmgZjQvmRBaXSlaU",
     "name": "Peptide Market Intelligence Scraper",
     "description": "Track GLP-1s, BPC-157, and 30+ peptide compounds across Reddit, YouTube, and Amazon with sentiment, intent, and vendor leaderboards.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/constructive_calm/peptide-market-intel?fpr=hs6s8"
   },
@@ -6147,7 +6147,7 @@
     "id": "vTf0ZWieHYyFGSWah",
     "name": "Airbnb Scraper - Most Comprehensive",
     "description": "🔥 ~$0.5/1K places 🔥 Scrape Airbnb listings by URL, listing ID, or location search. Returns full listing details including description, amenities, host info, location, photos, policies, and ratings. Optionally fetches reviews inline.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/kaix/airbnb-listing-scraper?fpr=hs6s8"
   },
@@ -6304,6 +6304,30 @@
     "url": "https://apify.com/emt_crawler/bing-search-result-scraper?fpr=hs6s8"
   },
   {
+    "id": "paJBLNCT5UPaAutlg",
+    "name": "Fnac Data Scraping",
+    "description": "Scrape Fnac product data —including name, price, availability, EAN, SKU, images, seller, categories, delivery info, ratings, and reviews—from both search and product pages with seamless proxy support.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/fayoussef/fnac-data-scraping?fpr=hs6s8"
+  },
+  {
+    "id": "ylMYAhm4BavEeOuGm",
+    "name": "Bing Search Result Scraper",
+    "description": "Bing Search Result Scraper extracts organic and paid results, ads, Related, People Also Ask, News, Videos and Images Answers. Supports all available markets and languages. Download data as HTML table, JSON, CSV, Excel, XML or RSS",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/likeable_fire/bing-search-result-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gs8dKMHaOPQ1n9E0f",
+    "name": "Flipkart Price Tracker",
+    "description": "Scrapes Flipkart search results and returns structured product price data for competitor price tracking.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/aslisubhash/flipkart-price-tracker?fpr=hs6s8"
+  },
+  {
     "id": "IDHZwbIUCGhlAGWbA",
     "name": "UK Government Contracts Scraper",
     "description": "Automatically extract UK government contract data from Contracts Finder. Perfect for market analysis, bid monitoring, and public sector procurement insights. No configuration needed, just hit start and enjoy the data.",
@@ -6339,7 +6363,7 @@
     "id": "Rf20AdigaKbJwMi8n",
     "name": "Lazada-Review-Scraper (Rentals)",
     "description": "Lazada reviews Scraper Pro extracts detailed product reviews data from Lazada in JSON format. Features include search queries, proxy support, Ideal for e-commerce research, competitor analysis, and price tracking. Contact DataWizards for custom solutions!",
-    "rating": 2.576638076079279,
+    "rating": 2.57663807607928,
     "rating_count": 2,
     "url": "https://apify.com/hello.datawizards/lazada-review-scraper-rentals?fpr=hs6s8"
   },
@@ -6491,7 +6515,7 @@
     "id": "fbbVkI6dOHXvnHcjb",
     "name": "Linkedin Sales Navigator Scraper ( Everything )",
     "description": "This scraper can scrape anything from linkedin sales navigator. All it need is your linkedin sales navigator account cookies.",
-    "rating": 2.199198046454859,
+    "rating": 2.19919804645486,
     "rating_count": 2,
     "url": "https://apify.com/muhammad_usama/Apify-Sales-Navifgator?fpr=hs6s8"
   },
@@ -6619,7 +6643,7 @@
     "id": "CuHJ7SN96LdHDGAgk",
     "name": "Dice Fm",
     "description": "Scrapes event data from Dice.fm- concerts, festivals, DJ events, and live shows.",
-    "rating": 3.0,
+    "rating": 3,
     "rating_count": 1,
     "url": "https://apify.com/hypebridge/dice-fm?fpr=hs6s8"
   },
@@ -6667,7 +6691,7 @@
     "id": "etYPMyTjax2rinjzA",
     "name": "Amazon Prouct Reviews",
     "description": "[UPDATED] Extract product reviews from Amazon including reviewer names, ratings, review text, customer photos, dates, and  votes.\n\n✅ Scrapes all reviews text, ratings, and dates\n📸 Extracts  photos (both thumbnail and full-size URLs)\n🎯 Extracts helpful votes count\n✓ Identifies verified purchases",
-    "rating": 1.802355196980355,
+    "rating": 1.802355196980354,
     "rating_count": 2,
     "url": "https://apify.com/happitap/amazon-prouct-reviews?fpr=hs6s8"
   },
@@ -6683,7 +6707,7 @@
     "id": "NTfBVYWebZ5cdqxal",
     "name": "Etsy Scraper Pro",
     "description": "Fast and reliable Etsy scraper that extracts product listings from search results. Get product titles, prices, ratings, reviews, shop names, and images - perfect for market research, price monitoring, competitor analysis, and e-commerce automation.",
-    "rating": 1.375666084041099,
+    "rating": 1.3756660840411,
     "rating_count": 3,
     "url": "https://apify.com/webdatalabs/etsy-scraper-pro?fpr=hs6s8"
   },
@@ -9446,14 +9470,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/lexis-solutions/roblox-marketplace-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "paJBLNCT5UPaAutlg",
-    "name": "Fnac Data Scraping",
-    "description": "Scrape Fnac product data —including name, price, availability, EAN, SKU, images, seller, categories, delivery info, ratings, and reviews—from both search and product pages with seamless proxy support.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/fayoussef/fnac-data-scraping?fpr=hs6s8"
   },
   {
     "id": "oVKSAZ0VXGLVgrvDf",
@@ -39298,7 +39314,7 @@
   {
     "id": "WxFaOWNEkdoXWnox5",
     "name": "Ubereats Scraper",
-    "description": "",
+    "description": "Scrape Uber Eats restaurants worldwide — full menus with prices in cents, reviews, hours, ratings, and chain IDs in a single HTTP request. 10 countries supported. $2 per 1,000 results, no per-run fee.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/sourabhbgp/ubereats-scraper?fpr=hs6s8"
@@ -42930,7 +42946,7 @@
   {
     "id": "DLvccSUHovFLxTKMU",
     "name": "Kickstarter Advanced Scraper",
-    "description": "Scrape Kickstarter projects with advanced filters: category, status, location, funding goal & % raised. Extracts structured JSON data at scale. No proxy required.",
+    "description": "Extract Kickstarter projects, creators, rewards and stats with advanced filters. $0.99 per 1,000 results.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/datacach/kickstarter-advanced-scraper?fpr=hs6s8"
@@ -48032,14 +48048,6 @@
     "url": "https://apify.com/unseenuser/TikTok-Shop-Scraper?fpr=hs6s8"
   },
   {
-    "id": "ylMYAhm4BavEeOuGm",
-    "name": "Bing Search Result Scraper",
-    "description": "Bing Search Result Scraper extracts organic and paid results, ads, Related, People Also Ask, News, Videos and Images Answers. Supports all available markets and languages. Download data as HTML table, JSON, CSV, Excel, XML or RSS",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/likeable_fire/bing-search-result-scraper?fpr=hs6s8"
-  },
-  {
     "id": "xdxRfi2RvTJaoNt4D",
     "name": "TikTok Shop Data Scraper",
     "description": "Extract high-value product intelligence and viral trends from TikTok Shop searches. This scraper pulls detailed insights directly from TikTok, helping you identify trending products, top creators, and engagement metrics fast.",
@@ -48070,14 +48078,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/kawsar/healthwarehouse-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "gs8dKMHaOPQ1n9E0f",
-    "name": "Flipkart Price Tracker",
-    "description": "Scrapes Flipkart search results and returns structured product price data for competitor price tracking.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/aslisubhash/flipkart-price-tracker?fpr=hs6s8"
   },
   {
     "id": "gh2KMDpLCgCberd8M",
@@ -48214,5 +48214,181 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/emt_crawler/google-news-scraper-fast-and-cheap?fpr=hs6s8"
+  },
+  {
+    "id": "z6PR4Twm50NedU47K",
+    "name": "Wildberries Product Reviews Scraper",
+    "description": "Extract comprehensive product reviews from Wildberries.ru, Russia's largest e-commerce marketplace. Scrape ratings, text reviews, pros/cons, size accuracy, photos, videos, and user interactions. Perfect for market research, product analytics, and competitive intelligence in the Russian retail market",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/wildberries-product-reviews-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "vyCgKLxTIqK2Nrwab",
+    "name": "Hotpads Scraper",
+    "description": "Scrape rental listings from HotPads.com. Extract price, beds, baths, address, photos, amenities, pet policy, nearby schools and more. Supports apartments, houses, condos and rooms across any US city. Fast mode or full detail mode.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/tangerine_loom/Hotpads-Scraper?fpr=hs6s8"
+  },
+  {
+    "id": "tusNUjcn4LpH7UcS7",
+    "name": "TrendStrike — TikTok Shop opportunity agent",
+    "description": "Autonomous research agent that finds emerging product opportunities on TikTok Shop. Scans trending hashtags and sounds, cross-references against TikTok Shop products and creator activity, and produces a daily briefing of products to add to your catalog — with evidence.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/abdulbasith/trendstrike?fpr=hs6s8"
+  },
+  {
+    "id": "rriTC6GtvxNhBniDD",
+    "name": "Fiverr Gigs Scraper 2026",
+    "description": "Scrape Fiverr gigs by keyword or category. Extract seller profiles, pricing, ratings, reviews, and freelancer listings for market research, competitor analysis, and talent sourcing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/devcake/fiverr-gigs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "q87Tibn2H80yf9wxe",
+    "name": "eMAG Product Scraper",
+    "description": "Extract product listings from eMAG — Romania, Bulgaria & Hungary. Scrape prices, stock status, ratings, seller info, and category paths from emag.ro, emag.bg, and emag.hu. No proxy required.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/extractify-labs/emag-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "paZphtNqMmmYoLGDY",
+    "name": "Amazon ASIN Reviews Scraper — Full Review Set (Not Just Top 10)",
+    "description": "Up to 200 structured reviews per ASIN — 100 most recent + 100 most helpful. Most Amazon review scrapers return only the 10 visible reviews. Across 12 marketplaces (US, UK, DE, FR, IT, ES, NL, SE, PL, TR, IN, CA), ready for sentiment, competitor, brand analysis. Cached re-reads are free.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/hypnotic_freedom/amazon-reviews-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "lykgZRORazOQIYzdr",
+    "name": "Google Lens Scraper — Reverse Image Search",
+    "description": "Reverse image search at scale via Google Lens: visual matches, exact matches, and shoppable product matches with price chips. Feed any public image URL, get structured JSON — title, source, source_favicon, thumbnail, price tag, in-stock flag, plus related search chips.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/scrape.badger/google-lens-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gz4cdZPMT3YrhGfPd",
+    "name": "Wildberries Product Search Scraper",
+    "description": "Scrape product listings from Wildberries.ru, Russia's largest online marketplace. Extract prices, ratings, supplier info, stock levels, and product specifications from search and category pages. Ideal for market research, price monitoring, and competitive analysis in the Russian e-commerce market.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/wildberries-product-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Y3tCKdb5JRtX8QWck",
+    "name": "Americanas Product Search Scraper",
+    "description": "Scrape product listings from Americanas.com.br, one of Brazil's largest online retailers. Extract prices, images, brands, seller information, and product specifications from search results. Ideal for price monitoring, market research, and competitive analysis in the Brazilian e-commerce market.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/americanas-product-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "FI2e6NMhFjRcWWy1f",
+    "name": "Naver Search API → Clean English JSON",
+    "description": "Korean Naver search results normalized to English JSON via the official Naver Open API. News, blog, web, and shopping verticals.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/maolab/naver-search-api?fpr=hs6s8"
+  },
+  {
+    "id": "CCIWoaeEcY0Nmzn43",
+    "name": "Basspro Scraper",
+    "description": "Scrape Bass Pro product listings and detail pages with this Apify actor. Extract product titles, brands, categories, prices, ratings, descriptions, breadcrumbs, and variants from BassPro.com for ecommerce monitoring, market research, and competitive analysis.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/lexis-solutions/basspro-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "w7uUHI5KyNlfogMgd",
+    "name": "Cyberport Scraper — German Premium Electronics, Laptops & PCs",
+    "description": "Scrape premium electronics, laptops, PCs, monitors, and tech products from cyberport.de — Germany's premium electronics retailer. Supports search queries and category URL browsing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/studio-amba/cyberport-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "um2ud3csJjzNgQZdu",
+    "name": "NetOnNet Scraper — Swedish Discount Electronics & Appliances",
+    "description": "Scrape products, prices, stock status, ratings, and specs from NetOnNet.se. Sweden's popular discount electronics retailer. Supports search queries and category browsing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/studio-amba/netonnet-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "qPiOV53srZ6OX4l38",
+    "name": "OpenSea NFT Collection Scraper",
+    "description": "Scrape NFT collection data from OpenSea. Get token IDs, last sale prices (ETH + USD), floor price, traits, rarity ranks, listings, and collection metadata. No API key needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/lulzasaur/opensea-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "kPSPzx8UOL1KYVcn6",
+    "name": "eBay Seller Leads API",
+    "description": "Resolve any eBay store or seller-profile URL (/str/ or /usr/) into a structured B2B lead record: store name, member-since date, location, total feedback score, positive feedback %, top categories, total active listings, and the canonical store URL for SDR outreach.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/agentx/ebay-seller-leads-api?fpr=hs6s8"
+  },
+  {
+    "id": "eDNgjZCO7BvrSsZgs",
+    "name": "eMAG Scraper — Romanian E-commerce Products & Prices",
+    "description": "Scrape products, prices, reviews, and specifications from eMAG.ro — Romania's largest online retailer.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/studio-amba/emag-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "d6hcTSLpAc0CYpqaP",
+    "name": "Adopt-a-Pet Scraper",
+    "description": "Scrape pet adoption listings from Adopt-a-Pet.com. Search dogs, cats, rabbits, birds and more by location and breed. Returns breed, age, gender, shelter info, photos.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/lulzasaur/adoptapet-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "bCSTd5bZzyhhblGxZ",
+    "name": "Webhallen Scraper — Swedish Electronics Products & Prices",
+    "description": "Scrapes products from webhallen.com with prices, availability, and details.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/studio-amba/webhallen-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "HQwg9E0elo67lgdcI",
+    "name": "Dustin Scraper — Nordic IT, Computers & Office Equipment",
+    "description": "Scrape products, prices, specs, and stock from Dustin.se. Nordic B2B/B2C IT & electronics retailer. Supports search queries, category browsing, and product detail extraction.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/studio-amba/dustin-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "BK8xjBz62nLLyG6iG",
+    "name": "TikTok Affiliate Products",
+    "description": "Access structured TikTok Shop affiliate product data — including pricing, commission, and sales signals — through a simple, flexible API.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/lemur/tiktok-shop-affiliate-products?fpr=hs6s8"
+  },
+  {
+    "id": "6wUN1yKLvFCRssP0x",
+    "name": "HomeAdvisor Cost Guide Scraper",
+    "description": "Scrape HomeAdvisor/Angi cost guides for 200+ home improvement services. Extract cost ranges, national averages, cost factors, and descriptions for plumbing, electrical, roofing, and more.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/lulzasaur/homeadvisor-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "5DUXtIxnqqq92qz8E",
+    "name": "Letterboxd Film Reviews & Ratings Scraper",
+    "description": "Scrape Letterboxd films with ratings, reviews, directors, genres, and fan counts. Browse popular, top-rated, or recent films, or search by title.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/lulzasaur/letterboxd-scraper?fpr=hs6s8"
   }
 ]
