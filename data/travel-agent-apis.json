@@ -3,8 +3,8 @@
     "id": "nwua9Gu5YrADL7ZDj",
     "name": "Google Maps Scraper",
     "description": "Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools.",
-    "rating": 4.736408359524023,
-    "rating_count": 1297,
+    "rating": 4.737556860945737,
+    "rating_count": 1303,
     "url": "https://apify.com/compass/crawler-google-places?fpr=hs6s8"
   },
   {
@@ -19,8 +19,8 @@
     "id": "Xb8osYTtOjlsgI6k9",
     "name": "Google Maps Reviews Scraper",
     "description": "Extract all reviews of Google Maps places using place URLs. Get review text, published date, response from owner, review URL, and reviewer's details. Download scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools.",
-    "rating": 4.769798410827817,
-    "rating_count": 153,
+    "rating": 4.773642082600098,
+    "rating_count": 154,
     "url": "https://apify.com/compass/Google-Maps-Reviews-Scraper?fpr=hs6s8"
   },
   {
@@ -35,7 +35,7 @@
     "id": "vDaVbiJcPUAnJHCM6",
     "name": "Visa Checker by Nationality",
     "description": "Visa rules vary by nationality and destination, and the information is often scattered and difficult to reuse. This actor solves that by extracting and structuring visa requirements into clean, multilingual datasets that can be easily viewed, exported, or integrated into workflows.",
-    "rating": 4.975210944308344,
+    "rating": 4.975210944308345,
     "rating_count": 41,
     "url": "https://apify.com/expected_diet/visa-checker-by-nationality?fpr=hs6s8"
   },
@@ -44,8 +44,40 @@
     "name": "Booking.com Attractions Scraper",
     "description": "Scrape tours, activities, and things to do from Booking.com. Extract attraction names, prices, ratings, descriptions, and booking details.",
     "rating": 5,
-    "rating_count": 32,
+    "rating_count": 33,
     "url": "https://apify.com/crawlerbros/booking-attractions-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "p2D5Ofj8SGopF3r0L",
+    "name": "Expedia Hotels Scraper",
+    "description": "Scrape hotel listings from Expedia search results. Extract hotel names, prices, ratings, reviews, neighborhoods, descriptions and images for any destination and travel dates.",
+    "rating": 5,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/expedia-hotels-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Ba3h3HPisc4fElloL",
+    "name": "Tripadvisor Scraper",
+    "description": "Scrape hotels, restaurants, attractions, and vacation rentals from TripAdvisor. Search by keyword or provide direct URLs. Extract names, ratings, rankings, addresses, contact info, prices, and more. No login required.",
+    "rating": 5,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/tripadvisor-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "t974rddpGdTduJ1EP",
+    "name": "Tripadvisor Reviews Scraper",
+    "description": "Extract reviews from TripAdvisor places. Get review text, ratings, dates, reviewer info, owner responses, helpful votes, and place details.",
+    "rating": 5,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/tripadvisor-reviews-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "k5fnZUEXFZPdEJmgg",
+    "name": "Google Maps Reviews Scraper",
+    "description": "Extract detailed reviews from any Google Maps business page. This scraper retrieves reviewer information, ratings, review text, dates, likes, and owner responses.",
+    "rating": 4.999999999999999,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/google-maps-reviews-scraper?fpr=hs6s8"
   },
   {
     "id": "z1Vw907owd5WLapWg",
@@ -56,52 +88,20 @@
     "url": "https://apify.com/delicious_zebu/google-maps-store-review-scraper?fpr=hs6s8"
   },
   {
-    "id": "p2D5Ofj8SGopF3r0L",
-    "name": "Expedia Hotels Scraper",
-    "description": "Scrape hotel listings from Expedia search results. Extract hotel names, prices, ratings, reviews, neighborhoods, descriptions and images for any destination and travel dates.",
+    "id": "qrRxYnHafxsukMddI",
+    "name": "Google Earth Scraper",
+    "description": "Advanced Google Earth Scraper. Extracts precise 3D coordinates (Latitude, Longitude, Altitude), Place IDs, Addresses, and metadata from Google Earth.",
     "rating": 5,
-    "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/expedia-hotels-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "Ba3h3HPisc4fElloL",
-    "name": "Tripadvisor Scraper",
-    "description": "Scrape hotels, restaurants, attractions, and vacation rentals from TripAdvisor. Search by keyword or provide direct URLs. Extract names, ratings, rankings, addresses, contact info, prices, and more. No login required.",
-    "rating": 5,
-    "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/tripadvisor-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "t974rddpGdTduJ1EP",
-    "name": "Tripadvisor Reviews Scraper",
-    "description": "Extract reviews from TripAdvisor places. Get review text, ratings, dates, reviewer info, owner responses, helpful votes, and place details.",
-    "rating": 5,
-    "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/tripadvisor-reviews-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "k5fnZUEXFZPdEJmgg",
-    "name": "Google Maps Reviews Scraper",
-    "description": "Extract detailed reviews from any Google Maps business page. This scraper retrieves reviewer information, ratings, review text, dates, likes, and owner responses.",
-    "rating": 5,
-    "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/google-maps-reviews-scraper?fpr=hs6s8"
+    "rating_count": 24,
+    "url": "https://apify.com/crawlerbros/google-earth-scraper?fpr=hs6s8"
   },
   {
     "id": "oeiQgfg5fsmIJB7Cn",
     "name": "Booking Scraper",
     "description": "Scrape Booking with this hotels scraper and get data about accommodation on Booking.com. You can crawl by keywords or URLs for hotel prices, ratings, addresses, number of reviews, stars. You can also download all that room and hotel data from Booking.com with a few clicks: CSV, JSON, HTML, and Excel",
-    "rating": 4.576785665523158,
+    "rating": 4.576785665523157,
     "rating_count": 28,
     "url": "https://apify.com/voyager/booking-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "qrRxYnHafxsukMddI",
-    "name": "Google Earth Scraper",
-    "description": "Advanced Google Earth Scraper. Extracts precise 3D coordinates (Latitude, Longitude, Altitude), Place IDs, Addresses, and metadata from Google Earth.",
-    "rating": 5,
-    "rating_count": 23,
-    "url": "https://apify.com/crawlerbros/google-earth-scraper?fpr=hs6s8"
   },
   {
     "id": "dbEyMBriog95Fv8CW",
@@ -112,10 +112,18 @@
     "url": "https://apify.com/maxcopell/tripadvisor?fpr=hs6s8"
   },
   {
+    "id": "ATLMwmcZmzEeLbMJu",
+    "name": "10times.com Events Scraper",
+    "description": "Scrape trade shows, conferences, and workshops from 10times.com. Extract event name, dates, venue, organiser, categories, description, and attendance stats. HTTP-only with hardcoded residential proxy.",
+    "rating": 5,
+    "rating_count": 22,
+    "url": "https://apify.com/crawlerbros/tentimes-events-scraper?fpr=hs6s8"
+  },
+  {
     "id": "2RU4vCTFEHrTuf6HX",
     "name": "Tripadvisor Hotel Details Scraper",
     "description": "Scrape TripAdvisor hotels, restaurants, and attractions at scale. Enter a city name or paste any list/detail URL. Extract 50+ fields per item — ratings, reviews, prices, photos, contact info, nearby places, opening hours, Q&A, and more. Supports 50+ regional domains.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 22,
     "url": "https://apify.com/delicious_zebu/tripadvisor-hotel-details-scraper?fpr=hs6s8"
   },
@@ -123,24 +131,16 @@
     "id": "cWLSkB3MHXmy4xBgU",
     "name": "Funda.nl Real Estate",
     "description": "Scrape Dutch real-estate listings from Funda.nl with price, living area, plot size, rooms, bedrooms, energy label, address, city, neighborhood, images, and agent. HTTP-only, no login required.",
-    "rating": 5.000000000000001,
-    "rating_count": 20,
-    "url": "https://apify.com/crawlerbros/funda-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "ATLMwmcZmzEeLbMJu",
-    "name": "10times.com Events Scraper",
-    "description": "Scrape trade shows, conferences, and workshops from 10times.com. Extract event name, dates, venue, organiser, categories, description, and attendance stats. HTTP-only with hardcoded residential proxy.",
     "rating": 5,
-    "rating_count": 20,
-    "url": "https://apify.com/crawlerbros/tentimes-events-scraper?fpr=hs6s8"
+    "rating_count": 21,
+    "url": "https://apify.com/crawlerbros/funda-scraper?fpr=hs6s8"
   },
   {
     "id": "bKcGpxUiCt26cy8h3",
     "name": "Google Flights Scraper",
     "description": "Scrape Google Flights search results with price, airline, departure/arrival times, duration, stops. One-way + round-trip + cabin class + airline filters: maxLayoverMinutes, directOnly, excludeBasicEconomy.",
-    "rating": 5,
-    "rating_count": 20,
+    "rating": 4.999999999999999,
+    "rating_count": 21,
     "url": "https://apify.com/crawlerbros/google-flights-scraper?fpr=hs6s8"
   },
   {
@@ -148,23 +148,23 @@
     "name": "Flight Award Mileage Chart Scraper",
     "description": "Look up published award redemption rates (miles + taxes) between any two regions across major frequent-flyer programs (Aeroplan, British Airways Avios, LifeMiles, United, Flying Blue, etc.). Returns real chart values from each issuer's public page.",
     "rating": 5,
-    "rating_count": 20,
+    "rating_count": 21,
     "url": "https://apify.com/crawlerbros/flight-award-scraper-pro?fpr=hs6s8"
   },
   {
     "id": "HZkTRDQlxmqPkxK4B",
     "name": "CruiseMapper Cruises Scraper",
     "description": "Search CruiseMapper.com for cruise itineraries by destination, ship, cruise line, departure port, length, and date. Returns ship name, dates, route, duration, and starting price per cruise.",
-    "rating": 5,
-    "rating_count": 20,
+    "rating": 4.999999999999999,
+    "rating_count": 21,
     "url": "https://apify.com/crawlerbros/cruisemapper-cruises-scraper?fpr=hs6s8"
   },
   {
     "id": "ubDATpeTfUbDKTH8j",
     "name": "TripAdvisor Review Collector",
     "description": "Scrape reviews from TripAdvisor for all 5 categories: Hotels, Restaurants, Attractions, Activities, and Cruises. Rich filters for any need: rating, traveler type, language, date range, and more. Fast API-based, no browser needed.",
-    "rating": 5.000000000000001,
-    "rating_count": 19,
+    "rating": 5,
+    "rating_count": 20,
     "url": "https://apify.com/delicious_zebu/tripadvisor-review-collector?fpr=hs6s8"
   },
   {
@@ -187,7 +187,7 @@
     "id": "6ceTB7D1Ll9d1M22I",
     "name": "Google Maps Scraper",
     "description": "Extract comprehensive business data from Google Maps, including ratings, emails, social media profiles, photos, and operational details. Perfect for market research and lead generation.",
-    "rating": 4.947718122723822,
+    "rating": 4.947718122723821,
     "rating_count": 13,
     "url": "https://apify.com/api-ninja/google-maps-scraper?fpr=hs6s8"
   },
@@ -195,7 +195,7 @@
     "id": "zjHvqBELFZjCG7EYO",
     "name": "Astonomical Data (Sunrise, sunset, twilight, etc)",
     "description": "The Sun Data Scraper collects daily astronomical data for a given city. It gives sunrise, sunset, day length, solar noon, and various twilight times (civil, nautical, astronomical) which are ideal for solar planning, photography, research, and integration with various platfroms",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 12,
     "url": "https://apify.com/accelerationengg/sun-only?fpr=hs6s8"
   },
@@ -203,7 +203,7 @@
     "id": "0NUw1EjX6ioyng2ee",
     "name": "Tripadvisor Reviews Scraper",
     "description": "Scrape reviews from TripAdvisor using customizable search queries and filters. Extract review data including ratings, dates, traveler types, and more with support for multiple sorting options and keyword filtering.",
-    "rating": 4.936212022096322,
+    "rating": 4.936212022096324,
     "rating_count": 12,
     "url": "https://apify.com/api-ninja/tripadvisor-reviews-scraper?fpr=hs6s8"
   },
@@ -214,6 +214,14 @@
     "rating": 4.999999999999999,
     "rating_count": 11,
     "url": "https://apify.com/epctex/apartments-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "qu1rEmGCwbKXsDaK9",
+    "name": "Vrbo Vacation Rentals",
+    "description": "Scrape Vrbo vacation-rental listings by destination and dates. Extract property names, nightly/total prices, ratings, reviews, bedrooms, bathrooms, amenities, host info and images.",
+    "rating": 5,
+    "rating_count": 10,
+    "url": "https://apify.com/crawlerbros/vrbo-scraper?fpr=hs6s8"
   },
   {
     "id": "GctCXDim0MXeLZegY",
@@ -307,7 +315,7 @@
     "id": "PsW5opjdKb6vvuTzH",
     "name": "Hotels.com Reviews $2.15💰 Scraper-Guest Feedback & Sentiment",
     "description": "Only $2.15💰 Extract reviews from Hotels.com with ratings, sentiment analysis, travel companion data, reviewer info, photos & responses. Includes reviewText, reviewRating (1-10), sentiments (liked/disliked), traveledWith field, reviewDate, authorName, tripType, and managementResponse. Date filtering",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 8,
     "url": "https://apify.com/memo23/hotels-scraper?fpr=hs6s8"
   },
@@ -315,7 +323,7 @@
     "id": "lj2kOOVpK1T1CXRa7",
     "name": "🌟Free Airbnb Scraper",
     "description": "Scrape airbnb listings from search results and extract complete details for each property including availability calendar, cost, description, photos, review, rating and host details, etc",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 8,
     "url": "https://apify.com/curious_coder/airbnb-scraper?fpr=hs6s8"
   },
@@ -339,7 +347,7 @@
     "id": "vjPBUmIq9Dzcip2XI",
     "name": "TripAdvisor Reviews Scraper",
     "description": "Gather any feedback, ratings, and comments on TripAdvisor. Ideal for market analysts, hospitality businesses, content creators, and researchers, this tool offers an easy way to collect and analyze traveler reviews. Streamline your research with quick, reliable, and user-friendly data extraction.",
-    "rating": 4.037333561832161,
+    "rating": 4.03733356183216,
     "rating_count": 10,
     "url": "https://apify.com/epctex/tripadvisor-reviews-scraper?fpr=hs6s8"
   },
@@ -395,7 +403,7 @@
     "id": "I4F3OfghlbcbwlsgT",
     "name": "2gis Places Scraper",
     "description": "Извлекайте данные из тысяч мест и предприятий на 2ГИС, включая номера телефонов, соцсети, сайты. отзывы, фотографии и многое другое. Экспортируйте данные, запускайте через API, планируйте и отслеживайте запуски или интегрируйте с другими инструментами.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/m_mamaev/2gis-places-scraper?fpr=hs6s8"
   },
@@ -403,7 +411,7 @@
     "id": "Wq48bq4hFH2ctmxbR",
     "name": "Fast Google Maps Reviews Scraper API | Extract Ratings & Text",
     "description": "Extract valuable business reviews from Google Maps at high speed. Our cost-effective scraper delivers comprehensive review data, ratings, and customer sentiments to fuel your business intelligence. Monitor brand reputation, analyze competitors, make data-driven decisions with unmatched reliability.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/agents/google-maps-reviews?fpr=hs6s8"
   },
@@ -411,7 +419,7 @@
     "id": "3zs2LksPOOVL2BP62",
     "name": "Furnishedfinder.com [Emails Included] Scraper",
     "description": "The FurnishedFinder Scraper is your ultimate solution for streamlined rental searches, helping you extract detailed property data like amenities, availability, and pricing effortlessly. With customizable settings and persistent storage, it’s perfect for travelers, researchers, or property managers.",
-    "rating": 4.992913855955112,
+    "rating": 4.992913855955113,
     "rating_count": 7,
     "url": "https://apify.com/memo23/furnishedfinder-scraper-cheerio?fpr=hs6s8"
   },
@@ -419,7 +427,7 @@
     "id": "PbMHke3jW25J6hSOA",
     "name": "Booking Reviews Scraper",
     "description": "Scraper to get reviews from hotels, apartments and other accommodations listed on the Booking.com portal. Extract data using hotel URLs for review text, ratings, stars, basic reviewer info, length of stay, liked/disliked parts, room info, date of stay and more. Download in JSON, HTML, Excel, CSV.",
-    "rating": 2.915198541546658,
+    "rating": 2.915198541546659,
     "rating_count": 17,
     "url": "https://apify.com/voyager/booking-reviews-scraper?fpr=hs6s8"
   },
@@ -427,7 +435,7 @@
     "id": "VOjoxywiTbdQoe4lu",
     "name": "TripAdvisor Reviews Scraper",
     "description": "Effortlessly extract chosen places on Tripadvisor. Extract the review text, URL, rating, date of travel, published date, basic reviewer info, owner's response, helpful votes, images, review language, place details. Download reviews in XML, JSON, CSV.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/crucial_binoculars/TripAdvisor-Reviews-Scraper?fpr=hs6s8"
   },
@@ -435,7 +443,7 @@
     "id": "Sc02jn50Dld9sj99b",
     "name": "Booking.com Reviews Scraper",
     "description": "Review Scraper: Collect in-depth reviews from hotels, apartments, and more on Booking.com. Extract key data points such as review text, ratings, reviewer info, stay duration, room specifics, and pros and cons. Seamlessly download the data in JSON, HTML, Excel, or CSV formats",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/crucial_binoculars/booking-com-reviews-scraper?fpr=hs6s8"
   },
@@ -443,7 +451,7 @@
     "id": "jVViUVhVl2hnLpTfu",
     "name": "Inmuebles24 Details Scraper 🧡 (By Listings URLs)",
     "description": "⚡ #1 Inmuebles24 listings details scraper: paste URLs to get emails, phones, ratings & more. Fast, easy, comprehensive. / #1 Scraper de detalles: pega URLs y obtén correos, teléfonos, calificaciones y más. Rápido, fácil y completo. 🏠",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/inmuebles24-details-scraper-by-listings-urls?fpr=hs6s8"
   },
@@ -451,7 +459,7 @@
     "id": "6I1hBKNMgBNHeYxuL",
     "name": "Expedia.com $2.5💰Extract Reviews & Ratings &Sentiment Analysis",
     "description": "[Only $2.5💰] Extract comprehensive hotel reviews from Expedia.com. Get review text, ratings (0-10), guest names, review dates, trip details, travel companion info, sentiment analysis (liked/disliked features), and photos. Supports date filtering, pagination, and exports to JSON/CSV.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/memo23/expedia-scraper?fpr=hs6s8"
   },
@@ -475,7 +483,7 @@
     "id": "OIYrZy1OpUEgIMYmh",
     "name": "Airbnb Rooms URLs Scraper",
     "description": "Scrape direct Airbnb rooms URLs and get all available details about the accommodation.",
-    "rating": 2.670244519244915,
+    "rating": 2.670244519244916,
     "rating_count": 12,
     "url": "https://apify.com/tri_angle/airbnb-rooms-urls-scraper?fpr=hs6s8"
   },
@@ -499,7 +507,7 @@
     "id": "QOqHeihSFBPVO6ZjY",
     "name": "Airbnb Phone Number Scraper",
     "description": "Airbnb Phone Number Scraper extracts publicly listed host and property phone numbers from Airbnb listings. Build targeted contact lists by city or property type. Ideal for marketers, agencies, and service providers.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/scraper-engine/airbnb-phone-number-scraper?fpr=hs6s8"
   },
@@ -520,14 +528,6 @@
     "url": "https://apify.com/memo23/opentable-reviews-cheerio?fpr=hs6s8"
   },
   {
-    "id": "nxXcg7sXHoBOjlgHt",
-    "name": "Flatmates Scraper (By Search URL)",
-    "description": "Scrape rooms, people & teamups from Flatmates.com.au! 🏠 Australia's #1 share accommodation site. Extract listings fast & easy 🚀",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/azzouzana/flatmates-scraper-by-search-url?fpr=hs6s8"
-  },
-  {
     "id": "8vxvc9BwwG34zvS5P",
     "name": "Telegram Group Member",
     "description": "Get every member of any Telegram group — names, usernames, phone (when public), bios, and profile pics. Thousands at once, in one click.",
@@ -544,10 +544,18 @@
     "url": "https://apify.com/lexis-solutions/hrs-de-reviews-scraper?fpr=hs6s8"
   },
   {
+    "id": "nxXcg7sXHoBOjlgHt",
+    "name": "Flatmates Scraper (By Search URL)",
+    "description": "Scrape rooms, people & teamups from Flatmates.com.au! 🏠 Australia's #1 share accommodation site. Extract listings fast & easy 🚀",
+    "rating": 4.999999999999999,
+    "rating_count": 4,
+    "url": "https://apify.com/azzouzana/flatmates-scraper-by-search-url?fpr=hs6s8"
+  },
+  {
     "id": "ahpk7S3a62kOzKdE9",
     "name": "Google Hotels Search Scraper",
     "description": "Extract comprehensive hotel data from Google Hotels including prices, ratings, amenities, property details, and images. Supports advanced filtering, vacation rentals, localization, and multi-page pagination. Ideal for market research, price monitoring, and travel applications.",
-    "rating": 4.961991726171452,
+    "rating": 4.961991726171453,
     "rating_count": 4,
     "url": "https://apify.com/johnvc/google-hotels-search-scraper?fpr=hs6s8"
   },
@@ -563,7 +571,7 @@
     "id": "ZCKMflrv8Dh0HNoDj",
     "name": "Trip.com Hotel Data Scraper with Advanced Filters",
     "description": "Powerful Trip.com hotel/accomendation data scraper & API. Collect prices (original, current, total), ratings, reviews, room types, amenities, images, promotions. Apply advanced filters, monitor markets, build dashboards, or call via REST & schedule. Exports JSON or CSV fast.",
-    "rating": 4.745939136314779,
+    "rating": 4.74593913631478,
     "rating_count": 4,
     "url": "https://apify.com/hotels-scrapers/trip-hotel-scraper?fpr=hs6s8"
   },
@@ -579,7 +587,7 @@
     "id": "MMQdritoUWpzUVbah",
     "name": "AllTrails Scraper",
     "description": "Supercharge your outdoor adventure planning with our comprehensive AllTrails Scraper! Automate collection of detailed trail information, ratings, reviews, and photos from AllTrails.com. Perfect for hikers, outdoor enthusiasts, and travel planners who need accurate without manual work.",
-    "rating": 3.896330439267164,
+    "rating": 3.896330439267163,
     "rating_count": 5,
     "url": "https://apify.com/parseforge/alltrails-scraper?fpr=hs6s8"
   },
@@ -603,7 +611,7 @@
     "id": "cGnGvob9maz6I9Ohr",
     "name": "Google Hotels Scraper",
     "description": "Google Hotels Scraper is an actor for extracting prices from Google search results.",
-    "rating": 3.635233547803033,
+    "rating": 3.635233547803034,
     "rating_count": 5,
     "url": "https://apify.com/martin.forejt/google-hotels-scraper?fpr=hs6s8"
   },
@@ -635,7 +643,7 @@
     "id": "iKtCIl40eWabUN8Nw",
     "name": "OYO Hotel Scraper",
     "description": "Scrape hotel listings from OYO based on city and date filters. Extracts name, price, rating, amenities, images, availability, and booking URL.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/oyo-hotel-scraper?fpr=hs6s8"
   },
@@ -643,7 +651,7 @@
     "id": "co25YOk0tYk8gGdPX",
     "name": "AirlineQuality (Skytrax) Reviews Scraper",
     "description": "Scrape airline, airline seat, airline lounge and airport reviews from AirlineQuality.com, the official review platform by Skytrax. Get clean, structured aviation review data for sentiment analysis, competitor benchmarking, market research and AI/LLM training.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/knagymate/airlinequality-skytrax-reviews-scraper?fpr=hs6s8"
   },
@@ -651,7 +659,7 @@
     "id": "6zwcZa1BofGjgHqeB",
     "name": "Events Eye Scraper",
     "description": "A fast and reliable scraper for eventseye.com that extracts Exhibition Name, Description, Venue details, Organizer details and much more. Provides clean, structured data with support for Markdown, pagination, and easy API integration for your applications.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/techforce.global/events-eye-scraper?fpr=hs6s8"
   },
@@ -659,7 +667,7 @@
     "id": "BCOs0MIwaSAP5zbBE",
     "name": "Agoda Hotel & Room Scraper",
     "description": "Scrape hotel room availability, pricing, and policies from Agoda.com. Get real-time rates, breakfast info, cancellation policies, and room details for any hotel. Supports multiple hotels, date ranges, guest configs, and currencies (USD/THB/IDR/SGD/MYR).",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/datawebot/agoda-hotel-scraper?fpr=hs6s8"
   },
@@ -683,7 +691,7 @@
     "id": "eC53oEoee74OTExo3",
     "name": "Fast Agoda Reviews Scraper",
     "description": "Scraper to get reviews from hotels, apartments and other accommodations listed on the Agoda.com portal. Extract data using hotel URLs for review text, ratings, stars, basic reviewer info, length of stay, liked/disliked parts, room info, date of stay and more. Download in JSON, HTML, Excel, CSV.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/knagymate/fast-agoda-reviews-scraper?fpr=hs6s8"
   },
@@ -739,7 +747,7 @@
     "id": "eZrUY9bSzzsX5pNir",
     "name": "Google Maps 🗺️ Shared List 📖 Scraper",
     "description": "Extract complete place data from Google Maps shared lists instantly. Get names, addresses, ratings, phone numbers, websites, photos, and business hours. Optional AI-powered travel recommendations with visit scores. Export to CSV or JSON. Process 30+ places per minute.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/parseforge/google-maps-shared-list-scraper?fpr=hs6s8"
   },
@@ -747,7 +755,7 @@
     "id": "fRSgBvgbsRB4o7t30",
     "name": "Yandex Maps Scraper | Парсер Яндекс Карт: Leads, Reviews & API",
     "description": "Unofficial Yandex Maps API. Scrape business data, phone numbers, emails, reviews, photos, and posts from Russia, Turkey, and CIS. Export 63+ fields to Excel, JSON, or CSV. No browser needed — fast, unlimited, and pay-per-result. Includes AI review summaries and full menu prices.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/zen-studio/yandex-maps-scraper?fpr=hs6s8"
   },
@@ -755,7 +763,7 @@
     "id": "4h4JW9DGsfcpVEphJ",
     "name": "Waze Traffic Scraper",
     "description": "Extract real-time traffic data from Waze including accidents, hazards, police reports, road closures, and live traffic congestion. Perfect for logistics routing, fleet optimization, and traffic analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/phantom_coder/waze-traffic-scraper?fpr=hs6s8"
   },
@@ -763,7 +771,7 @@
     "id": "3sSRgcgXhckMyhLi2",
     "name": "Google Maps Lead Extractor: Phones, Ratings & Review Counts",
     "description": "Turn keywords and one location into a qualified Google Maps sales lead list with phones, websites, ratings, review counts, addresses, service options, and business details. Export to CSV, Excel, or JSON.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/jinzha/google-maps-scraper-plus?fpr=hs6s8"
   },
@@ -819,7 +827,7 @@
     "id": "6cMzJhRlD4wfzrWXg",
     "name": "Fast Instagram Location Scraper API",
     "description": "Instagram Location Scraper API - extract geo-tagged posts, GPS coordinates, and engagement data at 100–200 posts/sec. $0.025/location (50 FREE). $0.0005 per post beyond 50, no login or proxies. Ideal for local marketing, tourism, retail, and real estate using Instagram location data at scale.",
-    "rating": 2.57659178816573,
+    "rating": 2.576591788165731,
     "rating_count": 7,
     "url": "https://apify.com/apidojo/instagram-location-scraper-api?fpr=hs6s8"
   },
@@ -891,7 +899,7 @@
     "id": "cCOGzGnAxNiZPQqIw",
     "name": "Fast Vio Reviews Scraper",
     "description": "High-performance Vio.com review scraper. Extract structured hotel reviews with ratings, dates, language, and reviewer data. Supports sorting, cutoff date filtering, and scalable automation via API, n8n, and ETL workflows.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/knagymate/fast-vio-reviews-scraper?fpr=hs6s8"
   },
@@ -899,7 +907,7 @@
     "id": "mI186daZ0S5AtAIf7",
     "name": "Trip.com Hotel & Room Scraper",
     "description": "Extract room listings and live prices from any Trip.com hotel page. Supports custom check-in/out dates, guest counts, and multiple hotels per run. Works with all Trip.com country subdomains (th, sg, id, etc.).",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/datawebot/trip-hotel-scraper?fpr=hs6s8"
   },
@@ -947,7 +955,7 @@
     "id": "ToxbCAhtq3iq9R95m",
     "name": "District Event",
     "description": "Extract comprehensive event listings from District.in, including titles, dates, venues, prices, and direct URLs for any city. This actor handles dynamic content and infinite scrolling to deliver clean, structured data in JSON, CSV, or Excel formats, perfect for event aggregation and market research.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/techforce.global/district-event?fpr=hs6s8"
   },
@@ -971,7 +979,7 @@
     "id": "aDf7xi6SrgAwUbU7S",
     "name": "Google Maps Business Extractor: Phones, Ratings & Review Counts",
     "description": "Turn keywords and one location into a structured Google Maps business list with phones, websites, ratings, review counts, addresses, service options, and business details. Export to CSV, Excel, or JSON.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/nezha/google-maps-scraper?fpr=hs6s8"
   },
@@ -987,7 +995,7 @@
     "id": "f7ixP6jMowwXYSRKD",
     "name": "Trip.com Hotel Scraper",
     "description": "Crawl hotel data from Trip.com. You can search by a city, a specific hotel, or a point of interest (POI).From this actor, you can obtain basic information such as the hotel’s name and location, as well as price, currency, images, reviews, ratings, and more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shinkiro.h/trip-hotel-scraper?fpr=hs6s8"
   },
@@ -1091,7 +1099,7 @@
     "id": "NDa1latMI7JHJzSYU",
     "name": "Fast Airbnb Scraper",
     "description": "Scrape destinations on Airbnb. Extract places and their prices, ratings, reviews counts, images and other details. Download scraped data in various formats including HTML, JSON and Excel.",
-    "rating": 3.019058177676256,
+    "rating": 3.019058177676255,
     "rating_count": 3,
     "url": "https://apify.com/tri_angle/new-fast-airbnb-scraper?fpr=hs6s8"
   },
@@ -1131,7 +1139,7 @@
     "id": "aqq1hZcxdXQPLLAi0",
     "name": "Google Maps Reviews",
     "description": "Get full details and all reviews for places such as monuments, restaurants or hotels from Google Maps! Also includes likes, images, replies and filters. It's fast and costs little!",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/canadesk/google-places-reviews?fpr=hs6s8"
   },
@@ -1219,7 +1227,7 @@
     "id": "yy55iqpCZtPhV6139",
     "name": "Sympla-Tickets-Brazil",
     "description": "Get public data like events, prices from Sympla Brazil",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/aiteks.ltda/sympla-tickets-brazil?fpr=hs6s8"
   },
@@ -1235,7 +1243,7 @@
     "id": "LmG7QSGPFvMVX5ovX",
     "name": "Tripadvisor Reviews",
     "description": "Scrape reviews from Tripadvisor for Hotels and Restaurants. Filter by language, rating, traveller type, and time of year. Sort by most recent or most detailed. Fast and efficient. n8n node: n8n-nodes-tripadvisor-reviews",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/datasaurus/tripadvisor-reviews?fpr=hs6s8"
   },
@@ -1291,7 +1299,7 @@
     "id": "q8ePhmRfzWOoD4lmu",
     "name": "Zameen Property Scraper - Cheap سستا 🏘️📍",
     "description": "🔍 Easily collect Zameen property\n\nFilter Zameen property listings and gather detailed information such as property titles, IDs, prices, locations, areas, bathrooms, descriptions, badges & direct property URLs 🏘️🌍\n\nPerfect for real estate market analysis, price monitoring & portfolio research 📊🚀",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/zameen-property-scraper---cheap-sst?fpr=hs6s8"
   },
@@ -1339,7 +1347,7 @@
     "id": "3HbKDei7Vn9tK195l",
     "name": "Just Eat Restaurant Scraper 📊🍕🍔 - Cheap",
     "description": "🔍 Easily gather restaurant data from Just Eat 🍽️ — including hundreds of restaurants across cities and delivery areas. Filter by location and collect detailed information about restaurants, ratings, cuisines, delivery times, fees, and active offers.\nNo proxy required 🚫 perfect for market research",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/just-eat-restaurant-scraper---cheap?fpr=hs6s8"
   },
@@ -1347,7 +1355,7 @@
     "id": "PkgAYCEv6tHyTHTa4",
     "name": "GetYourGuide Review Scraper",
     "description": "The GetYourGuide Review Scraper is a powerful and easy-to-use actor designed to collect structured review data from GetYourGuide product pages. Whether you’re analyzing customer sentiment, monitoring competitor feedback, or enriching your travel content.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/louvre/gyg-review-scraper?fpr=hs6s8"
   },
@@ -1571,7 +1579,7 @@
     "id": "QO1WsGkLsHaldobnH",
     "name": "Kayak Car Rentals Scraper - Cheap 🚗🌍💰",
     "description": "🔎 Easily collect Kayak car rental listings by providing one or multiple Kayak car search URLs\n\nExtract useful insights such as 🚗 Car Brand 🏷 Car Class 💵 Price per Day 💰 Total Price 🏢 Rental Provider 🔗 Booking URL and more\n\nPerfect for travel price comparison & mobility data analysis 🚗🌍📊",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/kayak-car-rentals-scraper---cheap?fpr=hs6s8"
   },
@@ -1595,7 +1603,7 @@
     "id": "XcRyC54AaExaElA0L",
     "name": "EXIF & GPS Metadata Extractor",
     "description": "📸 Image metadata scraper with EXIF extraction, GPS data, and optional reverse geocoding. Extract camera make/model, timestamps, locations from photos. Ideal for photography pros and digital forensics. Simple, fast, accurate. Try free!",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/sian.agency/exif-gps-metadata-extractor?fpr=hs6s8"
   },
@@ -1667,7 +1675,7 @@
     "id": "K6THbZbnwlL3QUBty",
     "name": "Tripadvisor Review Scraper",
     "description": "A specialized Apify actor that extracts detailed reviews from TripAdvisor hotels, restaurants, and attractions. Features advanced anti-bot measures, residential proxy support, and comprehensive review data extraction.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/happitap/tripadvisor-review-scraper?fpr=hs6s8"
   },
@@ -1744,10 +1752,18 @@
     "url": "https://apify.com/jindrich.bar/ceske-drahy-connections?fpr=hs6s8"
   },
   {
+    "id": "NBmcHCtkUEhA0DNP3",
+    "name": "2GIS Scraper (Phones, Emails, Reviews) | Парсер 2ГИС API",
+    "description": "2GIS scraper and API - extract phones, emails, reviews, and photos from 207 cities across 20 countries. 1,000 places in 90 seconds. 731 categories, 20+ filters, branch discovery. Парсер 2ГИС: телефоны, email, отзывы и фото организаций. Экспорт в JSON, CSV, Excel.",
+    "rating": 2.921723010786861,
+    "rating_count": 2,
+    "url": "https://apify.com/zen-studio/2gis-places-scraper-api?fpr=hs6s8"
+  },
+  {
     "id": "gTYnt7Xc2Qjw8eljO",
     "name": "Yelp Review Scraper",
     "description": "Scrape reviews from Yelp.com",
-    "rating": 2.227267400056889,
+    "rating": 2.22726740005689,
     "rating_count": 3,
     "url": "https://apify.com/tri_angle/yelp-review-scraper?fpr=hs6s8"
   },
@@ -1840,14 +1856,6 @@
     "url": "https://apify.com/netleo/google-maps-crawler?fpr=hs6s8"
   },
   {
-    "id": "NBmcHCtkUEhA0DNP3",
-    "name": "2GIS Scraper (Phones, Emails, Reviews) | Парсер 2ГИС API",
-    "description": "2GIS scraper and API - extract phones, emails, reviews, and photos from 207 cities across 20 countries. 1,000 places in 90 seconds. 731 categories, 20+ filters, branch discovery. Парсер 2ГИС: телефоны, email, отзывы и фото организаций. Экспорт в JSON, CSV, Excel.",
-    "rating": 2,
-    "rating_count": 1,
-    "url": "https://apify.com/zen-studio/2gis-places-scraper-api?fpr=hs6s8"
-  },
-  {
     "id": "thEbk6nzmhRsChwBS",
     "name": "Google Maps Reviews Scraper",
     "description": "Scrape reviews from Google Maps locations. Extract detailed data including reviewer info, rating, and review text. Features include handling consent screens, expanding \"See more\" buttons, scrolling to load more reviews, and deduplicating results. Ideal for market research and competitor analysis.",
@@ -1870,6 +1878,150 @@
     "rating": 1.029454095043913,
     "rating_count": 5,
     "url": "https://apify.com/tri_angle/hotel-review-aggregator?fpr=hs6s8"
+  },
+  {
+    "id": "f55ruN1vdP1INpyPN",
+    "name": "AI Travel Agent",
+    "description": "Helps users plan their trips - simply provide your travel request, and the AI will generate structured recommendations, including flights and accommodations, to suit your needs",
+    "rating": 1,
+    "rating_count": 3,
+    "url": "https://apify.com/harvestlabs/ai-travel-agent?fpr=hs6s8"
+  },
+  {
+    "id": "OL626sNKMJGiKgOcp",
+    "name": "Sora AI Video Scraper - OpenAI Text-to-Video",
+    "description": "Extract AI-generated videos from Sora by OpenAI. Collect video URLs, thumbnails, prompts, and metadata. Perfect for AI researchers and content creators.",
+    "rating": 1,
+    "rating_count": 3,
+    "url": "https://apify.com/payai/sora-video-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "9CTR5AIb7oTf36BDX",
+    "name": "Tripadvisor (Restaurants)",
+    "description": "Get Locations and Restaurants with advanced filters from Tripadvisor. It's fast and costs little.",
+    "rating": 1,
+    "rating_count": 2,
+    "url": "https://apify.com/canadesk/tripadvisor-restaurants?fpr=hs6s8"
+  },
+  {
+    "id": "Qwp5FScQUE9M0WjpW",
+    "name": "Airbnb Scraper",
+    "description": "The Airbnb Scraper collects comprehensive data from Airbnb, including listings, prices, host details, reviews, and availability. Perfect for market research, competitive analysis, or investment insights, it delivers real-time, structured information to streamline decision-making.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/caprolok/airbnb-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "tiveIS4hgXOMtu3Hf",
+    "name": "Skyscanner Flight ✈️",
+    "description": "💫 Scrape Skyscanner.com Flights",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/jupri/skyscanner-flight?fpr=hs6s8"
+  },
+  {
+    "id": "viXne7lpALg8viFdh",
+    "name": "Airbnb Explorer",
+    "description": "💫  All-in-One Airbnb.com Scraper",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/jupri/airbnb?fpr=hs6s8"
+  },
+  {
+    "id": "aCHC8nxLaXqTmYn52",
+    "name": "Advanced Google Maps Photos Scraper",
+    "description": "This Google Maps Photos scraper lets you collect links for all photos for a place on Google Maps. You can get photos by category (e.g. menu, ambience, rooms) or get all photos without categories.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/slash-scrape/advanced-google-maps-photos-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "HGPHGu8INtQpCeF3x",
+    "name": "Zillow Scrape: Address/URL/ZPID",
+    "description": "Get Zestimates from the property address/zpid/url. Each row gets scraped in less than 1 second !",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/one-api/zillow-scrape-address-url-zpid?fpr=hs6s8"
+  },
+  {
+    "id": "R0Woaqd6lSCbpk4S6",
+    "name": "Tripadvisor (Hotels)",
+    "description": "Get Locations and Hotels with advanced filters from Tripadvisor. It's fast and costs little.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/canadesk/tripadvisor-hotels?fpr=hs6s8"
+  },
+  {
+    "id": "JRYWDm4xSKolpDbw8",
+    "name": "Tripadvisor Reviews Bulk",
+    "description": "Get Reviews in bulk for airlines, hotels, restaurants and attractions with advanced filters (+ AI summary) from Tripadvisor. It's fast and costs little.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/canadesk/tripadvisor-reviews-bulk?fpr=hs6s8"
+  },
+  {
+    "id": "QF1xm2vTbhy6QIIY5",
+    "name": "Vrbo Property Details Scraper",
+    "description": "The Vrbo.com Property Details Scraper allows for easy extraction of detailed property data listed on Vrbo.com. Simply provide the property page URLs, and it will gather key details such as price, location, features, and more, ensuring smooth integration and efficient use.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/ecomscrape/vrbo-property-details-page-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "ehpgZWomxoDtIiZco",
+    "name": "Skyscanner Scraper",
+    "description": "Extracts detailed flight information from Skyscanner including prices, airlines, and schedules based on user-specified search parameters.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/harvest/skyscanner-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "qeaQ55GJCJaXqrDqZ",
+    "name": "Realtor.ca Canada Unlimited $9 Only 💸",
+    "description": "Scrape Realtor.ca listings across Canada for buy, rent or sold properties. Export structured MLS-style data with prices, beds, baths, agents, photos, filters and URLs for market analysis, comps, investors, brokers and real estate lead generation.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/igolaizola/realtor-canada-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "MSFZ5Av3Loicgl4je",
+    "name": "Skyscanner Hotels 🏨",
+    "description": "Scrape Skyscanner.com Hotels",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/jupri/skyscanner-hotels?fpr=hs6s8"
+  },
+  {
+    "id": "IIw6FNq13l77GsNDZ",
+    "name": "Electronic Music Events Scraper - EDM Concerts & Festivals",
+    "description": "🎵 Discover electronic music events, EDM concerts, raves, and festivals across 15 major US cities. Extract comprehensive event data including artist lineups, venues, dates, ticket prices, and more. Perfect for event discovery apps, market analysis, and tracking your favorite DJs.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/payai/edmtrain-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "fZ2OW1QoVqeR3H809",
+    "name": "Kayak Flights Scraper",
+    "description": "Flight scraper for Kayak's API extracting comprehensive flight data including airlines, segments, pricing, and baggage policies. Supports one-way, round-trip, and multi-leg routes with real-time pricing from multiple providers. Returns structured JSON with airport details and flight schedules.",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/axlymxp/kayak-flights-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "LdYxkaOc31nTqXDki",
+    "name": "Tripadvisor Review Scraper (Pay per Result)",
+    "description": "Extract comprehensive reviews from TripAdvisor effortlessly! Just enter the URL of hotels or locations and hit \"Save & Start.\" Export data in JSON, CSV, or Excel. Perfect for travel planning, market research, and analyzing customer feedback. Unleash valuable insights today! 🚀📊📝",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/caprolok/tripadvisor-review-scraper-pay-per-result?fpr=hs6s8"
+  },
+  {
+    "id": "fN1w1FbBhHIG6JVOU",
+    "name": "Airbnb Email Scraper - Advanced, Fast & Cheapest",
+    "description": "🏠 Airbnb Email Scraper allows you to extract host and property emails from Airbnb listings 🔍 Grow travel and hospitality partnerships 📧",
+    "rating": 1,
+    "rating_count": 1,
+    "url": "https://apify.com/contacts-api/airbnb-email-scraper-fast-advanced-and-cheapest?fpr=hs6s8"
   },
   {
     "id": "3LL5V7DWKjWzt7ehD",
@@ -8688,147 +8840,75 @@
     "url": "https://apify.com/huggable_quote/turo-scraper?fpr=hs6s8"
   },
   {
-    "id": "Qwp5FScQUE9M0WjpW",
-    "name": "Airbnb Scraper",
-    "description": "The Airbnb Scraper collects comprehensive data from Airbnb, including listings, prices, host details, reviews, and availability. Perfect for market research, competitive analysis, or investment insights, it delivers real-time, structured information to streamline decision-making.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/caprolok/airbnb-scraper?fpr=hs6s8"
+    "id": "scfUpAAkGpVcitMcG",
+    "name": "Indonesia Transit Scraper — KAI Stations & TransJakarta BRT",
+    "description": "Scrapes Indonesian public transit: KAI (PT Kereta Api Indonesia) station catalog (217 stations across Java, Sumatra, Sulawesi) with codes and city data, plus TransJakarta BRT corridor listing. For travel apps, logistics planners, and Indonesian transit integrations.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/jungle_synthesizer/kai-indonesia-transit-scraper?fpr=hs6s8"
   },
   {
-    "id": "tiveIS4hgXOMtu3Hf",
-    "name": "Skyscanner Flight ✈️",
-    "description": "💫 Scrape Skyscanner.com Flights",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/jupri/skyscanner-flight?fpr=hs6s8"
+    "id": "ezYKomKRjjw4ceyno",
+    "name": "Malaysia Transit — KTMB Rail & Easybook Bus Routes",
+    "description": "Scrape Malaysian transit data: KTMB rail stations (ETS, Intercity, Komuter — ~150 stations with IDs and state groupings) and Easybook intercity bus routes (80+ routes with distance, duration, and city-pair metadata). Transit network graph for travel apps, MaaS platforms, and mapping services.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/jungle_synthesizer/ktmb-malaysia-transit-scraper?fpr=hs6s8"
   },
   {
-    "id": "viXne7lpALg8viFdh",
-    "name": "Airbnb Explorer",
-    "description": "💫  All-in-One Airbnb.com Scraper",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/jupri/airbnb?fpr=hs6s8"
+    "id": "agf4gjccOtWXtm1qE",
+    "name": "Booking Scraper",
+    "description": "🏨 BookingScraper extracts real-time Booking.com listings data — prices, availability, ratings, reviews, amenities & location. ⚡ Ideal for market research, price monitoring, travel analytics, and lead gen. 📊 Fast, accurate, anti-blocking scraping with CSV/JSON export.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/api-empire/booking-scraper?fpr=hs6s8"
   },
   {
-    "id": "aCHC8nxLaXqTmYn52",
-    "name": "Advanced Google Maps Photos Scraper",
-    "description": "This Google Maps Photos scraper lets you collect links for all photos for a place on Google Maps. You can get photos by category (e.g. menu, ambience, rooms) or get all photos without categories.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/slash-scrape/advanced-google-maps-photos-scraper?fpr=hs6s8"
+    "id": "X2s6mbbMnNM9UkK04",
+    "name": "Airbnb Property Availability",
+    "description": "Scrape final pricing from any Airbnb property URL instantly. This Actor automatically handles pagination to fetch the complete price breakdown, including rent, service fees, taxes, and total. Export clean, structured data in JSON or CSV for sentiment analysis and competitor research.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/creation/airbnb-property-availability?fpr=hs6s8"
   },
   {
-    "id": "HGPHGu8INtQpCeF3x",
-    "name": "Zillow Scrape: Address/URL/ZPID",
-    "description": "Get Zestimates from the property address/zpid/url. Each row gets scraped in less than 1 second !",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/one-api/zillow-scrape-address-url-zpid?fpr=hs6s8"
+    "id": "Ofr0jERoPBqyeSueY",
+    "name": "TripAdvisor Attraction Scraper",
+    "description": "",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/koreyoshi/tripadvisor-scraper?fpr=hs6s8"
   },
   {
-    "id": "R0Woaqd6lSCbpk4S6",
-    "name": "Tripadvisor (Hotels)",
-    "description": "Get Locations and Hotels with advanced filters from Tripadvisor. It's fast and costs little.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/canadesk/tripadvisor-hotels?fpr=hs6s8"
+    "id": "LWrMjUXde1xjDepfy",
+    "name": "Japan Highway Bus Scraper — Timetables & Fares (Kosokubus)",
+    "description": "Scrape Japanese intercity bus data from Kosokubus.com. Covers Willer Express, JR Bus (all 6 regional subsidiaries), Sakura Kotsu, Keio Bus, Odakyu City Bus, Meitetsu Bus, and 30+ operators. Returns seat class, amenities, overnight flag, fares in JPY, and availability.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/jungle_synthesizer/kosokubus-japan-intercity-bus-scraper?fpr=hs6s8"
   },
   {
-    "id": "JRYWDm4xSKolpDbw8",
-    "name": "Tripadvisor Reviews Bulk",
-    "description": "Get Reviews in bulk for airlines, hotels, restaurants and attractions with advanced filters (+ AI summary) from Tripadvisor. It's fast and costs little.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/canadesk/tripadvisor-reviews-bulk?fpr=hs6s8"
+    "id": "8FIIyBjdaZ5D3tGa5",
+    "name": "✈️ Google Flights Scraper",
+    "description": "Find the cheapest flights for any route in one API call. Returns 5 best fares + 25-50 alternates: airline, price, times, stops, layovers, bookable links. For travel agencies, AI flight agents, and price-tracking products. Export, run via API, schedule, or integrate with other tools.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/skootle/google-flights-scraper?fpr=hs6s8"
   },
   {
-    "id": "QF1xm2vTbhy6QIIY5",
-    "name": "Vrbo Property Details Scraper",
-    "description": "The Vrbo.com Property Details Scraper allows for easy extraction of detailed property data listed on Vrbo.com. Simply provide the property page URLs, and it will gather key details such as price, location, features, and more, ensuring smooth integration and efficient use.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/ecomscrape/vrbo-property-details-page-scraper?fpr=hs6s8"
+    "id": "4GHqddBMQYxvjd1vq",
+    "name": "Global eSIM Connectivity & Data Pricing Checker",
+    "description": "Web Designer & SEO Specialist focused on digital connectivity and travel tech. Developer of the global free eSIM locator tool.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/ultramarine_quad/global-esim-connectivity-data-pricing-checker?fpr=hs6s8"
   },
   {
-    "id": "ehpgZWomxoDtIiZco",
-    "name": "Skyscanner Scraper",
-    "description": "Extracts detailed flight information from Skyscanner including prices, airlines, and schedules based on user-specified search parameters.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/harvest/skyscanner-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "qeaQ55GJCJaXqrDqZ",
-    "name": "Realtor.ca Canada Unlimited $9 Only 💸",
-    "description": "Scrape Realtor.ca listings across Canada for buy, rent or sold properties. Export structured MLS-style data with prices, beds, baths, agents, photos, filters and URLs for market analysis, comps, investors, brokers and real estate lead generation.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/igolaizola/realtor-canada-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "MSFZ5Av3Loicgl4je",
-    "name": "Skyscanner Hotels 🏨",
-    "description": "Scrape Skyscanner.com Hotels",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/jupri/skyscanner-hotels?fpr=hs6s8"
-  },
-  {
-    "id": "IIw6FNq13l77GsNDZ",
-    "name": "Electronic Music Events Scraper - EDM Concerts & Festivals",
-    "description": "🎵 Discover electronic music events, EDM concerts, raves, and festivals across 15 major US cities. Extract comprehensive event data including artist lineups, venues, dates, ticket prices, and more. Perfect for event discovery apps, market analysis, and tracking your favorite DJs.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/payai/edmtrain-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "fZ2OW1QoVqeR3H809",
-    "name": "Kayak Flights Scraper",
-    "description": "Flight scraper for Kayak's API extracting comprehensive flight data including airlines, segments, pricing, and baggage policies. Supports one-way, round-trip, and multi-leg routes with real-time pricing from multiple providers. Returns structured JSON with airport details and flight schedules.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/axlymxp/kayak-flights-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "LdYxkaOc31nTqXDki",
-    "name": "Tripadvisor Review Scraper (Pay per Result)",
-    "description": "Extract comprehensive reviews from TripAdvisor effortlessly! Just enter the URL of hotels or locations and hit \"Save & Start.\" Export data in JSON, CSV, or Excel. Perfect for travel planning, market research, and analyzing customer feedback. Unleash valuable insights today! 🚀📊📝",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/caprolok/tripadvisor-review-scraper-pay-per-result?fpr=hs6s8"
-  },
-  {
-    "id": "fN1w1FbBhHIG6JVOU",
-    "name": "Airbnb Email Scraper - Advanced, Fast & Cheapest",
-    "description": "🏠 Airbnb Email Scraper allows you to extract host and property emails from Airbnb listings 🔍 Grow travel and hospitality partnerships 📧",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/contacts-api/airbnb-email-scraper-fast-advanced-and-cheapest?fpr=hs6s8"
-  },
-  {
-    "id": "9CTR5AIb7oTf36BDX",
-    "name": "Tripadvisor (Restaurants)",
-    "description": "Get Locations and Restaurants with advanced filters from Tripadvisor. It's fast and costs little.",
-    "rating": 1,
-    "rating_count": 2,
-    "url": "https://apify.com/canadesk/tripadvisor-restaurants?fpr=hs6s8"
-  },
-  {
-    "id": "f55ruN1vdP1INpyPN",
-    "name": "AI Travel Agent",
-    "description": "Helps users plan their trips - simply provide your travel request, and the AI will generate structured recommendations, including flights and accommodations, to suit your needs",
-    "rating": 1,
-    "rating_count": 3,
-    "url": "https://apify.com/harvestlabs/ai-travel-agent?fpr=hs6s8"
-  },
-  {
-    "id": "OL626sNKMJGiKgOcp",
-    "name": "Sora AI Video Scraper - OpenAI Text-to-Video",
-    "description": "Extract AI-generated videos from Sora by OpenAI. Collect video URLs, thumbnails, prompts, and metadata. Perfect for AI researchers and content creators.",
-    "rating": 1,
-    "rating_count": 3,
-    "url": "https://apify.com/payai/sora-video-scraper?fpr=hs6s8"
+    "id": "0gdZ45Pg5xTbR1pod",
+    "name": "Thai Real Estate Scraper",
+    "description": "Scrape public Thailand property listings from DotProperty Thailand, LivingInsider, and DDProperty with prices, locations, project names, agent contacts, unit details, duplicate signals, and market summaries.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/mai_amm/thai-real-estate-scraper?fpr=hs6s8"
   }
 ]
