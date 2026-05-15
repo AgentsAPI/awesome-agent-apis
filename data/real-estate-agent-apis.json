@@ -3,7 +3,7 @@
     "id": "0x6ou1rSWRFSeWM1I",
     "name": "Realtor Scraper",
     "description": "Scrape property listings from Realtor.com. Get prices, beds, baths, sqft, photos, agents, schools, tax history, flood/wildfire risk data, and 40+ fields per property.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 33,
     "url": "https://apify.com/crawlerbros/realtor-scraper?fpr=hs6s8"
   },
@@ -11,7 +11,7 @@
     "id": "GMYItJ8weFx7rRiYF",
     "name": "Booking.com Attractions Scraper",
     "description": "Scrape tours, activities, and things to do from Booking.com. Extract attraction names, prices, ratings, descriptions, and booking details.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 33,
     "url": "https://apify.com/crawlerbros/booking-attractions-scraper?fpr=hs6s8"
   },
@@ -27,7 +27,7 @@
     "id": "eAjwjZxrLe34g4ljD",
     "name": "Airbnb Scraper",
     "description": "Scrape Airbnb listings, prices, ratings, host info, coordinates and photos for any location. Extract vacation rental data including nightly rates, superhost status, property types and guest reviews.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 31,
     "url": "https://apify.com/crawlerbros/airbnb-scraper?fpr=hs6s8"
   },
@@ -40,20 +40,20 @@
     "url": "https://apify.com/crawlerbros/zonaprop-scraper?fpr=hs6s8"
   },
   {
-    "id": "4fwCWFChomFgSDgUm",
-    "name": "Fast Booking.com Scraper",
-    "description": "Fast, lightweight scraper for Booking.com hotel listings. Extract hotel names, prices, ratings, and basic details from search results.",
-    "rating": 5,
-    "rating_count": 30,
-    "url": "https://apify.com/crawlerbros/fast-booking-scraper?fpr=hs6s8"
-  },
-  {
     "id": "JziY9YnglkuoWMDsq",
     "name": "Gumtree Scraper",
     "description": "Scrape listings from Gumtree Australia (.com.au), Gumtree UK (.com), and Gumtree South Africa (.co.za). Extract titles, prices, descriptions, images, seller info, location, and more from search results and individual listing pages.",
     "rating": 5,
     "rating_count": 30,
     "url": "https://apify.com/crawlerbros/gumtree-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "4fwCWFChomFgSDgUm",
+    "name": "Fast Booking.com Scraper",
+    "description": "Fast, lightweight scraper for Booking.com hotel listings. Extract hotel names, prices, ratings, and basic details from search results.",
+    "rating": 4.999999999999999,
+    "rating_count": 30,
+    "url": "https://apify.com/crawlerbros/fast-booking-scraper?fpr=hs6s8"
   },
   {
     "id": "q1tmkzD2CKqWfHEIm",
@@ -75,7 +75,7 @@
     "id": "XzmNYFuVNjO1u47eJ",
     "name": "BizBuySell Scraper",
     "description": "Scrape business-for-sale listings from BizBuySell.com. Extract asking price, cash flow, gross revenue, location, and description from search results and category pages.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 28,
     "url": "https://apify.com/crawlerbros/bizbuysell-scraper?fpr=hs6s8"
   },
@@ -120,14 +120,6 @@
     "url": "https://apify.com/crawlerbros/expedia-hotels-scraper?fpr=hs6s8"
   },
   {
-    "id": "t974rddpGdTduJ1EP",
-    "name": "Tripadvisor Reviews Scraper",
-    "description": "Extract reviews from TripAdvisor places. Get review text, ratings, dates, reviewer info, owner responses, helpful votes, and place details.",
-    "rating": 5,
-    "rating_count": 27,
-    "url": "https://apify.com/crawlerbros/tripadvisor-reviews-scraper?fpr=hs6s8"
-  },
-  {
     "id": "k5fnZUEXFZPdEJmgg",
     "name": "Google Maps Reviews Scraper",
     "description": "Extract detailed reviews from any Google Maps business page. This scraper retrieves reviewer information, ratings, review text, dates, likes, and owner responses.",
@@ -144,20 +136,28 @@
     "url": "https://apify.com/crawlerbros/redfin-scraper?fpr=hs6s8"
   },
   {
-    "id": "Ba3h3HPisc4fElloL",
-    "name": "Tripadvisor Scraper",
-    "description": "Scrape hotels, restaurants, attractions, and vacation rentals from TripAdvisor. Search by keyword or provide direct URLs. Extract names, ratings, rankings, addresses, contact info, prices, and more. No login required.",
-    "rating": 5.000000000000001,
-    "rating_count": 27,
-    "url": "https://apify.com/crawlerbros/tripadvisor-scraper?fpr=hs6s8"
-  },
-  {
     "id": "rRY4ta96UhVkhtUso",
     "name": "Apartments.com Rental Scraper",
     "description": "Extract apartment rental listings from Apartments.com including property name, address, rent range, beds/baths, sqft, amenities, neighborhood, walk/transit scores, and more.",
     "rating": 5,
     "rating_count": 27,
     "url": "https://apify.com/crawlerbros/apartments-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "t974rddpGdTduJ1EP",
+    "name": "Tripadvisor Reviews Scraper",
+    "description": "Extract reviews from TripAdvisor places. Get review text, ratings, dates, reviewer info, owner responses, helpful votes, and place details.",
+    "rating": 4.999999999999999,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/tripadvisor-reviews-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Ba3h3HPisc4fElloL",
+    "name": "Tripadvisor Scraper",
+    "description": "Scrape hotels, restaurants, attractions, and vacation rentals from TripAdvisor. Search by keyword or provide direct URLs. Extract names, ratings, rankings, addresses, contact info, prices, and more. No login required.",
+    "rating": 4.999999999999999,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/tripadvisor-scraper?fpr=hs6s8"
   },
   {
     "id": "ouLequ7C3gkAKis6F",
@@ -179,7 +179,7 @@
     "id": "7fBUMYcQgcMpqFqTG",
     "name": "Google Maps Scraper",
     "description": "Extract business data from Google Maps including ratings, reviews, contact info, prices, coordinates, and images. Fast scraper with automatic pagination for any location or search query.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 26,
     "url": "https://apify.com/crawlerbros/google-maps-scraper?fpr=hs6s8"
   },
@@ -328,6 +328,62 @@
     "url": "https://apify.com/crawlerbros/zillow-foreclosure-scraper?fpr=hs6s8"
   },
   {
+    "id": "z6OYk9RAXlC30maOw",
+    "name": "Zoopla UK Property Scraper",
+    "description": "Scrape Zoopla.co.uk for-sale and to-rent property listings with price, bedrooms, bathrooms, address, postcode, agent, images, description, features.",
+    "rating": 4.999999999999999,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/zoopla-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "qu1rEmGCwbKXsDaK9",
+    "name": "Vrbo Vacation Rentals",
+    "description": "Scrape Vrbo vacation-rental listings by destination and dates. Extract property names, nightly/total prices, ratings, reviews, bedrooms, bathrooms, amenities, host info and images.",
+    "rating": 4.999999999999999,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/vrbo-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "PUlP6Lf0I6Dd3Bki6",
+    "name": "SeLoger French Real Estate Scraper",
+    "description": "Scrape SeLoger.com property listings (apartments, houses, sale & rent) in France with title, price, surface, rooms, address, GPS, energy class, images, agency.",
+    "rating": 4.999999999999999,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/seloger-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "hQ21fwrasWrmXdGce",
+    "name": "ImmobilienScout24 Real Estate Scraper",
+    "description": "Scrape property listings (apartments, houses, for-sale and rental) from ImmobilienScout24.de with price, living space, rooms, address, realtor, features, images.",
+    "rating": 4.999999999999999,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/immoscout24-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "XsK60DR8pVANWRZ1l",
+    "name": "GetYourGuide Tours & Activities Scraper",
+    "description": "Scrape tours, activities, and experiences from GetYourGuide.com by search query or direct URL. Extracts title, price, rating, reviews, images, highlights, duration, cancellation policy, and more. HTTP-only, no cookies or proxy required.",
+    "rating": 5,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/getyourguide-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "WhWPANcx2TxByyt9O",
+    "name": "Njuskalo.hr Scraper",
+    "description": "Scrape classifieds listings from Njuskalo.hr across 12+ categories (cars, real estate, mobiles, jobs, electronics, etc.).",
+    "rating": 4.999999999999999,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/njuskalo-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "dM6ZS07DVpBzc7eF5",
+    "name": "Immobiliare.it Listing Scraper",
+    "description": "Scrape Immobiliare.it (Italian real estate) listings with price, surface, rooms, address, agency, energy class, images, features.",
+    "rating": 5,
+    "rating_count": 20,
+    "url": "https://apify.com/crawlerbros/immobiliare-scraper?fpr=hs6s8"
+  },
+  {
     "id": "cMyVy1qjmV7jKZ4YW",
     "name": "Propwire Real Estate Leads Scraper",
     "description": "Extract US real estate leads from propwire.com with 11M+ properties with owner info, equity, MLS data, lead-type flags (absentee owner, vacant, pre-foreclosure, cash buyer, high equity, etc.), and tax records.",
@@ -339,7 +395,7 @@
     "id": "Bs79o9yAOjyT2cfgn",
     "name": "Google Maps Data Scraper",
     "description": "Capture every detail from Google Maps with this powerful Actor! 🌟 Extract an exceptionally rich set of fields, enjoy unmatched speed and stability, and break through Google Maps' 120-item limit. Perfect for lead generation, market research, and data analysis. 🚀",
-    "rating": 3.806307140354768,
+    "rating": 3.806307140354767,
     "rating_count": 29,
     "url": "https://apify.com/delicious_zebu/google-maps-data-scraper?fpr=hs6s8"
   },
@@ -350,62 +406,6 @@
     "rating": 4.889719954346814,
     "rating_count": 17,
     "url": "https://apify.com/maxcopell/zillow-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "z6OYk9RAXlC30maOw",
-    "name": "Zoopla UK Property Scraper",
-    "description": "Scrape Zoopla.co.uk for-sale and to-rent property listings with price, bedrooms, bathrooms, address, postcode, agent, images, description, features.",
-    "rating": 5,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/zoopla-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "qu1rEmGCwbKXsDaK9",
-    "name": "Vrbo Vacation Rentals",
-    "description": "Scrape Vrbo vacation-rental listings by destination and dates. Extract property names, nightly/total prices, ratings, reviews, bedrooms, bathrooms, amenities, host info and images.",
-    "rating": 5,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/vrbo-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "PUlP6Lf0I6Dd3Bki6",
-    "name": "SeLoger French Real Estate Scraper",
-    "description": "Scrape SeLoger.com property listings (apartments, houses, sale & rent) in France with title, price, surface, rooms, address, GPS, energy class, images, agency.",
-    "rating": 5,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/seloger-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "hQ21fwrasWrmXdGce",
-    "name": "ImmobilienScout24 Real Estate Scraper",
-    "description": "Scrape property listings (apartments, houses, for-sale and rental) from ImmobilienScout24.de with price, living space, rooms, address, realtor, features, images.",
-    "rating": 5,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/immoscout24-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "XsK60DR8pVANWRZ1l",
-    "name": "GetYourGuide Tours & Activities Scraper",
-    "description": "Scrape tours, activities, and experiences from GetYourGuide.com by search query or direct URL. Extracts title, price, rating, reviews, images, highlights, duration, cancellation policy, and more. HTTP-only, no cookies or proxy required.",
-    "rating": 5,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/getyourguide-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "WhWPANcx2TxByyt9O",
-    "name": "Njuskalo.hr Scraper",
-    "description": "Scrape classifieds listings from Njuskalo.hr across 12+ categories (cars, real estate, mobiles, jobs, electronics, etc.).",
-    "rating": 5,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/njuskalo-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "dM6ZS07DVpBzc7eF5",
-    "name": "Immobiliare.it Listing Scraper",
-    "description": "Scrape Immobiliare.it (Italian real estate) listings with price, surface, rooms, address, agency, energy class, images, features.",
-    "rating": 4.999999999999999,
-    "rating_count": 16,
-    "url": "https://apify.com/crawlerbros/immobiliare-scraper?fpr=hs6s8"
   },
   {
     "id": "CAwW2pO7A0dwgWxzK",
@@ -435,7 +435,7 @@
     "id": "oJTRDX4iyfR3erNnv",
     "name": "Idealista Scraper API",
     "description": "💰 $0.5 per 1,000 results. Scrape Idealista properties & listings from Spain (.com), Portugal (.pt) & Italy (.it). Supports property URLs + search/listing URLs. Fast mobile API extraction with real-time NDJSON streaming. Standby mode for instant responses.",
-    "rating": 4.660517868198366,
+    "rating": 4.660517868198365,
     "rating_count": 14,
     "url": "https://apify.com/dz_omar/idealista-scraper-api?fpr=hs6s8"
   },
@@ -443,7 +443,7 @@
     "id": "U5DUNxhH3qKt5PnCf",
     "name": "Facebook Marketplace Scraper",
     "description": "Extract data from one or multiple Facebook Marketplace listings. Scrape data on apartments, whole categories, items for sale, prices, location and sellers. Export scraped data in JSON, CSV, and Excel, run the scraper via API, schedule and monitor runs or integrate with other tools.",
-    "rating": 3.283361960302194,
+    "rating": 3.283361960302193,
     "rating_count": 25,
     "url": "https://apify.com/apify/facebook-marketplace-scraper?fpr=hs6s8"
   },
@@ -451,7 +451,7 @@
     "id": "0mFoOGFw7K4hp1v0f",
     "name": "Apartments.com Scraper 🏡",
     "description": "Scrape Apartments.com to crawl millions of real estate properties nationwide. Specify any US location and extract data on all available properties in that area. Our real estate scraper lets you filter and limit the results by page or total number. You can also target a specific property or area.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 11,
     "url": "https://apify.com/epctex/apartments-scraper?fpr=hs6s8"
   },
@@ -528,12 +528,12 @@
     "url": "https://apify.com/tri_angle/airbnb-scraper?fpr=hs6s8"
   },
   {
-    "id": "RMKw398cdpe4Xfxcm",
-    "name": "immobilienscout24 Scraper 💚 (By search URL)",
-    "description": "🔥 Fast #1 ImmoScout24 search pages scraper for Germany 🇩🇪, Switzerland 🇨🇭 & Austria 🇦🇹!\nScrape search results for just $1 per 1k listings. Get data in seconds via JSON, CSV, Excel, or API. Simply paste the URL and extract thousands of listings instantly!\nFast, cheap & DACH-ready. ⚡",
-    "rating": 5,
+    "id": "ZKn5LnJkKMLeywwpS",
+    "name": "Realtor.com [$1.5💰] API | Search&Detail Page | Agent | Scraper",
+    "description": "💰$1.50 per 1,000 results. Effortlessly scrape real estate data from Realtor.com, including property listings AND agent profiles. Extract property details like prices, amenities, locations, and photos, plus agent information such as contact details, reviews, specializations, and performance metrics.",
+    "rating": 5.000000000000001,
     "rating_count": 9,
-    "url": "https://apify.com/azzouzana/immobilienscout24-de-search-results-scraper-by-search-url?fpr=hs6s8"
+    "url": "https://apify.com/memo23/realtor-search-cheerio?fpr=hs6s8"
   },
   {
     "id": "ciTdHfgOkkwfEzTE9",
@@ -544,18 +544,10 @@
     "url": "https://apify.com/memo23/immobilienscout24-scraper?fpr=hs6s8"
   },
   {
-    "id": "ZKn5LnJkKMLeywwpS",
-    "name": "Realtor.com [$1.5💰] API | Search&Detail Page | Agent | Scraper",
-    "description": "💰$1.50 per 1,000 results. Effortlessly scrape real estate data from Realtor.com, including property listings AND agent profiles. Extract property details like prices, amenities, locations, and photos, plus agent information such as contact details, reviews, specializations, and performance metrics.",
-    "rating": 5,
-    "rating_count": 9,
-    "url": "https://apify.com/memo23/realtor-search-cheerio?fpr=hs6s8"
-  },
-  {
     "id": "0ZCQONxB3BdyOzrbD",
     "name": "LoopNet [$1.5💰] Search | Details | Agent | BizData | No Limits",
     "description": "💰 $1.50 per 1,000 results, unlock valuable commercial property data from LoopNet. Extract detailed listings and agents' insights for smarter real estate decisions. Break the limitation of 500 enforced by Loopnet",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/memo23/loopnet-scraper-ppe?fpr=hs6s8"
   },
@@ -563,15 +555,23 @@
     "id": "ptsXZUXADV3OKZ5kd",
     "name": "Streeteasy | Buy | Rent | Sell | Agent | No Limits | PPE",
     "description": "Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates. \nAddress search, monitoring mode, and bypass limits. Complete real estate intelligence platform.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/memo23/streeteasy-ppr?fpr=hs6s8"
+  },
+  {
+    "id": "RMKw398cdpe4Xfxcm",
+    "name": "immobilienscout24 Scraper 💚 (By search URL)",
+    "description": "🔥 Fast #1 ImmoScout24 search pages scraper for Germany 🇩🇪, Switzerland 🇨🇭 & Austria 🇦🇹!\nScrape search results for just $1 per 1k listings. Get data in seconds via JSON, CSV, Excel, or API. Simply paste the URL and extract thousands of listings instantly!\nFast, cheap & DACH-ready. ⚡",
+    "rating": 4.999999999999999,
+    "rating_count": 9,
+    "url": "https://apify.com/azzouzana/immobilienscout24-de-search-results-scraper-by-search-url?fpr=hs6s8"
   },
   {
     "id": "RuOxoBM1bnc5pQ3TJ",
     "name": "LoopNet | Search | Details | Agents | Contacts",
     "description": "Unlock valuable commercial property data from LoopNet. Extract detailed listings and agents insights for smarter real estate decisions.",
-    "rating": 4.970781230902477,
+    "rating": 4.970781230902478,
     "rating_count": 9,
     "url": "https://apify.com/memo23/apify-loopnet-search-cheerio?fpr=hs6s8"
   },
@@ -579,7 +579,7 @@
     "id": "LwR6JRNl4khcKXIWo",
     "name": "Rightmove Scraper",
     "description": "Rightmove.co.uk properties are at your fingertips! In seconds, retrieve every real estate opportunity with tax history, floor plans, titles, prices, descriptions, amenities, images, addresses, and many more attributes. Search anything you want and get the results without any limits. Blazing fast!",
-    "rating": 4.885886651160419,
+    "rating": 4.885886651160418,
     "rating_count": 9,
     "url": "https://apify.com/epctex/rightmove-scraper?fpr=hs6s8"
   },
@@ -587,7 +587,7 @@
     "id": "ayQYM0y9STWJt4en5",
     "name": "Olx Brasil Imoveis Scraper",
     "description": "🏠 Extraia anúncios de imóveis da OLX Brasil com preço, localização e detalhes completos. Ideal para análise de mercado e monitoramento. 💬 Achou caro? Entre em contato comigo e conversamos!",
-    "rating": 4.85427197723219,
+    "rating": 4.854271977232189,
     "rating_count": 9,
     "url": "https://apify.com/israeloriente/olx-brasil-imoveis-scraper?fpr=hs6s8"
   },
@@ -595,7 +595,7 @@
     "id": "JeaJthm26KstkYpr6",
     "name": "Crexi.com | intelligence | Search | Detail(s) | Agent | Scraper",
     "description": "Unlock Crexi's commercial real estate network. Extract property listings and broker profiles for market insights, deal-making, and investment opportunities. Your key to data-driven decisions in commercial real estate",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 8,
     "url": "https://apify.com/memo23/apify-crexi?fpr=hs6s8"
   },
@@ -603,7 +603,7 @@
     "id": "p9QZzUdBCGXMDuKad",
     "name": "Immobiliare.it [Only $0.70💰]| Search | Detail Pages | Agencies",
     "description": "Scrape Immobiliare for only $0.7 per 1K results. Get normalized Immobiliare listings: IDs, contract and typology, prices with mortgage metrics, geo context (macro/microzones, coordinates, address), amenity flags, media assets, agency contacts, and analytics snapshots highlighting premium visibility",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 8,
     "url": "https://apify.com/memo23/immobiliare-scraper?fpr=hs6s8"
   },
@@ -643,7 +643,7 @@
     "id": "OtFA20rCfQZatC6Nt",
     "name": "Rightmove Commercial Scraper",
     "description": "Scrape rightmove.co.uk to crawl millions of sale/rent real estate commercial properties from United Kingdom. Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 8,
     "url": "https://apify.com/dhrumil/rightmove-commercial-scraper?fpr=hs6s8"
   },
@@ -651,7 +651,7 @@
     "id": "PEThILhPOtwFx9HWK",
     "name": "Zillow Agents Leads Scraper [PPE]",
     "description": "Unlock the power of Zillow with automated agent profile scraping. Effortlessly gather key insights and contact data, including emails and phone numbers, from real estate agents.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/memo23/zillow-agents-leads-scraper-ppe?fpr=hs6s8"
   },
@@ -667,7 +667,7 @@
     "id": "rcYy6tgVjoEsFgj0O",
     "name": "Apartment List Scraper",
     "description": "A powerful web scraper that is designed to extract data from ApartmentList.com",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/epctex/apartmentlist-scraper?fpr=hs6s8"
   },
@@ -675,7 +675,7 @@
     "id": "DkFpFOtnT8uEm3CP7",
     "name": "Zillow Agents | Search | Detail pages | with Email Scraper",
     "description": "Unlock the power of Zillow with automated agent profile scraping – gather key insights and data on real estate agents effortlessly.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/memo23/apify-zillow-agents-cheerio?fpr=hs6s8"
   },
@@ -715,7 +715,7 @@
     "id": "p5uZN0YlqtPIecMUv",
     "name": "Zillow Property Details Scraper",
     "description": "Scrape Zillow property details for real estate analysis. Get prices, tax history, interior and building specs, lot info, schools, and photos from Zillow listings.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/api-ninja/zillow-property-details-scraper?fpr=hs6s8"
   },
@@ -739,7 +739,7 @@
     "id": "3zs2LksPOOVL2BP62",
     "name": "Furnishedfinder.com [Emails Included] Scraper",
     "description": "The FurnishedFinder Scraper is your ultimate solution for streamlined rental searches, helping you extract detailed property data like amenities, availability, and pricing effortlessly. With customizable settings and persistent storage, it’s perfect for travelers, researchers, or property managers.",
-    "rating": 4.992913855955111,
+    "rating": 4.992913855955112,
     "rating_count": 7,
     "url": "https://apify.com/memo23/furnishedfinder-scraper-cheerio?fpr=hs6s8"
   },
@@ -771,7 +771,7 @@
     "id": "teOj85DgYAQSZUKeJ",
     "name": "Zoopla.co.uk Scraper",
     "description": "Scrape Zoopla.co.uk to crawl millions of sale/rent real estate properties from United Kingdom. Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/zoopla-scraper?fpr=hs6s8"
   },
@@ -779,7 +779,7 @@
     "id": "icpP0yhW4hgl3vTUJ",
     "name": "Rightmove Full Address House Number Finder",
     "description": "Find full address including house number and street from rightmove.co.uk from rightmove property sale/rent real listing from United Kingdom. Our Rightmove Full Address House Number Finder helps you convert your leads faster.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/rightmove-full-address-house-number-finder?fpr=hs6s8"
   },
@@ -787,7 +787,7 @@
     "id": "uo47yBonvfB5CvyMO",
     "name": "Rightmove Landregistry Full Address House Number Finder",
     "description": "Unlock full UK property addresses with house numbers by matching Rightmove history with Land Registry sold data. Find accurate, verified property details hidden from public view—perfect for agents, investors, and researchers.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/rightmove-landregistry-full-address-house-number-finder?fpr=hs6s8"
   },
@@ -795,7 +795,7 @@
     "id": "2ea2NbqIb6TNR4OLC",
     "name": "Rightmove Postcode To Listing Url",
     "description": "Convert postcode, outcode , city or any region keyword to rightmove location Identifier. Get your rightmove sale or rent listing URL easily and integrate this API with your own property lead generation system.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/rightmove-postcode-to-listing-url?fpr=hs6s8"
   },
@@ -803,7 +803,7 @@
     "id": "7HfUXJxPOm7czW6OK",
     "name": "Property24 South Africa Scraper",
     "description": "Effortlessly extract real estate data from Property24, South Africa's leading property portal. This powerful scraper collects comprehensive property details including prices, locations, descriptions, property types, images, agent contact info, and more.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/property24-south-africa-scraper?fpr=hs6s8"
   },
@@ -811,7 +811,7 @@
     "id": "Fr1Lw1rKO7xMxfLjB",
     "name": "Rightmove Agents Scraper",
     "description": "Scrape rightmove.co.uk to crawl millions of real estate agents from United Kingdom. You can provide multiple search result listings to scrape/monitor.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/rightmove-agents-scraper?fpr=hs6s8"
   },
@@ -819,7 +819,7 @@
     "id": "quekgyAN6DajCpjHY",
     "name": "UK Landregistry Sold Price History Scraper",
     "description": "Scrape UK Land Registry sold price data by postcode or outcode. Get structured datasets grouped by house number/street for real estate analysis, matching, and enrichment. Export in JSON/CSV/Excel. Ideal for Rightmove, Zoopla, and UK property projects.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/uk-landregistry-sold-price-history-scraper?fpr=hs6s8"
   },
@@ -827,7 +827,7 @@
     "id": "0uihS4in1ReF1lsf2",
     "name": "Rightmove Sold House Properties Scraper",
     "description": "Scrape rightmove.co.uk to crawl millions of sold house properties from United Kingdom. Our real estate scraper also lets you monitor specific listing for newly sold properties. You can provide multiple search result listings to scrape/monitor.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/rightmove-sold-house-properties-scraper?fpr=hs6s8"
   },
@@ -835,7 +835,7 @@
     "id": "YnypKXp7X4cey27F8",
     "name": "Zoopla Commercial Properties Scraper",
     "description": "Scrape Zoopla.co.uk to crawl millions of sale/rent commercial real estate properties from United Kingdom. Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/zoopla-commercial-properties-scraper?fpr=hs6s8"
   },
@@ -875,7 +875,7 @@
     "id": "dYj8mIdQOTfCyxEGU",
     "name": "Zillow Property Details Scraper V2",
     "description": "The Zillow Property Details Scraper V2 fetches detailed, real-time property data by ZPID or URL from Zillow. Obtain comprehensive property insights including attributes, photos, price history, and agent information for enhanced real estate applications.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/axesso_data/zillow-property-details-scraper-v2?fpr=hs6s8"
   },
@@ -899,7 +899,7 @@
     "id": "CJORhD2oCF6HOuYKc",
     "name": "Land.com Search [Bypass Limits] [PPE]",
     "description": "Unlock the full potential of Land.com with this powerful scraper! Efficiently extract detailed property listings, including prices, acreage, media, and descriptions, to save time and make data-driven decisions. Perfect for real estate pros, investors, and researchers!",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/memo23/land-search-cheerio-ppr?fpr=hs6s8"
   },
@@ -939,7 +939,7 @@
     "id": "aBqlTzPdEEY4APk52",
     "name": "Willhaben.at All-Inclusive 🔥(marktplatz|jobs|immobilien|autos)",
     "description": "⚡ $1/1K | Schneller & robuster Scraper für willhaben-Suchseiten. Extrahiert Daten aus Marktplatz, Jobs, Immobilien & Autos. ⚡ Fast & resilient scraper for willhaben search pages. Extracts data from marketplace, jobs, real estate, & cars. 🚀",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/willhaben-suchseiten-scraper-marktplatz-jobs-immobilien-autos?fpr=hs6s8"
   },
@@ -947,7 +947,7 @@
     "id": "gDdqCZ03A7fswRbCa",
     "name": "🏠 Propertyfinder Scraper (By Search URL)",
     "description": "🔥 #1 Scrape Propertyfinder (ae | sa | qa | eg | bh) search result pages and easily export data to JSON, CSV, Excel, or via API for as low as $1 per 1K. Simply enter the search page URL to get comprehensive property listings! Blazing fast, affordable, and built for scale. ⚡",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/propertyfinder-ads-search-results-pages-scraper?fpr=hs6s8"
   },
@@ -971,7 +971,7 @@
     "id": "1RsdXxQ2A1o9pZmC8",
     "name": "Bayut Scraper",
     "description": "Scrape bayut.com to crawl millions of sale/rent real estate properties from UAE. Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor properties in Dubai, Abu Dhabi, Sharjah, Ajman and more",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/dhrumil/bayut-scraper?fpr=hs6s8"
   },
@@ -979,7 +979,7 @@
     "id": "aM5RioOSKPfq26OwD",
     "name": "BizBuySell.com | Search | Business | Broker(s) | Richest Output",
     "description": "Unleash the power of market insights with the BizBuySell.com Scraper! Effortlessly extract detailed business listings, customize your searches, and make informed decisions with data at your fingertips. Whether you're an investor, broker, or entrepreneur, this scraper is your key to opportunities!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/memo23/apify-bizbuysell-cheerio?fpr=hs6s8"
   },
@@ -995,7 +995,7 @@
     "id": "6oje2FBiCMSQ3nW82",
     "name": "Real Estate AU Scraper PRO ❤️",
     "description": "🚀 $1/1K | Blazing fast |  Scrape search results from realestate.com.au and effortlessly export them to JSON, CSV, Excel, or via API. Simply enter the search page URL to retrieve data; prices, addresses, features, contact details (including emails and phone numbers) & much more! ⚡ Fast & affordable!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/real-estate-au-scraper-pro?fpr=hs6s8"
   },
@@ -1003,7 +1003,7 @@
     "id": "XAYU3jQyB1paRVpeM",
     "name": "Pap.fr Scraper (By Search URL)",
     "description": "🔥Très simple! Entrez le lien vers la page de recherche pap.fr et obtenir les résultats! ⚡ Extraire rapidement les infos détaillées sur les propriétés ( titre, description, photos, évaluations énergétique prix, contacts, transport et plus encore) à faible coût, avec exportation en JSON, CSV, EXCEL..",
-    "rating": 4.493461363359467,
+    "rating": 4.493461363359466,
     "rating_count": 7,
     "url": "https://apify.com/azzouzana/pap-fr-mass-products-scraper-by-search-url?fpr=hs6s8"
   },
@@ -1038,22 +1038,6 @@
     "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/dhrumil/emirates-auction-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "isEqQn5XKtr3D3fRW",
-    "name": "Funda.nl | Only $0.75💰 | Scraper (Richest output)",
-    "description": "💰$0.75 per 1,000 results. The Fulda Scraper offers advanced customization, retry mechanisms, and detailed output, simplifying the data collection process and providing actionable insights for real estate professionals, investors, and researchers.",
-    "rating": 5,
-    "rating_count": 5,
-    "url": "https://apify.com/memo23/funda-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "3suW93yHEJdAsg0aw",
-    "name": "HouseSigma.com | Search | Detail(s) | Agent(s) | Scraper",
-    "description": "Unlock Canada’s real estate market with the HouseSigma Scraper! Extract detailed property listings, historical sales, and market trends effortlessly. Save time, gain insights, and make smarter investments—all with structured, analysis-ready data at your fingertips.",
-    "rating": 5.000000000000001,
-    "rating_count": 5,
-    "url": "https://apify.com/memo23/apify-housesigma-cheerio?fpr=hs6s8"
   },
   {
     "id": "0fAljT4XBNhJ0HxGz",
@@ -1120,14 +1104,6 @@
     "url": "https://apify.com/azzouzana/quintoandar-search-pages-scraper-by-search-url---ppe?fpr=hs6s8"
   },
   {
-    "id": "78UWNeqywwtKfp5z6",
-    "name": "Streeteasy.com Scraper",
-    "description": "Unlock the NYC real estate market with instant access to detailed property data, pricing trends, and neighborhood insights. Our StreetEasy scraper delivers comprehensive listing information across all boroughs, helping you make data-driven decisions faster than your competition.",
-    "rating": 5,
-    "rating_count": 5,
-    "url": "https://apify.com/memo23/apify-streeteasy-cheerio?fpr=hs6s8"
-  },
-  {
     "id": "P9bcXPLpq9fryug1o",
     "name": "Rightmove $0.95💰Buy-Rent-Sell-House-Agent-Commercial-Overseas",
     "description": "💰 $0.95 per 1,000 results. Scrape Rightmove for sales, rentals, agents & sold prices. Extract 100+ data points per listing: historic pricing (price & year of past sales), price changes, images & floor plans. Fast, powerful scraper to monitor market trends and full property histories.",
@@ -1155,9 +1131,41 @@
     "id": "QhlgM9rF3JXTHkWxn",
     "name": "Fast Realtor Agents API Scraper",
     "description": "Empower your marketing and research efforts with precise Realtor.com agent data. Extract valuable insights seamlessly!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/memo23/apify-realtor-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "369lCizjubzE0ZE6s",
+    "name": "FLIPPA.com | Only $1💰 | Search by Url | Detail Pages | Scraper",
+    "description": "💰$1 per 1,000 results, scrape Flippa search & listings. Extract Revenue, Profit, Multiples, Traffic (Views/Uniques) & Seller Verification. Supports SaaS, Apps & Domains.",
+    "rating": 5,
+    "rating_count": 5,
+    "url": "https://apify.com/memo23/flippa-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "isEqQn5XKtr3D3fRW",
+    "name": "Funda.nl | Only $0.75💰 | Scraper (Richest output)",
+    "description": "💰$0.75 per 1,000 results. The Fulda Scraper offers advanced customization, retry mechanisms, and detailed output, simplifying the data collection process and providing actionable insights for real estate professionals, investors, and researchers.",
+    "rating": 4.999999999999999,
+    "rating_count": 5,
+    "url": "https://apify.com/memo23/funda-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "3suW93yHEJdAsg0aw",
+    "name": "HouseSigma.com | Search | Detail(s) | Agent(s) | Scraper",
+    "description": "Unlock Canada’s real estate market with the HouseSigma Scraper! Extract detailed property listings, historical sales, and market trends effortlessly. Save time, gain insights, and make smarter investments—all with structured, analysis-ready data at your fingertips.",
+    "rating": 4.999999999999999,
+    "rating_count": 5,
+    "url": "https://apify.com/memo23/apify-housesigma-cheerio?fpr=hs6s8"
+  },
+  {
+    "id": "78UWNeqywwtKfp5z6",
+    "name": "Streeteasy.com Scraper",
+    "description": "Unlock the NYC real estate market with instant access to detailed property data, pricing trends, and neighborhood insights. Our StreetEasy scraper delivers comprehensive listing information across all boroughs, helping you make data-driven decisions faster than your competition.",
+    "rating": 4.999999999999999,
+    "rating_count": 5,
+    "url": "https://apify.com/memo23/apify-streeteasy-cheerio?fpr=hs6s8"
   },
   {
     "id": "K4uiAhaUJjoQIfnYC",
@@ -1168,18 +1176,10 @@
     "url": "https://apify.com/azzouzana/immoweb-be-ads-scraper-by-ads-urls?fpr=hs6s8"
   },
   {
-    "id": "369lCizjubzE0ZE6s",
-    "name": "FLIPPA.com | Only $1💰 | Search by Url | Detail Pages | Scraper",
-    "description": "💰$1 per 1,000 results, scrape Flippa search & listings. Extract Revenue, Profit, Multiples, Traffic (Views/Uniques) & Seller Verification. Supports SaaS, Apps & Domains.",
-    "rating": 4.999999999999999,
-    "rating_count": 5,
-    "url": "https://apify.com/memo23/flippa-scraper?fpr=hs6s8"
-  },
-  {
     "id": "OIYrZy1OpUEgIMYmh",
     "name": "Airbnb Rooms URLs Scraper",
     "description": "Scrape direct Airbnb rooms URLs and get all available details about the accommodation.",
-    "rating": 2.670244519244915,
+    "rating": 2.670244519244916,
     "rating_count": 12,
     "url": "https://apify.com/tri_angle/airbnb-rooms-urls-scraper?fpr=hs6s8"
   },
@@ -1195,7 +1195,7 @@
     "id": "fSNRlNbcFgtHBFBE9",
     "name": "Redfin Search Scraper",
     "description": "Scrape real estate properties in given area from Redfin.com fast and easily",
-    "rating": 3.586846845134451,
+    "rating": 3.586846845134452,
     "rating_count": 7,
     "url": "https://apify.com/tri_angle/redfin-search?fpr=hs6s8"
   },
@@ -1227,7 +1227,7 @@
     "id": "HIjzwkZbl4kLic1iK",
     "name": "99acres Scraper",
     "description": "Extract property listings from 99acres at scale with a robust, production-ready scraper built to handle anti-bot protections.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/gauzy_penguin/99acres-scraper?fpr=hs6s8"
   },
@@ -1267,7 +1267,7 @@
     "id": "CPmCAlt1ld61i50ke",
     "name": "Immobilienscout24 | Search | Detail(s) page | Scraper| Rental",
     "description": "Extract comprehensive German real estate data: property details (rent, size, rooms, location), high-res images, agent info with verification status, pricing insights, amenities (balcony, kitchen, cellar), contact forms, market analytics, and 40+ targeting parameters for research.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/memo23/immobilienscout24-search-scraper-rental?fpr=hs6s8"
   },
@@ -1275,7 +1275,7 @@
     "id": "YR0g96VqucD1h7Y7G",
     "name": "$1/1K 🔥 LandWatches.com Scraper PRO (By Search URL)",
     "description": "🚀 $1/1K | Blazing fast | Scrape LandWatch lands or agents listings to JSON, CSV, Excel, or API. Paste your search URLs & get comprehensive details! +150 data points per item -> Thousands of results per run ⚡Grab your search URLs and you're good to go!",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/azzouzana/landwatches-com-scraper-pro-by-search-url?fpr=hs6s8"
   },
@@ -1283,7 +1283,7 @@
     "id": "ouAIOm4LAbJVjQQ9I",
     "name": "$1.5/1K 💙 Realcommercial.com.au Scraper PRO (By Search URL)",
     "description": "#1 🔥 No-code scraper for realcommercial.com.au search pages.  \nPaste URLs and extract comprehensive details; prices, attributes, address, phone numbers, emails, and more!  \nExport to JSON, CSV, Excel, or API. Fast, affordable, and easy. Start now! 🚀",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/azzouzana/realcommercial-com-au-scraper-pro-by-search-url?fpr=hs6s8"
   },
@@ -1315,7 +1315,7 @@
     "id": "8iShEkul7pQcyBO15",
     "name": "Zillow Lenders | Search | Detail Page(s) | Scraper",
     "description": "Extract mortgage lender data from Zillow including: lender names, NMLS IDs, contact info (phone, address, website), ratings & reviews, state licenses, specializations, and detailed bios. Get comprehensive lender profiles for market research and lead generation.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/memo23/zillow-lenders-scraper?fpr=hs6s8"
   },
@@ -1331,7 +1331,7 @@
     "id": "ahpk7S3a62kOzKdE9",
     "name": "Google Hotels Search Scraper",
     "description": "Extract comprehensive hotel data from Google Hotels including prices, ratings, amenities, property details, and images. Supports advanced filtering, vacation rentals, localization, and multi-page pagination. Ideal for market research, price monitoring, and travel applications.",
-    "rating": 4.961991726171453,
+    "rating": 4.961991726171452,
     "rating_count": 4,
     "url": "https://apify.com/johnvc/google-hotels-search-scraper?fpr=hs6s8"
   },
@@ -1339,7 +1339,7 @@
     "id": "MGaVgCsvdiB8x3kcA",
     "name": "Fast Zoopla Properties Scraper",
     "description": "Scrape houses and flats for sale and to rent from zoopla.co.uk  in a couple of seconds.",
-    "rating": 4.845769083320275,
+    "rating": 4.845769083320276,
     "rating_count": 4,
     "url": "https://apify.com/tri_angle/fast-zoopla-properties-scraper?fpr=hs6s8"
   },
@@ -1347,7 +1347,7 @@
     "id": "nfWPDHJzRb80PsNo1",
     "name": "Leboncoin Scraper (API) Pro 🇫🇷 - Annonces & Prix",
     "description": "Leboncoin.fr Scraper API: Extract classified ads with prices, locations, seller info, and photos. Filter by category, price range, and area. For market research, price monitoring, and competitive analysis across France.",
-    "rating": 4.758325004239998,
+    "rating": 4.758325004239999,
     "rating_count": 4,
     "url": "https://apify.com/clearpath/leboncoin-api?fpr=hs6s8"
   },
@@ -1387,15 +1387,23 @@
     "id": "Mc8t0eA1p9becXZOp",
     "name": "Airbnb Pro Host Business Email Scraper",
     "description": "Extract business emails, phone numbers, company names and registration details from Airbnb professional hosts. Search by city — Europe countries only. Built for B2B outreach, property management agencies, and lead generation. Export-ready results.",
-    "rating": 4.126820596794264,
+    "rating": 4.126820596794265,
     "rating_count": 4,
     "url": "https://apify.com/corent1robert/airbnb-professional-host-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "InQrBmnR5hUGk1qze",
+    "name": "Propertyfinder Scraper",
+    "description": "Scrape Propertyfinder.ae to crawl millions of sale/rent real estate properties from UAE Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor properties in Dubai, Abu Dhabi, Sharjah, Ajman and more",
+    "rating": 2.202773838685828,
+    "rating_count": 12,
+    "url": "https://apify.com/dhrumil/propertyfinder-scraper?fpr=hs6s8"
   },
   {
     "id": "6oBDAcmEEgEkc8aR4",
     "name": "Investment Finance Professionals",
     "description": "Find and filter 250,000+ investment professionals and 15,000+ financial firms by location, firm name, and more. Get structured contact data with emails, LinkedIn profiles, and firm associations for lead generation and market research.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/ApifySECInvestmentAdvisors?fpr=hs6s8"
   },
@@ -1403,7 +1411,7 @@
     "id": "O5g5b3gcEjFc8740t",
     "name": "Brazil Real Estate Scraper - OLX, ZAP & VivaReal",
     "description": "Scrape Brazilian real estate listings from OLX, ZAP Imoveis, and VivaReal.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/brazil-real-estate-scraper?fpr=hs6s8"
   },
@@ -1435,7 +1443,7 @@
     "id": "Xn9TPbfMffe55zEOd",
     "name": "Olx Product Scraper",
     "description": "This Apify actor scrapes classified ads from OLX India, extracting detailed listings for motorcycles, cars, electronics, and real estate by visiting each product’s detail page and collecting structured data.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/olx-product-scraper?fpr=hs6s8"
   },
@@ -1443,7 +1451,7 @@
     "id": "D3AASTKdOINn8qDT4",
     "name": "Magicbricks Property Scraper",
     "description": "Magicbricks is an Indian online real estate platform that helps users buy, sell, and rent residential and commercial properties by providing verified listings, advanced search filters, price trends, and direct contact with property owners, agents, and builders.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/magicbricks-property-scraper?fpr=hs6s8"
   },
@@ -1467,7 +1475,7 @@
     "id": "BCOs0MIwaSAP5zbBE",
     "name": "Agoda Hotel & Room Scraper",
     "description": "Scrape hotel room availability, pricing, and policies from Agoda.com. Get real-time rates, breakfast info, cancellation policies, and room details for any hotel. Supports multiple hotels, date ranges, guest configs, and currencies (USD/THB/IDR/SGD/MYR).",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/datawebot/agoda-hotel-scraper?fpr=hs6s8"
   },
@@ -1491,7 +1499,7 @@
     "id": "IhAdVCt0QtOuYMXbm",
     "name": "Airbnb Reviews Scraper",
     "description": "Scrape reviews from any Airbnb listing. Extract star ratings, guest comments, reviewer details, host responses, and review photos. Supports bulk scraping with full pagination.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/agenscrape/airbnb-reviews-scraper?fpr=hs6s8"
   },
@@ -1499,7 +1507,7 @@
     "id": "vLNGFPuJQkuxtQ4jt",
     "name": "🇩🇪 Immowelt.de [Only $0.9] Search (By URL) | Detail Pages",
     "description": "Extract vehicle data from AutoScout24 for only $0.9 per 1000 results. Scrape comprehensive car listings with specs (HP, mileage, fuel type, transmission), EUR pricing, seller details, high-quality images, and full descriptions. Fast GraphQL-based extraction from Europe's largest car marketplace.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/memo23/immowelt-scraper?fpr=hs6s8"
   },
@@ -1507,7 +1515,7 @@
     "id": "x06Ij4Bn6wJHATgAF",
     "name": "RentCafe scraper (By Search URL)",
     "description": "Fast RentCafe scraper 🚀 Extracts detailed search result listings: prices, amenities, photos, contact info, addresses, and much more. Simple to use; just plug in your search results URL and get clean, structured data.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/azzouzana/rentcafe-search-pages-scraper?fpr=hs6s8"
   },
@@ -1515,7 +1523,7 @@
     "id": "ccJ1CaVb6DzHIyjNq",
     "name": "$1/1K 💚 Propwire.com Scraper PRO (By Search URL)",
     "description": "🚀 $1/1K | Blazing fast | Scrape Propwire search results and export to JSON, CSV, Excel, API or AI/LLM workflows. Grab your search URL and you're good to go! Get deals, leads, analyze the market & much more ⚡ Costs pennies!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/azzouzana/propwire-com-scraper-pro-by-search-url?fpr=hs6s8"
   },
@@ -1523,7 +1531,7 @@
     "id": "L9KenStO5gSvEDnmb",
     "name": "Propertyfinder Real Estate Scraper",
     "description": "Scrape Propertyfinder.ae to crawl millions of sale/rent real estate properties from UAE Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor properties in Dubai, Abu Dhabi, Sharjah, Ajman and more",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/propertyfinder-real-estate-scraper?fpr=hs6s8"
   },
@@ -1555,7 +1563,7 @@
     "id": "czsEQMjLlk59doU8s",
     "name": "Housing.com Property Search Scraper",
     "description": "Scrape property listings from housing.com based on search URLs.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/codingfrontend/housing-property-search-scraper?fpr=hs6s8"
   },
@@ -1563,7 +1571,7 @@
     "id": "mqimEsdV7x9hERpby",
     "name": "Fundainbusiness.nl [Only $2.9💰] | Search | Details | Scraper",
     "description": "Scrapes Fundainbusiness.nl commercial property listings and detail pages across the Netherlands. It returns IDs, URLs, address, price, surfaces, building and energy info, full description, photos and floorplans, broker details and metadata for analytics and lead generation.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/memo23/fundainbusiness-scraper?fpr=hs6s8"
   },
@@ -1571,7 +1579,7 @@
     "id": "bkApWJE8Z7gi0llQe",
     "name": "Domain.com.au Scraper",
     "description": "Unlock Comprehensive Real Estate Data from Domain.com.au\nDiscover a wealth of information from Domain.com.au's vast property listings. Effortlessly extract detailed descriptions, high-quality images, unique features, and essential property details.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/scrapemind/Domaincomau-Scraper?fpr=hs6s8"
   },
@@ -1619,7 +1627,7 @@
     "id": "EjrM4GrTgzhDCI2zY",
     "name": "Idealista | Spain |Italy| Portugal |Richest Output| Rental",
     "description": "Extract comprehensive property data from Idealista.com: prices, locations, images, agent contacts, property features (rooms, bathrooms, amenities), detailed descriptions in multiple languages, and market insights. Perfect for real estate analysis, investment research, and market monitoring across EU",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/memo23/idealista-scraper-rental?fpr=hs6s8"
   },
@@ -1627,7 +1635,7 @@
     "id": "BbCyyfKFTLzlukMhT",
     "name": "Domain.com Scraper",
     "description": "[Fastest] scrapes property listings and search results, extracting detailed information such as price, address, bed/bath/car counts, agent details, school catchments, and image galleries.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/logical_scrapers/domain-scraper?fpr=hs6s8"
   },
@@ -1635,7 +1643,7 @@
     "id": "C5EVBUBeyyhwA3pg7",
     "name": "Kleinanzeigen.de Scraper (Richest output)",
     "description": "Extract detailed listings from Kleinanzeigen.de, saving you time by automating data collection for property, product, and service ads. It helps in market analysis, competitor research, and lead generation, providing accurate and timely insights from one of Germany's largest classifieds platforms.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/memo23/kleinanzeigen-search-cheerio?fpr=hs6s8"
   },
@@ -1659,7 +1667,7 @@
     "id": "B9QxpGHylsP0guHns",
     "name": "Spareroom.co.uk [only $0.95💰] Scraper",
     "description": "💰 $0.95 per 1,000 results. Extract comprehensive UK/USA property data from SpareRoom including detailed listings, pricing, availability, and property features. Get real-time insights on rooms for rent, buddy-ups, and room wanted ads with location details, amenities, and advertiser information.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/memo23/spareroom-scraper?fpr=hs6s8"
   },
@@ -1696,18 +1704,10 @@
     "url": "https://apify.com/giopasquale21/quintoandar-scraper?fpr=hs6s8"
   },
   {
-    "id": "InQrBmnR5hUGk1qze",
-    "name": "Propertyfinder Scraper",
-    "description": "Scrape Propertyfinder.ae to crawl millions of sale/rent real estate properties from UAE Our real estate scraper also lets you monitor specific listing for new updates/listing. You can provide multiple search result listings to scrape/monitor properties in Dubai, Abu Dhabi, Sharjah, Ajman and more",
-    "rating": 2.202773838685829,
-    "rating_count": 12,
-    "url": "https://apify.com/dhrumil/propertyfinder-scraper?fpr=hs6s8"
-  },
-  {
     "id": "WpPSwhWsyCsAJvmMG",
     "name": "Realtor.com Agents by Zip Code",
     "description": "Pull details for Realtor.com agents including email, cell, number of sales, and more.",
-    "rating": 4.947529059555847,
+    "rating": 4.947529059555846,
     "rating_count": 3,
     "url": "https://apify.com/scraped/realtor-com-agents-by-zip-code?fpr=hs6s8"
   },
@@ -1715,7 +1715,7 @@
     "id": "lsUSBuIvIe6GTRcZo",
     "name": "FlatFox.ch Properties Scraper",
     "description": "Scrape property listings from FlatFox.ch. Download data with prices, pictures, addresses, and property details in Excel, JSON, and CSV.",
-    "rating": 3.079533211924231,
+    "rating": 3.07953321192423,
     "rating_count": 6,
     "url": "https://apify.com/lexis-solutions/flatfox-ch-properties-scraper?fpr=hs6s8"
   },
@@ -1739,7 +1739,7 @@
     "id": "YwkoMBHoFxCLI4gpM",
     "name": "Zillow Property & Agent Data Scraper",
     "description": "Extract Zillow property listings with agent contacts (emails, phones), price history, and 70+ data fields. Three search modes: ZIP codes, ZPID list, or any Zillow URL. 40+ filters including tri-state controls for auctions, foreclosures, and new construction. Volume discounts - save up to 37.5%!",
-    "rating": 4.66464801031539,
+    "rating": 4.664648010315391,
     "rating_count": 3,
     "url": "https://apify.com/afanasenko/zillow-property-agent-data-scraper?fpr=hs6s8"
   },
@@ -1787,7 +1787,7 @@
     "id": "fidBLTpxnz3Owo6Zm",
     "name": "Advanced Leboncoin scraper",
     "description": "Leboncoin scraper. Collect product from any search website leboncoin.fr Advanced Web crawler for ecommerce leboncoin. Extract phonenumber from detail pages. For market research, price monitoring, competitive analysis, business intelligence. Efficient data extraction and reduced runtime costs.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/saswave/advanced-leboncoin-scraper?fpr=hs6s8"
   },
@@ -1811,7 +1811,7 @@
     "id": "UOCxY5LbreIgbJR6y",
     "name": "Zillow (Find a Real Estate Agent) 🏡📧📞",
     "description": "Unlock the power of Zillow with automated agent profile scraping – effortlessly gather key insights and data on real estate agents, with the ability to customize your advanced queries! 🏡📊💻✨\nNo need for proxy !",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/zillow-find-a-real-estate-agent?fpr=hs6s8"
   },
@@ -1851,7 +1851,7 @@
     "id": "r4PJ7ngsq4fPfaS8U",
     "name": "Domain.com.au Real Estate Agencies Scraper 🏢📊 - Cheap",
     "description": "🔍 Easily gather real estate Agencies data from Domain.com.au 🔓 — including thousands of Agencies from across Australia. Filter by location and collect detailed information about real estate agents.\nNo proxy required 🚫 — perfect for market research, lead generation and performance benchmarking.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/domain-com-au-real-estate-agencies-scraper---cheap?fpr=hs6s8"
   },
@@ -1891,7 +1891,7 @@
     "id": "ftbw0YFo17iTQ2qjv",
     "name": "Land.com Scraper",
     "description": "Unlock the full potential of Land.com with this powerful scraper! Efficiently extract detailed property listings, including prices, acreage, media, and descriptions, to save time and make data-driven decisions. Perfect for real estate pros, investors, and researchers!",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/memo23/land-search-cheerio?fpr=hs6s8"
   },
@@ -1899,7 +1899,7 @@
     "id": "uT0ceGRrt9LxLyEHP",
     "name": "Booking Taxis Scraper",
     "description": "Scrape airport and city transfer offers from Booking.com Taxis by pickup/dropoff locations, dates, times, passenger count, and currency. Extract prices, vehicle details, supplier info, distance, duration, and cancellation policies. Fast, structured, and customizable extraction.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/lexis-solutions/booking-taxis-scraper?fpr=hs6s8"
   },
@@ -1923,7 +1923,7 @@
     "id": "uM1wrP8Qyc59phQ9t",
     "name": "Google Hotels Scraper for Price Extraction",
     "description": "Looking to stay competitive in the hotel industry? A Google Hotels Scraper helps you easily pull pricing data from Google search results, allowing you to analyze trends and adjust your pricing strategy for better results.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/dainty_screw/google-hotels-scraper-for-price-extraction?fpr=hs6s8"
   },
@@ -1939,7 +1939,7 @@
     "id": "jLLge0TEks8J18jqb",
     "name": "Aqarmap Scraper ($0.75 / 1K)",
     "description": "This scraper extracts detailed Egyptian real estate data, including property listings (for sale/rent) and individual property details. It captures key fields like property type, price, location, amenities, room counts, availability dates, and unique identifiers for comprehensive market analysis.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/memo23/agarmap-cheerio?fpr=hs6s8"
   },
@@ -1979,7 +1979,7 @@
     "id": "6z6aHnjUy1l3WOezj",
     "name": "Ultimate Airbnb Scraper",
     "description": "Really Fast and Efficient Airbnb Scraper. Extract detailed listing information, including prices, availability, host details, amenities, guest capacity, images and more.\nPerfect for market research, travel analysis, and lead generation. Export data in JSON, CSV, Excel, or HTML.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/hyperscrape/hyper-airbnb-scraper?fpr=hs6s8"
   },
@@ -1987,7 +1987,7 @@
     "id": "2KfS4sR6wHOgB46ja",
     "name": "Airbnb Leads Email Scraper",
     "description": "Best Airbnb scraper to extract verified host emails and detailed property info— ideal for businesses seeking direct connections with Airbnb hosts!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/datavoyantlab/airbnb-leads-email-scraper?fpr=hs6s8"
   },
@@ -2027,7 +2027,7 @@
     "id": "B9TFa0DOsMREXM595",
     "name": "Zillow, Realtor.com & Redfin Scraper | US Real Estate Data",
     "description": "Scrape Realtor.com and Redfin in one run. Get deduplicated US property listings with cross-source price comparison, unified schema (30+ fields), and agent contact data. For sale, for rent, or recently sold. Any US city. $3 per 1,000 results.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/jonn/us-realestate-multisource?fpr=hs6s8"
   },
@@ -2043,7 +2043,7 @@
     "id": "mI186daZ0S5AtAIf7",
     "name": "Trip.com Hotel & Room Scraper",
     "description": "Extract room listings and live prices from any Trip.com hotel page. Supports custom check-in/out dates, guest counts, and multiple hotels per run. Works with all Trip.com country subdomains (th, sg, id, etc.).",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/datawebot/trip-hotel-scraper?fpr=hs6s8"
   },
@@ -2059,7 +2059,7 @@
     "id": "aAohRNwnunh3U1L6d",
     "name": "spitogatos.gr",
     "description": "Scrape real estate listings and Agents from Spitogatos.gr in both English and Greek. Collect prices, photos, location, and more. Easy setup, fast results, ready for Excel, JSON, or API integration",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/fayoussef/spitogatos-scraper?fpr=hs6s8"
   },
@@ -2067,7 +2067,7 @@
     "id": "uwtCvCzVafFpaFLr4",
     "name": "Leboncoin Scraper",
     "description": "Scrape Leboncoin classified ads by keyword, category and location. Extract prices, descriptions, seller info, phone numbers and GPS coordinates from France's largest marketplace. Covers real estate, cars, jobs, electronics, fashion and more. Export 28+ data fields per listing in JSON or CSV format.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/silentflow/leboncoin-scraper?fpr=hs6s8"
   },
@@ -2075,7 +2075,7 @@
     "id": "YQ5kMql2j77kdasD4",
     "name": "Zameen.com Scraper",
     "description": "Extract detailed real estate listings from Pakistan's leading property portal. This lightweight actor efficiently scrapes data for houses, plots, and commercial properties for sale or rent. For seamless extraction and to avoid IP bans, the use of residential proxies is strongly recommended.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/Zameen-com-Scraper?fpr=hs6s8"
   },
@@ -2083,7 +2083,7 @@
     "id": "GhUqxnPS5DcsOPY2w",
     "name": "Google Maps B2B Leads Extractor",
     "description": "Extract verified B2B leads from Google Maps at scale. Get business names, phones, websites, ratings, and enriched contact info. Perfect for sales outreach, market research, and competitor analysis.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/martinjoz/google-maps-leads-extractor?fpr=hs6s8"
   },
@@ -2091,7 +2091,7 @@
     "id": "7QshS8y8JlieeT5Wi",
     "name": "Airbnb Profile Reviews Scraper - Cheap 🔎🏠💬",
     "description": "Looking to extract Airbnb reviews and insights from user profiles? 🏠\nYour search ends here! With the Airbnb Profile Reviews Scraper, collect reviews based on ratings, comments, reviewer details, host information, and more — perfect for analysts, investors, or reputation tracking! 🚀📊",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/airbnb-profile-reviews-scraper---cheap?fpr=hs6s8"
   },
@@ -2115,7 +2115,7 @@
     "id": "eou9sUeDcGLZomwXL",
     "name": "Realtor Property Scraper",
     "description": "Realtor.com search across all 50 US states with 8 listing statuses (for_sale, for_rent, sold, pending, off_market, new_community, ready_to_build, other) and 11 property types. Each result returns address, beds/baths, sqft, list/sold price, days-on-market, agent + broker contact, and MLS ID.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/agentx/realtor-property-scraper?fpr=hs6s8"
   },
@@ -2123,7 +2123,7 @@
     "id": "kAspy5VDXLumd0brW",
     "name": "Zillow For Sale Scraper",
     "description": "Bulk-extract up to 1,000,000 Zillow listings per query, filtered by for_sale, for_rent, or sold and 7 property types (houses, townhomes, multi-family, condos/co-ops, lots/land, apartments, manufactured). Each row includes address, price, Zestimate, beds/baths, sqft, lot size, and year built.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/agentx/zillow-for-sale-scraper?fpr=hs6s8"
   },
@@ -2139,7 +2139,7 @@
     "id": "TawL82rL78UK9raSx",
     "name": "Auction.com [Only 💰$1 ] Search and Details Scraper",
     "description": "[💰$1 per 1,000] No limits, no quotas, unlimited extraction. Auction.com scraper that extracts structured property listings from search URLs and filters. Get listing URLs, photos, address data, beds, baths, sqft, lot size, year built, bids, sale type, auction dates, occupancy, and property status",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/memo23/auction-com-scraper?fpr=hs6s8"
   },
@@ -2147,7 +2147,7 @@
     "id": "KxUa1WD1SL4Mvnfks",
     "name": "Leboncoin Immobilier Phone Leads Scraper",
     "description": "💰$1 per 1,000 annonces, Extract Leboncoin  real estate ads with phone numbers using filters like city, price range, property type, furnished status, rooms, bedrooms, surface, energy rating, outdoor features, floor, orientation, condition, keywords, and seller type. Export results in JSON or CSV.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/mostafa-ennadi/leboncoin-immobilier-phone-leads-scraper?fpr=hs6s8"
   },
@@ -2171,7 +2171,7 @@
     "id": "PeEfaQ6dadt8aiXzd",
     "name": "Landwatch.com | Search | Details | Agent(s) Unlimited Scraper",
     "description": "The LandWatch Scraper is a tool for extracting property data from LandWatch.com. Ideal for real estate investors, market analysts, and property researchers, it tracks property details, pricing, and listing information. It's perfect for anyone looking to gather comprehensive property data from a site",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/memo23/landwatch-scraper?fpr=hs6s8"
   },
@@ -2179,7 +2179,7 @@
     "id": "7hrExNTiDRs0nPUXh",
     "name": "Immoweb.be Scraper",
     "description": "💰$1.2/1K Scrape real estate listings from Immoweb.be effortlessly. This actor extracts properties for sale or rent. You get comprehensive data, including prices, precise addresses, property types, bedrooms, living areas, EPC scores, image URLs and agency contact details. Perfect for market analysis",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/memo23/immoweb-scraper?fpr=hs6s8"
   },
@@ -2195,7 +2195,7 @@
     "id": "pMwBNmY3K3xk1eeaZ",
     "name": "Caixa Leilão de Imóveis",
     "description": "Scrape imóveis da Caixa Econômica Federal disponíveis para leilão e venda direta. Filtre por estado, cidade, modalidade e desconto mínimo. Retorna valor de avaliação, desconto calculado, endereço e link do edital. Pay per result.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/giopasquale21/caixa-leilao-de-imoveis?fpr=hs6s8"
   },
@@ -2203,7 +2203,7 @@
     "id": "Kuibe51BZbYZOpgRb",
     "name": "Leilão Imóvel Scraper",
     "description": "Scrapes auction property listings from leilaoimovel.com.br — Brazils largest real estate auction portal. Extracts price, appraisal, discount %, modalities, closing date and more. Supports filters by state, city, property type and bank.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/gio21/leilaoimovel-scraper?fpr=hs6s8"
   },
@@ -2211,7 +2211,7 @@
     "id": "EpgGQDsJJ4UEAsMar",
     "name": "Pisos.com Scraper",
     "description": "Scrape real-estate listings from Pisos.com - Spain's top agency-driven property portal. Price, area, rooms, features, agency and images. Pay per listing.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/gio21/pisos-scraper?fpr=hs6s8"
   },
@@ -2219,7 +2219,7 @@
     "id": "uoK0El3zsRnIWogGn",
     "name": "REMAX Real State Agents Scraper",
     "description": "RE/MAX Real-States Agents Scraper is an Apify actor designed to extract real estate agent data from RE/MAX. It efficiently gathers information such as agent names, contact details, office locations, and more ideal for real estate professionals, marketers, and lead generation.",
-    "rating": 3.562635575029829,
+    "rating": 3.56263557502983,
     "rating_count": 3,
     "url": "https://apify.com/scrapingxpert/remax-real-state-agents-scraper?fpr=hs6s8"
   },
@@ -2227,7 +2227,7 @@
     "id": "3BFvqWmuNuo3FpdR8",
     "name": "Property24 Africa Scraper",
     "description": "Scrape property listings from Property24 across 7 African countries. Get prices, locations, bedrooms, bathrooms, size and more — exported as JSON, CSV or Excel in minutes.",
-    "rating": 4.703441119498423,
+    "rating": 4.703441119498424,
     "rating_count": 2,
     "url": "https://apify.com/ashersam01/property24-africa-scraper?fpr=hs6s8"
   },
@@ -2243,7 +2243,7 @@
     "id": "f9eS42EZvOhnr2SFC",
     "name": "Zillow Agents Finder",
     "description": "💫 Scrape Zillow.com Agents & Lenders",
-    "rating": 3.293258779246661,
+    "rating": 3.29325877924666,
     "rating_count": 3,
     "url": "https://apify.com/jupri/zillow-agents?fpr=hs6s8"
   },
@@ -2251,7 +2251,7 @@
     "id": "tsy6YghxIUMaABf7Z",
     "name": "Funda.nl | 💰$0.7 per 1,000 results | Fast, broad results",
     "description": "$0.7 per 1000 results. Scrape Funda.nl property listings - Extract prices, photos, agent details, energy labels & more. Supports search URLs, unlimited results via price-range splitting, and raw API output. Perfect for Dutch real estate\n   analysis and market research.",
-    "rating": 4.05696078300367,
+    "rating": 4.056960783003671,
     "rating_count": 2,
     "url": "https://apify.com/solidcode/funda-nl-just-0-7-per-1000-fast-broad-results?fpr=hs6s8"
   },
@@ -2291,7 +2291,7 @@
     "id": "ibbrwH8zcuEEkLHtg",
     "name": "Pincali Properties Scraper - Barato Cheap 🔎🏠🇲🇽",
     "description": "Looking to collect real estate listings from pincali.com? 🏠🔎\n\nWith this scraper you can extract property data including title, property type, price, location, listing type, bedrooms, bathrooms, images, URL & much more\n\nPerfect for real estate market analysis in Mexico & structured datasets 📊",
-    "rating": 3.346585152328258,
+    "rating": 3.346585152328257,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/pincali-properties-scraper---barato-cheap?fpr=hs6s8"
   },
@@ -2339,7 +2339,7 @@
     "id": "88b7cjIoaQjgAwUWg",
     "name": "Realtor.ca  Agents Scraper | Canada",
     "description": "Extract realtor.ca Agents data | Canada for any city or search. Download data as JSON, CSV, or Excel for research, lead generation, or analysis.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapemind/realtor-canada-agents?fpr=hs6s8"
   },
@@ -2363,7 +2363,7 @@
     "id": "ErD1Yvg2Mvhxo0qCx",
     "name": "Domain.com.au Property Scraper 🏠",
     "description": "🏠 Extract comprehensive property listings from Domain.com.au with advanced features. Get detailed property information including prices, images, agent details, and location data. Perfect for real estate analysis, market research, and property tracking.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/easyapi/domain-com-au-property-scraper?fpr=hs6s8"
   },
@@ -2395,7 +2395,7 @@
     "id": "eiD1SmA4A6aojHvYl",
     "name": "Avito.RU Scraper | Fast & Reliable | $4 / 1k",
     "description": "Scrape listings from Avito.ru, Russia’s top marketplace including real estate, cars, goods, services and more. Get structured data with prices, locations, sellers, and features. Ideal for market insights, sourcing, and lead gen. $4 / 1k.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/fatihtahta/avito-russia-scraper?fpr=hs6s8"
   },
@@ -2403,7 +2403,7 @@
     "id": "TeEN2GTliMcycUW66",
     "name": "Zillow Agents Finder",
     "description": "Find and extract real estate agents, property managers, photographers, and other professionals from Zillow’s directory by location, name, language, or specialty. Supports all categories, pagination, filters, and Apify residential proxies for reliable large-scale scraping.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/agenscrape/zillow-agents-finder?fpr=hs6s8"
   },
@@ -2411,7 +2411,7 @@
     "id": "18TUvOYhh4YKG9Yci",
     "name": "🔍 Zumper.com Scraper – Apartment Rental Listings",
     "description": "This Apify actor scrapes rental listings from Zumper.com, a leading rental platform in North America. Use this scraper to extract detailed apartment rental data for cities and neighborhoods, including multi-page results.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapemind/zumperCom-Scraper?fpr=hs6s8"
   },
@@ -2451,7 +2451,7 @@
     "id": "3P0NV0zD5NoO7sDIx",
     "name": "Lennar.com Scraper [PPE]",
     "description": "Revolutionize your home search with our Lennar scraper – your secret weapon for unlocking detailed, real-time property data. Instantly access comprehensive insights on new homes, community features, and pricing, empowering you to make smarter, faster decisions and secure your dream home today!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/memo23/lennar-scraper?fpr=hs6s8"
   },
@@ -2483,7 +2483,7 @@
     "id": "uWdVc4oCMkenFswNJ",
     "name": "Primelocation Scraper",
     "description": "PrimeLocation scraper for property data: extract prices, addresses, features, tenure, council tax band, EPC rating, agent details, and high‑resolution images from search and detail pages with automated pagination and robust handling of dynamic content.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lexis-solutions/primelocation-scraper?fpr=hs6s8"
   },
@@ -2659,7 +2659,7 @@
     "id": "3HSGJf9X0lQCkVydE",
     "name": "Caixa Imoveis Leilões API",
     "description": "API de leilões de imóveis da Caixa Econômica Federal com dados estruturados e atualizados. Permite consultar imóveis por estado, cidade e modalidade, ideal para automações, análise do mercado imobiliário e integração com sistemas.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/pizani/caixa-imoveis-leiloes-api?fpr=hs6s8"
   },
@@ -2715,7 +2715,7 @@
     "id": "SZzBoqTR4VrbJQsaP",
     "name": "Batdongsan Scraper",
     "description": "scrape listing data from batdongsan.com.vn",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/minhlucvan/batdongsan-scraper?fpr=hs6s8"
   },
@@ -3155,7 +3155,7 @@
     "id": "VEeo4qypYpYyt4Fz2",
     "name": "Bayut Dubai $0.8💰 URL Search | Location Filters | Rich Output",
     "description": "From $0.8/1K. Extract property listings from bayut.com. Get fully-detailed listings with price, bedrooms, baths, area, geocoordinates, agent name + mobile + WhatsApp + email, agency profile, RERA/Trakheesi permit, full photo gallery, categorised amenities, and TruCheck verification dates.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/abotapi/bayut-com-scraper?fpr=hs6s8"
   },
@@ -3259,7 +3259,7 @@
     "id": "LsZaEUAY7nAgSJetA",
     "name": "Redfin Property Scraper 🏠",
     "description": "Extract real estate listings, property details, and market insights from Redfin. This lightweight scraper is optimized for speed and efficiency. For consistent results and to prevent blocking, the use of residential proxies is highly recommended.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/Redfin-Property-Scraper?fpr=hs6s8"
   },
@@ -3283,7 +3283,7 @@
     "id": "LE38cGoxhfms0cNEe",
     "name": "Italian Real Estate Auction Scraper (AsteGiudiziarie.it)",
     "description": "Extract structured datasets of Italian real estate judicial auctions from AsteGiudiziarie.it including price, tribunal, location, auction dates and property details.Automatically detect potential investment opportunities.\nLeave a feedback also when you do free runs, report any bug or issues.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/ayrtondavoli97/SCRAPER?fpr=hs6s8"
   },
@@ -3291,7 +3291,7 @@
     "id": "ng3KFb6cab93lxQkd",
     "name": "Subito.it Real Estate Scraper",
     "description": "Extract real estate listings from Subito.it in Italy. Get title, price, surface, rooms, bathrooms, city, agency, URL and investment score. Supports sale/rent, property type filters, deduplication and monitoring mode.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/ayrtondavoli97/propscout-scraper?fpr=hs6s8"
   },
@@ -3315,7 +3315,7 @@
     "id": "SEvzfxey4mXIEgJgK",
     "name": "Crexi Property Scraper",
     "description": "Extract Crexi property listings automatically. Scrape commercial real estate data including prices, addresses, features & details. Perfect for real estate analysis, market research, investor tracking. Get CRE market data instantly.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/crexi-property-scraper?fpr=hs6s8"
   },
@@ -3491,7 +3491,7 @@
     "id": "QDOywclG4kHVDDeJ5",
     "name": "Bayut Property Scraper",
     "description": "Filter search property and scrape live UAE property listings from Bayut - apartments, villas, offices & more for sale or rent. Filter by location, price, bedrooms & type. Real-time data, no proxies needed. Perfect for real estate apps & analytics. Propertyfinder, UAE Properties, Unofficial Scraper",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/happyendpoint/bayut-property-scraper?fpr=hs6s8"
   },
@@ -3499,7 +3499,7 @@
     "id": "YcgJR1WP1cHJhHzvH",
     "name": "Amazon  Product Search Scraper",
     "description": "Amazon  Product Search Scraper 🔥 Get Complete Product Data!\n Prices,  Ratings,  Reviews & more\n Efficient, accurate & scalable scraper\nPerfect for research, analysis & price comparison\n Collect insights effortlessly & boost your eCommerce game!",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/alpha-scraper/amazon-product-search-scraper?fpr=hs6s8"
   },
@@ -3523,7 +3523,7 @@
     "id": "vqPhabvlhsheNvkqq",
     "name": "LoopNet Scraper",
     "description": "Scrape LoopNet commercial real estate listings at scale. Extracts asking price, cap rate, NOI, square footage, property type, broker name and contact, full address and geocoordinates, listing description, and all photos. Accepts search URLs or individual listing URLs. Exports to JSON, CSV, Excel.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/hotels-scrapers/loopnet-scraper?fpr=hs6s8"
   },
@@ -3531,7 +3531,7 @@
     "id": "LsJM2wBOyIuC6XfXa",
     "name": "Idealista Scraper",
     "description": "Scrape Idealista real estate listings across Spain, Italy & Portugal. Extract price, GPS, energy rating, rooms, agency contact. DataDome bypass included.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/hotels-scrapers/idealista-scraper?fpr=hs6s8"
   },
@@ -3587,7 +3587,7 @@
     "id": "fas6RkZwfTg9LQHCl",
     "name": "Boligsiden.dk Scraper",
     "description": "Get your data from boligsiden.dk: houses, apartments, and commercial properties in Denmark.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/lexis-solutions/boligsiden-dk-scraper?fpr=hs6s8"
   },
@@ -3595,7 +3595,7 @@
     "id": "qhkQO51Cv6iHJxdAs",
     "name": "Snapchat - Profile - Scraper  Mini",
     "description": "👻 Snapchat - Profile - Scraper  Mini >>\n Extract usernames, titles, badges & categories\n Get subscribers, bio, website, avatar & address\n Track last updates in a clean, structured format\n Perfect for research, analysis & pro insights.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/alpha-scraper/snapchat---profile---scraper-mini?fpr=hs6s8"
   },
@@ -3680,6 +3680,14 @@
     "url": "https://apify.com/fatihtahta/propertyguru-scraper-ddproperty-batdongsan-ppe?fpr=hs6s8"
   },
   {
+    "id": "e1OmoN6KihH79zRMw",
+    "name": "Dubai Unit Number & Owner Details Finder (Bayut Only)",
+    "description": "Want faster deals and better leads? Instantly get owner details and unit numbers from any Bayut listing in the UAE in 4–9s. The fastest actor in the market. All data flows straight into your CRM, so your agents can focus on closing, not chasing.\nSupports Bayut URLs only.",
+    "rating": 2.549756002329722,
+    "rating_count": 2,
+    "url": "https://apify.com/gauravsaran/bayut-unit-number?fpr=hs6s8"
+  },
+  {
     "id": "oj3ILOAxhstwhCRYo",
     "name": "Zillow Search by Address Scraper",
     "description": "The Zillow Search by Address Scraper retrieves real-time property data by address from Zillow, providing accurate details including property attributes, pricing, and agent information for efficient real estate research and applications.",
@@ -3744,12 +3752,12 @@
     "url": "https://apify.com/ecomscrape/dubizzle-product-search-scraper-ppe?fpr=hs6s8"
   },
   {
-    "id": "e1OmoN6KihH79zRMw",
-    "name": "Dubai Unit Number & Owner Details Finder (Bayut Only)",
-    "description": "Want faster deals and better leads? Instantly get owner details and unit numbers from any Bayut listing in the UAE in 4–9s. The fastest actor in the market. All data flows straight into your CRM, so your agents can focus on closing, not chasing.\nSupports Bayut URLs only.",
-    "rating": 2.549756002329722,
-    "rating_count": 2,
-    "url": "https://apify.com/gauravsaran/bayut-unit-number?fpr=hs6s8"
+    "id": "ZkMgxwPJ6wJHQKA1T",
+    "name": "Dubai Unit Number & Owner Details Finder (PropertyFinder Only)",
+    "description": "Want faster deals and better leads? Instantly get owner details and unit numbers from any PropertyFinder UAE listing in 3–6s. The fastest actor in the market. All data flows straight into your CRM—so your agents can focus on closing, not chasing. PropertyFinder URLs only.",
+    "rating": 1.783700516337262,
+    "rating_count": 4,
+    "url": "https://apify.com/gauravsaran/dubai-unit-number-owner-details-finder-propertyfinder-only?fpr=hs6s8"
   },
   {
     "id": "Ts951UmWt2NyLug84",
@@ -3758,14 +3766,6 @@
     "rating": 2.470902445258576,
     "rating_count": 2,
     "url": "https://apify.com/twoapi/skip-trace?fpr=hs6s8"
-  },
-  {
-    "id": "ZkMgxwPJ6wJHQKA1T",
-    "name": "Dubai Unit Number & Owner Details Finder (PropertyFinder Only)",
-    "description": "Want faster deals and better leads? Instantly get owner details and unit numbers from any PropertyFinder UAE listing in 3–6s. The fastest actor in the market. All data flows straight into your CRM—so your agents can focus on closing, not chasing. PropertyFinder URLs only.",
-    "rating": 1.783700516337261,
-    "rating_count": 4,
-    "url": "https://apify.com/gauravsaran/dubai-unit-number-owner-details-finder-propertyfinder-only?fpr=hs6s8"
   },
   {
     "id": "Jm4QlBRUoMmEKeb5v",
@@ -17418,7 +17418,7 @@
   {
     "id": "XNFcCHhnCOa6xPrjf",
     "name": "Feedback & Review Analyzer",
-    "description": "Stop reading reviews one by one. Upload them as JSON and get back clean structured insights: sentiment, key topics, aspect-level pros and cons, fake review flags, and English translations — all in one place.",
+    "description": "Stop reading reviews one by one. Upload them as JSON and get back clean structured insights: sentiment, key topics, aspect-level pros and cons, fake review flags, and English translations — all in one place. Domain doesn't matter.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/maver_life/my-actor?fpr=hs6s8"
@@ -17526,6 +17526,198 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/scrapyspider/airbnb-detail-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "o70FUJqvm4CmgjRze",
+    "name": "PropertyGuru Singapore Scraper",
+    "description": "Scrape sale and rental listings from propertyguru.com.sg — price, size, bedrooms, location, agent contact, photos, MRT distances, and more. Returns clean structured JSON / CSV / Excel.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/alwaysprimedev/propertyguru-singapore-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "xnaMa7ZpZxdEQ3ky2",
+    "name": "8prop Property Intelligence Scraper",
+    "description": "Scrape rich Singapore property project data (HDB, condo, landed) from 8prop.com — sale & rent valuations, transaction history, unit mix, photos, amenities, developer info.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/alwaysprimedev/8prop-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "std1byLrPg7xj4cjs",
+    "name": "Zillow Search Scraper",
+    "description": "Scrape Zillow real-estate listings by location or search URL. Extracts zpid, address, price, beds/baths, photos, status, broker, lat/lon, and 40+ more fields from Zillow Search Results Pages.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/cirkit/zillow-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "s0QdJfKf1ma0FASuK",
+    "name": "Apartments.com API & Scraper — US Rentals + Walk Score",
+    "description": "🏢 The Apartments.com API + Apartments.com scraper for PropTech. Search US rentals by location, zip, coordinates, or URL. Built-in market-rent KPIs (median, $/bed, distribution) + walk score API, schools, pet policy in one event.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/sian.agency/apartments-com-property-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "ojiPC1HKpCumDODnz",
+    "name": "Houzz Lead Scraper & Contact Enrichment Actor",
+    "description": "Extract Houzz leads with this lightweight Python scraper. Get business names, websites, phone numbers, and social media. Features optional email enrichment by crawling business sites. Cost-efficient, fast, and ideal for B2B sales, architects, and contractor lead generation. Supports proxies.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/nocodeninja_ng/houzz-lead-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "nWqwilNm2bKpvi4Mm",
+    "name": "Savills Property Search Scraper",
+    "description": "Scrape Savills.com property search results and extract 130+ fields per listing — prices, locations, images, agent details, size metrics, and more. Perfect for real estate analysts, investors, and proptech developers needing structured global property data.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/savills-property-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "nRGTkM9RorOfaH7EH",
+    "name": "99.co Property Scraper — Singapore Listings",
+    "description": "Scrape Singapore property listings from 99.co (sale & rent, condos, HDB, landed). Structured fields: price, PSF, beds, baths, sqft, tenure, agent, photos, geo.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/alwaysprimedev/99co-property-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "mgyDLKFo9in6QwzSx",
+    "name": "PropertyFinder.ae Real Estate Scraper",
+    "description": "PropertyFinder.ae Real Estate Scraper is an Apify actor that extracts UAE real estate listings, gathering details like prices, locations, bedrooms, bathrooms, area, property type, agent info, images, and URLs, while filtering and deduplicating for clean datasets.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/moving_beacon-owner1/propertyfinder-ae-real-estate-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gnebZerkkBAkqDiJ4",
+    "name": "Lamudi Indoneshia Property Scraper",
+    "description": "Extract Lamudi Indonesia property listings instantly. Scrape prices, locations, photos, specs & agent contacts. Perfect for real estate analysis, investment research & market intelligence in Indonesia's property sector.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/shahidirfan/Lamudi-Indoneshia-Property-Scraper?fpr=hs6s8"
+  },
+  {
+    "id": "bOy6o7rKDXfUm5DW6",
+    "name": "Auction.com Property Scraper",
+    "description": "Scrape residential real estate auction listings from auction.com with bank-owned, foreclosure, and private-seller properties across all 50 US states.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/crawlerbros/auction-com-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "asDoeGbQP0Vs5deFX",
+    "name": "Leboncoin Real Estate Scraper",
+    "description": "Scrape real estate listings from Leboncoin — title, price, surface, rooms, location, agency, and listing URL.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/kilometric_spider/leboncoin-real-estate-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "ZcuDARkckg1lK2I2O",
+    "name": "Idealista Scraper",
+    "description": "Scrape Idealista real estate listings across Spain, Portugal & Italy. Get 70+ fields per property: price, photos, contacts, energy rating, and price/m² analytics. Filter by location, price, size, features, and more. No account needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/brilliant_gum/idealista-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "WNR62USLx4jbt4kl1",
+    "name": "Foreclosure Leads - Pre-Foreclosure, REO, Bank-Owned Homes",
+    "description": "Bulk Zillow foreclosure listings: pre-foreclosure, REO, bank-owned, auction. Filter by city/state, price, property, HOA, schools. Sold-comp ARV, exit-strategy MAO, distress sub-categories, owner info. Built for flippers / wholesalers / BRRRR.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/seibs.co/foreclosure-property-leads?fpr=hs6s8"
+  },
+  {
+    "id": "VApU2oGlEgXFMUNa6",
+    "name": "Zillow Listings Scraper — Homes for Sale, Rent & Sold",
+    "description": "Scrape Zillow listings by location or search URL: price, beds, baths, sqft, lot size, home type, status, days on market, tax value, broker, coordinates and photos — with optional full details (year built, description, price/tax history, schools, Zestimate).",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/buff_pineapple/zillow-listings-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "SWdk8tC11KcByEw8a",
+    "name": "Zillow Detail Scraper",
+    "description": "Scrape full property details from Zillow Home Detail Pages (HDP) by URL or zpid. Extracts 99 to 141 fields per listing including address, price, bedrooms, bathrooms, lat/lon, schools, price history, tax history, photos, broker info, and RESO facts.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/cirkit/zillow-detail-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "N0RVh01naI6usNOzm",
+    "name": "Boligportal Property Search Scraper",
+    "description": "Scrape rental property listings from Boligportal.dk with 70+ structured fields per listing — including rent, location, energy rating, deposit, features, and more. Perfect for real estate analysts, proptech developers, and market researchers.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/boligportal-property-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Lxgb52YW06wU9pu29",
+    "name": "Trulia.com Real Estate Scraper",
+    "description": "Trulia.com Real Estate Scraper is an Apify actor that scrapes property listings across US cities, extracting prices, addresses, beds, baths, sqft, property types, and listing URLs with filtering, deduplication, and residential proxy support.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/moving_beacon-owner1/trulia-com-real-estate-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Lq8PgGmhRSfgygDsN",
+    "name": "Kijiji.ca Scraper",
+    "description": "Scrape Kijiji.ca — Canada's #1 classifieds — with a vertical-aware structured schema across all 5 verticals: Autos, Real Estate, Jobs, Services, Marketplace. Per-vertical fields (make/model/VIN, bedrooms/rent/utilities), FSBO vs dealer detection, bilingual EN/FR. Pure HTTP, no browser.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/haketa/kijiji-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "HKlsOI75O5p33khZu",
+    "name": "House Flipper Leads - Zillow Listings + Flip Score, ARV, MAO",
+    "description": "Bulk Zillow active listings for house flippers. Filter by city/state, price, beds/baths/sqft, year built, days on market, HOA, lot size, schools. Sold-comp ARV, exit-strategy MAO (flip/BRRRR/wholesale), distress signals, owner info.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/seibs.co/house-flipper-leads?fpr=hs6s8"
+  },
+  {
+    "id": "BEkhx4wtWexS7gw62",
+    "name": "Land Registry Price Paid UK",
+    "description": "Scrapes the UK HM Land Registry Price Paid Data. Search by address, postcode, town or street and filter by date range, price, property type, and estate type. Covers residential property sales in England and Wales from 1995 onwards.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/nocodeventure/land-registry-price-paid-uk?fpr=hs6s8"
+  },
+  {
+    "id": "5QZn5FnhZh5XzYxgZ",
+    "name": "Auction Property Leads - Sheriff Sales, Trustee Sales, Online",
+    "description": "Bulk Zillow auction property listings: sheriff sales, trustee sales, online foreclosure auctions. Filter by city/state, price, property, HOA, schools. Sold-comp ARV, exit-strategy MAO, distress sub-categories. Built for cash buyers + wholesalers.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/seibs.co/property-auction-leads?fpr=hs6s8"
+  },
+  {
+    "id": "5LVJAi3izMQTWwFJI",
+    "name": "Zameen.com Real Estate Scraper",
+    "description": "Zameen.com Real Estate Scraper is an Apify actor that extracts property listings from major cities in Pakistan. It gathers information such as prices, locations, bedrooms, bathrooms, area, property types, images, and URLs.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/moving_beacon-owner1/zameen-com-real-estate-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "4TTvWNX7KGMfTcvfd",
+    "name": "Vacasa Rental Scraper",
+    "description": "Scrape Vacasa vacation rental listings. Extracts title, GPS coordinates, guest rating, and manager info. Optional Google Maps geocoding for full street addresses.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/scrapyspider/vacasa-rental-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "1Ip8F5uq4R1cje3bq",
+    "name": "Realtor.ca Scraper",
+    "description": "Scrape Realtor.ca, Canada's national MLS portal. Extracts active listings with a deep schema: price, beds/baths (X+Y format), ownership type, CAD taxes & condo fees, heating/cooling, features, photos, agent contact, plus REALTOR agent & brokerage profiles. 5 modes, bilingual EN/FR.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/haketa/realtor-ca-scraper?fpr=hs6s8"
   },
   {
     "id": "cCWmkeTv69d1727pM",
