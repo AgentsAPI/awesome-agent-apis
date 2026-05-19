@@ -3,8 +3,8 @@
     "id": "KLCcCF6cMJMden8ZD",
     "name": "Reddit MCP Scraper",
     "description": "Unified Reddit scraper supporting 3 modes: (1) Subreddit posts with content extraction, (2) Post comments with threading, (3) User profiles with metadata. Extract comprehensive data including scores, timestamps, flairs, NSFW flags, and more.",
-    "rating": 4.899547320872406,
-    "rating_count": 43,
+    "rating": 4.90273267347484,
+    "rating_count": 44,
     "url": "https://apify.com/crawlerbros/reddit-mcp-scraper?fpr=hs6s8"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Google Maps MCP",
     "description": "Unified Apify MCP server for Google Maps. Search for businesses and extract comprehensive data including ratings, reviews, contact info, and more. Scrape detailed reviews from any Google Maps place.",
     "rating": 5,
-    "rating_count": 26,
+    "rating_count": 27,
     "url": "https://apify.com/crawlerbros/google-maps-mcp?fpr=hs6s8"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Markdownify MCP Server",
     "description": "Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools.",
     "rating": 5,
-    "rating_count": 26,
+    "rating_count": 27,
     "url": "https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8"
   },
   {
@@ -51,9 +51,17 @@
     "id": "tr9rAbZXMLv98dLMt",
     "name": "💬 YouTube Comments Scraper",
     "description": "💬 Extract YouTube comments with author info, likes, timestamps, and nested replies. Perfect for sentiment analysis, market research, and content strategy. ⚡ Fast, reliable, and built for scale.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 12,
     "url": "https://apify.com/dz_omar/youtube-comments-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "RGEBfXu0TSc1siPLb",
+    "name": "⭐️ FREE Reddit Scraper Pro",
+    "description": "Free Reddit scraper that does what the paid ones do but better. No API keys needed, no usage fees. Pairs with ready-made n8n workflow templates for lead gen and content research.",
+    "rating": 5,
+    "rating_count": 11,
+    "url": "https://apify.com/spry_wholemeal/reddit-scraper?fpr=hs6s8"
   },
   {
     "id": "IeZZMR1Uv6J9h7pdS",
@@ -62,14 +70,6 @@
     "rating": 3.911698381804775,
     "rating_count": 14,
     "url": "https://apify.com/dz_omar/ai-lead-extractor?fpr=hs6s8"
-  },
-  {
-    "id": "RGEBfXu0TSc1siPLb",
-    "name": "⭐️ FREE Reddit Scraper Pro",
-    "description": "Free Reddit scraper that does what the paid ones do but better. No API keys needed, no usage fees. Pairs with ready-made n8n workflow templates for lead gen and content research.",
-    "rating": 5,
-    "rating_count": 10,
-    "url": "https://apify.com/spry_wholemeal/reddit-scraper?fpr=hs6s8"
   },
   {
     "id": "BEwUoGEsRUQC2iUPa",
@@ -83,7 +83,7 @@
     "id": "vFDBqKNXeGllTgOLz",
     "name": "Fast Website Content Crawler",
     "description": "A high-performance web scraper that rapidly extracts and analyzes content from multiple websites simultaneously. Perfect for competitive research, content aggregation, and website structure analysis.",
-    "rating": 4.901418590329143,
+    "rating": 4.901418590329144,
     "rating_count": 7,
     "url": "https://apify.com/6sigmag/fast-website-content-crawler?fpr=hs6s8"
   },
@@ -91,7 +91,7 @@
     "id": "aQRfpx1smqXOzVMcU",
     "name": "Video Transcript",
     "description": "Universal video-to-text API across YouTube, TikTok, Instagram, X, Facebook, Vimeo and 1000+ platforms. Returns the full transcript as timestamped segments with the source video metadata, optionally translated into 100+ target languages — one endpoint replacing per-platform transcription stacks.",
-    "rating": 4.068263091405321,
+    "rating": 4.06826309140532,
     "rating_count": 7,
     "url": "https://apify.com/agentx/video-transcript?fpr=hs6s8"
   },
@@ -171,7 +171,7 @@
     "id": "w8SNoAPyZLk7sLuOl",
     "name": "Google Scholar Case Law API",
     "description": "API for Google Scholar US case law. Search opinions and pull full case details with court, year, and citation filters. Returns structured JSON. MCP-ready.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/google-scholar-case-law?fpr=hs6s8"
   },
@@ -179,7 +179,7 @@
     "id": "6KLyRx66f0nHYV60f",
     "name": "Google Patents API",
     "description": "Google Patents API for Claude, Cursor, ChatGPT, and any MCP-compatible AI agent. Search by keyword, inventor, or assignee across USPTO, EPO, WIPO, JPO, CN, KR + 100 offices. Pull claims, citations, family graphs, CPC. AI patent summaries. Pay per event.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/google-patents-api?fpr=hs6s8"
   },
@@ -198,6 +198,14 @@
     "rating": 3.84246911247387,
     "rating_count": 4,
     "url": "https://apify.com/cheapget/telegram-profile?fpr=hs6s8"
+  },
+  {
+    "id": "hwFYoftv3cqE07w3T",
+    "name": "Chrono24 Scraper & Opportunity Notification",
+    "description": "Scrape watch listings from Chrono24 & Receive your personal opportunity notification! Scrape price, brand, location. It supports all chrono24 filters. Export to JSON, CSV, or Excel. Notification mail when the price is interesting for you!",
+    "rating": 3.617578577558676,
+    "rating_count": 4,
+    "url": "https://apify.com/ilborso/chrono24-scraper-opportunity-notification?fpr=hs6s8"
   },
   {
     "id": "TpLqaxMYSJzwVnXoj",
@@ -219,7 +227,7 @@
     "id": "J3RfhVsm4cNFK9Jih",
     "name": "Weather MCP Server",
     "description": "A Model Context Protocol (MCP) server that provides weather information using the Open-Meteo API",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/jiri.spilka/weather-mcp-server?fpr=hs6s8"
   },
@@ -227,7 +235,7 @@
     "id": "VKbkpw9WWHSSKAuja",
     "name": "Propertyfinder Scraper",
     "description": "Extract property listings from PropertyFinder across the UAE, Saudi Arabia, Bahrain, Egypt & Qatar. Get prices, locations, agent contacts, amenities & specs. Fast, reliable scraping with multi-country support. Perfect for real estate pros & market analysis.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/dz_omar/propertyfinder-scraper?fpr=hs6s8"
   },
@@ -315,7 +323,7 @@
     "id": "SvfBIVIga0H0XmAPN",
     "name": "Satsuma MCP Server",
     "description": "The Satsuma MCP Server powers food ordering and delivery workflows for LLMs and apps, enabling seamless, real-time access to restaurant search, product discovery, order creation, and payment via the Satsuma API.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/agentify/satsuma-mcp-server?fpr=hs6s8"
   },
@@ -698,7 +706,7 @@
   {
     "id": "XvRGtvuCH1X9AynaU",
     "name": "Twitter Thread Scraper",
-    "description": "This actor is designed to scrape complete Twitter threads with ease. Simply provide a tweet URL, and it will automatically capture the entire thread starting from that tweet, including all connected replies from the same author.",
+    "description": "Extract complete X (Twitter) threads and conversations. Just input a tweet URL to scrape the main post and all connected replies. Export structured data (JSON/CSV) perfect for analytics, AI agents, and custom workflows. Run via API, schedule tasks, and integrate seamlessly.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/fastcrawler/twitter-thread-scraper?fpr=hs6s8"
@@ -1714,7 +1722,7 @@
   {
     "id": "fjgT8JLM1nosED9Bo",
     "name": "download all tweets and replies by a specific Twitter/X user.",
-    "description": "download all tweets and replies posted by a specific Twitter/X user. Provides a complete list including original tweets and reply tweets, with text, engagement metrics, timestamps, and media. No Twitter API required; no cookies",
+    "description": "Extract all original tweets and replies from any X (Twitter) user profile. Zero setup: no Twitter API or login cookies required! Export clean, structured data (JSON/CSV) including text, media, and engagement metrics. Perfect for persona analysis and training AI agents.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/fastcrawler/download-all-tweets-and-replies-by-a-specific-twitter-x-user?fpr=hs6s8"
@@ -2410,7 +2418,7 @@
   {
     "id": "DesXXJs5ioSUzg0A1",
     "name": "check x account dm status（direct message）",
-    "description": "This actor automatically checks whether a Twitter/X user has **open Direct Messages (DMs)**.  \nIt is designed for developers, growth hackers, analysts, and campaign managers who need to filter or target users based on their DM availability.",
+    "description": "Stop wasting time on closed accounts! Automatically scan lists of X (Twitter) handles to detect who you can message directly. Perfect for growth hackers, sales teams, and campaign managers looking to qualify leads and scale automated outreach pipelines effortlessly.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/fastcrawler/check-x-account-dm-status-direct-message?fpr=hs6s8"
@@ -4170,7 +4178,7 @@
   {
     "id": "LEM7cXyO2T1TdNcBN",
     "name": "✈️ Travel MCP — AI Hotel & Flight Search",
-    "description": "MCP server for AI assistants to search hotels, flights, vacation rentals, and travel reviews from Booking.com, Airbnb, and TripAdvisor. Works with Claude, Cursor, and any MCP-compatible client.",
+    "description": "MCP server letting AI agents (Claude Desktop, Cursor, n8n, OpenAI Agents SDK) search hotels, flights, vacation rentals, and reviews across Booking.com, Airbnb, and TripAdvisor. Pay-per-result, no quotas — drop-in for AI travel concierges and itinerary builders.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/travel-mcp-server?fpr=hs6s8"
@@ -4186,7 +4194,7 @@
   {
     "id": "BHc0QVOgHRVPetzjg",
     "name": "🕷️ Web Scraping MCP — AI Content Extraction",
-    "description": "MCP server for AI assistants to scrape websites, extract structured content, crawl pages, and parse HTML. Works with Claude, Cursor, and any MCP-compatible AI client.",
+    "description": "MCP server letting AI agents (Claude Desktop, Cursor, n8n, OpenAI Agents SDK) scrape any website, run Google searches, query Wikipedia, crawl pages, and parse HTML at LLM tool-call time. Universal pay-per-result web extraction — drop-in for RAG pipelines and research agents.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/web-scraping-mcp-server?fpr=hs6s8"
@@ -4226,7 +4234,7 @@
   {
     "id": "YP8KJ8jnYQZvJZHAd",
     "name": "💎 Premium Data MCP — AI Intelligence & Analytics Server",
-    "description": "Premium MCP server for AI assistants with access to advanced data intelligence, enrichment APIs, and analytics tools. Works with Claude, Cursor, and any MCP-compatible client.",
+    "description": "Premium MCP server for AI assistants with curated B2B data: government contracts, state business registrations, FDA recalls, Amazon product catalog and competitor-price monitoring. Works with Claude Desktop, Cursor, n8n and any MCP-compatible client. Pay-per-result.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/premium-data-mcp-server?fpr=hs6s8"
@@ -4546,7 +4554,7 @@
   {
     "id": "sFdoHm6yAIncNjeR8",
     "name": "SERP MCP Tracker + AI SEO — Ahrefs $129/mo Alt",
-    "description": "Keyword rank tracker for Google SERPs by country/language. Extract positions, URLs, snippets, PAA, rank changes, webhook alerts, and optional AI SEO briefs. x402-ready PPE with Skyfire bundle.",
+    "description": "Keyword rank tracker for SEO agencies and content teams. Monitor Google positions by country and language, export SERP URLs/snippets, track rank changes, send webhook alerts, and generate optional SEO briefs.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/google-search-scraper?fpr=hs6s8"
@@ -4554,7 +4562,7 @@
   {
     "id": "d7N1Z89xM4DWINcxF",
     "name": "eBay MCP Tracker + Auctions — 13 Markets",
-    "description": "Watchlist eBay scraper for active/sold listings across 13 markets. eBay may return 403 blocks; blocked runs fast-fail with diagnostics instead of silent empty exports. PPE and x402-ready.",
+    "description": "eBay product scraper for active and sold listings across 13 markets: prices, shipping, sellers, auction bids, Buy It Now offers, sold dates, and market summaries. Blocked runs fast-fail with diagnostics.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/ebay-scraper?fpr=hs6s8"
@@ -4562,7 +4570,7 @@
   {
     "id": "d5GNdFr1fMGjpAoH4",
     "name": "News MCP Monitor — Meltwater Alt + AI Briefings",
-    "description": "Skyfire/x402-ready Google News monitor at $0.002/article. Tracks brands/topics, resolves publisher URLs, enriches metadata, optional AI briefings/sentiment, watch mode, and MCP-ready RAG feed. Meltwater/Cision/Mention alternative with n8n/Apify webhooks.",
+    "description": "Google News scraper and brand mention monitor for companies, competitors, topics, and market events. Export publisher URLs, article metadata, sentiment tags, watch-mode alerts, and optional AI executive briefings.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/news-monitor?fpr=hs6s8"
@@ -4570,7 +4578,7 @@
   {
     "id": "bHzVpEmytvDNJk48m",
     "name": "B2B Contact MCP Tool � Apollo/Hunter Alt + SMTP Verified",
-    "description": "Verified B2B lead extractor for public websites: emails, phones, socials, tech stack, MX/SMTP checks, phone validation, and AI role classification. Turn domains or URLs into CRM-ready contacts with bill-safe caps. PPE, x402-ready, Skyfire bundle.",
+    "description": "Website contact details extractor for B2B lead lists and CRM enrichment. Extract emails, phones, social profiles, addresses, contact pages, tech signals, email verification, phone validation, and role labels.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/contact-extractor?fpr=hs6s8"
@@ -4578,7 +4586,7 @@
   {
     "id": "NaD4o2ElCj740fd1e",
     "name": "Bol.com MCP Tracker — NL/BE Drops + AI Briefs",
-    "description": "Watchlist Bol.com NL/BE price tracker with Retailer API fallback, price-drop alerts, AI briefs, and clean diagnostics for 403/no-result runs. Public HTML scraping is anti-bot sensitive.",
+    "description": "Watchlist Bol.com NL/BE price tracker with Retailer API fallback, price-drop alerts, AI briefs, clean diagnostics for 403/no-result runs, and x402-ready PPE usage. Public HTML scraping is anti-bot sensitive.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/bol-com-scraper?fpr=hs6s8"
@@ -4586,7 +4594,7 @@
   {
     "id": "KPaOoKd7YK1Dw1hwC",
     "name": "YouTube MCP Transcript & AI Chapter — Analytics",
-    "description": "YouTube transcript scraper and captions scraper for RAG datasets, AI training, content research, creator analytics, and video monitoring. Scrape videos, channels, comments, timestamped transcript segments, and AI chapters without a YouTube API key. PPE, x402-ready, Skyfire bundle.",
+    "description": "Extract YouTube transcripts, captions, subtitles, timestamped segments, video metadata, comments, and optional AI chapters from URLs, channels, or search terms. No YouTube API key required.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/youtube-scraper?fpr=hs6s8"
@@ -4594,7 +4602,7 @@
   {
     "id": "JyRjxUswjrRheOdmh",
     "name": "Amazon Price & BSR Tracker — Seller Intel + AI Analysis",
-    "description": "Scrape Amazon products across 11 markets: prices, BSR, ratings, reviews, availability, seller data, and rank-change alerts. Built for seller research, price tracking, competitor monitoring, and optional AI analysis.",
+    "description": "Amazon product scraper for prices, ASINs, ratings, review counts, BSR, availability, sellers, images, and rank alerts across 19 marketplaces. Built for seller research, competitor monitoring, and price tracking.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/amazon-scraper?fpr=hs6s8"
@@ -4602,7 +4610,7 @@
   {
     "id": "tS230BDhoazwYes9E",
     "name": "Reddit Post & Modqueue Scraper — MCP, Community Intel + AI",
-    "description": "RAG-ready Reddit feed with 99%+ run success - posts, comments, modqueue, sentiment at $0.002/post, no OAuth. MCP-compatible alternative to Brandwatch/Sprout/Mention ($4 vs $249/mo). AI digest across 5 LLM providers. Trudax-grade with bonus moderation. n8n webhooks. x402-ready.",
+    "description": "RAG-ready Reddit feed for posts, comments, search, and modqueue at $0.002/post, no OAuth for public data. MCP-compatible Brandwatch/Sprout/Mention alternative. Optional 5-provider AI sentiment digest, community health, and Apify webhook workflows. x402-ready.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/reddit-scraper?fpr=hs6s8"
@@ -4618,7 +4626,7 @@
   {
     "id": "fL0HMOWJodolv5Rig",
     "name": "Product Hunt MCP Tracker — Upvote Velocity + VC",
-    "description": "Monitor Product Hunt launches, upvote velocity, makers, topics, comments, and breakout alerts. Built for VC deal flow, competitor tracking, startup trend research, Slack/webhook alerts, optional AI briefs, and x402-ready PPE pricing.",
+    "description": "Monitor Product Hunt launches, makers, topics, comments, upvote velocity, and breakout momentum for VC deal flow, competitor tracking, startup research, and Slack or webhook alerts.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/producthunt-scraper?fpr=hs6s8"
@@ -4634,7 +4642,7 @@
   {
     "id": "YOD7LoMbS6TmFieBC",
     "name": "Indeed Salary Matrix — Levels.fyi Alternative + AI",
-    "description": "Indeed jobs and salary matrix across 8 countries at $0.003/job. RAG-ready listings, salary parsing, compare-mode role/location grid, CSV/Markdown exports, AI comp briefs, geo arbitrage, skill-gap insights. Levels.fyi, Payscale, LinkedIn Talent Insights alternative. MCP-ready, x402-ready.",
+    "description": "Indeed job scraper for jobs, salaries, skills, company ratings, benefits, and remote-work data across 8 countries. Build role-location salary grids, exports, webhooks, and optional compensation briefs.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/indeed-scraper?fpr=hs6s8"
@@ -4642,7 +4650,7 @@
   {
     "id": "SXu0QcCiTzBhRKz5m",
     "name": "Shopify Product Monitor — MCP, Prices, Drop Alerts",
-    "description": "Shopify price drop and stock monitor for public stores: products, prices, variants, SKUs, collections, inventory signals, watch mode, and Slack/Zapier webhooks. Export catalogs or monitor competitors with PPE alerts.",
+    "description": "Shopify product scraper for public stores: export products, prices, variants, SKUs, images, collections, stock signals, discounts, and price-drop alerts. Built for catalog exports, competitor tracking, and scheduled storefront monitoring.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/shopify-scraper?fpr=hs6s8"
@@ -4658,7 +4666,7 @@
   {
     "id": "JfzHbBJeiUjNVeFCm",
     "name": "App Store ASO Scraper — iOS + Android Reviews + AI",
-    "description": "Scrape Apple App Store and Google Play reviews, ratings, metadata, ASO fields, and free sentiment tags. Built for reputation monitoring, competitor research, churn signals, optional AI briefs, and x402-ready PPE usage.",
+    "description": "Scrape Apple App Store and Google Play reviews, ratings, ASO fields, and sentiment tags in one run. Monitor app reputation, competitors, churn signals, and product feedback.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/app-store-scraper?fpr=hs6s8"
@@ -4690,7 +4698,7 @@
   {
     "id": "qvuGSr7oSV3CJ6sdQ",
     "name": "Google Maps Reviews Scraper - Places & AI Sentiment",
-    "description": "Google Maps reviews scraper for reputation monitoring: place search, review text, ratings, owner replies, AI sentiment/topics, and webhook-ready datasets. Fast-fails with diagnostics when Google blocks a run. PPE at $0.0003/review.",
+    "description": "Google Maps reviews scraper for reputation monitoring: place search, review text, ratings, owner replies, AI sentiment/topics, and Apify webhook-ready datasets. Fast-fails with diagnostics when Google blocks a run. x402-ready PPE at $0.0003/review.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/google-maps-reviews-scraper?fpr=hs6s8"
@@ -4698,7 +4706,7 @@
   {
     "id": "lGcIPb7aCxmHOnZTp",
     "name": "Google Maps EU Scraper - B2B Leads, No API Key",
-    "description": "Find EU businesses by keyword and city using OpenStreetMap/Nominatim - no Google API key. Name, address, phone, website, coordinates, Google Maps links, optional Apify proxy routing, and AI enrichment via 5 LLM providers. $0.005/place PPE. MCP-ready, x402-ready.",
+    "description": "Find European business leads by keyword and city without a Google API key. Export names, addresses, phones, websites, coordinates, categories, map links, and optional lead scoring.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/google-maps-eu-scraper?fpr=hs6s8"
@@ -4714,7 +4722,7 @@
   {
     "id": "YIQfW5hccmFsT1JpJ",
     "name": "Trustpilot Scraper + AI Reputation Analyzer",
-    "description": "Trustpilot review scraper for reputation monitoring: reviews, ratings, owner replies, AI sentiment/topics, rating-drop alerts, and webhook exports. Probe mode reports blocks honestly; optional bypass hook is user-controlled. PPE at $0.003/review.",
+    "description": "Trustpilot review scraper for reputation monitoring: reviews, ratings, owner replies, AI sentiment/topics, rating-drop tracking, probe-mode block diagnostics, and user-controlled bypass hooks. Experimental anti-bot tier. x402-ready PPE at $0.003/review.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/trustpilot-scraper?fpr=hs6s8"
@@ -4730,7 +4738,7 @@
   {
     "id": "DKkVluSD3dYqRNLAo",
     "name": "UK Companies House - Company Search + Officers + PSC",
-    "description": "UK Companies House scraper for B2B lead enrichment: company search, directors, PSC beneficial owners, SIC codes, filing history, and AI company summaries. Extract clean UK company records for sales, compliance, and market research.",
+    "description": "UK Companies House scraper for B2B lead enrichment: company search, directors, PSC beneficial owners, SIC codes, filing history, and AI summaries. Official API records for sales, compliance, and research. x402-ready PPE at $0.005/company.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/harvestlab/companies-house-scraper?fpr=hs6s8"
@@ -5550,5 +5558,45 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/red.cars/news-media-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "vpPjbjUV7GRDdBn1S",
+    "name": "Dep Auditor",
+    "description": "Package Security & License Auditor MCP Server.\n\nCheck package licenses, known vulnerabilities, and metadata across npm, PyPI, and Cargo ecosystems — all from your AI agent.\n\nTools\ncheck_package — License, version, description, maintainers\naudit_vulns — Known CVEs via OSV.dev database",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/0meetsares/dep-auditor?fpr=hs6s8"
+  },
+  {
+    "id": "YIxcfw1EtyxEW2gwZ",
+    "name": "MCP Server Discovery & Quality Scanner",
+    "description": "Programmatic Model Context Protocol (MCP) server registry scanner. Scrapes Glama MCP registry, audits remote/local configurations, checks JSON schemas, and calculates custom quality and developer scores.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/express_kingfisher/mcp-server-discovery-scanner?fpr=hs6s8"
+  },
+  {
+    "id": "Iei3c51WbI7eKwgSg",
+    "name": "Example MCP Server",
+    "description": "This is an example MCP Server Actor written in Typescript.\n\nIt doesn't do much; it just reads two numbers from its input, sums them, and pushes the result to the Actor's default dataset.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/apify/example-mcp-server?fpr=hs6s8"
+  },
+  {
+    "id": "BcgqjHF1llqyP3mSa",
+    "name": "Trucking Load Profitability Optimizer (MCP)",
+    "description": "MCP server for autonomous AI dispatching agents. Evaluates freight load profitability before bidding — returns net profit, true RPM, and a STRATEGIC_GO_SIGNAL.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/iamblyzz/trucking-optimizer?fpr=hs6s8"
+  },
+  {
+    "id": "9TZEoqVpCKDGIEEjR",
+    "name": "Startup Intelligence MCP Server",
+    "description": "MCP server for AI agents. Given a company name or domain, returns funding stage, team size, tech stack, news, and hiring signals in one tool call.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/ritindersingh/startup-intelligence-mcp?fpr=hs6s8"
   }
 ]
