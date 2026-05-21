@@ -3,8 +3,8 @@
     "id": "hKByXkMQaC5Qt9UMN",
     "name": "Linkedin Jobs Scraper",
     "description": "Scrape jobs from linkedin jobs search results along with company details. Get key information to find contact info",
-    "rating": 4.592934820005875,
-    "rating_count": 91,
+    "rating": 4.385368106101026,
+    "rating_count": 92,
     "url": "https://apify.com/curious_coder/linkedin-jobs-scraper?fpr=hs6s8"
   },
   {
@@ -67,8 +67,8 @@
     "id": "XsuYCyu2uA1ittIde",
     "name": "LinkedIn Jobs Scraper (No Login Required)",
     "description": "Effortlessly extract LinkedIn job listings with rich details like title, company, salary, and description—no login required. Freely filter by keyword, location, or other criteria. Perfect for HR tech, talent analytics, and job market research.",
-    "rating": 5,
-    "rating_count": 29,
+    "rating": 5.000000000000001,
+    "rating_count": 28,
     "url": "https://apify.com/delicious_zebu/linkedin-jobs-scraper-no-login-required?fpr=hs6s8"
   },
   {
@@ -78,14 +78,6 @@
     "rating": 5,
     "rating_count": 28,
     "url": "https://apify.com/crawlerbros/indeed-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "wPexnKCojHk91OHgM",
-    "name": "Hiring Cafe Jobs Scraper",
-    "description": "Extract global job postings from hiring.cafe including title, company, salary, location, remote status, seniority, visa sponsorship, and more.",
-    "rating": 5,
-    "rating_count": 27,
-    "url": "https://apify.com/crawlerbros/hiring-cafe-scraper?fpr=hs6s8"
   },
   {
     "id": "lK0Zed3MEjo2K1DaD",
@@ -112,6 +104,14 @@
     "url": "https://apify.com/crawlerbros/ziprecruiter-scraper?fpr=hs6s8"
   },
   {
+    "id": "hMvNSpz3JnHgl5jkh",
+    "name": "Indeed Scraper",
+    "description": "Scrape jobs posted on Indeed. Get detailed information from this job portal about saved and sponsored jobs. Specify the search based on location with the output attributes position, location, and description.",
+    "rating": 3.283251308520953,
+    "rating_count": 59,
+    "url": "https://apify.com/misceres/indeed-scraper?fpr=hs6s8"
+  },
+  {
     "id": "jdpretjiwDOVZQ91Z",
     "name": "Hacker News Scraper",
     "description": "Scrape Hacker News stories, comments, jobs, and user profiles. Modes: top/new/best/ask/show/jobs/past/item/user/search. Filters: minScore, domainFilter, dateRange, commentMinScore. No proxy, no auth.",
@@ -126,14 +126,6 @@
     "rating": 5,
     "rating_count": 22,
     "url": "https://apify.com/crawlerbros/y-combinator-scraper-pro?fpr=hs6s8"
-  },
-  {
-    "id": "qD49AxYARw7xXeYvf",
-    "name": "Wellfound (AngelList) Jobs Scraper",
-    "description": "Scrape public job listings from Wellfound.com. Extracts job ID, title, compensation, remote status, location, company name, company logo. HTTP-only, no login.",
-    "rating": 5,
-    "rating_count": 22,
-    "url": "https://apify.com/crawlerbros/wellfound-scraper?fpr=hs6s8"
   },
   {
     "id": "TMzvei5xpac4sdFpe",
@@ -184,14 +176,6 @@
     "url": "https://apify.com/crawlerbros/ziprecruiter-scraper-pro?fpr=hs6s8"
   },
   {
-    "id": "gidYqntBX3UzIHxxK",
-    "name": "Naukri Scraper",
-    "description": "Scrape job listings from Naukri.com, India's largest job board. Extract title, company, location, experience, salary, skills, and description from search results.",
-    "rating": 5,
-    "rating_count": 22,
-    "url": "https://apify.com/crawlerbros/naukri-scraper?fpr=hs6s8"
-  },
-  {
     "id": "VLu8LatONSe1dfArV",
     "name": "NHS Jobs Scraper",
     "description": "Extract UK NHS job vacancies from jobs.nhs.uk including title, employer, salary, band, pay scheme, location, contract type, closing date, full description, and more.",
@@ -211,7 +195,7 @@
     "id": "z3FiONHKF4GBC1Wea",
     "name": "Bayt.com Middle East Jobs Scraper",
     "description": "Scrape Middle East job listings from Bayt.com with titles, companies, locations, salaries, career level, experience, full descriptions, skills, and apply links. HTTP-only, no login required.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 22,
     "url": "https://apify.com/crawlerbros/bayt-jobs-scraper?fpr=hs6s8"
   },
@@ -219,7 +203,7 @@
     "id": "CkM9lYpoUIaVYyXg4",
     "name": "Workday Jobs Scraper",
     "description": "Scrape jobs from any Workday-hosted careers site (*.myworkdayjobs.com). Titles, descriptions, locations, requisition IDs, posting dates etc. HTTP-only, no login.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 22,
     "url": "https://apify.com/crawlerbros/workday-jobs-scraper?fpr=hs6s8"
   },
@@ -227,7 +211,7 @@
     "id": "qxC9pqW6uNqJboDKH",
     "name": "We Work Remotely Jobs Scraper",
     "description": "Scrape remote job listings from WeWorkRemotely.com with titles, companies, locations, salaries, full descriptions, and company profiles. HTTP-only, no login required.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 22,
     "url": "https://apify.com/crawlerbros/weworkremotely-job-scraper?fpr=hs6s8"
   },
@@ -235,25 +219,41 @@
     "id": "bnQZcOXxPoOtdnGtB",
     "name": "InfoJobs Spain Jobs Scraper",
     "description": "Scrape job listings from InfoJobs.net (Spain) with titles, companies, descriptions, contract types, salaries, locations, and more. HTTP-only via embedded search JSON.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 22,
     "url": "https://apify.com/crawlerbros/infojobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "qD49AxYARw7xXeYvf",
+    "name": "Wellfound (AngelList) Jobs Scraper",
+    "description": "Scrape public job listings from Wellfound.com. Extracts job ID, title, compensation, remote status, location, company name, company logo. HTTP-only, no login.",
+    "rating": 4.999999999999999,
+    "rating_count": 22,
+    "url": "https://apify.com/crawlerbros/wellfound-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gidYqntBX3UzIHxxK",
+    "name": "Naukri Scraper",
+    "description": "Scrape job listings from Naukri.com, India's largest job board. Extract title, company, location, experience, salary, skills, and description from search results.",
+    "rating": 4.999999999999999,
+    "rating_count": 22,
+    "url": "https://apify.com/crawlerbros/naukri-scraper?fpr=hs6s8"
   },
   {
     "id": "XYTgO05GT5qAoSlxy",
     "name": "Upwork Job Scraper",
     "description": "Scrape Upwork jobs without limits 🌟 Bypass CAPTCHAs & apply custom filters.\n\nApify is retiring rental Actors, so pricing is changing. For many users around ~7k jobs/month, cost should stay near the old $25. You still get the same no-cookie setup, with in-house Upwork accounts and proxies built in.",
-    "rating": 4.207402097790939,
+    "rating": 4.20740209779094,
     "rating_count": 30,
     "url": "https://apify.com/neatrat/upwork-job-scraper?fpr=hs6s8"
   },
   {
-    "id": "hMvNSpz3JnHgl5jkh",
-    "name": "Indeed Scraper",
-    "description": "Scrape jobs posted on Indeed. Get detailed information from this job portal about saved and sponsored jobs. Specify the search based on location with the output attributes position, location, and description.",
-    "rating": 3.148606797283035,
-    "rating_count": 58,
-    "url": "https://apify.com/misceres/indeed-scraper?fpr=hs6s8"
+    "id": "wPexnKCojHk91OHgM",
+    "name": "Hiring Cafe Jobs Scraper",
+    "description": "Extract global job postings from hiring.cafe including title, company, salary, location, remote status, seniority, visa sponsorship, and more.",
+    "rating": 4.289234074532148,
+    "rating_count": 28,
+    "url": "https://apify.com/crawlerbros/hiring-cafe-scraper?fpr=hs6s8"
   },
   {
     "id": "R8dpl82DAWZGTZwhy",
@@ -291,7 +291,7 @@
     "id": "hYSscDgkrlIu9jvMk",
     "name": "Y Combinator Companies Scraper",
     "description": "Scrape the full Y Combinator company directory with company profiles, founders, open jobs, batch, industry, status, and social links. HTTP-only, no login required.",
-    "rating": 4.267394439324318,
+    "rating": 4.267394439324317,
     "rating_count": 24,
     "url": "https://apify.com/crawlerbros/y-combinator-scraper?fpr=hs6s8"
   },
@@ -323,7 +323,7 @@
     "id": "TrtlecxAsNRbKl1na",
     "name": "💡 Indeed Jobs Scraper",
     "description": "$0.1/1K jobs | Scrape job listings, salaries, and company details from Indeed with customizable search filters and structured output.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 14,
     "url": "https://apify.com/valig/indeed-jobs-scraper?fpr=hs6s8"
   },
@@ -331,7 +331,7 @@
     "id": "YdYsB7rsRY0EUb1lP",
     "name": "Upwork Job Scraper | Scrape up to 10k Jobs ✨ (MCP)",
     "description": "Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required. \nupwork@vistorio.online",
-    "rating": 4.142824741580534,
+    "rating": 4.142824741580535,
     "rating_count": 19,
     "url": "https://apify.com/upwork-vibe/upwork-job-scraper?fpr=hs6s8"
   },
@@ -339,7 +339,7 @@
     "id": "GOvL4O4RwFqsdIqXF",
     "name": "Profile Details Batch Scraper for LinkedIn + EMAIL (No Cookies)",
     "description": "(no cookies need) Extract In Bulk  comprehensive LinkedIn profile data including work experience, education history, certifications, and location details. Get structured information from any public LinkedIn profile using their username.",
-    "rating": 4.418099937410413,
+    "rating": 4.418099937410414,
     "rating_count": 16,
     "url": "https://apify.com/apimaestro/linkedin-profile-batch-scraper-no-cookies-required?fpr=hs6s8"
   },
@@ -347,7 +347,7 @@
     "id": "JkfTWxtpgfvcRQn3p",
     "name": "⚡️Rapid Linkedin Jobs Scraper | Free Jobs Scraper",
     "description": "LinkedIn job scraper tool to extract job listings, company, and complete job information instantly. Scrape LinkedIn jobs by keywords, city ,country, or company. Get structured data including titles, descriptions, salaries, requirements, and employer info. Fast, efficient job data extraction.",
-    "rating": 4.111488935817164,
+    "rating": 4.111488935817163,
     "rating_count": 18,
     "url": "https://apify.com/worldunboxer/rapid-linkedin-scraper?fpr=hs6s8"
   },
@@ -360,18 +360,10 @@
     "url": "https://apify.com/jupri/upwork?fpr=hs6s8"
   },
   {
-    "id": "gdbRh93zn42kBYDyS",
-    "name": "Advanced Linkedin Job Scraper",
-    "description": "Scrape linkedin job postings and get company and recruiter details. Supports boolean search and other advanced search filters. Success rate is > 98%",
-    "rating": 4.890582996814203,
-    "rating_count": 13,
-    "url": "https://apify.com/curious_coder/linkedin-jobs-search-scraper?fpr=hs6s8"
-  },
-  {
     "id": "ipHw77V2NMJPy8sbS",
     "name": "Company Detail Scraper for LinkedIn (No Cookies)",
     "description": "Extract detailed LinkedIn company data instantly. Get company overview, employee count, locations, funding info, and more. Perfect for market research, lead generation, and competitor analysis. Clean, structured data ready for your business needs.",
-    "rating": 3.285579904139945,
+    "rating": 3.285579904139946,
     "rating_count": 25,
     "url": "https://apify.com/apimaestro/linkedin-company-detail?fpr=hs6s8"
   },
@@ -382,6 +374,14 @@
     "rating": 5,
     "rating_count": 12,
     "url": "https://apify.com/shahidirfan/Learn4Good-Job-Scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gdbRh93zn42kBYDyS",
+    "name": "Advanced Linkedin Job Scraper",
+    "description": "Scrape linkedin job postings and get company and recruiter details. Supports boolean search and other advanced search filters. Success rate is > 98%",
+    "rating": 4.876592053641572,
+    "rating_count": 12,
+    "url": "https://apify.com/curious_coder/linkedin-jobs-search-scraper?fpr=hs6s8"
   },
   {
     "id": "RIGGeqD6RqKmlVoQU",
@@ -395,7 +395,7 @@
     "id": "5wK4Zhlr6brz5aMf5",
     "name": "🔥 Upwork Jobs Scraper",
     "description": "Designed for both personal and professional use, simply enter your desired job title or keyword to receive a tailored list of job opportunities and how much much money you'll get for them. Try it today!",
-    "rating": 4.487126250653386,
+    "rating": 4.487126250653385,
     "rating_count": 12,
     "url": "https://apify.com/kobimantzur/upwork-jobs-scraper?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "epYcG2TxiaqHFdfZb",
     "name": "Dice.com US Tech Jobs Scraper",
     "description": "Scrape US tech jobs data from dice.com. Export to Excel, CSV, JSON, or API with Apify. Extract job listings, salaries, locations, and more.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 10,
     "url": "https://apify.com/lexis-solutions/dice-com-jobs-scraper?fpr=hs6s8"
   },
@@ -419,7 +419,7 @@
     "id": "s3dtSTZSZWFtAVLn5",
     "name": "Career Site Job Listing API",
     "description": "The perfect Job Posting API for high-quality real jobs! Direct postings from over 175k+ company career sites across 54 ATS platforms like: Workday, Greenhouse, and Ashby. Enriched with AI and LinkedIn company data! Includes Lever, Rippling, SuccessFactors, iCIMS. Powered by Fantastic.jobs",
-    "rating": 4.879345520157638,
+    "rating": 4.879345520157637,
     "rating_count": 10,
     "url": "https://apify.com/fantastic-jobs/career-site-job-listing-api?fpr=hs6s8"
   },
@@ -435,7 +435,7 @@
     "id": "BHmW0fR31G1EdI2B2",
     "name": "🔥 Fast Indeed Jobs Scraper [Bypass limit of 25 jobs]",
     "description": "Web scraper for Indeed.com job listings. Add Indeed URLs to customize searches. Set max jobs, concurrency, and other parameters to optimize performance while respecting site resources. Efficiently extracts job data, balancing speed with ethical practices. Ideal for gathering targeted job market info",
-    "rating": 4.989509670749198,
+    "rating": 4.989509670749197,
     "rating_count": 9,
     "url": "https://apify.com/memo23/apify-indeed-cheerio?fpr=hs6s8"
   },
@@ -443,7 +443,7 @@
     "id": "RuOxoBM1bnc5pQ3TJ",
     "name": "LoopNet | Search | Details | Agents | Contacts",
     "description": "Unlock valuable commercial property data from LoopNet. Extract detailed listings and agents insights for smarter real estate decisions.",
-    "rating": 4.970781230902478,
+    "rating": 4.970781230902477,
     "rating_count": 9,
     "url": "https://apify.com/memo23/apify-loopnet-search-cheerio?fpr=hs6s8"
   },
@@ -451,7 +451,7 @@
     "id": "3mY3g6lgIzt4CmYXc",
     "name": "Totaljobs Scraper",
     "description": "The Totaljobs scraper is a web scraping tool that retrieves job postings from Totaljobs, a job search website in the UK.",
-    "rating": 3.967869602661458,
+    "rating": 3.967869602661457,
     "rating_count": 12,
     "url": "https://apify.com/lexis-solutions/totaljobs-scraper?fpr=hs6s8"
   },
@@ -459,7 +459,7 @@
     "id": "TIJ1WAOWBUtTyqhLh",
     "name": "Arbetsformedlingen.se Scraper",
     "description": "Scrape job listings across Sweden using keywords, regions, and filters like remote work, education, and employment type. Ideal for building job boards, market research, or tracking trends. Fast, structured, and customizable job data from official sources.",
-    "rating": 4.666466683021738,
+    "rating": 4.666466683021737,
     "rating_count": 9,
     "url": "https://apify.com/lexis-solutions/arbetsformedlingen-se-scraper?fpr=hs6s8"
   },
@@ -480,6 +480,14 @@
     "url": "https://apify.com/scrapestorm/youtube-email-extractor---fast-cheap?fpr=hs6s8"
   },
   {
+    "id": "Z3ap3k2TvKtXRrmya",
+    "name": "edX Online Course Data Extractor",
+    "description": "Effortlessly scrape thousands of online courses from edX. Extract titles, images, details, owners, and all other course details. Customize your search with filters like language and more for precise results.",
+    "rating": 5.000000000000001,
+    "rating_count": 8,
+    "url": "https://apify.com/epctex/edx-scraper?fpr=hs6s8"
+  },
+  {
     "id": "5mV5rBsvmjtTVRB9h",
     "name": "Hiring.Cafe [Only $1.8💰] Scraper [Up and Running]",
     "description": "💰$1.25 per 1,000 jobs, including job titles, descriptions, requirements, company information, compensation details, and location data. Users get fields like job ID, application URL, education requirements, employment type, company size, and geolocation coordinates for market analysis.",
@@ -494,14 +502,6 @@
     "rating": 5,
     "rating_count": 8,
     "url": "https://apify.com/lexis-solutions/kununu-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "Z3ap3k2TvKtXRrmya",
-    "name": "edX Online Course Data Extractor",
-    "description": "Effortlessly scrape thousands of online courses from edX. Extract titles, images, details, owners, and all other course details. Customize your search with filters like language and more for precise results.",
-    "rating": 5,
-    "rating_count": 8,
-    "url": "https://apify.com/epctex/edx-scraper?fpr=hs6s8"
   },
   {
     "id": "XBE8BJUuJZgMf2sms",
@@ -547,7 +547,7 @@
     "id": "Qmq46vcH6pghURUke",
     "name": "Companies House UK Scraper",
     "description": "Scrape company info from UK Companies House. Extract company registration number, address, status, incorporation date, URL, and more.",
-    "rating": 4.637292135486278,
+    "rating": 4.637292135486277,
     "rating_count": 8,
     "url": "https://apify.com/lexis-solutions/companies-house-uk-scraper?fpr=hs6s8"
   },
@@ -555,7 +555,7 @@
     "id": "rKGG0CTP4Cg8hH1j1",
     "name": "🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!",
     "description": "This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations: \n🔍 Key Features:\nInput multiple job titles (e.g. \"Software Engineer\", \"Data Analyst\")\nInput multiple locations (e.g. \"London\", \"New York\", \"Berlin\")\nFilters by work type: On-site, Remote, Hybrid",
-    "rating": 3.953378912661585,
+    "rating": 3.953378912661586,
     "rating_count": 10,
     "url": "https://apify.com/lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one?fpr=hs6s8"
   },
@@ -568,10 +568,34 @@
     "url": "https://apify.com/memo23/naukri-scraper?fpr=hs6s8"
   },
   {
+    "id": "ac62voxbGThzhprWs",
+    "name": "Free eBook Scraper",
+    "description": "Explore and Download Free eBooks - Find and download a wide selection of free eBooks from Project Gutenberg. Search by keywords and language preferences. Discover literary gems in multiple formats.",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/epctex/gutenberg-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "R5YRqYI8dKFvo7NdK",
+    "name": "Instructables Scraper",
+    "description": "Retrieve all the information right away from Instructables. Get all the project and user detailed information without any limits or restrictions. Titles, descriptions, images, comments, steps, and detailed instructions about the projects are ready in a structural way. Easy usage, super fast!",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/epctex/instructables-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "YGO6eh6ICQXnan9L4",
+    "name": "Xing Jobs Scraper",
+    "description": "Extract professional job listings instantly from Xing with this powerful scraper. Perfect for recruiters and researchers seeking high-quality career data in the DACH region. Maximize your recruitment strategy with fast, automated Xing data extraction today!",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/shahidirfan/Xing-Jobs-Scraper?fpr=hs6s8"
+  },
+  {
     "id": "RyuY39MwHKAvdAZdg",
     "name": "Lever Job Scraper",
     "description": "Scrape all Lever job postings. Add one or more company job site URLs and extract job listings, requirements, benefits, and application details. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other recruitment tools.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/bytepulselabs/lever-job-scraper?fpr=hs6s8"
   },
@@ -579,7 +603,7 @@
     "id": "DQ4BBGbgqjEshhYgC",
     "name": "Workable Job Scraper",
     "description": "Scrape all Workable job postings. Add one or more company job site URLs and extract job listings, requirements, benefits, and application details. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other recruitment tools.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/bytepulselabs/workable-job-scraper?fpr=hs6s8"
   },
@@ -587,7 +611,7 @@
     "id": "VR4qlxv7R9mnuyw8j",
     "name": "Wellfound Jobs Scraper",
     "description": "Unlock startup job data with the Wellfound Jobs Scraper. Designed for efficiency on the Wellfound platform to gather fresh listings. Requirement: You must use USA residential proxies for this actor to successfully extract data. Get the startup insights you need today!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/shahidirfan/Wellfound-Jobs-Scraper?fpr=hs6s8"
   },
@@ -603,25 +627,9 @@
     "id": "Gt54f9b7RzVUPr5Lp",
     "name": "Job-nexus",
     "description": "This Actor scrapes job listings from public job boards and enriches them into structured, analysis-ready data.\nIt is designed for recruiters, job market analysts, startups, and AI/LLM pipelines that need reliable job data without manual effort.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/scenic_bookmark/job-nexus?fpr=hs6s8"
-  },
-  {
-    "id": "ac62voxbGThzhprWs",
-    "name": "Free eBook Scraper",
-    "description": "Explore and Download Free eBooks - Find and download a wide selection of free eBooks from Project Gutenberg. Search by keywords and language preferences. Discover literary gems in multiple formats.",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/epctex/gutenberg-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "R5YRqYI8dKFvo7NdK",
-    "name": "Instructables Scraper",
-    "description": "Retrieve all the information right away from Instructables. Get all the project and user detailed information without any limits or restrictions. Titles, descriptions, images, comments, steps, and detailed instructions about the projects are ready in a structural way. Easy usage, super fast!",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/epctex/instructables-scraper?fpr=hs6s8"
   },
   {
     "id": "aoKpDkM3ILkEbUfig",
@@ -632,18 +640,10 @@
     "url": "https://apify.com/azzouzana/subito-scraper-pro-by-search-url?fpr=hs6s8"
   },
   {
-    "id": "YGO6eh6ICQXnan9L4",
-    "name": "Xing Jobs Scraper",
-    "description": "Extract professional job listings instantly from Xing with this powerful scraper. Perfect for recruiters and researchers seeking high-quality career data in the DACH region. Maximize your recruitment strategy with fast, automated Xing data extraction today!",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/shahidirfan/Xing-Jobs-Scraper?fpr=hs6s8"
-  },
-  {
     "id": "1BxacWcWHatusbR0X",
     "name": "HelloWork Scraper",
     "description": "The HelloWork scraper is a web scraping tool that retrieves job postings from HelloWork, a job search website in France 🇫🇷 Le scraper HelloWork est un outil de web scraping qui récupère les offres d'emploi de HelloWork, un site de recherche d'emploi en France.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/lexis-solutions/hellowork-scraper?fpr=hs6s8"
   },
@@ -651,7 +651,7 @@
     "id": "wbf0Fhax2HIoTywGc",
     "name": "InfoJobs.net Scraper",
     "description": "Scraper to extract data from InfoJobs.net job postings such as company name, job title, location, salary, contract type, and job description.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/lexis-solutions/infojobs-net-scraper?fpr=hs6s8"
   },
@@ -662,6 +662,14 @@
     "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/bytepulselabs/ashby-job-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "3HJWd9KfGyItAD5N9",
+    "name": "Pingrole Job Scraper(Linkedin, Indeed, Glassdoor,...)🇨🇦🇩🇪",
+    "description": "linkedin, indeed, glassdoor, ziprecruiter, workday, talent.com, job bank, recruit.net, randstad, robert half, hays, manpower, bayt.com, built in, canada post jobs, walmart canada, shoppers drug mart, mcdonald’s canada, uber, icims, xing, arbeitsagentur",
+    "rating": 5,
+    "rating_count": 7,
+    "url": "https://apify.com/hermann_samimi/pingrole-job-scraper-linkedin-indeed-glassdoor?fpr=hs6s8"
   },
   {
     "id": "zn01OAlzP853oqn4Z",
@@ -699,7 +707,7 @@
     "id": "2XnpwxfhSW1fAWElp",
     "name": "Post Comments & Engagements Scraper for LinkedIn | No Cookies",
     "description": "Scrape in Batch all LinkedIn post related data including comments, stats, , reactions, replies and media attachments",
-    "rating": 4.846396067530294,
+    "rating": 4.846396067530293,
     "rating_count": 7,
     "url": "https://apify.com/apimaestro/linkedin-post-comments-replies-engagements-scraper-no-cookies?fpr=hs6s8"
   },
@@ -723,7 +731,7 @@
     "id": "dF5kdT7Tb2oPi4DIY",
     "name": "Indeed Company: Reviews, Interview, Salary, Jobs, About Scraper",
     "description": "Unlock 360° workforce intelligence - scrape reviews, salaries, jobs, interviews, company profiles, and cultural metrics from Indeed in one click. Transform raw data into recruitment strategies, competitive analysis, and market trends with enterprise-grade HR analytics.",
-    "rating": 3.695244923545113,
+    "rating": 3.695244923545114,
     "rating_count": 10,
     "url": "https://apify.com/memo23/apify-indeed-reviews?fpr=hs6s8"
   },
@@ -731,7 +739,7 @@
     "id": "vOp9KqY3m59PdI4ES",
     "name": "Linkedin Company Employees/People Scraper",
     "description": "The Actor is designed to extract information from LinkedIn company pages, capturing details that include the names of individuals, their positions, usernames, profile images, the URLs of their LinkedIn profile pages, and the names of their associated companies",
-    "rating": 4.680490710779447,
+    "rating": 4.680490710779448,
     "rating_count": 7,
     "url": "https://apify.com/memo23/linkedin-company-people-scraper?fpr=hs6s8"
   },
@@ -739,7 +747,7 @@
     "id": "bi8LnFcAZjNx8M1To",
     "name": "Nukrigulf Job Scraper",
     "description": "Introducing the Nukrigulf Job Scraper, a lightweight actor for efficiently scraping job listings from Nukrigulf. Fast and simple. For best results and reliable data extraction, the use of residential proxies is strongly advised. Get the job data you need!",
-    "rating": 4.616594835449373,
+    "rating": 4.616594835449372,
     "rating_count": 7,
     "url": "https://apify.com/shahidirfan/Nukrigulf-Job-Scraper?fpr=hs6s8"
   },
@@ -755,7 +763,7 @@
     "id": "KfYqwOhOXqkqO4DF8",
     "name": "Jobs.ch Scraper",
     "description": "Scrape jobs from Switzerland's largest job board Jobs.ch. Automated data extraction of Swiss job listings with locations, salaries & company details.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/lexis-solutions/jobs-ch-scraper?fpr=hs6s8"
   },
@@ -763,7 +771,7 @@
     "id": "EQXDKTV3HiyOdhNJa",
     "name": "EURES EU Jobs Scraper",
     "description": "EURES EU Jobs Scraper helps you search and scrape job data from eures.europa.eu - EURopean Employment Services. EURES by the European Commission & European Labour Authority provides access to over 2 million job posts in Europe.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/lexis-solutions/eures-eu-jobs-scraper?fpr=hs6s8"
   },
@@ -779,7 +787,7 @@
     "id": "aBqlTzPdEEY4APk52",
     "name": "Willhaben.at All-Inclusive 🔥(marktplatz|jobs|immobilien|autos)",
     "description": "⚡ $1/1K | Schneller & robuster Scraper für willhaben-Suchseiten. Extrahiert Daten aus Marktplatz, Jobs, Immobilien & Autos. ⚡ Fast & resilient scraper for willhaben search pages. Extracts data from marketplace, jobs, real estate, & cars. 🚀",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/azzouzana/willhaben-suchseiten-scraper-marktplatz-jobs-immobilien-autos?fpr=hs6s8"
   },
@@ -819,7 +827,7 @@
     "id": "rhu5rnZ4Gt89XD185",
     "name": "GulfTalent Job Scraper",
     "description": "A simple GulfTalent job scraper. Extracts key job details into minimal columns for clean, focused data. It uses residential proxies to prevent blocks and ensure a smooth, reliable run every time. Perfect for targeted job market analysis and lead generation.",
-    "rating": 4.194586125963698,
+    "rating": 4.194586125963699,
     "rating_count": 7,
     "url": "https://apify.com/shahidirfan/GulfTalent-Job-Scraper?fpr=hs6s8"
   },
@@ -838,6 +846,14 @@
     "rating": 2.81412912312764,
     "rating_count": 12,
     "url": "https://apify.com/epctex/google-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "b8X42FQrTl2GvDy7l",
+    "name": "🔥 Simplyhired scraper PRO | $2.5/1K",
+    "description": "#1 Fast SimplyHired scraper 🚀 supports all domains (.com, .fr, .es, etc.)🌍 Extracts rich job data including salaries, descriptions, benefits, and company details, with built-in deduplication and anti-bot protection 🛡️ Just provide a search URL and export results to Excel, JSON, or use via API 📦",
+    "rating": 5.000000000000001,
+    "rating_count": 5,
+    "url": "https://apify.com/azzouzana/simplyhired-scraper-pro-search?fpr=hs6s8"
   },
   {
     "id": "CcsmRDbHoGUAm4jX4",
@@ -859,7 +875,7 @@
     "id": "zcFsadJ1IiDgNwUj1",
     "name": "Bayt.com | Only $1💰| Search | Details | Scraper",
     "description": "💰$0.9 per 1,000 jobs. Scrape job listings from Bayt.com, the leading Middle East job portal. Extract job titles, company names, locations, descriptions, requirements, salaries, and more. Supports search URLs and individual job pages with pagination and proxy support.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/memo23/bayt-search-cheerio-ppr?fpr=hs6s8"
   },
@@ -875,23 +891,15 @@
     "id": "KZXHRU77u175LcoI7",
     "name": "Linkedin Candidate Search (No Cookies)",
     "description": "Build targeted candidate lists from LinkedIn — no account, no cookies, no bans. Get verified names, titles, and profile URLs for any IT role and city in minutes. Used by recruiters and HR agencies for faster, cheaper talent sourcing.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 5,
     "url": "https://apify.com/techforce.global/linkedin-candidate-search?fpr=hs6s8"
-  },
-  {
-    "id": "b8X42FQrTl2GvDy7l",
-    "name": "🔥 Simplyhired scraper PRO | $2.5/1K",
-    "description": "#1 Fast SimplyHired scraper 🚀 supports all domains (.com, .fr, .es, etc.)🌍 Extracts rich job data including salaries, descriptions, benefits, and company details, with built-in deduplication and anti-bot protection 🛡️ Just provide a search URL and export results to Excel, JSON, or use via API 📦",
-    "rating": 5,
-    "rating_count": 5,
-    "url": "https://apify.com/azzouzana/simplyhired-scraper-pro-search?fpr=hs6s8"
   },
   {
     "id": "hf6djGx2wbY3CNyt0",
     "name": "🔥 Indeed [Only $0.90💰] Jobs Scraper (Search by keywords)",
     "description": "💰 $0.90 per 1,000 results. Keyword-based Indeed scraper that turns positions, locations, and filters into searches, captures job titles, salaries, company ratings, full descriptions, application links, and optional company profiles (CEO, size, revenue) from the sample output.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 5,
     "url": "https://apify.com/memo23/apify-indeed-cheerio-keywords-ppr?fpr=hs6s8"
   },
@@ -899,7 +907,7 @@
     "id": "MbDt278VaBu9dgddF",
     "name": "Werk.nl Scraper",
     "description": "Scrape job postings from Werk.nl, a leading job search site in the Netherlands 🇳🇱",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/lexis-solutions/werk-nl-scraper?fpr=hs6s8"
   },
@@ -907,7 +915,7 @@
     "id": "42q0OgcwtYMqGTJWh",
     "name": "Advanced Clay People Scraper Verified Leads",
     "description": "WORKS WITH FREE ACCOUNTS (without any credits). Extract accurate Clay People leads – full names, roles & companies. Blazing-fast, enhanced, CRM-ready. Works securely with your `claysession` cookie.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/solana/advanced-clay-people-scraper-verified-leads?fpr=hs6s8"
   },
@@ -915,7 +923,7 @@
     "id": "fcbakhfQC6oV2OJRU",
     "name": "$1/1K 🎀Hiring.cafe Scraper PRO (By Search URL)",
     "description": "#1 🔥 Super simple! Paste your hiring.cafe search URL get thousands of jobs in seconds! ⚡ Comprehensive: title, company, location, salary, description, apply link, requirements & much more! 120+ datapoints per job! Export to JSON, CSV, Excel or API. Grab your search URLs and you're good to go 🚀",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/azzouzana/hiring-cafe-scraper-pro-by-search-url?fpr=hs6s8"
   },
@@ -923,7 +931,7 @@
     "id": "QNo4EnLhQ77U5VQf8",
     "name": "Indeed Comprehensive Crawler",
     "description": "Unearth every job gem on Indeed with laser precision. Our advanced scraper dives deep, extracting rich data from listings, reviews, and company profiles. Empower your recruitment strategy or market analysis with unparalleled insights, all at the speed of automation.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/memo23/apify-indeed?fpr=hs6s8"
   },
@@ -947,7 +955,7 @@
     "id": "CkLDY9GAQf6QlP6GP",
     "name": "Google Jobs Scraper",
     "description": "The most advanced Google Jobs Scraper available! Built with enterprise-grade flexibility, lightning-fast performance, and comprehensive customization options. Extract detailed job data, application links, company information, and full job descriptions.  Unlimited usage, no monthly rental fees.",
-    "rating": 4.354738040874654,
+    "rating": 4.354738040874653,
     "rating_count": 5,
     "url": "https://apify.com/johnvc/Google-Jobs-Scraper?fpr=hs6s8"
   },
@@ -955,7 +963,7 @@
     "id": "BIeK7ZcYUrdxDgOEQ",
     "name": "Indeed Jobs Scraper - Fast & Accurate",
     "description": "🔥 ~$0.06/1K jobs 🔥 Extract accurate, structured job data from Indeed. Get ALL page results, not just the first page. 60+ fields per job with pre-parsed salary, verified company profiles, GPS coordinates, and hiring signals. 54 countries. Fast, low cost",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/kaix/indeed-scraper?fpr=hs6s8"
   },
@@ -963,7 +971,7 @@
     "id": "q0ERLR6TBoxtZhmVK",
     "name": "Indeed [$1.5💰] Reviews | Interviews | Location | Salary | Job",
     "description": "💰$1.5 per 1,000 results-No limits, no quotas, unlimited extraction, scrape reviews, salaries, jobs, interviews, company profiles, and cultural metrics from Indeed in one click. Transform raw data into recruitment strategies, competitive analysis, and market trends with enterprise-grade HR analytics",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/memo23/apify-indeed-reviews-ppr?fpr=hs6s8"
   },
@@ -971,7 +979,7 @@
     "id": "M3DOBpkaS6Jtde2Xu",
     "name": "Jobup Scraper",
     "description": "Extract job listings from Jobup.ch, Switzerland's leading job board. Search by keywords and location, or scrape specific job URLs. Perfect for job market analysis.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/lexis-solutions/jobup-scraper?fpr=hs6s8"
   },
@@ -1059,7 +1067,7 @@
     "id": "SnNEWiOAQe9V9bEzL",
     "name": "LinkedIn Jobs Scraper – Fast & Affordable",
     "description": "The most affordable LinkedIn job scraper on Apify. Extract 1,000+ jobs in minutes, including full details (title, company, location, description, link). Pay-as-you-go, no cookies, no hassle.",
-    "rating": 4.261214650271853,
+    "rating": 4.261214650271854,
     "rating_count": 4,
     "url": "https://apify.com/practicaltools/linkedin-jobs?fpr=hs6s8"
   },
@@ -1075,7 +1083,7 @@
     "id": "39xxtfNEwIEQ1hRiM",
     "name": "Job Details Scraper for LinkedIn (No Cookies)",
     "description": "Extract comprehensive LinkedIn job details including full description, company information, salary insights, and application statistics. Get detailed data from any LinkedIn job ID.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/apimaestro/linkedin-job-detail?fpr=hs6s8"
   },
@@ -1083,7 +1091,7 @@
     "id": "3nTUJYxIfRbtztlSY",
     "name": "Brazil Jobs Scraper - Vagas, LinkedIn & Indeed",
     "description": "Extract Brazilian job listings from multiple platforms.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/brazil-jobs-scraper?fpr=hs6s8"
   },
@@ -1131,7 +1139,7 @@
     "id": "zA7ZWbEBYZqj8yQMq",
     "name": "All-in-One Direct Employer Job Search Scraper PPR",
     "description": "Forget LinkedIn and Indeed. Discover genuine, up-to-date job opportunities from around the world. This actor scrapes jobs directly from company career sites, filters out ghost and scam postings, and lets you search by location, salary, benefits, stack, and more- all in one powerful tool.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/practicaltools/global-jobs-scraper-2?fpr=hs6s8"
   },
@@ -1171,7 +1179,7 @@
     "id": "AHSytPimxdPxhsj8r",
     "name": "Workana Jobs Scraper",
     "description": "Scrape job listings from Workana.com — LATAM's largest freelancer marketplace — with titles, budgets, skills, deadlines, proposal counts, and client info. Supports keyword search, category, and country filters. Pay-per-result, 4.5x cheaper than alternatives.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/gio21/workana-scraper?fpr=hs6s8"
   },
@@ -1195,7 +1203,7 @@
     "id": "PbzfL0PrgbrTbzBr6",
     "name": "Xing Jobs Scraper 💼🔍 -  Advanced & Cheaper",
     "description": "Collect detailed job listings from Xing by keywords 🧑‍💻. Get key info like job titles, locations, company names, salary details 💸, employment types 🏢, and more. Perfect for analyzing career opportunities, researching roles, and gathering data for job seekers, recruiters, and professionals.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapestorm/xing-jobs-scraper---advanced-cheaper?fpr=hs6s8"
   },
@@ -1203,7 +1211,7 @@
     "id": "m9Kb6CbGlEi6Vd084",
     "name": "Repvue.com [Only $0.75💰] Reviews Scraper (PPE)",
     "description": "💰 $0.75 per 1,000 results. Stop guessing—scrape verified Repvue reviews, comp data & company trends instantly. Your edge in hiring, sales & market research.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/memo23/repvue-scraper?fpr=hs6s8"
   },
@@ -1211,7 +1219,7 @@
     "id": "8GmsoUITPDUfYFkct",
     "name": "🧞‍♂️ LinkedIn to Airtable Jobs Scraper",
     "description": "Scrape high quality LinkedIn jobs with AI powered analysis and directly store them in your Airtable base. No need to worry about Cookies and Authentication!!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/radiodigitalai/linkedin-airtable-jobs-scraper?fpr=hs6s8"
   },
@@ -1219,7 +1227,7 @@
     "id": "0iirBI5CdI1HnBqVt",
     "name": "Linkedin Search Jobs Scraper [Without Cookies]",
     "description": "Streamline your job search and recruitment process with the LinkedIn Scraper. Easily extract detailed listings, application insights, and company profiles. This tool is perfect for recruiters, job seekers, or analysts who want to harness LinkedIn's vast job marketplace data with precision and speed.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/memo23/apify-linkedin-search-results-scraper?fpr=hs6s8"
   },
@@ -1227,7 +1235,7 @@
     "id": "sHJWxSRdipTIpETbt",
     "name": "Jobs.ch Search Scraper (Fast & Cheap) 💼 🇨🇭",
     "description": "Looking for a job listings scraper to extract job offers from a specific search? 🔍 Your search ends here! With the Jobsch Switzerland Search Scraper 💼, gather all the job listings based on ur keyword & location, including company details, employment type, publication date and more. No proxy needed",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 3,
     "url": "https://apify.com/scrapestorm/jobs-ch-search-scraper-fast-cheap?fpr=hs6s8"
   },
@@ -1275,7 +1283,7 @@
     "id": "hXENKfdQC3e6E9ecv",
     "name": "Workable Job Scraper 🔥",
     "description": "Effortlessly scrape job listings from Workable. This actor is designed for simplicity, providing a minimal, clean dataset with just the core job details. Perfect for quick data collection and lead generation without the extra noise.",
-    "rating": 4.739746948436983,
+    "rating": 4.739746948436984,
     "rating_count": 3,
     "url": "https://apify.com/shahidirfan/Workable-Job-Scraper?fpr=hs6s8"
   },
@@ -1283,7 +1291,7 @@
     "id": "Jc6TvGQlNoaovdjPz",
     "name": "Jobs.ch Scraper - Swiss Job Board Data Extraction",
     "description": "Scrapes job listings from jobs.ch, Switzerland's largest job board powered by JobCloud.",
-    "rating": 4.705999921096672,
+    "rating": 4.705999921096673,
     "rating_count": 3,
     "url": "https://apify.com/santamaria-automations/jobs-ch-scraper?fpr=hs6s8"
   },
@@ -1307,7 +1315,7 @@
     "id": "vrpPOnQhGeplXkM5X",
     "name": "The Money Makers",
     "description": "Make money in your free time",
-    "rating": 4.327186642840819,
+    "rating": 4.32718664284082,
     "rating_count": 3,
     "url": "https://apify.com/manysy/my-actor?fpr=hs6s8"
   },
@@ -1323,7 +1331,7 @@
     "id": "eab5UbCFxMxHUun5X",
     "name": "GulfTalent Job Scraper – Cheap 🎯🔍💼",
     "description": "🔍 Easily collect job listings from GulfTalent platform\n\nExtract structured job data from GulfTalent job search results, including job titles, company names, locations, job types, posting dates, job descriptions & more\n\nIdeal for job market research, recruitment & hiring trend analysis 🌍",
-    "rating": 4.216393348920449,
+    "rating": 4.216393348920448,
     "rating_count": 3,
     "url": "https://apify.com/scrapestorm/gulftalent-job-scraper---cheap?fpr=hs6s8"
   },
@@ -1331,7 +1339,7 @@
     "id": "daSlo2dsb6v1PzLAS",
     "name": "Upwork Job Scraper",
     "description": "Automatically and efficiently scrape Upwork.com job listings.",
-    "rating": 4.142586279103028,
+    "rating": 4.142586279103029,
     "rating_count": 3,
     "url": "https://apify.com/deltaspider/upwork-job-scraper?fpr=hs6s8"
   },
@@ -1347,7 +1355,7 @@
     "id": "CIHbQb2sgYrumBIIJ",
     "name": "Y Combinator Jobs Scraper",
     "description": "Scrape Y Combinator startup job listings with salary, equity, visa sponsorship, founder data, and full descriptions. Filter by role and location. Job-centric output ready for recruiting, salary benchmarking, and startup research.",
-    "rating": 3.89910499599774,
+    "rating": 3.899104995997741,
     "rating_count": 3,
     "url": "https://apify.com/parsebird/yc-jobs-scraper?fpr=hs6s8"
   },
@@ -1363,7 +1371,7 @@
     "id": "d5ib8ypLiKOuB8y8Q",
     "name": "Linkedin Posts Engagers (Likers and Commenters) ✅ No cookies ✅",
     "description": "Extract Likers and Commenters from LinkedIn Posts – 100% Public Data, No Login or Cookies!\nBoost your LinkedIn engagement analysis with this powerful tool that scrapes likers and commenters from public LinkedIn posts without using cookies. Perfect for marketers, recruiters, analysts.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scraping_solutions/linkedin-posts-engagers-likers-and-commenters-no-cookies?fpr=hs6s8"
   },
@@ -1395,7 +1403,7 @@
     "id": "Gj6IVh2ym5ocVqoxR",
     "name": "eFinancialCareers Jobs Scraper",
     "description": "Extract financial job opportunities with the eFinancialCareers Jobs Scraper. This lightweight actor is optimized for speed and efficiency. To ensure seamless data extraction and prevent blocking, using residential proxies is highly recommended. Perfect for market analysis and recruitment data.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/eFinancialCareers-Jobs-Scraper?fpr=hs6s8"
   },
@@ -1419,7 +1427,7 @@
     "id": "xUPneOdhlxUKJjj1B",
     "name": "Fastest Dice.com Job(s) API Scraper (Richest Output)",
     "description": "Extract data from Dice.com including detailed job descriptions, company profiles, locations, salaries, and application details. Get structured data on employment types, remote options, posting dates, and company information. Monitor new postings and track changes over time with our scraping solution",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/memo23/apify-dice-scraper?fpr=hs6s8"
   },
@@ -1443,7 +1451,7 @@
     "id": "YsaG8rLaqEKHp1Fzl",
     "name": "StepStone Jobs Scraper - Cheap 💼",
     "description": "Collect job listings from StepStone.de by keyword 🧑‍💻. Get titles, locations, companies, salaries 💸, employment types 🏢, remote options 🌍 & more. Ideal for job seekers, recruiters & analysts to explore roles, track trends & gather data fast and efficiently.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/stepstone-jobs-scraper---cheap?fpr=hs6s8"
   },
@@ -1451,7 +1459,7 @@
     "id": "NtjgBdDOC4WB772mx",
     "name": "France Travail Scraper",
     "description": "Extract job listings from France Travail—France’s official employment service—collect titles, locations, contract types, salaries, skills, and posting dates. Ideal for labor market research, recruitment intelligence, and job aggregation. Fast, structured, and customizable.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/lexis-solutions/france-travail-scraper?fpr=hs6s8"
   },
@@ -1467,7 +1475,7 @@
     "id": "rcYq2GJOgFgGI2u24",
     "name": "Applicant Authenticity Analyzer",
     "description": "Upload resumes, cover letters, or job application text to detect potential fraud. The actor extracts text from PDF/DOCX/TXT files, evaluates authenticity with OpenAI, and returns a verdict, score, and justification.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/applicant-authenticity-analyzer?fpr=hs6s8"
   },
@@ -1491,7 +1499,7 @@
     "id": "g7SiKmy0aC7tOHik3",
     "name": "InfoJobs Jobs Scraper",
     "description": "Scrape Infojobs effortlessly with this extremely fast and intuitive Jobs Scraper. Retrieve structured data as job titles, companies, locations, salaries, employment type, and detailed descriptions.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/alvaraaz/infojobs-actor?fpr=hs6s8"
   },
@@ -1499,7 +1507,7 @@
     "id": "WaZkiFU3PiDADkK1n",
     "name": "Builtin Jobs Scraper 🔍💼 - Cheap",
     "description": "Easily gather job listing data from Builtin’s tech-focused job platform across the United States 💼 Just enter a search URL to retrieve key details like job title, company, salary, location & levelrequired skills 🔍 Seamlessly integrate with your tools to market analysis or job board automation! ⚡📊",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/builtin-jobs-scraper---cheap?fpr=hs6s8"
   },
@@ -1523,7 +1531,7 @@
     "id": "KfqWQR1vdE6drJ8WV",
     "name": "WebMD Doctor Scraper 🩺👨‍⚕️ - Faster & Cheaper",
     "description": "Gather WebMD doctor profiles by keywords 🩺. Access detailed profiles with names, specialties, reviews, locations 📍, photos 🖼️, appointment URLs 📅, and more. Ideal for analyzing healthcare, researching doctors, and collecting data for medical projects 📊. Perfect for professionals & enthusiasts.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/webmd-doctor-scraper---faster-cheaper?fpr=hs6s8"
   },
@@ -1547,7 +1555,7 @@
     "id": "twxH9MgzjstQqVLDl",
     "name": "Threads Scraper-Advanced",
     "description": "Threads Scraper Advance : reliably extract posts, users & data from Threads.com. Features: Search by Keyword/URL, Date Filters, Stealth Mode 2.0 & Cookie support. Export detailed datasets to Excel/JSON. Ideal for lead gen & AI sentiment analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/lagic/threadsapify-1?fpr=hs6s8"
   },
@@ -1555,7 +1563,7 @@
     "id": "6cCcKLm6cEtNwGeAi",
     "name": "Freelancer.com Scraper",
     "description": "Introducing the Freelancer Jobs Scraper, a lightweight actor designed to efficiently extract project and job listings from Freelancer. Fast and simple to deploy. For the best results and to ensure uninterrupted data extraction, the use of residential proxies is strongly advised.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/freelancer-com-scraper?fpr=hs6s8"
   },
@@ -1571,7 +1579,7 @@
     "id": "X7e9sLIzdpbatwesv",
     "name": "WeWorkRemotely Jobs Scrapper",
     "description": "Introducing the WeWorkRemotely Jobs Scrapper, a lightweight actor designed to efficiently extract remote job listings from WeWorkRemotely. Fast, simple, and reliable. For optimal performance and to avoid blocking, the use of residential proxies is highly recommended. Start scraping today!",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/WeWorkRemotely-Job-Scrapper?fpr=hs6s8"
   },
@@ -1579,7 +1587,7 @@
     "id": "zfaNGMX8GsylRxC29",
     "name": "Malt Profiles Scraper by query",
     "description": "Extrayez les profils freelance de Malt.fr par mots-clés. Données : nom, TJM, note, avis, projets réalisés, compétences, position dans les résultats. Pagination jusqu'à 5 pages. Idéal pour l'analyse concurrentielle et le recrutement de freelances.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shoya/malt-profile-scraper?fpr=hs6s8"
   },
@@ -1587,7 +1595,7 @@
     "id": "hGHcyzeOMZEAeGMel",
     "name": "LinkedIn Jobs Scraper - Cheap & Fast",
     "description": "Scrape 500+ LinkedIn jobs with company logos. No login required. Cheaper & faster than alternatives with 20+ data fields. Configurable performance, pay-per-result pricing.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/kalirobot/linkedin-jobs-scraper-fast?fpr=hs6s8"
   },
@@ -1635,7 +1643,7 @@
     "id": "eoPO35stlZjE1MGSr",
     "name": "JobTeaser Job Scraper",
     "description": "Discover the JobTeaser Job Scraper, your efficient tool for extracting job postings and internship offers from JobTeaser. This lightweight actor is designed for quick and easy scraping. For optimal performance and to avoid blocks, using residential proxies is highly recommended.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/JobTeaser-Job-Scraper?fpr=hs6s8"
   },
@@ -1691,7 +1699,7 @@
     "id": "N8nzMzfQq5b1Nu0At",
     "name": "Randstad.nl Jobs [Only $1] Scraper",
     "description": "Extract job data from Randstad.nl including job titles, salaries, locations, contact details, company info, work hours, contract types, education requirements, and full descriptions. Get structured data with metadata, benefits, and application details for market research and recruitment.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/memo23/randstad-nl-scraper?fpr=hs6s8"
   },
@@ -1699,7 +1707,7 @@
     "id": "YB4OYSD5qcurnA33M",
     "name": "Jobs Scraper - All In One",
     "description": "Extract real-time jobs from LinkedIn, Indeed, Glassdoor, ZipRecruiter + all job sites. Get 40+ data points including salary, requirements, company details. Advanced filtering by location, experience, remote work across 30+ countries.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/globalapi/jobs-scraper-all-in-one?fpr=hs6s8"
   },
@@ -1731,7 +1739,7 @@
     "id": "xrc2yUuPXMWTs2isb",
     "name": "Adzuna Job Scraper 🔍💼 - Rental",
     "description": "💼 Easily collect job listings from Adzuna, biggest leading job search platform \nJust enter a job search URL to extract key details like job title, company, location, and description 🔍\nSeamlessly integrate with your tools for job aggregation, market analysis, or recruitment automation! ⚡📊",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/adzuna-job-scraper---rental?fpr=hs6s8"
   },
@@ -1755,7 +1763,7 @@
     "id": "J0ulz8eoVqej6oqIf",
     "name": "Google Jobs Scraper API - Pay Per Result",
     "description": "The most advanced Google Jobs Scraper available! Built with enterprise-grade flexibility, lightning-fast performance, and comprehensive customization options. Extract detailed job data, application links, company information, and full job descriptions.  Unlimited usage, no monthly rental fees.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/johnvc/google-jobs-scraper---pay-per-result?fpr=hs6s8"
   },
@@ -1763,7 +1771,7 @@
     "id": "MmVsMOi3REoZ5JdVI",
     "name": "Scrape Emails Websites",
     "description": "This Actor is a powerful and scalable solution designed to extract email addresses from static websites in a reliable and efficient manner. It leverages Python’s requests and BeautifulSoup libraries to parse HTML pages.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/techionik9993/static-websites-email-scraper?fpr=hs6s8"
   },
@@ -1771,7 +1779,7 @@
     "id": "hvx19r6H16Tnh5Yqc",
     "name": "Jobberman Job Scraper",
     "description": "Extract job listings effortlessly with the Jobberman Job Scraper. This lightweight actor is optimized for speed and accuracy on Jobberman sites. To prevent blocking and ensure high-quality results, using residential proxies is strongly recommended. Streamline your recruitment data collection today!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/shahidirfan/Jobberman-Job-Scraper?fpr=hs6s8"
   },
@@ -1811,17 +1819,17 @@
     "id": "xMXXhTyIlYNOyweAC",
     "name": "Linkedin Job Scraper",
     "description": "Extract LinkedIn job listings with complete details including descriptions, salary ranges, company information, and benefits. No login required.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/futurizerush/linkedin-job-scraper?fpr=hs6s8"
   },
   {
-    "id": "3HJWd9KfGyItAD5N9",
-    "name": "Pingrole Job Scraper(Linkedin, Indeed, Glassdoor,...)🇨🇦🇩🇪",
-    "description": "linkedin, indeed, glassdoor, ziprecruiter, workday, talent.com, job bank, recruit.net, randstad, robert half, hays, manpower, bayt.com, built in, canada post jobs, walmart canada, shoppers drug mart, mcdonald’s canada, uber, icims, xing, arbeitsagentur",
+    "id": "T92GcJg7a2GslEc6R",
+    "name": "EU Academic & Research Jobs Aggregator",
+    "description": "Scrapes PhD, postdoc, and research faculty positions from 5 EU academic job portals: EURES, DAAD PhDGermany, EuroScienceJobs, UniversityPositions, and INOMICS. Supports keyword/country filtering, incremental mode, and outputs structured data with deadlines and funding sources.",
     "rating": 5,
     "rating_count": 2,
-    "url": "https://apify.com/hermann_samimi/pingrole-job-scraper-linkedin-indeed-glassdoor?fpr=hs6s8"
+    "url": "https://apify.com/scholarstack/eu-academic-research-jobs-aggregator?fpr=hs6s8"
   },
   {
     "id": "pZezG04IIqOdtiwu7",
@@ -1843,7 +1851,7 @@
     "id": "9Qmr7CUJ3fVH6bAmC",
     "name": "Linkedin Employees Scraper",
     "description": "Effortlessly gather LinkedIn URLs and names of employees in bulk. Ideal for HR and recruitment, this tool quickly provides essential contact information, simplifying talent search and networking opportunities.",
-    "rating": 1.374529322064331,
+    "rating": 1.37452932206433,
     "rating_count": 21,
     "url": "https://apify.com/caprolok/linkedin-employees-scraper?fpr=hs6s8"
   },
@@ -1851,7 +1859,7 @@
     "id": "cclAstR1Dj3h3gzcG",
     "name": "Naukri Job Scraper",
     "description": "Unlock the power of Naukri.com with our advanced web scraper! Effortlessly extract comprehensive job listings, including titles, descriptions, and company details. Enjoy real-time data, structured JSON output, and flexible search options. Scale your job search with ease and speed. Try it now!",
-    "rating": 3.503115284290141,
+    "rating": 3.50311528429014,
     "rating_count": 3,
     "url": "https://apify.com/louisdeconinck/naukri-job-scraper?fpr=hs6s8"
   },
@@ -1867,7 +1875,7 @@
     "id": "CZrfm3zouQb65tJ76",
     "name": "Acquire.com Scraper",
     "description": "Scrape Acquire.com startup listings, including price, ARR, revenue, growth and metrics. Supports URLs, public categories and authenticated search for deal sourcing, M&A, investors and OSINT. Export structured data to JSON/CSV for analysis.",
-    "rating": 4.587575191227585,
+    "rating": 4.587575191227584,
     "rating_count": 2,
     "url": "https://apify.com/igolaizola/acquire-scraper?fpr=hs6s8"
   },
@@ -1875,7 +1883,7 @@
     "id": "owGMR16wtUUsBSbB4",
     "name": "Job Search Assistant AI Agent",
     "description": "Automates the process of finding job listings based on user-defined preferences. Analyzes job postings, scores them based on relevance, and even generates tailored cover letters for each opportunity.",
-    "rating": 4.569691112339078,
+    "rating": 4.569691112339077,
     "rating_count": 2,
     "url": "https://apify.com/harvestlabs/job-search-assistant-ai-agent?fpr=hs6s8"
   },
@@ -1915,17 +1923,9 @@
     "id": "9QmCVplwYguH9FndJ",
     "name": "Y Combinator Scraper - 5000+ Startups & 8000+ Founders",
     "description": "Extract complete Y Combinator ecosystem data - 5000+ companies, 8000+ founders, 3500+ jobs. Perfect for VCs, recruiters, and researchers. Get startup intelligence, funding trends, team data, and job listings. Reliable Python scraper with proxy support. Start at $3.50.",
-    "rating": 4.339455668725998,
+    "rating": 4.339455668725997,
     "rating_count": 2,
     "url": "https://apify.com/clearpath/ycombinator-api-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "rqrlaJ9FNdKki11Up",
-    "name": "Gelbe Seiten (German Yellow Pages) Scraper",
-    "description": "Scrape German business listings from Gelbe Seiten with flexible detail levels. This Apify Actor supports fast, basic, and deep search modes, rate limiting, proxy rotation, and index control. Ideal for lead gen, SEO, and market research. Outputs structured data to Apify datasets.",
-    "rating": 4.200505948498703,
-    "rating_count": 2,
-    "url": "https://apify.com/dominic-quaiser/gelbe-seiten-german-yellow-pages-scraper?fpr=hs6s8"
   },
   {
     "id": "IGjzUXKHqlsJaT58u",
@@ -1934,6 +1934,14 @@
     "rating": 3.131791214015939,
     "rating_count": 3,
     "url": "https://apify.com/fatihtahta/stepstone-scraper-fast-reliable-4-1k?fpr=hs6s8"
+  },
+  {
+    "id": "rqrlaJ9FNdKki11Up",
+    "name": "Gelbe Seiten (German Yellow Pages) Scraper",
+    "description": "Scrape German business listings from Gelbe Seiten with flexible detail levels. This Apify Actor supports fast, basic, and deep search modes, rate limiting, proxy rotation, and index control. Ideal for lead gen, SEO, and market research. Outputs structured data to Apify datasets.",
+    "rating": 4.200505948498703,
+    "rating_count": 2,
+    "url": "https://apify.com/dominic-quaiser/gelbe-seiten-german-yellow-pages-scraper?fpr=hs6s8"
   },
   {
     "id": "xaEnW4YCeZPviXQF9",
@@ -1979,7 +1987,7 @@
     "id": "qgvnXB1UdzMmJ3Gsv",
     "name": "Y Combinator Scraper",
     "description": "Scrape Y Combinator companies directory for startup data, founders information, and job openings. Filter by batch, tags, status, or location.",
-    "rating": 2.704716948284571,
+    "rating": 2.70471694828457,
     "rating_count": 3,
     "url": "https://apify.com/futurizerush/y-combinator-scraper?fpr=hs6s8"
   },
@@ -1987,7 +1995,7 @@
     "id": "o6JjyowF7532cPwan",
     "name": "StepStone Jobs Scraper 🎯",
     "description": "🎯 Extract detailed job listings from StepStone.de with comprehensive information including job titles, company details, locations, and salary data. Perfect for recruitment analysis, market research, and job market monitoring.",
-    "rating": 2.188290295846258,
+    "rating": 2.188290295846257,
     "rating_count": 4,
     "url": "https://apify.com/easyapi/stepstone-jobs-scraper?fpr=hs6s8"
   },
@@ -2003,7 +2011,7 @@
     "id": "vVYRDuizgjkRevk9W",
     "name": "Crypto Arbitrage Scanner",
     "description": "Crypto Arbitrage Scanner and compares real-time crypto prices across major exchanges. Instantly detect the best arbitrage opportunities, filter by coin, exchange, or spread. Boost profits with automated, accurate crypto arbitrage monitoring—fast, easy, and reliable!",
-    "rating": 3.264694815945659,
+    "rating": 3.26469481594566,
     "rating_count": 2,
     "url": "https://apify.com/dataraptor/crypto-arbitrage-scanner?fpr=hs6s8"
   },
@@ -2051,7 +2059,7 @@
     "id": "3fAlg6T4zBeu2Kgik",
     "name": "📌 LinkedIn Jobs Scraper (Fast & reliable listings)",
     "description": "Scrape LinkedIn job listings effortlessly!\n\nThis powerful Apify Actor extracts job listings, including job titles, companies, locations, job link and detailed job descriptions, while ensuring data accuracy and efficiency.\n\n💼 Perfect for recruiters, job seekers, and data analysts. (and not ONLY)",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/aliand.api/LinkedIn-Jobs-Scraper-v2?fpr=hs6s8"
   },
@@ -2139,7 +2147,7 @@
     "id": "736h2ESmgSOrcOWIz",
     "name": "🎯 LinkedIn Profile & Content Creator(Rental)",
     "description": "Transform your LinkedIn presence with AI-powered profile optimization and content creation! This actor generates comprehensive LinkedIn profiles and company pages tailored to your target audience, complete with engaging content strategies and multi-format reports.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/powerai/linkedin-profiles-and-content-creator-rental?fpr=hs6s8"
   },
@@ -2147,7 +2155,7 @@
     "id": "rHKBMBqeAQGvtI9Mz",
     "name": "Freelancer Jobs Scraper",
     "description": "Scrape freelance job listings from Freelancer.com using keywords like \"WordPress\" or \"React\". Get project titles, budget, bids, skills, and more. Ideal for freelancers, analysts, and agencies. Supports proxy configuration and delivers structured JSON results.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/getdataforme/Freelancer-Jobs-Scraper?fpr=hs6s8"
   },
@@ -2163,7 +2171,7 @@
     "id": "5zsJmQ3WngPNykbkw",
     "name": "💎 Linkedin Phone Scraper | $19.99/mo Unlimited | No Cookies",
     "description": "Subscription: Unlimited phones lookups for $19.99/month! Search 100M+ database for work & personal phones. No cookies, unlimited runs! 🚀 Powered by Dievio.com",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/x_guru/linkedin-phone-Scraper-subscription?fpr=hs6s8"
   },
@@ -2187,7 +2195,7 @@
     "id": "C4wFSnZQW0vudYNrE",
     "name": "Linkedin Jobs Scraper",
     "description": null,
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/saadmohsin/linkedin-jobs-scraper?fpr=hs6s8"
   },
@@ -2195,7 +2203,7 @@
     "id": "ySRyoOY0nK7KU2kGW",
     "name": "Arbeitsagentur Germany Job Details Scraper 🇩🇪",
     "description": "🔍 Need detailed job data from listings in Germany? 📄 The Bundesagentur für Arbeit Job Details Scraper 💼 extracts full job descriptions, employer information, contract type, location, salary details, application links & more. Ideal for job databases, search enrichment, or recruitment platforms.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/arbeitsagentur-germany-job-details-scraper?fpr=hs6s8"
   },
@@ -2235,7 +2243,7 @@
     "id": "7VFu6tHv9uuZhchmm",
     "name": "EURES Job Scraper 🇪🇺🚀💼 - Cheap",
     "description": "🔍 Looking for a job scraper to extract offers in your region or across Europe? With EURES Job Scraper 🇪🇺, get listings by keyword, location & more 💼 including job title, company, salary, date, and description. Fast, easy, and ideal for job seekers or recruiters! 🚀",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/eures-job-scraper---cheap?fpr=hs6s8"
   },
@@ -2315,7 +2323,7 @@
     "id": "GC8iH6H6tKMPahDDr",
     "name": "Randstad.com.au Jobs [Only $1] Scraper",
     "description": "Collect vacancyNumber, title, datePosted, educationRequirements, experienceRequirements, workHours, skills, industry, full HTML description, salary range, employmentType, hiringOrganization, jobLocation, structured sections, analytics metadata, raw basicInfo.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/memo23/randstad-com-au-scraper?fpr=hs6s8"
   },
@@ -2363,7 +2371,7 @@
     "id": "jSYHBIB36dCVXT6WX",
     "name": "Houzz Professionals Scraper - Cheap 🏗️🏠",
     "description": "Looking to find top-rated home improvement professionals worldwide? 🔍\nThis Scraper lets you gather professional listings by category, location, or specialty, including name, rating, contacts, badges and URLs\n\nPerfect for analyzing home improvement markets, discover top-rated contractors & craftsmen",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/houzz-professionals-scraper---cheap?fpr=hs6s8"
   },
@@ -2395,7 +2403,7 @@
     "id": "dGD7lLs6hqFBuiKvb",
     "name": "Jobat.be Scraper",
     "description": "Jobat.be scraper for Belgium job data: extract structured listings, company info, salary, benefits and full descriptions from 100k+ vacancies across Flanders, Brussels and Wallonia for market research, ATS enrichment and dashboards.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/lexis-solutions/jobat-be-scraper?fpr=hs6s8"
   },
@@ -2435,7 +2443,7 @@
     "id": "DvfG7VJPK6ns3pQQI",
     "name": "AFAG Messe Exhibitor Scraper - Billig Cheap 🔍🚀🇩🇪",
     "description": "🔍 Scrape Exhibitors – AFAG Trade Fairs & Digital Platforms 🏢\n\nSupports all AFAG digital exhibitor directories, including akustika, Consumenta, eltec, Freizeit Touristik & Garten, HOGA, interlift, ITB Berlin, Whiskey Messe, LogiMAT & any other AFAG event using the standard exhibitor index structure",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/afag-messe-exhibitor-scraper---billig-cheap?fpr=hs6s8"
   },
@@ -2515,7 +2523,7 @@
     "id": "kv9OK8LCX5VPbPlLu",
     "name": "Randstad.com Jobs [Only $1] Scraper",
     "description": "Scrape Randstad.com jobs worldwide: extract job titles, descriptions, salaries, locations (country/region/city), company names, employment types, specialisms, job categories, posting dates, and client information from any country's Randstad site.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/memo23/randstad-com-scraper?fpr=hs6s8"
   },
@@ -2571,7 +2579,7 @@
     "id": "mxOOfc3qfIoeKdgFU",
     "name": "Jobs.cz Scraper",
     "description": "Extract job listings effortlessly with the Jobs.cz Scraper. This lightweight actor is optimized for speed and reliability on the Jobs.cz platform. For seamless performance and to avoid blocks, the use of residential proxies is highly recommended. Perfect for recruitment data!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/Jobs-cz-Scraper?fpr=hs6s8"
   },
@@ -2675,7 +2683,7 @@
     "id": "6EyEHmH6HmrtIXHiH",
     "name": "hiringcafe-jobs-scraper-upto-10k",
     "description": "Enterprise-grade HiringCafe intelligence platform extracting 50+ comprehensive data points including salary ranges, visa sponsorship, benefits packages, technical requirements, and complete company profiles - delivering 10x more value than basic scrapers.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/genz-coder/hiringcafe-jobs-scraper-upto-10k?fpr=hs6s8"
   },
@@ -2723,7 +2731,7 @@
     "id": "60QjiN1ReqY8xGmEu",
     "name": "Job Posting Drift Intelligence Actor",
     "description": "Job Posting Drift Intelligence monitors job listings over time and detects meaningful changes like salary updates, remote/onsite shifts, seniority inflation, and requirement changes. Turn static job posts into actionable job lifecycle intelligence",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/bilal-dev/job-posting-drift-intelligence-actor?fpr=hs6s8"
   },
@@ -2739,7 +2747,7 @@
     "id": "GWVs761IEVnlW4SYp",
     "name": "Contact Detail Scraper",
     "description": "Effortlessly extract and download emails, phone numbers, and social media profiles (Facebook, Twitter, LinkedIn, Instagram) from any website with our free email extractor. You can export the data in your preferred format—Excel, CSV, JSON, HTML, or XML—for easy analysis and integration.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/pintostudio/contact-detail-scraper?fpr=hs6s8"
   },
@@ -2875,7 +2883,7 @@
     "id": "0bayeE4qPEtMhGgxC",
     "name": "Linkedin Job Scraper",
     "description": "Exact LinkedIn job posts base on filters.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/freshdata/linkedin-job-scraper?fpr=hs6s8"
   },
@@ -2915,7 +2923,7 @@
     "id": "JQEK3OGvdJ5YdU4Nr",
     "name": "Freelancer.com Job Scraper",
     "description": "Scrape job listings from Freelancer.com",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/janbruinier/jan-freelancer-job-scraper?fpr=hs6s8"
   },
@@ -3203,7 +3211,7 @@
     "id": "ufHFLlZnKDQfbDm7d",
     "name": "Bumeran Jobs Scraper",
     "description": "Scrape job listings from Bumeran in seconds. Extract job titles, descriptions, salaries, companies & locations automatically. Perfect for job boards, market research & recruitment automation. Save hours on manual data collection.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/bumeran-jobs-scraper?fpr=hs6s8"
   },
@@ -3211,7 +3219,7 @@
     "id": "2jOLRfdMMachg5if4",
     "name": "Himalayas Job Scraper",
     "description": "Meet the Himalayas Job Scraper, a lightweight actor designed to efficiently extract remote job listings from Himalayas.app. Fast, reliable, and easy to use. To ensure uninterrupted performance and avoid IP bans, the use of residential proxies is highly recommended.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/Himalayas-Job-Scraper?fpr=hs6s8"
   },
@@ -3235,7 +3243,7 @@
     "id": "3FqUeFeEYjh7yOc8D",
     "name": "Freshersworld Jobs Scraper",
     "description": "Scrape job listings from Freshersworld, India's #1 portal for freshers and entry-level jobs. This lightweight actor extracts key job data efficiently. To ensure seamless access and avoid blocking, using residential proxies is highly recommended for best results.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/freshersworld-jobs-scraper?fpr=hs6s8"
   },
@@ -3251,7 +3259,7 @@
     "id": "SrIfcdrKs6VJr7M8W",
     "name": "Y Combinator jobs & companies scraper",
     "description": "💰 $1/1K One actor for Y Combinator jobs (Work at a Startup) and companies (Startup Directory). Paste any YC URL — auto-routed — or use filters. Companies via Algolia: no proxy, clean schema. Optional founder enrichment: LinkedIn/Twitter URLs, company socials, open jobs. Full batch history to 2005.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/memo23/y-combinator-scraper?fpr=hs6s8"
   },
@@ -3408,6 +3416,22 @@
     "url": "https://apify.com/shahidirfan/Adzuna-Job-Scraper?fpr=hs6s8"
   },
   {
+    "id": "lwHgfKBCKhCqtV5r9",
+    "name": "Expired Jobs API for: Career Site Job Listing API",
+    "description": "This Actor is a companion to the Career Site Job Listing API Actor. It provides expired jobs once per day.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/fantastic-jobs/expired-jobs-api-for-career-site-job-listing-api?fpr=hs6s8"
+  },
+  {
+    "id": "WrjbjIv6VqibkwD3r",
+    "name": "EU TED Tenders — Public Procurement Notice Scraper",
+    "description": "Fetches structured public procurement notices from the official EU TED (Tenders Electronic Daily) API. Filter by country, CPV code, date, value, and notice type. Free, unauthenticated API; clean JSON output ready for CRM/dashboard ingestion.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/foxlabs/ted-tenders?fpr=hs6s8"
+  },
+  {
     "id": "IhQuCmT40q1tetuv3",
     "name": "BuiltIn Jobs Scraper 🔍",
     "description": "A powerful scraper for BuiltIn.com job listings that extracts comprehensive job data including company details, salaries, work types, and skill requirements. Perfect for job market analysis, recruitment research, and tracking employment trends in tech and startup sectors. 🔍💼",
@@ -3419,7 +3443,7 @@
     "id": "5r20dLKVLkpZbpc9c",
     "name": "Upwork Jobs Scraper",
     "description": "The latest and most advanced Upwork Jobs Scraper. Our Upwork Jobs Scraper extracts real-time job postings at scale from all over the world. A new research tool built for recruitment, insights and HR.",
-    "rating": 2.714381167462717,
+    "rating": 2.714381167462718,
     "rating_count": 2,
     "url": "https://apify.com/orgupdate/upwork-jobs-scraper?fpr=hs6s8"
   },
@@ -3499,7 +3523,7 @@
     "id": "1ffsE2S7lLiExuK5U",
     "name": "Indeed Job Scraper",
     "description": "Scrape detailed Indeed job listings by keyword, country, and city. Extract salaries, benefits, skills, job types, dates, locations, company links, apply links, and full job descriptions for recruiting, market research, lead generation, and job board enrichment.",
-    "rating": 2.200895055851646,
+    "rating": 2.200895055851647,
     "rating_count": 2,
     "url": "https://apify.com/newbs/Indeed-Job-Scraper?fpr=hs6s8"
   },
@@ -3515,7 +3539,7 @@
     "id": "7ZuNFntlWSa1LO5uG",
     "name": "LinkedIn Job Scraper",
     "description": "Extract job listings from Linkedin. Scrape details job details like when it is posted, number of applicants, location and salary range. Download listings data in JSON, XML, Excel.",
-    "rating": 3,
+    "rating": 3.0,
     "rating_count": 1,
     "url": "https://apify.com/ivanvs/linkedin-job-scraper?fpr=hs6s8"
   },
@@ -3531,7 +3555,7 @@
     "id": "ebxV0qqOdZmCVMupo",
     "name": "Advanced Clutch.co Scraper",
     "description": "Advanced Clutch scraper. Runtime optimised for less apify credit consumptions. Extract data from companies / agencies. (phonenumber, website, social account, employees number, company identification number and more). Help you build your TAM",
-    "rating": 3.0,
+    "rating": 3,
     "rating_count": 1,
     "url": "https://apify.com/saswave/advanced-clutch-co-scraper?fpr=hs6s8"
   },
@@ -3555,7 +3579,7 @@
     "id": "njTm49oQDUpJ1mtNH",
     "name": "Y Combinator Company Scraper 🧠💼 - Cheap & Fast",
     "description": "Unlock the power of Y Combinator with automated company data scraping 🧠💼📊 Effortlessly collect detailed information on startups and portfolio companies from the YC platform.\nCustomize your search queries by industry, hiring status, or region for highly targeted insights 🌍No proxy needed ⚡",
-    "rating": 1.947720381923047,
+    "rating": 1.947720381923046,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/y-combinator-company-scraper---cheap-fast?fpr=hs6s8"
   },
@@ -3611,7 +3635,7 @@
     "id": "Sa8LUWgtparEklk5Y",
     "name": "LinkedIn Posts Search Scraper",
     "description": "Extract posts from LinkedIn with detailed metadata including content, author details, engagement metrics, and direct URLs. Perfect for social media analysis, content research, and brand monitoring.",
-    "rating": 1.561943845541047,
+    "rating": 1.561943845541046,
     "rating_count": 2,
     "url": "https://apify.com/powerai/linkedin-posts-search-scraper?fpr=hs6s8"
   },
@@ -3675,7 +3699,7 @@
     "id": "VhPC1YezwQZ4efi21",
     "name": "AI Job Search Agent",
     "description": "The AI Job Search Agent automates job hunting by analyzing your LinkedIn profile, identifying relevant roles, searching for matches, and generating personalized cover letters using AI and web scraping.",
-    "rating": 1.038134059566767,
+    "rating": 1.038134059566768,
     "rating_count": 6,
     "url": "https://apify.com/louisdeconinck/ai-job-search-agent?fpr=hs6s8"
   },
@@ -3782,6 +3806,22 @@
     "rating": 1,
     "rating_count": 2,
     "url": "https://apify.com/powerai/upwork-talent-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "DTEoWzKxjYtBZzfhS",
+    "name": "Loopnet Listings Scraper",
+    "description": "The LoopNet Listings Scraper enables fast and efficient data extraction from LoopNet search URLs. It gathers key property details, including price, listing agent, location, images, and URLs. Ideal for real estate investors, market analysts, and commercial property researchers.",
+    "rating": 1,
+    "rating_count": 2,
+    "url": "https://apify.com/piotrv1001/loopnet-listings-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "bL9fkx8a8c4djIdMw",
+    "name": "Hiring.cafe Job Scraper",
+    "description": "Scrapes job listings from hiring.cafe using their internal API. Supports filtering by keyword, location, workplace type, seniority, and more.",
+    "rating": 1,
+    "rating_count": 2,
+    "url": "https://apify.com/manojachari/hiring-cafe-scraper?fpr=hs6s8"
   },
   {
     "id": "9ASdCM9SAdcxJjko6",
@@ -3910,14 +3950,6 @@
     "rating": 1,
     "rating_count": 1,
     "url": "https://apify.com/dealgate/email-finder?fpr=hs6s8"
-  },
-  {
-    "id": "DTEoWzKxjYtBZzfhS",
-    "name": "Loopnet Listings Scraper",
-    "description": "The LoopNet Listings Scraper enables fast and efficient data extraction from LoopNet search URLs. It gathers key property details, including price, listing agent, location, images, and URLs. Ideal for real estate investors, market analysts, and commercial property researchers.",
-    "rating": 1,
-    "rating_count": 1,
-    "url": "https://apify.com/piotrv1001/loopnet-listings-scraper?fpr=hs6s8"
   },
   {
     "id": "MpJUaoxOxcHVxlLE4",
@@ -5638,14 +5670,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/contactminerlabs/fastexpert-email-phone-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "lwHgfKBCKhCqtV5r9",
-    "name": "Expired Jobs API for: Career Site Job Listing API",
-    "description": "This Actor is a companion to the Career Site Job Listing API Actor. It provides expired jobs once per day.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/fantastic-jobs/expired-jobs-api-for-career-site-job-listing-api?fpr=hs6s8"
   },
   {
     "id": "jyAnaNHQYMZRuaOV1",
@@ -9376,14 +9400,6 @@
     "url": "https://apify.com/simpleapi/linkedin-b2b-phone-number-scraper?fpr=hs6s8"
   },
   {
-    "id": "bL9fkx8a8c4djIdMw",
-    "name": "Hiring.cafe Job Scraper",
-    "description": "Scrapes job listings from hiring.cafe using their internal API. Supports filtering by keyword, location, workplace type, seniority, and more.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/manojachari/hiring-cafe-scraper?fpr=hs6s8"
-  },
-  {
     "id": "Z0dfGTUb941w8FOae",
     "name": "Stepstone Germany Scraper",
     "description": "Scrape Stepstone.de, Germany's largest job board with 200,000+ listings. Returns job titles, companies, locations, salary ranges, and full descriptions. Supports keyword/location search, fetchDetails, daily deduplication, and start URLs. $1.50 per 1,000 results.",
@@ -10474,7 +10490,7 @@
   {
     "id": "h49bhrH1sPaibZc20",
     "name": "VDAB Scraper — Belgian Job Listings & Vacancies",
-    "description": "Scrape job listings, vacancies, company info, and employment data from VDAB.be — Belgium's Flemish public employment service.",
+    "description": "Scrape job vacancies from VDAB.be, the Flemish public employment service. Get job titles, companies, locations, contract types, and descriptions.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/studio-amba/vdab-scraper?fpr=hs6s8"
@@ -14154,7 +14170,7 @@
   {
     "id": "gyPxe8rCzIVbdLIbG",
     "name": "Nationale Vacaturebank Scraper",
-    "description": "Scrape nationalevacaturebank.nl — the Netherlands' second-largest job portal with 100K+ listings. GPS coordinates, normalized salary (min/max/type), recruiter contact details, employment types, and full job descriptions. Incremental mode detects new and changed listings.",
+    "description": "Scrape nationalevacaturebank.nl - the Netherlands' second-largest job portal with 100K+ listings. GPS coordinates, normalized salary, and contact details.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/blackfalcondata/nationalevacaturebank-scraper?fpr=hs6s8"
@@ -15706,7 +15722,7 @@
   {
     "id": "c9qz7zpTbHDpfpom1",
     "name": "Glassdoor Scraper — Reviews and Salary Data for Companies",
-    "description": "Glassdoor reviews + salary in CSV/JSON in 5 min — no coding, no login, no rate-limits. 50 lifetime runs · 5 paying users. Schema: ratings, pros/cons, titles, dates, salary. For competitive intel + recruiter outreach + comp planning. spinov001@gmail.com · blog.spinov.online · t.me/scraping_ai",
+    "description": "Glassdoor reviews + salary in CSV/JSON in 5 min — no coding, no login, no rate-limits. 59 lifetime runs · 5 paying users · u30d=1 active. Ratings/pros-cons/titles/dates/salary schema. Competitive intel + recruiter outreach + comp planning. dev.to/0012303 · blog.spinov.online",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/knotless_cadence/glassdoor-reviews-scraper?fpr=hs6s8"
@@ -17330,7 +17346,7 @@
   {
     "id": "3EbkzgQH8JEXioUui",
     "name": "💼 Career Site Jobs Scraper — 16+ ATS Platforms",
-    "description": "Extract job listings from 16 ATS Platforms. Only $1/1000 jobs. Supports Lever, Greenhouse, Workable, Ashby, Teamtailor, Personio, SmartRecruiters, BambooHR, Workday, iCIMS, Recruitee, JOIN, Pinpoint, Rippling, JazzHR, Comeet and more ATS career portals soon.",
+    "description": "Extract job listings from 25 ATS & RMP Platforms. Only $1/1000 jobs. Supports Lever, Greenhouse, Workable, Ashby, Teamtailor, Personio, SmartRecruiters, BambooHR, Workday, iCIMS, Recruitee, JOIN, Pinpoint, Rippling, JazzHR, Comeet and more ATS career portals soon.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/santamaria-automations/career-site-jobs-scraper?fpr=hs6s8"
@@ -19266,7 +19282,7 @@
   {
     "id": "mT32YFMFWOohRxd0K",
     "name": "Hiring.cafe Jobs Scraper",
-    "description": "Scrape detailed job listings from Hiring.cafe — titles, salaries, companies, locations, tech stacks, and 30+ fields from 2.8M+ aggregated postings across 46 ATS platforms.",
+    "description": "Scrape detailed job listings from Hiring.cafe — titles, salaries, companies, locations, tech stacks, and 30+ fields from 2.8M+ postings across 46 ATS platforms. Filter by keyword, location, salary, seniority, and more. Export as JSON, CSV, Excel, or access via API.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/parsebird/hiring-cafe-scraper?fpr=hs6s8"
@@ -19302,14 +19318,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/zerobreak/seek-job-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "T92GcJg7a2GslEc6R",
-    "name": "EU Academic & Research Jobs Aggregator",
-    "description": "Scrapes PhD, postdoc, and research faculty positions from 5 EU academic job portals: EURES, DAAD PhDGermany, EuroScienceJobs, UniversityPositions, and INOMICS. Supports keyword/country filtering, incremental mode, and outputs structured data with deadlines and funding sources.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/scholarstack/eu-academic-research-jobs-aggregator?fpr=hs6s8"
   },
   {
     "id": "RenntKrxUtdZQl1jH",
@@ -19362,7 +19370,7 @@
   {
     "id": "4MSEcrH2at44sbMgN",
     "name": "Indeed France Jobs Scraper",
-    "description": "Scrape job listings from Indeed France — job title, company, location, salary, contract type, posting date, and direct link.",
+    "description": "Scrape job listings from Indeed France: job title, company, location, salary, contract type, and full job description. Ideal for HR analytics, recruitment research, job market intelligence, and salary benchmarking.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/kilometric_spider/indeed-france-jobs-scraper?fpr=hs6s8"
@@ -20086,5 +20094,165 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/mukeshrana90/indeed-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "wXowhqjADERjWhh7L",
+    "name": "TotallyLegal Jobs Scraper",
+    "description": "Scrapes job listings from TotallyLegal.com — the UK's leading legal jobs board. No proxy required.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/unfenced-group/totallylegal-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "voMeIqxGevNaoayuP",
+    "name": "LinkedIn Jobs Scraper by Keyword",
+    "description": "🔍 Scrape LinkedIn job listings by keyword, location, or company. Extract job titles, companies, locations, descriptions, posted dates, and more, perfect for recruitment, lead generation, and job market research 🚀",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/apt_marble/linkedin-jobs-scraper-by-keyword?fpr=hs6s8"
+  },
+  {
+    "id": "ptk0PO53bu6HnObkb",
+    "name": "ZipRecruiter Jobs Scraper",
+    "description": "Scrape ZipRecruiter job listings by keyword and location with filters for remote type, salary, employment type, experience level, and more. NO Proxy required.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/datacach/ziprecruiter-search-jobs-by-keyword?fpr=hs6s8"
+  },
+  {
+    "id": "mKrpmBatihcFby4AI",
+    "name": "HelloWork Jobs Scraper",
+    "description": "[💰 $0.95 / 1K] Extract job listings from HelloWork — France's leading job board. Search by keyword and city, filter by contract type, telework, and date posted, and get titles, companies, salaries, full descriptions, and apply links.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/solidcode/hellowork-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "fsL7b7gfyWkQuGaCH",
+    "name": "Indeed Jobs Scraper",
+    "description": "Scrape Indeed job listings across 20+ country domains: job title, company, structured salary (min/max/period/currency), city, state, posted date, snippet, apply URL, and the full job description. Pay per job. No login required.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/nlsch04/indeed-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "bJWdQsCDh6Y5p22q2",
+    "name": "EU EURES Jobs Scraper",
+    "description": "Export European job vacancies from the EURES European Job Mobility Portal. Search by keyword, country, occupation, contract type, and education level across 30+ European countries. Pull title, employer, location, salary, requirements, and posting date.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/parseforge/eu-eures-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "b23CHtci699W1uGWl",
+    "name": "jobserve-scraper",
+    "description": "Scrapes titles of websites using Playwright.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/tolga_yildirim/jobserve-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "agN5E1nK04tGNtH7t",
+    "name": "Remote.co Jobs Scraper",
+    "description": "Scrapes remote job listings from Remote.co across all ~100 job categories. No proxy required — runs on datacenter IPs. Returns: title, company, location, salary (min/max/currency/period), job type, remote type, date posted.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/unfenced-group/remote-co-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "XutKKQT2QEbRuivlu",
+    "name": "OLX PL Pro Scraper",
+    "description": "OLX PL Scraper for search",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/jaason/olx-pl-pro-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "W5bsRmWtBa02p1mVZ",
+    "name": "Flexjobs Jobs Search Scraper",
+    "description": "Scrape FlexJobs.com job search results and collect 50+ data fields per listing — including salary, remote options, schedules, locations, and company info. Perfect for job market analysts, recruiters, and career platform developers.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/flexjobs-jobs-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "SJMVffjKJdku0pOdO",
+    "name": "Rikunabi NEXT Scraper",
+    "description": "Scrape 1.2M+ jobs from Rikunabi NEXT, Japan's largest mid-career portal. Filter by keyword, occupation, or prefecture. Salary in JPY, no proxy needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/unfenced-group/rikunabi-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "PbYVVf48B6FnAAfho",
+    "name": "justcoin-scraper",
+    "description": "Scrapes titles of websites using Playwright.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/tolga_yildirim/justjoin-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "OEDPXHiMg7d5Lf0kS",
+    "name": "JobThai.com Job Scraper",
+    "description": "Scrape job listings from jobthai.com - Thailand's leading job board. GraphQL API, no proxy, no Playwright. PAY_PER_EVENT.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/unfenced-group/jobthai-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "JaW4Hv70OxGSt9UB1",
+    "name": "Snagajob Jobs Search Scraper",
+    "description": "Scrape Snagajob.com search results to collect structured hourly job data including titles, wages, locations, company info, and 40+ fields per listing — perfect for job aggregators, market researchers, and workforce analysts.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/snagajob-jobs-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "B61djXJQrkx8yU5r6",
+    "name": "Greenhouse Job Scraper",
+    "description": "💰$1/1K result💰 Extract live Greenhouse job postings from company career pages. Get clean, structured job data with titles, locations, departments, requirements, benefits, compensation, application questions, and direct posting links.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/vortex_data/greenhouse-job-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "8C80j2N6lo6gqQgms",
+    "name": "LinkedIn Job Listings Scraper by URL",
+    "description": "Scrape detailed job listing data from LinkedIn using direct job URLs. Extract title, company, location, employment type, description, seniority level, skills, and more — fast and easy.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/apt_marble/linkedin-job-listings-scraper-by-url?fpr=hs6s8"
+  },
+  {
+    "id": "4MhOkMs2HconaJj34",
+    "name": "Dice Jobs Search Scraper",
+    "description": "Scrape tech job listings from Dice.com search results with ease. Collect job titles, salaries, company info, remote status, employment types, and 20+ fields per listing — perfect for recruiters, analysts, and job aggregator developers.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/stealth_mode/dice-jobs-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "1rEiwmIsjSGGyZow2",
+    "name": "JobTopGun Scraper",
+    "description": "Scrape job listings from JobTopGun.com — Thailand's #1 job board. Extracts full job details. Supports location filter (32 Thai provinces), keyword, job field, and bulk sitemap scraping. No proxy needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/unfenced-group/jobtopgun-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "dgqA20buCVBN1Ke4I",
+    "name": "Engineering Email Scraper",
+    "description": "Engineering email scraper to extract verified engineer and engineering company emails from business directories, firm websites, and industry listings 📧⚙️ Perfect for B2B outreach, recruitment, and engineering lead generation.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/contacts-api/engineering-email-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "PRwb25e9N5jimtIHk",
+    "name": "Dice US Tech Extractor",
+    "description": "Dice.com scraper that collects tech job listings by keyword search. Gives you job title, company, location, employment type, posting date, and direct apply URL for each result, with automatic pagination across multiple pages.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/kawsar/dice-us-tech-extractor?fpr=hs6s8"
   }
 ]
