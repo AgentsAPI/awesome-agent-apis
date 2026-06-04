@@ -27,7 +27,7 @@
     "id": "yPVke6lPnfMmRZUX6",
     "name": "Youtube Transcript",
     "description": "🎥Extract complete transcripts with precise timestamps ⏱️ and comprehensive video metadata from any YouTube video —> ⚡Fast, reliable, and ready to use.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 21,
     "url": "https://apify.com/dz_omar/youtube-transcript-metadata-extractor?fpr=hs6s8"
   },
@@ -67,7 +67,7 @@
     "id": "VJ5w50TP6mAbyimyO",
     "name": "Email Verifier by Million Verifier - $1/1k emails",
     "description": "✅ #1 Email Verification Service ✅ Only pay for valid and invalid emails ✅ No charge for catch all emails ✅ Easily verify emails from apollo, zoominfo etc",
-    "rating": 4.549063479201756,
+    "rating": 4.549063479201757,
     "rating_count": 13,
     "url": "https://apify.com/account56/email-verifier?fpr=hs6s8"
   },
@@ -91,7 +91,7 @@
     "id": "u0sG3Wiy5pdt9mIfU",
     "name": "Email Verifier & Validator | Bulk Deliverability Check",
     "description": "Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean email lists to reduce bounce rates.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 7,
     "url": "https://apify.com/michael.g/email-verifier-validator?fpr=hs6s8"
   },
@@ -107,7 +107,7 @@
     "id": "aQRfpx1smqXOzVMcU",
     "name": "Video Transcript",
     "description": "Universal video-to-text API across YouTube, TikTok, Instagram, X, Facebook, Vimeo and 1000+ platforms. Returns the full transcript as timestamped segments with the source video metadata, optionally translated into 100+ target languages — one endpoint replacing per-platform transcription stacks.",
-    "rating": 4.352958672442623,
+    "rating": 4.352958672442622,
     "rating_count": 8,
     "url": "https://apify.com/agentx/video-transcript?fpr=hs6s8"
   },
@@ -128,6 +128,14 @@
     "url": "https://apify.com/ilborso/chrono24-scraper-opportunity-notification?fpr=hs6s8"
   },
   {
+    "id": "lAybf7rRybdzabbBk",
+    "name": "Telegram Info Scraper",
+    "description": "Bulk-resolve up to 1,000 Telegram identifiers in one call — mix usernames, @handles, and t.me URLs covering users, bots, channels, supergroups, and groups. Each result returns the canonical entity record with ID, type, title or first/last name, listed phone, scam/fake/verified flags, and members.",
+    "rating": 5.000000000000001,
+    "rating_count": 4,
+    "url": "https://apify.com/agentx/telegram-info-scraper?fpr=hs6s8"
+  },
+  {
     "id": "8vxvc9BwwG34zvS5P",
     "name": "Telegram Group Member",
     "description": "Instantly extract thousands of Telegram members from any group. Access complete user profiles, including phone numbers, bios, and demographics for targeted outreach.",
@@ -139,7 +147,7 @@
     "id": "pP89MLYlHpenyYt5Y",
     "name": "Domain Availability, Expiry, WHOIS, DNS, IP, ASN, 70+ TLD",
     "description": "Domain availability and expiry dates, WHOIS & RDAP data,  DNS (A, MX, NS, TXT),  IP geolocation and ASN details, calculates domain age, and supports batch processing. Supports 70+ TLDs, handles errors gracefully, and delivers clean, structured JSON output.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/datascoutapi/DomainDaddy?fpr=hs6s8"
   },
@@ -160,18 +168,10 @@
     "url": "https://apify.com/the.beast/workflow-orchestrator?fpr=hs6s8"
   },
   {
-    "id": "lAybf7rRybdzabbBk",
-    "name": "Telegram Info Scraper",
-    "description": "Bulk-resolve up to 1,000 Telegram identifiers in one call — mix usernames, @handles, and t.me URLs covering users, bots, channels, supergroups, and groups. Each result returns the canonical entity record with ID, type, title or first/last name, listed phone, scam/fake/verified flags, and members.",
-    "rating": 4.999999999999999,
-    "rating_count": 4,
-    "url": "https://apify.com/agentx/telegram-info-scraper?fpr=hs6s8"
-  },
-  {
     "id": "XqEZodkkqvqAtiSkV",
     "name": "Google AI Overview API",
     "description": "Fetch Google AI Overviews for any query - get the AI-generated answer and its cited sources as structured JSON. Send one or many queries, target a country and language, and handle Google's deferred (page-token) generation automatically. Pay per retrieval. MCP-ready for Claude and AI agents.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/johnvc/Google-AI-Overview-API?fpr=hs6s8"
   },
@@ -232,14 +232,6 @@
     "url": "https://apify.com/hlymrk/html-web-media-scraper?fpr=hs6s8"
   },
   {
-    "id": "6KLyRx66f0nHYV60f",
-    "name": "Google Patents API",
-    "description": "Google Patents API for Claude, Cursor, ChatGPT, and any MCP-compatible AI agent. Search by keyword, inventor, or assignee across USPTO, EPO, WIPO, JPO, CN, KR + 100 offices. Pull claims, citations, family graphs, CPC. AI patent summaries. Pay per event.",
-    "rating": 5.000000000000001,
-    "rating_count": 3,
-    "url": "https://apify.com/johnvc/google-patents-api?fpr=hs6s8"
-  },
-  {
     "id": "8QfidRKcSVYICkwrq",
     "name": "Best Job Search",
     "description": "Job scraper API for LinkedIn, Indeed & Glassdoor. Returns salary ranges, company profiles, and contact info — normalized across 60+ countries. Pay per result.",
@@ -259,9 +251,17 @@
     "id": "w8SNoAPyZLk7sLuOl",
     "name": "Google Scholar Case Law API",
     "description": "API for Google Scholar US case law. Search opinions and pull full case details with court, year, and citation filters. Returns structured JSON. MCP-ready.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/google-scholar-case-law?fpr=hs6s8"
+  },
+  {
+    "id": "6KLyRx66f0nHYV60f",
+    "name": "Google Patents API",
+    "description": "Google Patents API for Claude, Cursor, ChatGPT, and any MCP-compatible AI agent. Search by keyword, inventor, or assignee across USPTO, EPO, WIPO, JPO, CN, KR + 100 offices. Pull claims, citations, family graphs, CPC. AI patent summaries. Pay per event.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/johnvc/google-patents-api?fpr=hs6s8"
   },
   {
     "id": "awbkkk1w2CKtNBScC",
@@ -288,6 +288,22 @@
     "url": "https://apify.com/cheapget/telegram-channel-message?fpr=hs6s8"
   },
   {
+    "id": "iw2hVeBlinZyZqLwm",
+    "name": "AI Brand Visibility - ChatGPT, Perplexity, Copilot, Google AI",
+    "description": "Does ChatGPT recommend your brand? AI Brand Visibility Tracker across ChatGPT, Perplexity, Gemini, Copilot & Google AI Overview - $0.30/query expands to 15-25 real AI datapoints. Ground-truth validated (no LLM hallucination), MCP server for Claude/Cursor, GEO/AEO audit. No subscription.",
+    "rating": 4.082576335235113,
+    "rating_count": 3,
+    "url": "https://apify.com/doesaiknow/ai-brand-visibility---chatgpt-perplexity-copilot-google-ai?fpr=hs6s8"
+  },
+  {
+    "id": "vZF6vhRnwTqXXA0kk",
+    "name": "Tripadvisor Scraper API - Reviews, Hotels, Restaurants & Search",
+    "description": "Scrape Tripadvisor at scale: reviews, hotels, restaurants, attractions. Two modes — paste a URL to extract reviews, or search by keyword + location to discover places (with optional reviews). Rating distribution, sub-ratings, owner responses, photos. Enterprise infrastructure. No login.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/santhej/tripadvisor-scraper-pro?fpr=hs6s8"
+  },
+  {
     "id": "7Ig3I8YcOQ6Rta5vH",
     "name": "SubReddit Info Scraper",
     "description": "Single-call subreddit profiler. Pass any community name (with or without the r/ prefix) and the response returns the official title, public description, subscriber count, active-member count, creation date, content rules, moderator list, and category tags for community due-diligence.",
@@ -310,14 +326,6 @@
     "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/agentify/browserbase-mcp-server?fpr=hs6s8"
-  },
-  {
-    "id": "vZF6vhRnwTqXXA0kk",
-    "name": "Tripadvisor Scraper API - Reviews, Hotels, Restaurants & Search",
-    "description": "Scrape Tripadvisor at scale: reviews, hotels, restaurants, attractions. Two modes — paste a URL to extract reviews, or search by keyword + location to discover places (with optional reviews). Rating distribution, sub-ratings, owner responses, photos. Enterprise infrastructure. No login.",
-    "rating": 4.999999999999999,
-    "rating_count": 2,
-    "url": "https://apify.com/santhej/tripadvisor-scraper-pro?fpr=hs6s8"
   },
   {
     "id": "claPedDvrKAd56Bgb",
@@ -355,7 +363,7 @@
     "id": "VKbkpw9WWHSSKAuja",
     "name": "Propertyfinder Scraper",
     "description": "Extract property listings from PropertyFinder across the UAE, Saudi Arabia, Bahrain, Egypt & Qatar. Get prices, locations, agent contacts, amenities & specs. Fast, reliable scraping with multi-country support. Perfect for real estate pros & market analysis.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/dz_omar/propertyfinder-scraper?fpr=hs6s8"
   },
@@ -382,14 +390,6 @@
     "rating": 3.579772429064423,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/tiktok-live-recorder?fpr=hs6s8"
-  },
-  {
-    "id": "iw2hVeBlinZyZqLwm",
-    "name": "AI Brand Visibility - ChatGPT, Perplexity, Copilot, Google AI",
-    "description": "Does ChatGPT recommend your brand? AI Brand Visibility Tracker across ChatGPT, Perplexity, Gemini, Copilot & Google AI Overview - $0.30/query expands to 15-25 real AI datapoints. Ground-truth validated (no LLM hallucination), MCP server for Claude/Cursor, GEO/AEO audit. No subscription.",
-    "rating": 3.342214328004737,
-    "rating_count": 2,
-    "url": "https://apify.com/doesaiknow/ai-brand-visibility---chatgpt-perplexity-copilot-google-ai?fpr=hs6s8"
   },
   {
     "id": "78cFU7dXHwszeVm9A",
@@ -554,7 +554,7 @@
   {
     "id": "VZTENHFJOyJEGIKCv",
     "name": "Speech-to-Text Transcription",
-    "description": "Transcribe audio or video from YouTube and 1000+ other platforms, direct media URLs, or Key-Value Store uploads using Deepgram with speaker diarization.",
+    "description": "Transcribe audio and video from YouTube, TikTok, podcasts, X, and 1,000+ other sites or any direct media URL into accurate, speaker-labeled text. Uses World's best speech to text AI models with automatic language detection, multilingual support, and smart formatting.",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/hgservices/speech-to-text?fpr=hs6s8"
@@ -563,7 +563,7 @@
     "id": "RpLPDRPEZF68nsc9U",
     "name": "Earnings Call Transcript & Sentiment Scraper",
     "description": "Turn any video into financial insights. The best free alternative to Yahoo Finance and Bloomberg API. Scrape earnings call transcripts and daily finance content, analyze sentiment with AI, and extract financial news in structured JSON.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/royal_xenomorph/earnings-call-transcript-sentiment-scraper?fpr=hs6s8"
   },
@@ -707,7 +707,7 @@
     "id": "MnjGHMSrTj6BdgQv0",
     "name": "Google Keyword  Scraper ( With SEO Metrics )",
     "description": "Discover keyword ideas instantly, scrapes Google autocomplete, expands with similar keywords, and adds SEO metrics.",
-    "rating": 2.146029324881515,
+    "rating": 2.146029324881516,
     "rating_count": 2,
     "url": "https://apify.com/dxbear/google-keyword-scraper?fpr=hs6s8"
   },
@@ -6374,5 +6374,77 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/khadinakbar/social-media-sentiment-analyzer?fpr=hs6s8"
+  },
+  {
+    "id": "xyI0YJUEsDVlNoCaT",
+    "name": "MediaMarkt & Saturn Scraper for Product Prices",
+    "description": "Extract MediaMarkt and Saturn product prices, sellers, availability, ratings, images, EANs, and category data to JSON or CSV.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/truenorth/mediamarkt-saturn-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "mRoNIqjTARp9kmPYz",
+    "name": "ClinicalTrials Intelligence MCP — 450K+ Studies",
+    "description": "Search, filter, and analyze 450,000+ clinical trials from ClinicalTrials.gov via a Model Context Protocol (MCP) server. This Apify Actor exposes structured clinical trial data to AI assistants (Claude, GPT-4, Cursor), research pipelines, and compliance systems — no API key or ...",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/andrew_avina/clinicaltrials-intelligence-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "bBlD1QBxsQ8BCP6HL",
+    "name": "GitHub Issue Lead Monitor",
+    "description": "Find GitHub issues that reveal bugs, feature requests, migration pain, API problems, support demand, competitor gaps, and open-source product signals.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/techionik9993/github-issue-lead-monitor?fpr=hs6s8"
+  },
+  {
+    "id": "YYrx2IflERlWvODeo",
+    "name": "Hacker News Lead & Trend Monitor",
+    "description": "lead generation, product research, founder research, trend monitoring, and competitive intelligence. It uses the public Hacker News Algolia API, so runs are fast, low-cost, and do not need a proxy by default.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/techionik9993/hacker-news-lead-trend-monitor?fpr=hs6s8"
+  },
+  {
+    "id": "KNHPUONsWQLNvtguk",
+    "name": "FEC Campaign Finance Intelligence MCP",
+    "description": "Follow the money in US politics — FEC campaign finance data via MCP.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/andrew_avina/fec-intelligence-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "IbMFjThxRVgHaPpsR",
+    "name": "EPA Enforcement Intelligence MCP — ECHO Database",
+    "description": "Search 500,000+ EPA-regulated facility records for environmental violations, inspections, toxic releases, and compliance status — directly from your AI assistant.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/andrew_avina/epa-intelligence-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "EOIcdA8qMkBxXErSo",
+    "name": "Kleinanzeigen.de Ebay Kleinanzeigen ($1 PPE) Search Results",
+    "description": "Scrapes organic listings from kleinanzeigen.de search and category pages.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/truenorth/ebay-kleinanzeigen?fpr=hs6s8"
+  },
+  {
+    "id": "D6sfdIrZo0JcHtaQp",
+    "name": "OFAC Sanctions Intelligence MCP",
+    "description": "Real-time OFAC SDN sanctions screening for AI assistants, compliance workflows, and KYC pipelines.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/andrew_avina/ofac-sanctions-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "3ItQE4OEPUl1GeBAB",
+    "name": "FRED Economic Intelligence MCP — 30+ Fed Reserve Indicators",
+    "description": "30+ Federal Reserve FRED economic indicators, live in your AI assistant. No API key required.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/andrew_avina/fred-economic-mcp?fpr=hs6s8"
   }
 ]
