@@ -3,15 +3,15 @@
     "id": "GdWCkxBtKWOsKjdch",
     "name": "TikTok Scraper",
     "description": "Extract data from TikTok videos, hashtags, and users. Use URLs or search queries to scrape TikTok profiles, hashtags, posts, URLs, shares, followers, hearts, names, video, and music-related data. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools.",
-    "rating": 4.748282487658304,
-    "rating_count": 302,
+    "rating": 4.765195531982353,
+    "rating_count": 303,
     "url": "https://apify.com/clockworks/tiktok-scraper?fpr=hs6s8"
   },
   {
     "id": "h7sDV53CddomktSi5",
     "name": "YouTube Scraper",
     "description": "YouTube crawler and video scraper. Alternative YouTube API with no limits or quotas. Extract and download channel name, likes, number of views, and number of subscribers.",
-    "rating": 4.830967140830351,
+    "rating": 4.83096714083035,
     "rating_count": 167,
     "url": "https://apify.com/streamers/youtube-scraper?fpr=hs6s8"
   },
@@ -19,7 +19,7 @@
     "id": "BDec00yAmCm1QbMEI",
     "name": "TikTok Comments Scraper",
     "description": "Extract TikTok comments. Just add a TikTok URL and get TikTok video and profile data: comments, URLs, numbers of shares, followers, hashtags, hearts, video, and music metadata. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools.",
-    "rating": 4.765860967035387,
+    "rating": 4.765860967035386,
     "rating_count": 73,
     "url": "https://apify.com/clockworks/tiktok-comments-scraper?fpr=hs6s8"
   },
@@ -35,7 +35,7 @@
     "id": "OtzYfK1ndEGdwWFKQ",
     "name": "TikTok Data Extractor",
     "description": "Extract data about videos, users, and channels based on hashtags or scrape full user profiles including posts, total likes, name, nickname, numbers of comments, shares, followers, following, and more.",
-    "rating": 4.75164216681771,
+    "rating": 4.751642166817709,
     "rating_count": 63,
     "url": "https://apify.com/clockworks/free-tiktok-scraper?fpr=hs6s8"
   },
@@ -83,7 +83,7 @@
     "id": "p7UMdpQnjKmmpR21D",
     "name": "YouTube Comments Scraper",
     "description": "This alternative YouTube Data API has no limits or quotas. Extract YouTube comments data from one or multiple YouTube videos: full comment text, posting date, author username, video title, videoId. Download YouTube comments in JSON, CSV, and Excel.",
-    "rating": 4.800876636179539,
+    "rating": 4.800876636179538,
     "rating_count": 36,
     "url": "https://apify.com/streamers/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -179,17 +179,9 @@
     "id": "0ycYdAhPrT68bcU7O",
     "name": "Snapchat Hashtag Scraper",
     "description": "Scrape Snapchat Spotlight videos by hashtag. Extracts video metadata, engagement stats (views, likes, shares, comments), creator info, and download URLs.",
-    "rating": 4.999999999999999,
-    "rating_count": 27,
-    "url": "https://apify.com/crawlerbros/snapchat-hashtag-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "U0IKbukdjOr4F6551",
-    "name": "Tiktok Comments Scraper",
-    "description": "Scrape comments from TikTok videos. Extract comment text, user ID, timestamp, number of replies and replies content, number of likes, and more. Input video URLs or usernames to get all comments.",
     "rating": 5,
     "rating_count": 27,
-    "url": "https://apify.com/crawlerbros/tiktok-comments-scraper?fpr=hs6s8"
+    "url": "https://apify.com/crawlerbros/snapchat-hashtag-scraper?fpr=hs6s8"
   },
   {
     "id": "Ur9uJ7RjpUYmBMdfp",
@@ -206,6 +198,30 @@
     "rating": 5,
     "rating_count": 27,
     "url": "https://apify.com/crawlerbros/youtube-playlist-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "U0IKbukdjOr4F6551",
+    "name": "Tiktok Comments Scraper",
+    "description": "Scrape comments from TikTok videos. Extract comment text, user ID, timestamp, number of replies and replies content, number of likes, and more. Input video URLs or usernames to get all comments.",
+    "rating": 4.999999999999999,
+    "rating_count": 27,
+    "url": "https://apify.com/crawlerbros/tiktok-comments-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "mgaavSb81Q81YMtW5",
+    "name": "Instagram Story Downloader",
+    "description": "Scrape and optionally download Instagram stories for specified usernames using Playwright. Also obtain metadata for stories, such as story id, publish date, expiry date, mentions, links and etc.",
+    "rating": 5.000000000000001,
+    "rating_count": 26,
+    "url": "https://apify.com/crawlerbros/instagram-story-downloader?fpr=hs6s8"
+  },
+  {
+    "id": "nWhaBpsXKl5rHUVNM",
+    "name": "Tiktok Downloader Api",
+    "description": "Download TikTok videos and their cover thumbnails by URL. Give the actor a list of TikTok post links and it will return direct download URLs for both the video file and the cover image — stored in Apify's Key-Value Store and ready to use immediately.",
+    "rating": 5.000000000000001,
+    "rating_count": 26,
+    "url": "https://apify.com/crawlerbros/tiktok-downloader-api?fpr=hs6s8"
   },
   {
     "id": "CBqtHwzxAIARY9hKy",
@@ -240,34 +256,18 @@
     "url": "https://apify.com/crawlerbros/instagram-downloader-api?fpr=hs6s8"
   },
   {
-    "id": "mgaavSb81Q81YMtW5",
-    "name": "Instagram Story Downloader",
-    "description": "Scrape and optionally download Instagram stories for specified usernames using Playwright. Also obtain metadata for stories, such as story id, publish date, expiry date, mentions, links and etc.",
-    "rating": 5,
-    "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/instagram-story-downloader?fpr=hs6s8"
-  },
-  {
     "id": "wKgF6hy8gl9L0yk4u",
     "name": "Tiktok Profile Mention Scraper",
     "description": "Scrape TikTok videos that mention specific usernames (@mentions) without cookies. Extracts video metadata (views, likes, comments, shares), author info, music metadata, and more.",
-    "rating": 4.999999999999999,
-    "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/tiktok-profile-mention-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "nWhaBpsXKl5rHUVNM",
-    "name": "Tiktok Downloader Api",
-    "description": "Download TikTok videos and their cover thumbnails by URL. Give the actor a list of TikTok post links and it will return direct download URLs for both the video file and the cover image — stored in Apify's Key-Value Store and ready to use immediately.",
     "rating": 5,
     "rating_count": 26,
-    "url": "https://apify.com/crawlerbros/tiktok-downloader-api?fpr=hs6s8"
+    "url": "https://apify.com/crawlerbros/tiktok-profile-mention-scraper?fpr=hs6s8"
   },
   {
     "id": "cvwhFsitQ7jHImiwh",
     "name": "Youtube Video Details Scraper",
     "description": "Extract comprehensive details from YouTube videos including metadata, channel information, transcripts, comments, and engagement metrics.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 26,
     "url": "https://apify.com/crawlerbros/youtube-video-details-scraper?fpr=hs6s8"
   },
@@ -283,9 +283,17 @@
     "id": "4GEyZXJXb5bdWMC6j",
     "name": "Youtube Channel Scraper",
     "description": "Scrape YouTube channel info and video listings. Get channel metadata, subscriber counts, and complete video catalogs from any YouTube channel.",
-    "rating": 4.695808222784096,
+    "rating": 4.695808222784095,
     "rating_count": 28,
     "url": "https://apify.com/crawlerbros/youtube-channel-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "HRkiUchChUxBxXaAB",
+    "name": "TED Talks Scraper",
+    "description": "Scrape TED.com talks with title, speaker, duration, view count, publish/record dates, topics, language, description, thumbnail. Two modes: fetch specific talks by URL/slug, or browse all talks in a topic. Pure HTTP, no auth needed.",
+    "rating": 5.000000000000001,
+    "rating_count": 23,
+    "url": "https://apify.com/crawlerbros/ted-talks-scraper?fpr=hs6s8"
   },
   {
     "id": "CGEhBrKrYHR0RIj2G",
@@ -310,14 +318,6 @@
     "rating": 5,
     "rating_count": 23,
     "url": "https://apify.com/crawlerbros/instagram-keyword-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "HRkiUchChUxBxXaAB",
-    "name": "TED Talks Scraper",
-    "description": "Scrape TED.com talks with title, speaker, duration, view count, publish/record dates, topics, language, description, thumbnail. Two modes: fetch specific talks by URL/slug, or browse all talks in a topic. Pure HTTP, no auth needed.",
-    "rating": 5,
-    "rating_count": 23,
-    "url": "https://apify.com/crawlerbros/ted-talks-scraper?fpr=hs6s8"
   },
   {
     "id": "5K30i8aFccKNF5ICs",
@@ -363,7 +363,7 @@
     "id": "S5h7zRLfKFEr8pdj7",
     "name": "TikTok Video Scraper",
     "description": "Extract data from chosen tiktoks. Just add a TikTok URL and get TikTok video and profile data: URLs, numbers of shares, followers, hashtags, hearts, video, and music metadata. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools.",
-    "rating": 4.26657277550379,
+    "rating": 4.266572775503791,
     "rating_count": 25,
     "url": "https://apify.com/clockworks/tiktok-video-scraper?fpr=hs6s8"
   },
@@ -379,7 +379,7 @@
     "id": "1p1aa7gcSydPkAE0d",
     "name": "🏯 Youtube Scraper (Pay Per Result)",
     "description": "Experience unparalleled efficiency and depth with its ultra-fast capabilities in searching, URL, playlist, channel, and profile scraping. It comes equipped with a variety of filters to customize your data collection precisely. Plus, it's incredibly affordable at only $0.50 per 1000 videos!",
-    "rating": 4.691095152859006,
+    "rating": 4.691095152859005,
     "rating_count": 20,
     "url": "https://apify.com/apidojo/youtube-scraper?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "6uIoKg2usCj4zERbF",
     "name": "JustWatch + Trakt Scraper",
     "description": "Combined movies/TV scraper covering JustWatch (60+ countries, streaming-availability + offers) and Trakt (movies/shows/episodes/people, popular/trending/anticipated). One actor, two surfaces, switchable via the `platform` input.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 16,
     "url": "https://apify.com/crawlerbros/justwatch-trakt-scraper?fpr=hs6s8"
   },
@@ -435,7 +435,7 @@
     "id": "hPYBpcmsKVA6l3V1v",
     "name": "🎬 Youtube Playlist Extractor",
     "description": "Extract complete 🎬 playlist information with all video details from any YouTube playlist -->⚡Fast, reliable, and built for scale. Get video lists, durations, thumbnails, and channel info.",
-    "rating": 4.92315807359831,
+    "rating": 4.923158073598311,
     "rating_count": 14,
     "url": "https://apify.com/dz_omar/youtube-playlist-extractor?fpr=hs6s8"
   },
@@ -451,7 +451,7 @@
     "id": "3wJ20MFmqn0NLyb8s",
     "name": "YouTube Email & Phone Scraper 📧📞",
     "description": "🔍 Extract emails & phone numbers from YouTube quickly! Search by keywords, email domains, & scrape unlimited contacts. Apply filters for domains like Gmail, Yahoo, or custom options. Receive accurate lists with YouTube source links. With a single snap, your information is right at your reach.🚀📧📱",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/scrapestorm/youtube-email-phone-scraper?fpr=hs6s8"
   },
@@ -459,7 +459,7 @@
     "id": "nV3gcZddkLsgRWhSs",
     "name": "Youtube Transcript Scraper Rental $10/month",
     "description": "Are you in search of a robust solution for extracting transcripts from YouTube videos? Look no further 😉, YouTube-Transcript-Scraper will meet your needs. Our software not only efficiently retrieves transcripts but also provides additional valuable information .👍 😀 Scrap away 🕵‍♂️.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 13,
     "url": "https://apify.com/vistics/youtube-transcript-scraper-rental-10-month?fpr=hs6s8"
   },
@@ -467,7 +467,7 @@
     "id": "XomSRf7d0qf3mVj1y",
     "name": "🏯 Tiktok Comments Scraper (Pay Per Result)",
     "description": "Extract TikTok comments at 100–200 comments/second. No proxy required. 98% success rate. Scrape text, likes, replies, and user data with simple URL input. Export to JSON/CSV, integrate via API. Ideal for influencer research, lead generation, and trend analysis. $0.30 per 1,000 comments.",
-    "rating": 4.927883462334208,
+    "rating": 4.927883462334207,
     "rating_count": 13,
     "url": "https://apify.com/apidojo/tiktok-comments-scraper?fpr=hs6s8"
   },
@@ -475,7 +475,7 @@
     "id": "ssOXktOBaQQiYfhc4",
     "name": "🏯 Tiktok Profile Scraper (Pay Per Result)",
     "description": "Scrape TikTok user profiles at 425 posts/sec with 98% success, no proxy needed. Get followers, bio, badges, full video history & engagement. Username or URL input. Export JSON/CSV, API ready. Perfect for influencer research, lead gen & brand deals. $0.30 per 1K posts.",
-    "rating": 4.701480403268507,
+    "rating": 4.701480403268506,
     "rating_count": 14,
     "url": "https://apify.com/apidojo/tiktok-profile-scraper?fpr=hs6s8"
   },
@@ -483,7 +483,7 @@
     "id": "YbmoVOUovb8Ixfv2z",
     "name": "YouTube Full Channel Transcripts Extractor",
     "description": "With only the channel or playlist link You can extract 1 to 1000s of all the transcripts of a channel, be it videos or shorts or streams/lives or even podcasts and playlists, you name it. Get all the transcripts/captions organized  with video ID and title in a nice table or JSON or CSV to download.",
-    "rating": 4.860979454874583,
+    "rating": 4.860979454874582,
     "rating_count": 13,
     "url": "https://apify.com/karamelo/youtube-full-channel-transcripts-extractor?fpr=hs6s8"
   },
@@ -507,7 +507,7 @@
     "id": "C8guHVgSwCOHTI587",
     "name": "Loom Scraper | 🎥Downloader & 📄 Transcript",
     "description": "🎥 Advanced Loom scraper that extracts & downloads videos, transcripts, and metadata from individual videos and entire 🗂️folders. Supports bulk operations, multiple formats (SRT, VTT, TXT, XML), and authentication. 📚 Ideal for content archiving and knowledge management.",
-    "rating": 4.72271847991722,
+    "rating": 4.722718479917221,
     "rating_count": 13,
     "url": "https://apify.com/dz_omar/loom-video-scraper?fpr=hs6s8"
   },
@@ -515,7 +515,7 @@
     "id": "naqsZgh7DhGajnD5z",
     "name": "Full TikTok API Scraper",
     "description": "Apify’s LOWEST-COST TikTok Scraper. Access the TikTok mobile API for user, posts, sounds, search, comments, followers, and more. Unlock TikTok data at scale. Have custom needs? Visit scraptik.com to get in touch.",
-    "rating": 4.820393616885468,
+    "rating": 4.820393616885469,
     "rating_count": 12,
     "url": "https://apify.com/scraptik/tiktok-api?fpr=hs6s8"
   },
@@ -579,23 +579,39 @@
     "id": "i7JuI8WcwN94blNMb",
     "name": "TikTok Followers Scraper",
     "description": "Scrape TikTok followers and following profiles from any account. Input a profile name, and get detailed lists of followers and following profiles with complete metadata. Perfect for lead generation, audience analysis, and segmentation.",
-    "rating": 4.316505397345166,
+    "rating": 4.316505397345165,
     "rating_count": 12,
     "url": "https://apify.com/clockworks/tiktok-followers-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "UUhJDfKJT2SsXdclR",
+    "name": "YouTube Video Downloader",
+    "description": "Use YouTube Video Downloader to download YouTube videos in MP4, MP3, avi, and other formats directly to your cloud storage service.  Just add a YouTube video URL and get the converted video in a few seconds.",
+    "rating": 3.316022708476693,
+    "rating_count": 19,
+    "url": "https://apify.com/streamers/youtube-video-downloader?fpr=hs6s8"
   },
   {
     "id": "y1IMcEPawMQPafm02",
     "name": "Youtube Video Downloader",
     "description": "Effortlessly download YouTube videos of your preferred quality with our user-friendly Video Downloader. Try it now!",
-    "rating": 2.970106334300804,
+    "rating": 2.970106334300803,
     "rating_count": 24,
     "url": "https://apify.com/epctex/youtube-video-downloader?fpr=hs6s8"
+  },
+  {
+    "id": "DCJxZGuGFvia9Z73D",
+    "name": "YouTube Comments Scraper",
+    "description": "Export YouTube comments & replies to a structured dataset in minutes. Get author, text, likes, timestamps, and more—ready for analysis, dashboards, or archiving. Built for speed and reliability.",
+    "rating": 5.000000000000001,
+    "rating_count": 9,
+    "url": "https://apify.com/api-ninja/youtube-comments-scraper?fpr=hs6s8"
   },
   {
     "id": "whvLTDFAxZDEKScSC",
     "name": "Bluesky Video Downloader",
     "description": "Download videos from Bluesky posts by adding one or more Bluesky post URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/bytepulselabs/bluesky-video-downloader?fpr=hs6s8"
   },
@@ -606,14 +622,6 @@
     "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/apidojo/tiktok-user-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "DCJxZGuGFvia9Z73D",
-    "name": "YouTube Comments Scraper",
-    "description": "Export YouTube comments & replies to a structured dataset in minutes. Get author, text, likes, timestamps, and more—ready for analysis, dashboards, or archiving. Built for speed and reliability.",
-    "rating": 5,
-    "rating_count": 9,
-    "url": "https://apify.com/api-ninja/youtube-comments-scraper?fpr=hs6s8"
   },
   {
     "id": "3kUNymOxxql27kv58",
@@ -627,7 +635,7 @@
     "id": "g2h290TFYTSCWID7f",
     "name": "YouTube Video Downloader",
     "description": "🔥 Download YouTube 4K videos & HQ audio (MP3/FLAC) with persistent storage. Stop links from expiring! Supports multi-language tracks & bulk processing. Professional, high-speed standalone media API.",
-    "rating": 4.658374529591835,
+    "rating": 4.658374529591836,
     "rating_count": 9,
     "url": "https://apify.com/api-ninja/youtube-video-downloader?fpr=hs6s8"
   },
@@ -635,7 +643,7 @@
     "id": "2Vv224RG0OwHyHzCh",
     "name": "Fast YouTube Channel Scraper API | Profiles, Subs & Stats",
     "description": "Extreme flexibility with search functionalities enables you to retrieve extensive channel information in detail. Not just that but YouTube Channel Information Scraper offers you Country, Language, and Location geo-targeting capabilities. Only $0.50 per 1000 channels!",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 8,
     "url": "https://apify.com/apidojo/youtube-channel-information-scraper?fpr=hs6s8"
   },
@@ -648,18 +656,10 @@
     "url": "https://apify.com/tictechid/anoxvanzi-Transcriber?fpr=hs6s8"
   },
   {
-    "id": "Z3ap3k2TvKtXRrmya",
-    "name": "edX Online Course Data Extractor",
-    "description": "Effortlessly scrape thousands of online courses from edX. Extract titles, images, details, owners, and all other course details. Customize your search with filters like language and more for precise results.",
-    "rating": 5,
-    "rating_count": 8,
-    "url": "https://apify.com/epctex/edx-scraper?fpr=hs6s8"
-  },
-  {
     "id": "Hs4xIUB9EF9w8EeAq",
     "name": "Twitter / X Video Transcript Scraper",
     "description": "Extract transcripts from Twitter/X video posts. Returns timestamped segments using native Twitter captions (WebVTT) with automatic Whisper AI fallback for uncaptioned videos",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/twitter-transcript-scraper?fpr=hs6s8"
   },
@@ -667,7 +667,7 @@
     "id": "GDwb9udS0q2Ha9J4S",
     "name": "Khan Academy Scraper",
     "description": "Scrape Khan Academy with free CC-licensed educational content. Search by keyword, fetch by path/URL/subject, list all courses, look up videos by YouTube ID. Returns videos with download URLs, articles, exercises, courses and units.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 8,
     "url": "https://apify.com/crawlerbros/khanacademy-scraper?fpr=hs6s8"
   },
@@ -688,6 +688,14 @@
     "url": "https://apify.com/bytepulselabs/youtube-video-downloader?fpr=hs6s8"
   },
   {
+    "id": "Z3ap3k2TvKtXRrmya",
+    "name": "edX Online Course Data Extractor",
+    "description": "Effortlessly scrape thousands of online courses from edX. Extract titles, images, details, owners, and all other course details. Customize your search with filters like language and more for precise results.",
+    "rating": 4.999999999999999,
+    "rating_count": 8,
+    "url": "https://apify.com/epctex/edx-scraper?fpr=hs6s8"
+  },
+  {
     "id": "3x0zTMttVVDOLGVEr",
     "name": "TikTok Trending Creators Scraper",
     "description": "Discover trending TikTok creators with a powerful API 📈. Effortlessly extract data for competition monitoring, market research, and trend analysis. Enhance engagement by analyzing popular trends and content within your niche and country.",
@@ -696,18 +704,10 @@
     "url": "https://apify.com/lexis-solutions/tiktok-trending-creators-scraper?fpr=hs6s8"
   },
   {
-    "id": "UUhJDfKJT2SsXdclR",
-    "name": "YouTube Video Downloader",
-    "description": "Use YouTube Video Downloader to download YouTube videos in MP4, MP3, avi, and other formats directly to your cloud storage service.  Just add a YouTube video URL and get the converted video in a few seconds.",
-    "rating": 3.139444954921921,
-    "rating_count": 18,
-    "url": "https://apify.com/streamers/youtube-video-downloader?fpr=hs6s8"
-  },
-  {
     "id": "vX4OyUdqIoP3jYWBU",
     "name": "YouTube Full Channel,Playlists,Shorts,Live...",
     "description": "Extracts metadata and scripts from all YT content, identifying smart keywords like #hashtags and @channelnames. It supports playlists, shorts, live, podcasts, courses, channels, videos, and batch requests.",
-    "rating": 4.971783052448416,
+    "rating": 4.971783052448417,
     "rating_count": 8,
     "url": "https://apify.com/dz_omar/Youtube-Scraper-Pro?fpr=hs6s8"
   },
@@ -715,7 +715,7 @@
     "id": "REpzi5gxGt0DREvoi",
     "name": "Youtube Channel Scraper",
     "description": "Extract comprehensive data from YouTube channels including video stats, channel details, and engagement metrics. Support for multiple channels (up to 100), date filtering, and sorting options. Get video views, likes, comments, duration, tags plus channel subscribers, total views, and more.",
-    "rating": 4.931760443569796,
+    "rating": 4.931760443569795,
     "rating_count": 8,
     "url": "https://apify.com/grow_media/youtube-channel-scraper?fpr=hs6s8"
   },
@@ -739,7 +739,7 @@
     "id": "VKq9XadYVhIsp28Ly",
     "name": "Tiktok Data Scraper",
     "description": "🔥 Extract public TikTok data at scale: profiles, videos, followers, comments/replies, hashtags, music, playlists, and video details. Get structured metrics, creator info, engagement stats, and discovery signals via one standalone Apify API Actor.",
-    "rating": 4.889940240481233,
+    "rating": 4.889940240481232,
     "rating_count": 8,
     "url": "https://apify.com/api-ninja/tiktok-data-scraper?fpr=hs6s8"
   },
@@ -755,7 +755,7 @@
     "id": "bbqmsPr0r519A0ZaV",
     "name": "YouTube Transcript Scraper- Fast & Accurate",
     "description": "YouTube Transcript Scraper  & Extractor API — Extract transcripts, captions & subtitles from YouTube videos, Shorts & VODs without an API key. Supports auto-generated and manual captions in 100+ languages with translation, batch extraction & clean JSON for AI agents, RAG, SEO & automation.",
-    "rating": 4.811262383726552,
+    "rating": 4.811262383726553,
     "rating_count": 8,
     "url": "https://apify.com/akash9078/youtube-transcript-extractor?fpr=hs6s8"
   },
@@ -763,7 +763,7 @@
     "id": "TmQ8I14wjCwA8AUIU",
     "name": "🏯 Tiktok Music & Sound Scraper",
     "description": "Scrape TikTok music data at 300 tracks/sec with 98% success - no proxy needed. Extract titles, artists, IDs, usage counts, covers & video data in real-time. Supports URL/ID input. Export JSON/CSV with full API integration. Perfect for trend tracking, viral analysis & campaigns.",
-    "rating": 4.779810528487055,
+    "rating": 4.779810528487054,
     "rating_count": 8,
     "url": "https://apify.com/apidojo/tiktok-music-scraper?fpr=hs6s8"
   },
@@ -776,6 +776,30 @@
     "url": "https://apify.com/datavoyantlab/advanced-instagram-stories-scraper?fpr=hs6s8"
   },
   {
+    "id": "xgXvf2RWYmPm769kB",
+    "name": "YouTube Video Downloader⚡",
+    "description": "🎵 Instantly grab🎥videos,🎵audio, &📱Shorts from YouTube & YouTube Kids! Supports 8K to 360p Videos 🌍, and family-friendly content 👧👦 Get direct MP4/MP3 links in seconds! ⚡ YouTube Video, Shorts, Audio/MP3 & YouTube-Kids Video Downloader 🚀",
+    "rating": 3.29675879158615,
+    "rating_count": 14,
+    "url": "https://apify.com/scrapearchitect/youtube-video-downloader?fpr=hs6s8"
+  },
+  {
+    "id": "ya5m4Jov9053eeojz",
+    "name": "LinkedIn Video Downloader",
+    "description": "Download videos from LinkedIn by adding one or more LinkedIn post URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/bytepulselabs/linkedin-video-downloader?fpr=hs6s8"
+  },
+  {
+    "id": "9LqS97MulUCdIRymM",
+    "name": "Snapchat Video Downloader",
+    "description": "Download videos from Snapchat by adding one or more Snapchat video URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.",
+    "rating": 5.000000000000001,
+    "rating_count": 7,
+    "url": "https://apify.com/bytepulselabs/snapchat-video-downloader?fpr=hs6s8"
+  },
+  {
     "id": "JOgEdu6j61eqvVsRC",
     "name": "X (Twitter) Video Downloader",
     "description": "Download videos from X (Twitter) posts by adding one or more X post URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.",
@@ -784,28 +808,12 @@
     "url": "https://apify.com/bytepulselabs/x-video-downloader?fpr=hs6s8"
   },
   {
-    "id": "ya5m4Jov9053eeojz",
-    "name": "LinkedIn Video Downloader",
-    "description": "Download videos from LinkedIn by adding one or more LinkedIn post URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.",
-    "rating": 5,
-    "rating_count": 7,
-    "url": "https://apify.com/bytepulselabs/linkedin-video-downloader?fpr=hs6s8"
-  },
-  {
     "id": "10GVbdIrueLyN5eZY",
     "name": "Fast YouTube Playlist Scraper API | Extract Videos & Metadata",
     "description": "The ultimate solution for detailed YouTube playlist information. Enjoy unmatched speed and thoroughness in both search and direct video retrieval from playlists. Additionally, it's remarkably cost-effective at just $0.50 per 1000 videos!",
-    "rating": 5.000000000000001,
-    "rating_count": 7,
-    "url": "https://apify.com/apidojo/youtube-playlist-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "9LqS97MulUCdIRymM",
-    "name": "Snapchat Video Downloader",
-    "description": "Download videos from Snapchat by adding one or more Snapchat video URLs to extract embedded videos. Then, save downloaded media files, run the downloader via API, schedule and monitor downloads, or integrate with other tools for automated video archiving.",
     "rating": 5,
     "rating_count": 7,
-    "url": "https://apify.com/bytepulselabs/snapchat-video-downloader?fpr=hs6s8"
+    "url": "https://apify.com/apidojo/youtube-playlist-scraper?fpr=hs6s8"
   },
   {
     "id": "BusvvDDnfskrEC37G",
@@ -899,7 +907,7 @@
     "id": "TXTXbIIzceJgJ9eeP",
     "name": "Dailymotion Video Downloader",
     "description": "Download videos from Dailymotion without any limits!",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 7,
     "url": "https://apify.com/epctex/dailymotion-video-downloader?fpr=hs6s8"
   },
@@ -928,18 +936,10 @@
     "url": "https://apify.com/apidojo/youtube-trending-scraper?fpr=hs6s8"
   },
   {
-    "id": "xgXvf2RWYmPm769kB",
-    "name": "YouTube Video Downloader⚡",
-    "description": "🎵 Instantly grab🎥videos,🎵audio, &📱Shorts from YouTube & YouTube Kids! Supports 8K to 360p Videos 🌍, and family-friendly content 👧👦 Get direct MP4/MP3 links in seconds! ⚡ YouTube Video, Shorts, Audio/MP3 & YouTube-Kids Video Downloader 🚀",
-    "rating": 3.29675879158615,
-    "rating_count": 14,
-    "url": "https://apify.com/scrapearchitect/youtube-video-downloader?fpr=hs6s8"
-  },
-  {
     "id": "pdrebcNgUuoJOYVh8",
     "name": "🎉 YouTube Long Video Downloader 🎥",
     "description": "✨ Download hour-long YouTube videos from 360P to 8K🕒 Perfect for lectures, streams, & docs. 🌐 ⬇️ Get direct MP4/MP3 links + merged files. 🚀 Bulk URL support & reliable downloads. ✨ Made for creators, educators, & archivists ✨ YouTube Long Video Downloader 🎥",
-    "rating": 4.048912014972647,
+    "rating": 4.048912014972646,
     "rating_count": 9,
     "url": "https://apify.com/scrapearchitect/youtube-long-video-downloader?fpr=hs6s8"
   },
@@ -979,7 +979,7 @@
     "id": "eW7DcXcRf6FeYF1qq",
     "name": "Loom Video Downloader",
     "description": "Downloads any Loom video with just a link or embed code. Fast, reliable, and supports batch processing to download multiple videos at once. Save your favorite videos for offline viewing, backup, or sharing. Works with all standard Loom formats.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/expanditumarca/loom-video-downloader?fpr=hs6s8"
   },
@@ -1003,7 +1003,7 @@
     "id": "hHOebBYQcDKgqzyI2",
     "name": "TikTok Video Downloader",
     "description": "Extract TikTok 🎥 video download links without watermarks. Get complete metadata, engagement metrics, and automatic downloads with smart resource allocation. Perfect for content creators, researchers, and businesses needing clean TikTok content.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/dz_omar/tiktok-video-downloader?fpr=hs6s8"
   },
@@ -1011,7 +1011,7 @@
     "id": "gXSReGYeawn5nwDhI",
     "name": "Fast YouTube Scraper API - Extract Videos, Channels, Playlists",
     "description": "YouTube Scraper API - extract videos from channels, playlists, searches, trending & Shorts with one powerful actor. Transparent event-based pricing from $0.005/video, 30-100 free items per query, 10-19 videos/sec, rich JSON output, no proxies or login - perfect for research & analytics.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 6,
     "url": "https://apify.com/apidojo/youtube-scraper-api?fpr=hs6s8"
   },
@@ -1035,7 +1035,7 @@
     "id": "b3iPgTr25Job5tW48",
     "name": "Douyin Transcripts Scraper",
     "description": "Extract spoken transcripts from Douyin videos with Douyin Transcripts Scraper. Just enter video URLs to get transcripts. Perfect for content analysis, AI pipelines, or trend research.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/apple_yang/douyin-transcripts-scraper?fpr=hs6s8"
   },
@@ -1051,7 +1051,7 @@
     "id": "ejmTdtRgr1UXnEkfO",
     "name": "Youtube Channel Scraper",
     "description": "⚡ Fast YouTube Channel Scraper – Extract all videos from any channel with titles, views, likes, comments, publish dates, thumbnails & subscriber count. No proxies needed. Get thousands of channel videos in minutes, 100%.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 6,
     "url": "https://apify.com/scrapesmith/youtube-channel-scraper?fpr=hs6s8"
   },
@@ -1059,7 +1059,7 @@
     "id": "hB9IbHEVNb2Sf1PrJ",
     "name": "Skool Scraper Pro",
     "description": "📚 FREE Skool Scraper : Extract Skool lessons, 🎥 Mux videos, 📎 attachments, PDFs & polls from any community. 4 URL modes: full classroom, single course, lesson, or post. Optional file downloads to storage.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/dz_omar/skool-scraper-pro?fpr=hs6s8"
   },
@@ -1075,7 +1075,7 @@
     "id": "nCNiU9QG1e0nMwgWj",
     "name": "Fast TikTok API (free-watermark videos)",
     "description": "Fastest TikTok API for Trend, Hashtag, Search, Music, User, Comment. Real-time, authentic data. No pre-built databases. Provides no-watermark video download links.",
-    "rating": 4.877456285824301,
+    "rating": 4.8774562858243,
     "rating_count": 6,
     "url": "https://apify.com/novi/fast-tiktok-api?fpr=hs6s8"
   },
@@ -1147,7 +1147,7 @@
     "id": "X1hcO2DDL89v1ScMC",
     "name": "Youtube Comments Scraper",
     "description": "YouTube Comments Scraper extracts comments from any public YouTube video or channel. Gather usernames, timestamps, likes, replies, and full comment text. Ideal for sentiment analysis, audience research, or content insights. Export clean structured data in JSON, CSV, or Excel.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 5,
     "url": "https://apify.com/scraper-engine/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -1195,7 +1195,7 @@
     "id": "DdSkpbFy5T8FyCsor",
     "name": "TikTok Discover Scraper",
     "description": "Scrape TikTok Discover data. Just add one or more hashtags and the scraper will extract related videos, tag breadcrumbs, similar trends, and subtopics. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other tools.",
-    "rating": 4.992583499663353,
+    "rating": 4.992583499663354,
     "rating_count": 5,
     "url": "https://apify.com/clockworks/tiktok-discover-scraper?fpr=hs6s8"
   },
@@ -1203,7 +1203,7 @@
     "id": "q8Go3mwy5RbARydIx",
     "name": "Facebook Video Search Scraper",
     "description": "Add keywords and extract all associated Facebook reels and videos. Get video data like video URL, video title, description, video owner profile and URL, date posted, views, duration, label, and much more. Export scraped data, schedule scraper via API, integrate with other tools or AI workflows.",
-    "rating": 4.964427612322046,
+    "rating": 4.964427612322045,
     "rating_count": 5,
     "url": "https://apify.com/apify/facebook-video-search-scraper?fpr=hs6s8"
   },
@@ -1248,6 +1248,30 @@
     "url": "https://apify.com/scrapearchitect/x-twitter-video-downloader?fpr=hs6s8"
   },
   {
+    "id": "D3edLjry0l0eAY0T2",
+    "name": "YouTube Videos-Shorts Download & Transcript Extract & Translate",
+    "description": "💰$7 per month only. Scrape metadata (title, description, channel info, publish date, view/like counts, tags, categories, thumbnails), channel details, and all engagement metrics.\nPlus: Download complete video transcripts in any available or auto-translated language, with clean plain-text output.",
+    "rating": 5.000000000000001,
+    "rating_count": 4,
+    "url": "https://apify.com/memo23/youtube-video-details-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "LDHaKxTPJBXL4tgAt",
+    "name": "Tiktok Profile Scraper",
+    "description": "TikTok Profile Scraper extracts detailed data from any public TikTok profile, including username, bio, followers, following, likes, and profile stats. Ideal for analytics, influencer research, and marketing insights. Get structured JSON or CSV outputs via Apify’s fast, reliable platform.",
+    "rating": 5.000000000000001,
+    "rating_count": 4,
+    "url": "https://apify.com/scraper-engine/tiktok-profile-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "NagEuvONHQtmNhnle",
+    "name": "Pinterest Search Scraper",
+    "description": "The Pinterest Search Scraper is an essential tool for discovering visual content on Pinterest. With customizable search options and detailed data retrieval, it enhances your ability to find and utilize creative inspiration effectively! 🌟",
+    "rating": 5.000000000000001,
+    "rating_count": 4,
+    "url": "https://apify.com/easyapi/pinterest-search-scraper?fpr=hs6s8"
+  },
+  {
     "id": "eKrSBHSgfxhTDc10q",
     "name": "Youtube Community Posts Scraper",
     "description": "YouTube Community Posts Scraper collects posts, polls, images, likes, comments, and engagement data from any channel’s community tab. Perfect for research, trend analysis, or audience insights. Export structured results in JSON, CSV, or Excel for easy analysis and integration.",
@@ -1259,25 +1283,9 @@
     "id": "YRGOmplBi9XDJKVyV",
     "name": "TikTok Live Downloader",
     "description": "Connect to any TikTok Live URL and either record the broadcast in segmented MP4 chunks pushed to your key-value store, or stream pure metadata events — comments, gifts, likes, follows, viewer count — in near real time. Configurable upload interval and max run length up to 24 hours.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/agentx/tiktok-live-downloader?fpr=hs6s8"
-  },
-  {
-    "id": "D3edLjry0l0eAY0T2",
-    "name": "YouTube Videos-Shorts Download & Transcript Extract & Translate",
-    "description": "💰$7 per month only. Scrape metadata (title, description, channel info, publish date, view/like counts, tags, categories, thumbnails), channel details, and all engagement metrics.\nPlus: Download complete video transcripts in any available or auto-translated language, with clean plain-text output.",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/memo23/youtube-video-details-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "LDHaKxTPJBXL4tgAt",
-    "name": "Tiktok Profile Scraper",
-    "description": "TikTok Profile Scraper extracts detailed data from any public TikTok profile, including username, bio, followers, following, likes, and profile stats. Ideal for analytics, influencer research, and marketing insights. Get structured JSON or CSV outputs via Apify’s fast, reliable platform.",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/scraper-engine/tiktok-profile-scraper?fpr=hs6s8"
   },
   {
     "id": "L299uhKaVVMdwYiGr",
@@ -1315,17 +1323,9 @@
     "id": "vC6fDGGXnmwxg6Ee1",
     "name": "YouTube Comments Scraper",
     "description": "Collect comments and optional nested replies from public YouTube videos and Shorts links. Export clean, structured JSON with optional video and channel details for moderation, sentiment analysis, reporting, and research workflows.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/calm_builder/youtube-comments-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "NagEuvONHQtmNhnle",
-    "name": "Pinterest Search Scraper",
-    "description": "The Pinterest Search Scraper is an essential tool for discovering visual content on Pinterest. With customizable search options and detailed data retrieval, it enhances your ability to find and utilize creative inspiration effectively! 🌟",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/easyapi/pinterest-search-scraper?fpr=hs6s8"
   },
   {
     "id": "UHn6MEgD1iKgzpBkK",
@@ -1339,7 +1339,7 @@
     "id": "89uTe0zmDUIatNKSd",
     "name": "YouTube Video Scraper by Hashtag",
     "description": "Extract information about YouTube videos by specific hashtags. Get video URL, caption, timestamp, likes, dislikes, views and comments count, and basic channel info. You can download your data in JSON, CSV, Excel, and more.",
-    "rating": 4.936888611992703,
+    "rating": 4.936888611992702,
     "rating_count": 4,
     "url": "https://apify.com/streamers/youtube-video-scraper-by-hashtag?fpr=hs6s8"
   },
@@ -1371,7 +1371,7 @@
     "id": "Jo2cIqAjJjqZ7R3jY",
     "name": "Loom Transcript Scraper",
     "description": "⚡ Fast, reliable Loom video transcript extractor – updated June 2025 with latest API compatibility and multiple output formats.",
-    "rating": 4.204368234075192,
+    "rating": 4.204368234075191,
     "rating_count": 4,
     "url": "https://apify.com/neatrat/loom-transcript-scraper?fpr=hs6s8"
   },
@@ -1384,10 +1384,34 @@
     "url": "https://apify.com/agentx/all-video-scraper?fpr=hs6s8"
   },
   {
+    "id": "Zu3cSlBshFBqwY4gB",
+    "name": "YouTube Transcripts Subtitles Captions Extractor. ⚡",
+    "description": "YouTube transcript extractor, subtitle downloader, captions scraper, and video transcript crawler. Extract, download, and save YouTube video transcripts, subtitles, and captions for one or many Youtube Videos.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/lume/yt-transcripts?fpr=hs6s8"
+  },
+  {
+    "id": "HfEIcgAoILZfOaDML",
+    "name": "TikTok Comment (Replies) Scraper",
+    "description": "TikTok Comment Scraper: Fasest and Stablest. Retrieve TikTok comments, replies with speed and efficiency. No Proxy Needed.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/xtdata/tiktok-comment-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "F60Kx7YJNOmKmqQm3",
+    "name": "Facebook Search Posts",
+    "description": "Search Facebook posts, pages, groups, people, videos and events by keyword. Returns detailed data including reactions breakdown, media URLs, and engagement metrics.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/scrapeforge/facebook-search-posts?fpr=hs6s8"
+  },
+  {
     "id": "SOCnERYqYgKDJVGL7",
     "name": "Video Thumbnail Extractor",
     "description": "Extract high-quality thumbnails from videos across multiple platforms including YouTube, Vimeo, direct video URLs, and more.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/happitap/video-thumbnail-extractor?fpr=hs6s8"
   },
@@ -1395,7 +1419,7 @@
     "id": "2mdjbRUdRjdix0O6d",
     "name": "Youtube Playlist Extractor",
     "description": "Exractor Youtube playlist on the fly. It helps you quickly extract and export information from YouTube playlists. Such as video name, video number, video description, video url, and so on. All you have to do is snap your finger and access your information.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/easyapi/youtube-playlist-extractor?fpr=hs6s8"
   },
@@ -1411,7 +1435,7 @@
     "id": "yBkAu5XWbja6dz0K9",
     "name": "Find Similar YouTube Channels by Content, Not Keywords",
     "description": "🔍 Similar creators + engagement stats from 200M+ channels. Skip the scraping 🏎️💨",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/dataovercoffee/youtube-channel-lookalike-finder?fpr=hs6s8"
   },
@@ -1419,7 +1443,7 @@
     "id": "ptEKMVd3rkmmbIO9b",
     "name": "Youtube Email Scraper",
     "description": "YouTube Email Scraper extracts publicly available email addresses from YouTube channel pages. Build targeted creator contact lists by niche or region. Ideal for brands, agencies, and managers running influencer outreach campaigns.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/scraper-engine/youtube-email-scraper?fpr=hs6s8"
   },
@@ -1427,31 +1451,15 @@
     "id": "Pn1vJgSiEfZsXojVu",
     "name": "Youtube Summarizer",
     "description": "Just give the youtube video link and we will provide you with an AI generated summary of the video. The summary is not just based on transcript but also based on actual video as well",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/ibadia/youtube-summarizer?fpr=hs6s8"
-  },
-  {
-    "id": "Zu3cSlBshFBqwY4gB",
-    "name": "YouTube Transcripts Subtitles Captions Extractor. ⚡",
-    "description": "YouTube transcript extractor, subtitle downloader, captions scraper, and video transcript crawler. Extract, download, and save YouTube video transcripts, subtitles, and captions for one or many Youtube Videos.",
-    "rating": 5.000000000000001,
-    "rating_count": 3,
-    "url": "https://apify.com/lume/yt-transcripts?fpr=hs6s8"
-  },
-  {
-    "id": "HfEIcgAoILZfOaDML",
-    "name": "TikTok Comment (Replies) Scraper",
-    "description": "TikTok Comment Scraper: Fasest and Stablest. Retrieve TikTok comments, replies with speed and efficiency. No Proxy Needed.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/xtdata/tiktok-comment-scraper?fpr=hs6s8"
   },
   {
     "id": "7bdD2n9fZbaFYzTko",
     "name": "YouTube Transcript Scraper (Premium version)",
     "description": "Extract YouTube transcripts in 15+ languages with timestamps and metadata. Uses Apify's most expensive Proxy to bypass YouTube's IP blocking & rate limiting. Get fast bulk processing, video titles, views, channels, and clean text ready for AI, SEO, or content creation. Export in your desired format.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/smartly_automated/youtube-transcript-scraper-premium-version?fpr=hs6s8"
   },
@@ -1499,7 +1507,7 @@
     "id": "Ig5ig4QnTZ2BjnYFI",
     "name": "YouTube Transcript Scraper ⚡ Cheapest - $4/1k",
     "description": "Extract YouTube transcripts, subtitles & captions in 100+ languages. Bulk processing, no API key needed. Perfect for AI training data, content repurposing, SEO, and video-to-text conversion. Works with watch, youtu.be, Shorts & embed URLs.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/inexhaustible_glass/youtube-transcript-extractor?fpr=hs6s8"
   },
@@ -1507,7 +1515,7 @@
     "id": "6E4kQL6o4PF9O0ApN",
     "name": "YouTube Ultimate Scraper (PPE)",
     "description": "Scrape videos, comments, replies, transcripts, and channel metadata with YouTube Ultimate Scraper. Designed for flexibility, speed, and reliability, it’s perfect for everything from one-off research to large-scale automation.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/ultimate/youtube-scraper?fpr=hs6s8"
   },
@@ -1515,7 +1523,7 @@
     "id": "cFxUatbor0Yo5sL9X",
     "name": "Youtube Comments Scraper + Replies + AI Sentiment Analysis",
     "description": "Extract all comments and replies from YouTube videos automatically. No API key required. Optional AI-powered sentiment analysis, emotion detection, toxicity scoring, and language detection. Perfect for market research, sentiment analysis, and engagement tracking.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/parseforge/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -1523,7 +1531,7 @@
     "id": "blf62maenLRO8Rsfv",
     "name": "Facebook Search Scraper",
     "description": "Powerful Facebook search that scrapes and searches posts, pages, and profiles by keyword. Get detailed info like author, engagement metrics, images, videos. Ideal for research, monitoring, and analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/alien_force/facebook-search-scraper?fpr=hs6s8"
   },
@@ -1542,14 +1550,6 @@
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/viralanalyzer/tiktok-viral-scanner?fpr=hs6s8"
-  },
-  {
-    "id": "F60Kx7YJNOmKmqQm3",
-    "name": "Facebook Search Posts",
-    "description": "Search Facebook posts, pages, groups, people, videos and events by keyword. Returns detailed data including reactions breakdown, media URLs, and engagement metrics.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/scrapeforge/facebook-search-posts?fpr=hs6s8"
   },
   {
     "id": "9BqMIjT8S0ljU6meN",
@@ -1579,7 +1579,7 @@
     "id": "di1Kz9tiYy2T6OXBq",
     "name": "Youtube Downloader",
     "description": "The most reliable YouTube URL getter on Apify. This Actor is designed to work 100% of the time, giving you direct download links for any YouTube video instantly. Just paste in a video URL, choose your preferred format (or use the default), and run. It's that simple and easy!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/frederikhbb/youtube-downloader?fpr=hs6s8"
   },
@@ -1603,7 +1603,7 @@
     "id": "JJtat9J0NjsXixQrB",
     "name": "Youtube Comment Scraper",
     "description": "Extract YouTube comments from one or more videos without API limits. Get full comment text, date, author, video title, and video ID. Download results in JSON, CSV, or Excel.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/scrapeai/youtube-comment-scraper?fpr=hs6s8"
   },
@@ -1683,7 +1683,7 @@
     "id": "ceeA8aQjRcp3E6cNx",
     "name": "Best Video Downloader",
     "description": "Bulk-download from 1,000+ platforms — TikTok, YouTube, Instagram, X — in 4K with no watermark. Returns title, thumbnail, top comments, and media file. $0.25 per video.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/cheapget/best-video-downloader?fpr=hs6s8"
   },
@@ -1691,7 +1691,7 @@
     "id": "KZVs0AoBvQVobVAIe",
     "name": "TikTok Sound Tracker - Song Details + Videos [NO LOGIN] ✅",
     "description": "Track any TikTok sound or song - get full music metadata plus every video using that sound. Built for UGC campaign tracking, viral audio research, music label A&R, and brand sound monitoring. No login, no cookies. Pay only for what you scrape.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/unseenuser/tiktok-sound-tracker-scraper?fpr=hs6s8"
   },
@@ -1699,7 +1699,7 @@
     "id": "uudPCDtUwsNp6n9ib",
     "name": "Douyin Scraper",
     "description": "This powerful tool enables you to extract data from Douyin, the Chinese version of TikTok. Use it to scrape post data, like URLs, numbers of followers, hearts, video, music-related data and more. Download Douyin data as a HTML, JSON, CSV, Excel, or XML doc.",
-    "rating": 2.698674899757482,
+    "rating": 2.698674899757483,
     "rating_count": 8,
     "url": "https://apify.com/natanielsantos/douyin-scraper?fpr=hs6s8"
   },
@@ -1707,7 +1707,7 @@
     "id": "fN4fJgXUfEbeYjNxL",
     "name": "TikTok Live Recorder",
     "description": "Automatically capture TikTok Live streams in HD — detects when a creator goes live, records the full broadcast, and saves the video file when the stream ends.",
-    "rating": 4.042205789202513,
+    "rating": 4.042205789202512,
     "rating_count": 4,
     "url": "https://apify.com/cheapget/tiktok-live-recorder?fpr=hs6s8"
   },
@@ -1731,7 +1731,7 @@
     "id": "jXmTYkKZxIqqUH44G",
     "name": "🎵 YouTube Audio/MP3 Downloader",
     "description": "🎧 Transform ANY YouTube Video, Short, or Kids clip into MP3! 🚀 Get EVERY audio track & language available 🌍 (EN, ES, DE, HI + more!) in high-quality formats (WEBM, M4A). ⬇️ Download fast & secure! 🔥 🎵 Download Audio/MP3 from YouTube Video, Shorts & YouTube-Kids Video  instantly!⚡",
-    "rating": 3.782608695652173,
+    "rating": 3.782608695652174,
     "rating_count": 4,
     "url": "https://apify.com/scrapearchitect/youtube-audio-mp3-downloader?fpr=hs6s8"
   },
@@ -1763,7 +1763,7 @@
     "id": "LJ5EVniB0ulV4RfGP",
     "name": "Pinterest Explorer 📌",
     "description": "💫 All-in-One Pinterest.com Scraper",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/jupri/pinterest-explorer?fpr=hs6s8"
   },
@@ -1795,7 +1795,7 @@
     "id": "ik3SM9apynGCesLEZ",
     "name": "Fast YouTube Search Results Scraper",
     "description": "Quickly returns detailed structured data based on search queries.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/matthewjames/fast-youtube-search-results-scraper?fpr=hs6s8"
   },
@@ -1803,7 +1803,7 @@
     "id": "J9wuSFdgANDdxwgs0",
     "name": "Youtube Transcript Generator",
     "description": "Transform your YouTube videos into powerful text assets with our transcript extraction tool. Get complete transcripts in 190+ languages, precise timestamps, and comprehensive metadata. Perfect for content creators, marketers, and researchers aiming to maximize their video content's reach and value.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/louisdeconinck/youtube-transcript-generator?fpr=hs6s8"
   },
@@ -1811,7 +1811,7 @@
     "id": "1nSEb9lJnGrwIYQvK",
     "name": "VK Socials Extractor",
     "description": "💫 All-in-One VK.com Scraper",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/jupri/vkontakte?fpr=hs6s8"
   },
@@ -1819,7 +1819,7 @@
     "id": "f2jWZcFtNz7SeL7We",
     "name": "YouTube Transcript/Metadata Scraper 😋",
     "description": "Introducing the most comprehensive and robust YouTube metadata web scraper on Apify. Get video details, AI summary, creator/channel details, engagement statistics, transcripts, and more from YouTube videos and shorts via a single interface.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/toludare/youtube-metadata-scraper-all?fpr=hs6s8"
   },
@@ -1827,7 +1827,7 @@
     "id": "ACirYOwWR3EeEmcqc",
     "name": "YouTube video to Transcript",
     "description": "Fetch YouTube video transcripts automatically using Apify. Supports multiple URLs and retrieves captions from YouTube. Ideal for video content analysis, subtitle generation, or transcription needs. Customize with headers and cookies for accuracy.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/scrapingxpert/youtube-video-to-transcript?fpr=hs6s8"
   },
@@ -1851,7 +1851,7 @@
     "id": "0XGp83nmLqjt3OwvQ",
     "name": "TikTok Hashtag API",
     "description": "Dominate TikTok with our Hashtag API! Get instant access to trending video data, watermark-free downloads, and optimize your content for maximum impact.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/novi/tiktok-hashtag-api?fpr=hs6s8"
   },
@@ -1859,7 +1859,7 @@
     "id": "Pke4ULxH1VcN5w35P",
     "name": "INCREDIBLY FAST audio transcriber",
     "description": "Transcribe video to text and audio to text in bulk on Apify. 99+ languages, word-level timestamps, speaker diarization, SRT/VTT export. Try free.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/sian.agency/INCREDIBLY-FAST-audio-transcriber?fpr=hs6s8"
   },
@@ -1875,7 +1875,7 @@
     "id": "LF50eyiyJYt0cqoou",
     "name": "YouTube Comments Scraper",
     "description": "The fastest, most reliable and low-cost YouTube Videos and Shorts comments scraper. Obtain comprehensive comment data, including text, likes, author information, and timestamps.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/clappi/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -1883,7 +1883,7 @@
     "id": "NAanCvknFwwQEXteZ",
     "name": "Twitch Videos Scraper 🎮📺  - Fast & cheap",
     "description": "A powerful Twitch video scraper that captures in-depth video data, such as streamer profiles 👾, game titles 🎮, and audience interaction metrics 📊. Perfect for analyzing gaming trends 📈, conducting competitive research 🏆 and gaining content insights 💡.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/scrapestorm/twitch-videos-scraper---fast-cheap?fpr=hs6s8"
   },
@@ -1923,7 +1923,7 @@
     "id": "EEkdfG2bX3mC8KP7I",
     "name": "Video Thumbnail Generator",
     "description": "🎬 Generate thumbnails from videos at a chosen timestamp. Provide one or many video files or URLs, pick PNG or JPG and quality, and the Actor saves images to the default key-value store.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/jan.jiran/video-thumbnail-generator?fpr=hs6s8"
   },
@@ -1995,7 +1995,7 @@
     "id": "2EXlXqasdIPsVkOWB",
     "name": "Terabox Fast Video Downloader",
     "description": "Instantly generate direct download links, streaming URLs, and full metadata for any Terabox video or file. Fast, free, and no login required. Returns file name, size, and thumbnail.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/igview-owner/terabox-fast-video-downloader?fpr=hs6s8"
   },
@@ -2011,7 +2011,7 @@
     "id": "dhe5MqaJR7qYQBZHr",
     "name": "TikTok Comments Scraper API",
     "description": "Apify’s LOWEST cost TikTok Comment Scraper. Access the TikTok mobile API for comments and comment replies. Unlock TikTok data at scale. Have custom needs? Visit scraptik.com",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/scraptik/tiktok-comments-scraper-api?fpr=hs6s8"
   },
@@ -2019,7 +2019,7 @@
     "id": "ORuy0KyqqGbwKMocE",
     "name": "Tiktok Hashtag Scraper",
     "description": "Scrape TikTok hashtags at scale and collect detailed video data. Extract views, likes, comments, shares, captions, sounds, creators, and posting dates. Ideal for trend research, influencer analysis, and content insights. Export clean structured data in JSON, CSV, or Excel.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/scraper-engine/tiktok-hashtag-scraper?fpr=hs6s8"
   },
@@ -2051,7 +2051,7 @@
     "id": "Z4bFYcd6g3cxCVVGq",
     "name": "AI YouTube Transcript Analyzer",
     "description": "Prompt + YouTube URL -> { ❤️‍🔥 }",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/hexa-api/youtube-transcript-ai-analyzer?fpr=hs6s8"
   },
@@ -2059,7 +2059,7 @@
     "id": "4GTGBCOGLfgrUhcb3",
     "name": "YouTube To Transcript",
     "description": "Extract YouTube transcripts from public video URLs",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8"
   },
@@ -2115,7 +2115,7 @@
     "id": "EMV1QDp4tfmdUWeo5",
     "name": "Reddit Community Profile",
     "description": "Look up any subreddit — subscriber count, active users, top posts, moderators, rules, wiki, and 40+ community fields. Deep community intelligence. $86 per 1,000 profiles.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/reddit-community-profile?fpr=hs6s8"
   },
@@ -2139,7 +2139,7 @@
     "id": "hIiEOMTLD5VHaJL8y",
     "name": "YouTube Video, Shorts, Audio & Transcript Downloader",
     "description": "Download YouTube videos, Shorts, playlists, and channels in any quality (144p–4K) and format. Extract audio as MP3, M4A, or Opus. Download subtitles and transcripts in any language. Transcript-only mode at $0.001/video. Geo-restrictions handled automatically. No monthly fee.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/datapipe/youtube-video-downloader?fpr=hs6s8"
   },
@@ -2147,7 +2147,7 @@
     "id": "6Sa5uGOiqSkO7IPea",
     "name": "YouTube View Generator — Real Sessions, Real Views",
     "description": "Generate YouTube views the smart way - each view runs in a fully isolated session with a unique IP, randomized watch duration, and varied device identity to behave like a real viewer. Automatic ad handling and residential proxy rotation built in. Up to 1,000 views per run.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/apizy/youtube-view-generator?fpr=hs6s8"
   },
@@ -2155,7 +2155,7 @@
     "id": "YZg1Mu5pgHhtbjio4",
     "name": "Instagram Post Scraper",
     "description": "This Apify Actor extracts recent Instagram posts (including videos, captions, and metadata) from specified public usernames.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/apple_yang/instagram-post-scraper?fpr=hs6s8"
   },
@@ -2182,6 +2182,46 @@
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/reddit-community-user?fpr=hs6s8"
+  },
+  {
+    "id": "DWlxiR8rGSilY8GHd",
+    "name": "Instagram To Text",
+    "description": "AI-transcribe any Instagram reel, story, or video — timestamped captions, speaker diarization, and translation into 100+ languages from a single pasted link. $0.30 per video.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/cheapget/instagram-to-text?fpr=hs6s8"
+  },
+  {
+    "id": "OFnTh9yMuUwXPZe4e",
+    "name": "Reddit User Profile",
+    "description": "Deep-dive any Reddit account — karma breakdown, top subreddits, post and comment history, account age, and 19 fields. Up to 100,000 posts per user. $69 per 1,000.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/cheapget/reddit-user-profile?fpr=hs6s8"
+  },
+  {
+    "id": "o1jXchn04PSHWYRPG",
+    "name": "𝕏(twitter) Community Profile",
+    "description": "Look up X (Twitter) Communities — creator name, member count, trending topics, top posts, description, and 13 structured fields. Bulk lookup by community ID. $5 per 1,000.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/cheapget/x-community-profile?fpr=hs6s8"
+  },
+  {
+    "id": "ecd1FhF9Ipe7t98Ms",
+    "name": "Instagram Explore",
+    "description": "Pull Instagram Explore posts by topic tab — Fashion, Music, Food, Travel, and more. Returns caption, media URLs, like count, play count, and 26 fields per post. $2.50 per 1,000.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/cheapget/instagram-explore?fpr=hs6s8"
+  },
+  {
+    "id": "VZTENHFJOyJEGIKCv",
+    "name": "Speech-to-Text Transcription",
+    "description": "Transcribe audio and video from YouTube, TikTok, podcasts, X, and 1,000+ other sites or any direct media URL into accurate, speaker-labeled text. Uses World's best speech to text AI models with automatic language detection, multilingual support, and smart formatting.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/hgservices/speech-to-text?fpr=hs6s8"
   },
   {
     "id": "hVlkT1FrZB15YsUDo",
@@ -2211,7 +2251,7 @@
     "id": "h2jfj7OCBMIsNhuwO",
     "name": "Telegram Media Downloader 📥",
     "description": "A powerful Telegram media downloader that extracts videos, photos, and other media content from Telegram posts. Simply input the post URLs and get high-quality downloadable media files with detailed metadata.",
-    "rating": 4.691565668964706,
+    "rating": 4.691565668964707,
     "rating_count": 2,
     "url": "https://apify.com/easyapi/telegram-media-downloader?fpr=hs6s8"
   },
@@ -2235,7 +2275,7 @@
     "id": "dIClaXanvZ0SZ4ObK",
     "name": "Patreon Extractor 🎯 ⭐5.0",
     "description": "💫 All-in-One Patreon.com Scraper [v5.0]",
-    "rating": 4.533239174473371,
+    "rating": 4.533239174473372,
     "rating_count": 2,
     "url": "https://apify.com/jupri/patreon?fpr=hs6s8"
   },
@@ -2251,7 +2291,7 @@
     "id": "qB2hlAaW0s78TJtKg",
     "name": "TikTok Video Downloader(With No watermarks)",
     "description": "The TikTok Video Downloader allows fast, high-quality downloads of TikTok videos without needing an account and without any watermarks. Ideal for content creators, it offers a user-friendly interface and simultaneous downloads with batch download support. Try now!",
-    "rating": 2.055059613776596,
+    "rating": 2.055059613776595,
     "rating_count": 8,
     "url": "https://apify.com/thenetaji/tiktok-video-downloader?fpr=hs6s8"
   },
@@ -2283,7 +2323,7 @@
     "id": "xG4DKnsOzNzFrOAnU",
     "name": "YouTube Comment Scraper | Extract YT Video Comments Data",
     "description": "Scrape YouTube comments effortlessly with our YT comments scraper. Extract comments from videos, channels & playlists with sentiment analysis, advanced filters & export options. This YouTube video comment scraper bypasses API limits. Ideal for researchers, marketers & data analysts. Start scraping!",
-    "rating": 4.234419635814822,
+    "rating": 4.234419635814823,
     "rating_count": 2,
     "url": "https://apify.com/code-node-tools/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -2291,7 +2331,7 @@
     "id": "Vi3sbNnWysn7mKE6W",
     "name": "Youtube Channel Scraper",
     "description": "YouTube Channel Scraper is an Apify Actor that scrapes video data and comments from a YouTube channel. It extracts key details such as video title, URL, view count, streaming time (in days), hashtags, description, comments count, and individual comments with user IDs.",
-    "rating": 4.18336153688532,
+    "rating": 4.183361536885321,
     "rating_count": 2,
     "url": "https://apify.com/runtime/youtube-channel-scraper?fpr=hs6s8"
   },
@@ -2299,7 +2339,7 @@
     "id": "FQN4X81j5PVacLYM6",
     "name": "TikTok Keyword Search Scraper",
     "description": "Search TikTok videos by keyword with advanced filtering options, including date posted, sort order, region targeting, and automatic pagination support. Perfect for content research, trend analysis, and competitive intelligence.",
-    "rating": 3.121824309978616,
+    "rating": 3.121824309978617,
     "rating_count": 3,
     "url": "https://apify.com/sociavault/tiktok-keyword-search-scraper?fpr=hs6s8"
   },
@@ -2307,7 +2347,7 @@
     "id": "TyjYgGDGcTNVmil8z",
     "name": "Youtube Channel Scrapper",
     "description": "Scrape YouTube Channel pages from page URL. There is not much configuration as it uses initial data available on page load. You'll get video Id, title, descriptions, #likes, #comments, #views and similar information for channels. \nFeel free to try it out with our default settings by hitting ▷ Start.",
-    "rating": 3.078703241392428,
+    "rating": 3.078703241392429,
     "rating_count": 3,
     "url": "https://apify.com/deeper/youtube-channel-scrapper?fpr=hs6s8"
   },
@@ -2315,7 +2355,7 @@
     "id": "fWIyRKfnKlxB1r5CX",
     "name": "Youtube Transcript - 1$/month",
     "description": "Youtube Transcript (with video details and transcript timestamps)",
-    "rating": 4.003675294643901,
+    "rating": 4.003675294643902,
     "rating_count": 2,
     "url": "https://apify.com/insight_api_labs/youtube-transcript?fpr=hs6s8"
   },
@@ -2347,7 +2387,7 @@
     "id": "jvDjDIPtCZAcZo9jb",
     "name": "Youtube Video and MP3 Downloader",
     "description": "Easily download high-quality videos and audio from YouTube. With batch downloading capabilities and high-speed scraping, you can enhance your media collection effortlessly! 📹",
-    "rating": 2.542936014267664,
+    "rating": 2.542936014267665,
     "rating_count": 3,
     "url": "https://apify.com/easyapi/youtube-video-and-mp3-downloader?fpr=hs6s8"
   },
@@ -2371,7 +2411,7 @@
     "id": "2aZUbTgtUqHEsBIDp",
     "name": "Tiktok Scraper",
     "description": "An advanced TikTok scraper that lets you collect  videos, profiles, posts, and other publicly available data on TikTok. Download TikTok data as a HTML, JSON, CSV, Excel, or XML",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/mcdowell/tiktok?fpr=hs6s8"
   },
@@ -2467,7 +2507,7 @@
     "id": "ni7uJgGLDmmZYbkfc",
     "name": "Rumble Playlist Videos Scraper - Cheap📺📋🚀",
     "description": "🔎 Easily collect videos from Rumble playlists\n\nProvide one or multiple playlist URLs and extract structured video data such as 🎬 Video Title 🆔 Video ID 📺 Channel Name 📅 Publish Date 🔗 Video URL 🖼 Thumbnail & more\n\nPerfect for playlist analysis and video performance tracking on Rumble 📊",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/my-actor-3?fpr=hs6s8"
   },
@@ -2531,7 +2571,7 @@
     "id": "ohbu5Ka0dMhhJ1d5a",
     "name": "Rumble Videos Scraper - Cheap 🎥📊📺",
     "description": "🔎 Easily collect video listings from Rumble\n\nProvide one or multiple search keywords and extract valuable video data such as 🎬 Video Title 👁 Views 👍 Upvotes 💬 Comments 📺 Channel Name 🔗 Video URL & more.\n\nPerfect for content research, trend monitoring & media intelligence analysis 📊🚀",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/my-actor-4?fpr=hs6s8"
   },
@@ -2547,7 +2587,7 @@
     "id": "cUJlzqpoX9bJSqaCU",
     "name": "Rumble Trends Scraper - Cheap 📺🔥",
     "description": "🔎 Easily collect trending videos from Rumble\n\nApply filters such as date window, sorting & license, and extract trending intelligence including🎬 Title 📺 Channel Name 👁 Views 🔴 Live Status 🔗 Video URL & more\n\nPerfect for trend discovery, viral video monitoring & content performance analysis 📊",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/rumble-trends-scraper---cheap?fpr=hs6s8"
   },
@@ -2587,7 +2627,7 @@
     "id": "QYdh0uIAEN2d5Udyl",
     "name": "Youtube Auto Complete And Query Suggestion",
     "description": "「 𝙊𝙉𝙇𝙔 $𝟬.𝟭/𝟭𝟬𝟬𝟬 𝙧𝙚𝙨𝙪𝙡𝙩𝙨 」Extract YouTube autocomplete suggestions for SEO keyword research and content ideation. 🌍 Supports 50+ languages & 100+ countries. 🎉",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/sian.agency/youtube-auto-complete-and-query-suggestion?fpr=hs6s8"
   },
@@ -2603,7 +2643,7 @@
     "id": "509El6cODefVZLx2W",
     "name": "Tiktok Transcripts Scraper",
     "description": "Extract spoken transcripts from Tiktok video with Tiktok Transcripts Scraper. Just enter video URLs to get transcripts. Perfect for content analysis, AI pipelines, or trend research.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/apple_yang/tiktok-transcripts-scraper?fpr=hs6s8"
   },
@@ -2611,7 +2651,7 @@
     "id": "A5crpuk9MB019Qf1r",
     "name": "TeraBox Video Player and Downloader API",
     "description": "Download TeraBox videos and audio in high definition quality for free. Our advanced TeraBox downloader supports HD and high-quality video downloads with lightning-fast speed. Play or download TeraBox videos directly in your browser: no software installation required. Perfect for offline viewing.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/express_kingfisher/terabox-video-player-and-downloader-api?fpr=hs6s8"
   },
@@ -2627,7 +2667,7 @@
     "id": "ict6AecoJ85T4RthZ",
     "name": "YouTube Comments Scraper |",
     "description": "[ ✨YouTube Comments Scraper ]\n Fast & Reliable Scraper\n Extract CID, type, publish time, comments, author & page URL in seconds\n Streamline workflow, save time & gather structured data\n Perfect for research, analysis & business insights .",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/alpha-scraper/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -2659,7 +2699,7 @@
     "id": "1D0pGcdQulBhbzvF5",
     "name": "YouTube Community Posts Scraper 🚀📄💬",
     "description": "Looking for a YouTube community posts scraper to extract posts from an entire channel? 🔍 Your search ends here! With the YouTube Community Posts Extractor 💬, gather all the community posts from videos across a channel, including likes, comments, poll choices, images, & more. No proxy needed ! ⚡💬",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/youtube-community-posts-scraper?fpr=hs6s8"
   },
@@ -2667,7 +2707,7 @@
     "id": "xKIItTmdEOdF00mYm",
     "name": "Substack Posts Scraper 📰 🔍 - Cheap",
     "description": "🔍 Easily Scrape Substack Posts\nEnter a profile or keyword to collect real newsletter articles from Substack 📰\nGet insights like title, author, post date, tags, reactions, word count & more 📊🧠\nSeamlessly integrate with tools like Google Drive to automate content workflows a& boost productivity⚡🧩",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/substack-posts-scraper---cheap?fpr=hs6s8"
   },
@@ -2715,7 +2755,7 @@
     "id": "c74S0PtdLhsmoStOQ",
     "name": "TikTok Hashtag Scraper",
     "description": "Meet the TikTok Hashtag Scraper! This actor quickly scrapes and downloads videos from any hashtag. It provides high-quality videos without watermarks. For the fastest possible download speeds, it is highly recommended to disable proxies. Get all the TikTok content you need, fast and clean.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/shahidirfan/TikTok-Hashtag-Scraper?fpr=hs6s8"
   },
@@ -2891,7 +2931,7 @@
     "id": "UbpfU54BghORdPggd",
     "name": "YouTube Comments Scraper",
     "description": "[💰 $0.25 / 1K] Extract comments and reply threads from public YouTube videos and Shorts. Returns comment text, author name and channel, like counts, reply structure, pinned and hearted flags and creator-reply detection. Pay only for the comments you get no compute fees, no subscription.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/solidcode/youtube-comments-scraper?fpr=hs6s8"
   },
@@ -3288,36 +3328,12 @@
     "url": "https://apify.com/cheapget/video-subtitles-downloader?fpr=hs6s8"
   },
   {
-    "id": "DWlxiR8rGSilY8GHd",
-    "name": "Instagram To Text",
-    "description": "AI-transcribe any Instagram reel, story, or video — timestamped captions, speaker diarization, and translation into 100+ languages from a single pasted link. $0.30 per video.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/cheapget/instagram-to-text?fpr=hs6s8"
-  },
-  {
-    "id": "OFnTh9yMuUwXPZe4e",
-    "name": "Reddit User Profile",
-    "description": "Deep-dive any Reddit account — karma breakdown, top subreddits, post and comment history, account age, and 19 fields. Up to 100,000 posts per user. $69 per 1,000.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/cheapget/reddit-user-profile?fpr=hs6s8"
-  },
-  {
     "id": "Xzx9cQ28OerGtBV3o",
     "name": "Reddit Post Search",
     "description": "Cross-subreddit keyword search — post title, body, score, subreddit, author, and 40+ fields with optional comment threads. Up to 1,000,000 posts. $5.80 per 1,000.",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/cheapget/reddit-post-search?fpr=hs6s8"
-  },
-  {
-    "id": "o1jXchn04PSHWYRPG",
-    "name": "𝕏(twitter) Community Profile",
-    "description": "Look up X (Twitter) Communities — creator name, member count, trending topics, top posts, description, and 13 structured fields. Bulk lookup by community ID. $5 per 1,000.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/cheapget/x-community-profile?fpr=hs6s8"
   },
   {
     "id": "NFWpiIrH8lepzKJoL",
@@ -3350,14 +3366,6 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/cheapget/instagram-post?fpr=hs6s8"
-  },
-  {
-    "id": "ecd1FhF9Ipe7t98Ms",
-    "name": "Instagram Explore",
-    "description": "Pull Instagram Explore posts by topic tab — Fashion, Music, Food, Travel, and more. Returns caption, media URLs, like count, play count, and 26 fields per post. $2.50 per 1,000.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/cheapget/instagram-explore?fpr=hs6s8"
   },
   {
     "id": "xaIAq34UcjhN3MEMG",
@@ -3403,7 +3411,7 @@
     "id": "KbqooQr1W5h8MV5pw",
     "name": "TeraBox High-Speed Direct Video/File (Bulk)",
     "description": "A fast, asynchronous scraper to extract file information and direct CDN download links from TeraBox collections. Supports bulk input, cookie-based authentication, and provides structured JSON/CSV output.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/mikolabs/terabox-high-speed-direct-video-file-bulk?fpr=hs6s8"
   },
@@ -3488,18 +3496,10 @@
     "url": "https://apify.com/scrapestorm/rutube-shorts-scraper-skraper-shorts---cheap-deshyovyy?fpr=hs6s8"
   },
   {
-    "id": "VZTENHFJOyJEGIKCv",
-    "name": "Speech-to-Text Transcription",
-    "description": "Transcribe audio and video from YouTube, TikTok, podcasts, X, and 1,000+ other sites or any direct media URL into accurate, speaker-labeled text. Uses World's best speech to text AI models with automatic language detection, multilingual support, and smart formatting.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/hgservices/speech-to-text?fpr=hs6s8"
-  },
-  {
     "id": "kH1aKT2DWFyPiMSVi",
     "name": "YouTube2MD - Repurpose Your Own Videos into Markdown",
     "description": "A creator tool that converts your own YouTube video transcripts into structured Markdown. Ideal for repurposing your content into blog posts, documentation, or AI-ready knowledge bases. Only for use with content you own or have permission to process.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/stunning_xylophone/youtube2md?fpr=hs6s8"
   },
@@ -3531,7 +3531,7 @@
     "id": "7KORT2HYwjLb0n3H7",
     "name": "Text to Speech",
     "description": "Transfers your Text input into a MP3 file.This is the Text to Speech API;\n\nThe Input:\n{\n    \"text\": \"Your text that will be an audio\"\n}\n\nThe Output:\nTo get the Output, which is a MP3 Data file, you have to go to Storage, in there you need to click on Key-Value-Storage and Download the file.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/theapicompany/text-to-speech?fpr=hs6s8"
   },
@@ -3651,7 +3651,7 @@
     "id": "O6knBihxFig55ve53",
     "name": "ONLYFANS Scraper 🪶",
     "description": "💫 All-in-One OnlyFans.com Scraper ❤️💛💚💙💜",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/jupri/onlyfans?fpr=hs6s8"
   },
@@ -3707,7 +3707,7 @@
     "id": "f2Zmd8o1S0GCMl0j2",
     "name": "Kick Videos & Clips Scraper - Cheap 📺🔥🎮",
     "description": "🔎 Easily collect Kick videos or clips by providing one or multiple Kick channel URLs\n\nExtract insights such as 📺 Channel 📝 Video / Clip Title 📅 Published Date 👀 Views 🏷 Thumbnail 🔗 Video / Clip URL and more\n\nPerfect for stream analytics, influencer monitoring, and content analysis 🎮🔥",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/scrapestorm/kick-videos-clips-scraper---cheap?fpr=hs6s8"
   },
@@ -3723,7 +3723,7 @@
     "id": "bVecmB17ResAf3Rfn",
     "name": "Facebook Scraper Pro (Rental)",
     "description": "Facebook Scraper Pro is a powerful Apify actor for extracting Facebook data. It includes: Search Scraper (finds posts by keyword), Profiles Scraper (scrapes profile info & posts), Posts Scraper (extracts posts by URL), and Comments Scraper (collects comments from posts). 🚀",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/alien_force/facebook-scraper-pro-rental?fpr=hs6s8"
   },
@@ -3842,7 +3842,7 @@
   {
     "id": "Sf1pD2Xco1VXXFL9i",
     "name": "TikTok Chronology Analyzer",
-    "description": "Takes TikTok video IDs as input and outputs ⏱️ timestamps, machine IDs, and sequence numbers. Perfect for analyzing posting patterns or building timeline-based content analytics. NO Scraping! NO Proxies! Purely \"Scientific\" 😊",
+    "description": "Takes TikTok 📮  video IDs as input and outputs ⏱️ timestamps, machine IDs, and sequence numbers. Perfect for analyzing posting patterns or building timeline-based content analytics. NO Scraping! NO Proxies! Purely \"Scientific\" 😊 MCP Ready",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/badruddeen/tiktok-chronology-analyzer?fpr=hs6s8"
@@ -3875,7 +3875,7 @@
     "id": "sK6m1ZqXSX3AEJMQd",
     "name": "Youtube Search Scraper",
     "description": "This Apify Actor performs a YouTube video search based on a given keyword or phrase, and extracts detailed metadata for each video found.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/scraper_one/youtube-search-scraper?fpr=hs6s8"
   },
@@ -3915,7 +3915,7 @@
     "id": "wVJo1lJBw0WIxslPI",
     "name": "TikTok Posts Scraper",
     "description": "Scrape TikTok posts, video metadata, and engagement data from profiles, hashtags, or keyword searches. Fast bulk extraction with sorting, date filters, and region targeting. Export to JSON, CSV, or Excel.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/scrapeforge/tiktok-posts?fpr=hs6s8"
   },
@@ -3923,7 +3923,7 @@
     "id": "9AbYcygiWg2p2D8d0",
     "name": "TikTok Video Insights Extractor",
     "description": "Extracts detailed metadata and engagement statistics from TikTok video URLs. Captures likes, comments, shares, bookmarks, views, author info, hashtags, music, and descriptions.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/badruddeen/tiktok-video-insights-extractor?fpr=hs6s8"
   },
@@ -3931,7 +3931,7 @@
     "id": "PslvXDUF99me4FsE4",
     "name": "Youtube Highlights Hooks Analyzer",
     "description": "Advanced YouTube analytics that extracts chapters, intro pacing, and hook suggestions for editors and creators. Analyze Shorts and long videos to find viral moments, engagement patterns, and optimal clip timestamps with an API-first design for blazing-fast performance.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/coregent/youtube-highlights-hooks-analyzer?fpr=hs6s8"
   },
@@ -3939,7 +3939,7 @@
     "id": "3u1IKFlqo2YguaaZV",
     "name": "Video Download Link Crawler",
     "description": "Extract direct download links and metadata from video URLs. Supports 1000+ sites including YouTube, Vimeo, TikTok, Twitter/X, Dailymotion, and more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/gentle_cloud/video-download-link-crawler?fpr=hs6s8"
   },
@@ -3947,7 +3947,7 @@
     "id": "fn5ggW1guYIoaC4L0",
     "name": "Youtube Scraper",
     "description": "Unlimited and Affordable YouTube video scraper. Easily extract all video data using search terms or direct URLs. Carefully developed code, optimised through over 100 iterations, to minimise computational costs.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/bluephantom/youtube-scraper?fpr=hs6s8"
   },
@@ -3955,9 +3955,49 @@
     "id": "rf05OoA1jUCoxm73d",
     "name": "TikTok Hashtag Stats",
     "description": "Scrapes TikTok hashtag summary data (exact video count & view count) using Playwright to intercept the /api/challenge/detail XHR. No login required.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/funny_ground/tiktok-hashtag-stats?fpr=hs6s8"
+  },
+  {
+    "id": "FIMqDjilFL6Sn0DhB",
+    "name": "OK.RU Groups Scraper 🔍",
+    "description": "Scrape detailed group information from OK.RU (Odnoklassniki) social network based on keywords. Extract group names, descriptions, member counts, tags, and more. Perfect for social media research and analysis.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/easyapi/ok-ru-groups-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "PcZccfpUq8FeRCdvh",
+    "name": "OK.RU Video Scraper 🎥",
+    "description": "Scrape video search results from OK.RU (Odnoklassniki) including video details, views, likes, and metadata. Perfect for video content analysis, market research, and monitoring trending content on Russia's popular social network.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/easyapi/ok-ru-video-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "ybKjCfdpRUiyXoknm",
+    "name": "Smart Social Media Video Thumbnail Generator",
+    "description": "Intelligent multi-platform video thumbnail generator using FFmpeg. Automatically extracts high-quality frames with balanced interval sampling and intro-skipping, optimizes size and compression, and works with TikTok, X (Twitter), Instagram, Facebook, Vimeo, and LinkedIn.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/badruddeen/smart-social-media-video-thumbnail-generator?fpr=hs6s8"
+  },
+  {
+    "id": "SSRwepGKwzFKYeRrk",
+    "name": "YouTube Shorts Scraper - Channel Analytics & Engagement Data",
+    "description": "Unlock YouTube Shorts analytics! Extract views, likes, and engagement data from any channel. Get complete channel stats: 919M+ views tracking, subscriber counts, join dates, locations. Bulk scrape with sorting options. Perfect for content creators, marketers, and researchers analyzing trends.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/memo23/youtube-shorts-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gi8HU45VELd6NZsh8",
+    "name": "TikTok Video Insights Scraper",
+    "description": "This actor lets you extract detailed metadata from TikTok videos using one or multiple TikTok video URLs. It is designed for fast, reliable collection of public TikTok video data, making it ideal for analytics, research, and automation workflows.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/badruddeen/tiktok-video-insights-scraper?fpr=hs6s8"
   },
   {
     "id": "Ea82wcTpNYzTRV7A3",
@@ -3971,7 +4011,7 @@
     "id": "1YtzVTObRrlAsZ7CI",
     "name": "Instagram Video Downloader",
     "description": "Download Instagram videos, Reels, IGTV, and Stories effortlessly with our Instagram Video Downloader API. Supports high-resolution downloads (1080p, 720p, 480p, etc), bulk processing (1000+ URLs), metadata extraction, and residential proxy integration. Get seamless, high-quality video downloads.",
-    "rating": 3.011060834590247,
+    "rating": 3.011060834590246,
     "rating_count": 2,
     "url": "https://apify.com/scraper-mind/instagram-video-downloader?fpr=hs6s8"
   },
@@ -4139,7 +4179,7 @@
     "id": "M7jBK7NqAVaKBXSXZ",
     "name": "Instagram Search Users by Cookies",
     "description": "Use cookies to scrape Instagram users for a specific keyword.\n\nThe reason for splitting is that after obtaining a cookie, it can be used for multiple days to avoid your account being blocked.",
-    "rating": 3.0,
+    "rating": 3,
     "rating_count": 1,
     "url": "https://apify.com/shareze001/instagram-search-users-by-cookies?fpr=hs6s8"
   },
@@ -4155,9 +4195,17 @@
     "id": "bInft7nKPaSDnHDbm",
     "name": "Instagram Post Scraper",
     "description": "Scrape Instagram Posts and Reels with combined Instagram + Facebook metrics. Get views, likes, comments from both platforms when content is cross-posted — all with built-in authentication, no cookies required.",
-    "rating": 3,
+    "rating": 3.0,
     "rating_count": 1,
     "url": "https://apify.com/clappi/instagram-posts-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "w59tv4KasJj3dRDF4",
+    "name": "Xhamster Video Downloader | How to Download Xhamster Videos",
+    "description": "Xhamster Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Download Xhamster videos easily for offline viewing. Fast, reliable Xhamster video downloader with high-quality downloads.",
+    "rating": 3,
+    "rating_count": 1,
+    "url": "https://apify.com/how-to-download-videos/how-to-download-xhamster-videos?fpr=hs6s8"
   },
   {
     "id": "dJmV9nCJfii8BfD4k",
@@ -4187,7 +4235,7 @@
     "id": "YSbrJaIV7oeLLMbpl",
     "name": "Audio and Video Transcript (OpenAI Whisper)",
     "description": "This Actor transcribes audio or video files from publicly accessible URLs using OpenAI's Whisper API. To use this Actor, you'll need to provide your own OpenAI API key. It supports multiple languages and highly customizable parameters, enabling precise control over the transcription process.",
-    "rating": 1.782394673875402,
+    "rating": 1.782394673875403,
     "rating_count": 2,
     "url": "https://apify.com/vittuhy/audio-and-video-transcript?fpr=hs6s8"
   },
@@ -5616,14 +5664,6 @@
     "url": "https://apify.com/contactminerlabs/canva-email-scraper---advanced-cheapest-reliable?fpr=hs6s8"
   },
   {
-    "id": "FIMqDjilFL6Sn0DhB",
-    "name": "OK.RU Groups Scraper 🔍",
-    "description": "Scrape detailed group information from OK.RU (Odnoklassniki) social network based on keywords. Extract group names, descriptions, member counts, tags, and more. Perfect for social media research and analysis.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/easyapi/ok-ru-groups-scraper?fpr=hs6s8"
-  },
-  {
     "id": "rVg6sKD4fq3bqPEyw",
     "name": "Threads Profile Scraper 🌐 - Cheap",
     "description": "🔍 Scrape Mass/Bulk Threads Profiles\n\nEnter a keyword & extract relevant Threads profiles, including username, full name, headline, company, bio & URL 📊\nPerfect for lead generation, recruitment, B2B outreach, talent sourcing & enriching your data pipelines across Google Sheets & automation tools",
@@ -6382,14 +6422,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/contactminerlabs/vsco-email-scraper---advanced-cheapest-reliable?fpr=hs6s8"
-  },
-  {
-    "id": "PcZccfpUq8FeRCdvh",
-    "name": "OK.RU Video Scraper 🎥",
-    "description": "Scrape video search results from OK.RU (Odnoklassniki) including video details, views, likes, and metadata. Perfect for video content analysis, market research, and monitoring trending content on Russia's popular social network.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/easyapi/ok-ru-video-scraper?fpr=hs6s8"
   },
   {
     "id": "OG3sbTvXqyzHr01SD",
@@ -8294,14 +8326,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/data_ops_main/youtube-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "ybKjCfdpRUiyXoknm",
-    "name": "Smart Social Media Video Thumbnail Generator",
-    "description": "Intelligent multi-platform video thumbnail generator using FFmpeg. Automatically extracts high-quality frames with balanced interval sampling and intro-skipping, optimizes size and compression, and works with TikTok, X (Twitter), Instagram, Facebook, Vimeo, and LinkedIn.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/badruddeen/smart-social-media-video-thumbnail-generator?fpr=hs6s8"
   },
   {
     "id": "yVnNslfQy9addmmqS",
@@ -10334,14 +10358,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/patient_discovery/tiktok-api-post-comments?fpr=hs6s8"
-  },
-  {
-    "id": "SSRwepGKwzFKYeRrk",
-    "name": "YouTube Shorts Scraper - Channel Analytics & Engagement Data",
-    "description": "Unlock YouTube Shorts analytics! Extract views, likes, and engagement data from any channel. Get complete channel stats: 919M+ views tracking, subscriber counts, join dates, locations. Bulk scrape with sorting options. Perfect for content creators, marketers, and researchers analyzing trends.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/memo23/youtube-shorts-scraper?fpr=hs6s8"
   },
   {
     "id": "SPeEUupMOHSspPwgz",
@@ -16024,14 +16040,6 @@
     "url": "https://apify.com/trovevault/rumble-creator-video-signal-monitor?fpr=hs6s8"
   },
   {
-    "id": "w59tv4KasJj3dRDF4",
-    "name": "Xhamster Video Downloader | How to Download Xhamster Videos",
-    "description": "Xhamster Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Download Xhamster videos easily for offline viewing. Fast, reliable Xhamster video downloader with high-quality downloads.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/how-to-download-videos/how-to-download-xhamster-videos?fpr=hs6s8"
-  },
-  {
     "id": "rAHcbSnUQU8dwiw0v",
     "name": "Tiktok Scraper",
     "description": "",
@@ -17256,14 +17264,6 @@
     "url": "https://apify.com/datavoid/clips4sale-video-downloader?fpr=hs6s8"
   },
   {
-    "id": "gi8HU45VELd6NZsh8",
-    "name": "TikTok Video Insights Scraper",
-    "description": "This actor lets you extract detailed metadata from TikTok videos using one or multiple TikTok video URLs. It is designed for fast, reliable collection of public TikTok video data, making it ideal for analytics, research, and automation workflows.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/badruddeen/tiktok-video-insights-scraper?fpr=hs6s8"
-  },
-  {
     "id": "c7m38VrPyXOxeGA4i",
     "name": "Bilibili Creator Leaderboard Scraper",
     "description": "Scrape Bilibili trending video leaderboards across 32 categories. Extracts rank position, video stats (views, likes, coins, danmaku), creator info, and a crawl timestamp — ideal for trend tracking and time-series analysis.",
@@ -17790,6 +17790,230 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/seemuapps/youtube-comment-insights?fpr=hs6s8"
+  },
+  {
+    "id": "zqXrO55GxnCzmSNyd",
+    "name": "Eporner Video Downloader | How to Download Eporner Videos",
+    "description": "Eporner Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Capture Eporner videos in any available quality with layout-aware detection, realtime progress, and fully local MP4 processing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/pornvidsdownload/how-to-download-eporner-videos?fpr=hs6s8"
+  },
+  {
+    "id": "x2dz3sQVkYG0pnqLb",
+    "name": "Analdin Video Downloader | How to Download Analdin Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpxxx/analdin-video-downloader-how-to-download-analdin-videos?fpr=hs6s8"
+  },
+  {
+    "id": "wwUf81pyJVnJTjXD6",
+    "name": "Erome Video Downloader | How to Download Erome Videos",
+    "description": "Erome Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Detect every Erome video source, label quality options, and save reliable MP4 copies with cancel support and local processing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/pornvidsdownload/how-to-download-erome-videos?fpr=hs6s8"
+  },
+  {
+    "id": "s51Sba82Jkv45UpQQ",
+    "name": "Amtube Video Downloader | How to Download Amtube Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpxxx/amtube-video-downloader-how-to-download-amtube-videos?fpr=hs6s8"
+  },
+  {
+    "id": "qeMVicmKeWfXr0acd",
+    "name": "AlphaPorno Video Downloader | How to Download AlphaPorno Videos",
+    "description": "AlphaPorno Downloader for authorized-use downloads and local offline viewing of accessible AlphaPorno videos.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpxxx/alphaporno-video-downloader-how-to-download-alphaporno-videos?fpr=hs6s8"
+  },
+  {
+    "id": "iawIiGGL40l0ohNcb",
+    "name": "Anyporn Video Downloader | How to Download Anyporn Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpxxx/anyporn-video-downloader-how-to-download-anyporn-videos?fpr=hs6s8"
+  },
+  {
+    "id": "ge7UcaM7ShbyeZM4k",
+    "name": "Boysfood Video Downloader | How to Download Boysfood Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/how-to-download-videos/boysfood-video-downloader-how-to-download-boysfood-videos?fpr=hs6s8"
+  },
+  {
+    "id": "gKiZnV95tKx42oHbF",
+    "name": "Bravotube Video Downloader | How to Download Bravotube Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/how-to-download-videos/bravotube-video-downloader-how-to-download-bravotube-videos?fpr=hs6s8"
+  },
+  {
+    "id": "be8k7Q0UfDYpwk1cc",
+    "name": "Instagram Post Details Scraper",
+    "description": "Get full details for any Instagram post or Reel by URL caption, engagement counts, media download URLs, tagged users, and author profile. Batch input supported.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/seemuapps/instagram-post-details-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "bZBzThVJjngb5QTz5",
+    "name": "Facebook Video Downloader | How to Download Facebook Videos",
+    "description": "Facebook Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Facebook Video Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Download videos, images, and content from facebook with our reliable do",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/videodownloaders/how-to-download-facebook-videos?fpr=hs6s8"
+  },
+  {
+    "id": "ZY0mB6guN70atwr6C",
+    "name": "Bootyexpo Video Downloader | How to Download Bootyexpo Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/how-to-download-videos/bootyexpo-video-downloader-how-to-download-bootyexpo-videos?fpr=hs6s8"
+  },
+  {
+    "id": "Y10nNvJud9GHjVDIA",
+    "name": "Brazz Video Downloader | How to Download Brazz Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpdownloaders/brazz-video-downloader-how-to-download-brazz-videos?fpr=hs6s8"
+  },
+  {
+    "id": "XeoSAf9rIASfLnVbq",
+    "name": "Fansly Live Video Downloader | Download Fansly Live Videos",
+    "description": "Fansly Live Downloader for authorized-use downloads and local offline viewing of accessible videos.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/pornvidsdownload/how-to-download-fansly-live-videos?fpr=hs6s8"
+  },
+  {
+    "id": "XbZVqBN6CCVJAA3QY",
+    "name": "YouTube Search Scout — Builder & Demand Signals",
+    "description": "Search YouTube and extract videos (title, channel, views, length, age, url) for a query. Find builder case studies and niche demand. Parses ytInitialData, no API key needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/agency-shift/youtube-search-scout?fpr=hs6s8"
+  },
+  {
+    "id": "PSSoa1BJyksXwumPg",
+    "name": "Brazzers3X Video Downloader | How to Download Brazzers3X Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpdownloaders/brazzers3x-video-downloader-how-to-download-brazzers3x-videos?fpr=hs6s8"
+  },
+  {
+    "id": "PMXxYGUGMJ9GVZtm1",
+    "name": "Amigosporn Video Downloader | How to Download Amigosporn Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpxxx/amigosporn-video-downloader-how-to-download-amigosporn-videos?fpr=hs6s8"
+  },
+  {
+    "id": "MMt2FucxEStxVXoJB",
+    "name": "Erothots Video Downloader | How to Download Erothots Videos",
+    "description": "Download Erothots content easily for offline use. Fast and reliable Erothots downloader.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/pornvidsdownload/how-to-download-erothots-videos?fpr=hs6s8"
+  },
+  {
+    "id": "KaWT24szeFuSu492q",
+    "name": "GoHighLevel Video Downloader | Download GoHighLevel Videos",
+    "description": "GoHighLevel Downloader (Unofficial). Authorized-use only — download content you own or have permission to access. Download GoHighLevel course content and videos easily for offline use. Fast and reliable GoHighLevel downloader.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/videodownloaders/how-to-download-gohighlevel-videos?fpr=hs6s8"
+  },
+  {
+    "id": "FFHuMvqQkbEUkktGj",
+    "name": "Flirt4Free Video Downloader | How to Download Flirt4Free Videos",
+    "description": "Flirt4Free Downloader for authorized-use downloads and local offline viewing of accessible videos.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/pornvidsdownload/how-to-download-flirt4free-videos?fpr=hs6s8"
+  },
+  {
+    "id": "B3uUaIrCPoSBGU9tA",
+    "name": "Circle Video Downloader | How to Download Circle Videos",
+    "description": "Circle Downloader (Unofficial). Authorized-use only - download content you own or have permission to access. Download Circle videos and community lessons for offline viewing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/videodownloaders/how-to-download-circle-videos?fpr=hs6s8"
+  },
+  {
+    "id": "AdRh738sSy9Lr8xI9",
+    "name": "Cams.com Video Downloader | How to Download Cams.com Videos",
+    "description": "Cams.com Downloader for authorized-use downloads and local offline viewing of accessible videos.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpdownloaders/cams-com-video-downloader-how-to-download-cams-com-videos?fpr=hs6s8"
+  },
+  {
+    "id": "7sMqpSiOLlhv5tjAJ",
+    "name": "Borwap Video Downloader | How to Download Borwap Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/how-to-download-videos/borwap-video-downloader-how-to-download-borwap-videos?fpr=hs6s8"
+  },
+  {
+    "id": "6EpgftyGVt1CG2NsK",
+    "name": "Brazzpw Video Downloader | How to Download Brazzpw Videos",
+    "description": null,
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpdownloaders/brazzpw-video-downloader-how-to-download-brazzpw-videos?fpr=hs6s8"
+  },
+  {
+    "id": "5OqP7th4sh9YghgBr",
+    "name": "Dailymotion Video Downloader | Download Dailymotion Videos",
+    "description": "Dailymotion Downloader (Unofficial). Authorized-use only - download content you own or have permission to access.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/videodownloaders/how-to-download-dailymotion-videos?fpr=hs6s8"
+  },
+  {
+    "id": "1XMfK7U4ahYaZKCzR",
+    "name": "CAM4 Video Downloader | How to Download CAM4 Videos",
+    "description": "CAM4 Downloader for authorized-use downloads and local offline viewing of accessible videos.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/serpdownloaders/cam4-video-downloader-how-to-download-cam4-videos?fpr=hs6s8"
+  },
+  {
+    "id": "0dWcQCECeV2u8FsF5",
+    "name": "Sprout Video Downloader | How to Download Sprout Videos",
+    "description": "Sprout Video Downloader (Unofficial). Authorized-use only - download content you own or have permission to access. Download Sprout videos easily for offline viewing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/videodownloaders/sprout-video-downloader?fpr=hs6s8"
+  },
+  {
+    "id": "0Dqqgvv7yVBvM0diA",
+    "name": "Boyfriendtv Video Downloader | Download Boyfriendtv Videos",
+    "description": "Download BoyfriendTV videos for offline use. Fast, private BoyfriendTV downloader.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/how-to-download-videos/boyfriendtv-video-downloader-download-boyfriendtv-videos?fpr=hs6s8"
+  },
+  {
+    "id": "BoK3MbIR9v2fIf6Kc",
+    "name": "Xiaohongshu (RedNote) Product Reviews Scraper",
+    "description": "Scrape Xiaohongshu (RedNote) product reviews. Get review text, star ratings, buyer photos, the variant purchased, tags, seller replies, and reviewer profiles. Just add product URLs or IDs. Export to JSON, CSV, Excel.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/zen-studio/rednote-product-reviews-scraper?fpr=hs6s8"
   },
   {
     "id": "cppeKpLkqT41WgO0p",
