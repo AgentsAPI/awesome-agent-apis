@@ -40,12 +40,20 @@
     "url": "https://apify.com/dz_omar/youtube-comments-scraper?fpr=hs6s8"
   },
   {
-    "id": "xb0fMFsu0z9PW3OUO",
-    "name": "IRS Tax Exempt Organization Scraper",
-    "description": "Search and retrieve IRS tax-exempt organizations (501c nonprofits) from the official IRS Exempt Organizations Business Master File. Search by name/EIN, filter by state, NTEE code, deductibility status.",
+    "id": "GPyZpNLqyRZMZS5Yf",
+    "name": "NSF Award Search Scraper",
+    "description": "Search and extract NSF (National Science Foundation) research award data including funding amounts, principal investigators, awardee organizations, and project abstracts. Filter by keyword, date range, and US state.",
     "rating": 5.000000000000001,
     "rating_count": 11,
-    "url": "https://apify.com/crawlergang/irs-tax-exempt-scraper?fpr=hs6s8"
+    "url": "https://apify.com/crawlergang/nsf-award-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "dE18okzkHgDLUgScq",
+    "name": "CPAN Module Scraper",
+    "description": "Scrape CPAN (Comprehensive Perl Archive Network) via MetaCPAN API. Search modules and releases, or fetch by exact module name. Returns version, author, license, repository, and download info.",
+    "rating": 5.000000000000001,
+    "rating_count": 11,
+    "url": "https://apify.com/crawlergang/cpan-scraper?fpr=hs6s8"
   },
   {
     "id": "RGEBfXu0TSc1siPLb",
@@ -75,7 +83,7 @@
     "id": "kLEEyGkCMO2ZmAFSH",
     "name": "Case Law Scraper",
     "description": "Search and retrieve US court opinions and case law from CourtListener - the largest open legal database with 4M+ court opinions. Search by keyword, filter by court, date range, and jurisdiction.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/case-law-scraper?fpr=hs6s8"
   },
@@ -83,7 +91,7 @@
     "id": "UoromRYhPXcTXuvwt",
     "name": "GLEIF LEI Scraper",
     "description": "Search 2M+ legal entities from the Global LEI (Legal Entity Identifier) database by GLEIF. Free, no auth required. Get entity name, jurisdiction, address, registration status, and more.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/gleif-lei-scraper?fpr=hs6s8"
   },
@@ -91,7 +99,7 @@
     "id": "u0sG3Wiy5pdt9mIfU",
     "name": "Email Verifier & Validator | Bulk Deliverability Check",
     "description": "Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean email lists to reduce bounce rates.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/michael.g/email-verifier-validator?fpr=hs6s8"
   },
@@ -99,25 +107,17 @@
     "id": "gfmsfSaXjhBErzHQh",
     "name": "USPTO Patent Search Scraper",
     "description": "Search and extract US patent data from the USPTO Public Patent Search (PPUBS) - full-text search across 10M+ patents and patent applications. No API key required.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/uspto-patent-scraper?fpr=hs6s8"
   },
   {
-    "id": "GPyZpNLqyRZMZS5Yf",
-    "name": "NSF Award Search Scraper",
-    "description": "Search and extract NSF (National Science Foundation) research award data including funding amounts, principal investigators, awardee organizations, and project abstracts. Filter by keyword, date range, and US state.",
+    "id": "xb0fMFsu0z9PW3OUO",
+    "name": "IRS Tax Exempt Organization Scraper",
+    "description": "Search and retrieve IRS tax-exempt organizations (501c nonprofits) from the official IRS Exempt Organizations Business Master File. Search by name/EIN, filter by state, NTEE code, deductibility status.",
     "rating": 4.999999999999999,
     "rating_count": 11,
-    "url": "https://apify.com/crawlergang/nsf-award-search-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "dE18okzkHgDLUgScq",
-    "name": "CPAN Module Scraper",
-    "description": "Scrape CPAN (Comprehensive Perl Archive Network) via MetaCPAN API. Search modules and releases, or fetch by exact module name. Returns version, author, license, repository, and download info.",
-    "rating": 4.999999999999999,
-    "rating_count": 11,
-    "url": "https://apify.com/crawlergang/cpan-scraper?fpr=hs6s8"
+    "url": "https://apify.com/crawlergang/irs-tax-exempt-scraper?fpr=hs6s8"
   },
   {
     "id": "IeZZMR1Uv6J9h7pdS",
@@ -131,7 +131,7 @@
     "id": "BEwUoGEsRUQC2iUPa",
     "name": "Tester MCP Client",
     "description": "A model context protocol (MCP) client that connects to any MCP server using Streamable HTTP and displays the conversation in a chat-like UI. It is a standalone Actor server designed for testing MCP servers over Stremable HTTP.",
-    "rating": 4.994887453087783,
+    "rating": 4.994887453087782,
     "rating_count": 8,
     "url": "https://apify.com/jiri.spilka/tester-mcp-client?fpr=hs6s8"
   },
@@ -144,36 +144,12 @@
     "url": "https://apify.com/6sigmag/fast-website-content-crawler?fpr=hs6s8"
   },
   {
-    "id": "KLCcCF6cMJMden8ZD",
-    "name": "Reddit MCP Scraper",
-    "description": "Unified Reddit scraper supporting 3 modes: (1) Subreddit posts with content extraction, (2) Post comments with threading, (3) User profiles with metadata. Extract comprehensive data including scores, timestamps, flairs, NSFW flags, and more.",
-    "rating": 4.731252949703554,
-    "rating_count": 7,
-    "url": "https://apify.com/crawlerbros/reddit-mcp-scraper?fpr=hs6s8"
-  },
-  {
     "id": "rzWN5rWOZelwVxehV",
     "name": "Email Verifier Pro | $0.85/1k - Bulk Email Validator",
     "description": "Verify email addresses in bulk with real SMTP checks. Detect disposable, role-based, and catch-all emails. CSV upload, live progress, smart retries. Cheapest full-SMTP verifier on the Store at $0.85/1k emails.",
     "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/blessiticus/email-verifier-pro?fpr=hs6s8"
-  },
-  {
-    "id": "f8d1fJGFQuLQW1MH0",
-    "name": "Google Maps MCP",
-    "description": "Unified Apify MCP server for Google Maps. Search for businesses and extract comprehensive data including ratings, reviews, contact info, and more. Scrape detailed reviews from any Google Maps place.",
-    "rating": 5,
-    "rating_count": 6,
-    "url": "https://apify.com/crawlerbros/google-maps-mcp?fpr=hs6s8"
-  },
-  {
-    "id": "jzGXL39AgmD19Ul2d",
-    "name": "Markdownify MCP Server",
-    "description": "Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools.",
-    "rating": 5,
-    "rating_count": 6,
-    "url": "https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8"
   },
   {
     "id": "aQRfpx1smqXOzVMcU",
@@ -187,7 +163,7 @@
     "id": "hwFYoftv3cqE07w3T",
     "name": "Chrono24 Scraper & Opportunity Notification",
     "description": "Scrape watch listings from Chrono24 & Receive your personal opportunity notification! Scrape price, brand, location. It supports all chrono24 filters. Export to JSON, CSV, or Excel. Notification mail when the price is interesting for you!",
-    "rating": 4.12032514457588,
+    "rating": 4.120325144575879,
     "rating_count": 6,
     "url": "https://apify.com/ilborso/chrono24-scraper-opportunity-notification?fpr=hs6s8"
   },
@@ -203,7 +179,7 @@
     "id": "vZF6vhRnwTqXXA0kk",
     "name": "Tripadvisor Scraper API - Reviews, Hotels, Restaurants & Search",
     "description": "Scrape Tripadvisor at scale: reviews, hotels, restaurants, attractions. Two modes — paste a URL to extract reviews, or search by keyword + location to discover places (with optional reviews). Rating distribution, sub-ratings, owner responses, photos. Enterprise infrastructure. No login.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/santhej/tripadvisor-scraper-pro?fpr=hs6s8"
   },
@@ -227,7 +203,7 @@
     "id": "WR3u5077HUqYbRWXi",
     "name": "Google Autocomplete Scraper - Keyword Suggestions at Scale",
     "description": "Scrape Google Autocomplete suggestions for any seed keyword — the real queries people type. Mine long-tail keywords, questions & content ideas in bulk. 190+ countries. Clean JSON/CSV for SEO & content research. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/google-autocomplete-scraper?fpr=hs6s8"
   },
@@ -235,7 +211,7 @@
     "id": "Ggudg9f0br4ULmLPC",
     "name": "Google News Scraper - Articles, Sources, Snippets & Dates",
     "description": "Scrape Google News for any topic or keyword: headline, source, URL, snippet, publish date and image. Track brands, competitors & trends across thousands of outlets. 190+ countries. Clean JSON/CSV for media monitoring. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/google-news-scraper?fpr=hs6s8"
   },
@@ -243,7 +219,7 @@
     "id": "bJrcieSB7EigcgsL7",
     "name": "Website Contact Extractor - Emails, Phones & Social Links",
     "description": "Bulk-extract contact details from any list of websites: email addresses, phone numbers, and social profiles (LinkedIn, X, Facebook, Instagram, YouTube). Crawls homepage + contact/about pages. Clean JSON/CSV for lead lists & enrichment.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/santhej/website-contact-extractor?fpr=hs6s8"
   },
@@ -251,7 +227,7 @@
     "id": "RMiZDaNWGEBjz1NSu",
     "name": "Instagram Profile Scraper - Followers, Bio & Business Info",
     "description": "Scrape Instagram profiles in bulk: followers, following, posts, bio, verified & business status, category, external link, and public business email/phone. Paste usernames or URLs. Clean JSON/CSV for influencer & lead research. No login.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/santhej/instagram-profile-scraper?fpr=hs6s8"
   },
@@ -275,7 +251,7 @@
     "id": "d3e2jctvKMocftD9z",
     "name": "Website SEO Audit - On-Page Analyzer, Meta, Speed & Issues",
     "description": "Instant on-page SEO audit for any list of URLs: title & meta tags, H1s, word count, internal/external links, load time, on-page score & a prioritized list of SEO issues. Bulk-check pages. Clean JSON/CSV for audits & reports. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/santhej/website-seo-audit?fpr=hs6s8"
   },
@@ -283,7 +259,7 @@
     "id": "ieWf40xbZZduEpK6V",
     "name": "Google Maps Scraper - Business Leads, Phone, Reviews & GPS",
     "description": "Scrape Google Maps businesses at scale: name, category, full address, phone, website, rating, review count, price level & GPS. Perfect for local SEO and B2B lead lists. Any city or niche, 190+ countries. Clean JSON/CSV. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 4,
     "url": "https://apify.com/santhej/google-maps-scraper?fpr=hs6s8"
   },
@@ -323,7 +299,7 @@
     "id": "nV26oTXBRmhgaVu00",
     "name": "Ranked Keywords Checker - Any Domain's Google Keywords",
     "description": "See every keyword a domain ranks for on Google: position, search volume, CPC, competition, traffic estimate & the exact ranking URL. Spy on competitors or audit your own site. 190+ countries. Clean JSON/CSV. A cheap Ahrefs/Semrush alternative. No API keys.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/santhej/ranked-keywords-checker?fpr=hs6s8"
   },
@@ -355,7 +331,7 @@
     "id": "wXYfSpmEkFP87hgmF",
     "name": "AI Search Volume Explorer - Keyword Demand Across AI Search",
     "description": "Discover how often keywords are actually searched inside AI assistants like ChatGPT. Get AI search volume and 12-month trend for any keyword — the GEO/AEO metric traditional SEO tools can't show you. Clean JSON/CSV. Future-proof your content. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/ai-search-volume-explorer?fpr=hs6s8"
   },
@@ -363,7 +339,7 @@
     "id": "9jVyDHFHnZ5eRl8J8",
     "name": "Google Shopping Scraper - Products, Prices & Sellers",
     "description": "Scrape Google Shopping results: product title, price, old price, currency, seller, rating, review count & product URL. Compare prices across sellers for any product. 190+ countries. Clean JSON/CSV for price intelligence & e-commerce. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/google-shopping-scraper?fpr=hs6s8"
   },
@@ -371,7 +347,7 @@
     "id": "pP89MLYlHpenyYt5Y",
     "name": "Domain Availability, Expiry, WHOIS, DNS, IP, ASN, 70+ TLD",
     "description": "Domain availability and expiry dates, WHOIS & RDAP data,  DNS (A, MX, NS, TXT),  IP geolocation and ASN details, calculates domain age, and supports batch processing. Supports 70+ TLDs, handles errors gracefully, and delivers clean, structured JSON output.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/datascoutapi/DomainDaddy?fpr=hs6s8"
   },
@@ -395,7 +371,7 @@
     "id": "SNF4mtH30RUzZT8Ir",
     "name": "Google Trends Scraper - Interest Over Time, Peaks & Compare",
     "description": "Scrape Google Trends for any keywords: interest-over-time series, average, peak and latest interest, plus side-by-side comparison of up to 5 terms. Pick country and time range. Clean JSON/CSV for trend research and content timing. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/santhej/google-trends-scraper?fpr=hs6s8"
   },
@@ -467,9 +443,25 @@
     "id": "78cFU7dXHwszeVm9A",
     "name": "Website Content Crawler Pro",
     "description": "Crawl websites and extract clean, structured content in Markdown, JSON, or plain text for AI models, LLMs, vector DBs, or RAG pipelines. Fast, reliable, and stealthy, with bulk processing, advanced metadata extraction, and seamless integration with LangChain, LlamaIndex, and AI workflows.",
-    "rating": 3.656051162985842,
+    "rating": 3.656051162985843,
     "rating_count": 3,
     "url": "https://apify.com/datascoutapi/website-content-crawler-pro?fpr=hs6s8"
+  },
+  {
+    "id": "f8d1fJGFQuLQW1MH0",
+    "name": "Google Maps MCP",
+    "description": "Unified Apify MCP server for Google Maps. Search for businesses and extract comprehensive data including ratings, reviews, contact info, and more. Scrape detailed reviews from any Google Maps place.",
+    "rating": 5.000000000000001,
+    "rating_count": 2,
+    "url": "https://apify.com/crawlerbros/google-maps-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "jzGXL39AgmD19Ul2d",
+    "name": "Markdownify MCP Server",
+    "description": "Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8"
   },
   {
     "id": "PVpATK5xrZz1JBNvn",
@@ -499,7 +491,7 @@
     "id": "claPedDvrKAd56Bgb",
     "name": "Normal Mode Test Actor",
     "description": "A simple Actor that adds two numbers together, with an optional delay; it can simulate long-running processes.\n\nThe main purpose of this Actor is to enable fast, cheap testing.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/apify/normal-mode-test-actor?fpr=hs6s8"
   },
@@ -523,7 +515,7 @@
     "id": "nD2s2cv56CzATolKf",
     "name": "Home Assistant MCP Server",
     "description": "Control your Home Assistant smart home devices through AI agents using Model Context Protocol (MCP). Get states, call services, list entities, and manage lights, switches, sensors, climate controls, and more. Perfect for AI-powered home automation and voice assistants.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/home-assistant-mcp-server?fpr=hs6s8"
   },
@@ -531,7 +523,7 @@
     "id": "dGtHx6cS0LNSUqj2H",
     "name": "Slack MCP",
     "description": "Model Context Protocol server that lets AI copilots list channels, pull message history, send updates, manage membership, and fetch metadata from your Slack workspace using scoped bot tokens.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/slack-mcp?fpr=hs6s8"
   },
@@ -539,7 +531,7 @@
     "id": "3wubGouTtUYf1LUtk",
     "name": "Markdown to PDF MCP Server",
     "description": "Convert Markdown content to PDF format using Model Context Protocol (MCP). Perfect for developers, content creators, and businesses who need to programmatically convert Markdown documents to professional PDFs with custom styling, page sizes, margins, and orientations.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/markdown-to-pdf-mcp?fpr=hs6s8"
   },
@@ -558,6 +550,14 @@
     "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/indeed-job-search?fpr=hs6s8"
+  },
+  {
+    "id": "KLCcCF6cMJMden8ZD",
+    "name": "Reddit MCP Scraper",
+    "description": "Unified Reddit scraper supporting 3 modes: (1) Subreddit posts with content extraction, (2) Post comments with threading, (3) User profiles with metadata. Extract comprehensive data including scores, timestamps, flairs, NSFW flags, and more.",
+    "rating": 2.634070753117733,
+    "rating_count": 3,
+    "url": "https://apify.com/crawlerbros/reddit-mcp-scraper?fpr=hs6s8"
   },
   {
     "id": "fN4fJgXUfEbeYjNxL",
@@ -579,7 +579,7 @@
     "id": "TBxNczWNXst8K72z2",
     "name": "LinkedIn Jobs Scraper — Salary, Skills, Seniority & Easy Apply",
     "description": "Extract LinkedIn jobs by keyword and location. Returns title, company, salary, skills, seniority, easy-apply flag, and company data. No login required. $1/1K.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/khadinakbar/linkedin-jobs-scraper?fpr=hs6s8"
   },
@@ -675,7 +675,7 @@
     "id": "7NVnVLCPUfh1SuJU2",
     "name": "Discord Mcp Server",
     "description": "Connect your AI assistant directly to Discord and automate messages, roles, and moderation without building or hosting custom bots.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/goodboycoder/discord-mcp-server?fpr=hs6s8"
   },
@@ -683,7 +683,7 @@
     "id": "o5VftMG0K2ZgXavVJ",
     "name": "Immobiliare Scraper & Opportunity Notification",
     "description": "Serverless scraper for immobiliare.it that extracts property listings, identifies those under your maxPrice (marked with shouldBuy=True), and sends automatic emails with links, photos, and descriptions only for matching deals.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/ilborso/immobiliare-scraper-opportunity-notification?fpr=hs6s8"
   },
@@ -835,7 +835,7 @@
     "id": "nvkqTQDIQvVRfW4e8",
     "name": "YouTube Channel Email Scraper - Emails, Website & Socials",
     "description": "Extract creator contact details from YouTube channels: business website, email addresses, and social profiles (Instagram, TikTok, X & more). Paste channel URLs or @handles. Clean JSON/CSV for influencer outreach & lead gen. No login.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/santhej/youtube-channel-email-scraper?fpr=hs6s8"
   },
@@ -843,7 +843,7 @@
     "id": "AzH6VdHu71IxgeNvs",
     "name": "Trustpilot Reviews Scraper - Ratings, Text, Author & Date",
     "description": "Scrape Trustpilot reviews for any company: star rating, review title & text, author, verified status, language, date and company replies. Bulk by domain. Clean JSON/CSV for reputation monitoring & sentiment analysis. Cheapest in market. No API keys.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/santhej/trustpilot-reviews-scraper?fpr=hs6s8"
   },
@@ -9118,5 +9118,69 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/zhorex/ai-brand-visibility-monitor?fpr=hs6s8"
+  },
+  {
+    "id": "xjIyorT0UNkh3NGeG",
+    "name": "Open Science Evidence Finder",
+    "description": "Find, verify, deduplicate, and score open scientific metadata from OpenAlex, Crossref, arXiv, and Europe PMC for LLM source grounding.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/mrbridge/open-science-evidence-finder?fpr=hs6s8"
+  },
+  {
+    "id": "jnHGOaZsVNaKdzgcD",
+    "name": "Hotels.com Scraper",
+    "description": "Scrape Hotels.com nightly rates + full hotel data by destination or property. Per-OTA price compare, ratings, amenities. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/hotels-com-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "gEADiPFws7HWrXXtW",
+    "name": "Myntra Product Scraper",
+    "description": "Scrape Myntra.com products by keyword, listing/category URL, or product URL/ID — price, MRP, discount, brand, rating, sizes, stock, seller, images, and specs. HTTP-only, MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/myntra-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "dcoN7sCL3xgwvRhz4",
+    "name": "Tokopedia Scraper",
+    "description": "Scrape Tokopedia product detail, category listings, and shop catalogs by URL — price, rating, reviews, stock, shop, image. HTTP-only via Chrome-TLS impersonation, no login. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/tokopedia-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "TBj2FB9IJGFt8rHdH",
+    "name": "MercadoLibre Search Scraper — Price, Seller & Rating",
+    "description": "Scrape MercadoLibre search results across 11 LATAM countries: title, price, discount, seller, rating, reviews, free shipping, installments, and result position. Keyword or search URL. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/mercadolibre-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "LIG5lp9khKBCJevgo",
+    "name": "Twitch Channel Scraper",
+    "description": "Scrape public Twitch channels by username or URL — profile, live status, follower count, partner/affiliate type, recent videos (VODs), and top clips. HTTP-only via the Twitch GraphQL API, no login. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/twitch-channel-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "IroXl49HgeM3jpSmv",
+    "name": "Spotify Monthly Listeners Scraper",
+    "description": "Get Spotify artist monthly listeners, followers, world rank, and top listener cities from an artist URL, ID, or name. HTTP-only, no API key, MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/spotify-monthly-listeners-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "GNuZC2rMse9kO2Ey5",
+    "name": "Myntra Product Search Scraper",
+    "description": "Search Myntra by keyword or category/search URL and get fashion product cards: brand, product name, price, MRP, discount %, rating, rating count, sizes, colour, gender, category, sponsored flag, image and product URL. Auto-paginated, HTTP-only, MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/myntra-product-search-scraper?fpr=hs6s8"
   }
 ]
