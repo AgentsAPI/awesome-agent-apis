@@ -91,25 +91,9 @@
     "id": "xb0fMFsu0z9PW3OUO",
     "name": "IRS Tax Exempt Organization Scraper",
     "description": "Search and retrieve IRS tax-exempt organizations (501c nonprofits) from the official IRS Exempt Organizations Business Master File. Search by name/EIN, filter by state, NTEE code, deductibility status.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/irs-tax-exempt-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "GPyZpNLqyRZMZS5Yf",
-    "name": "NSF Award Search Scraper",
-    "description": "Search and extract NSF (National Science Foundation) research award data including funding amounts, principal investigators, awardee organizations, and project abstracts. Filter by keyword, date range, and US state.",
-    "rating": 5,
-    "rating_count": 11,
-    "url": "https://apify.com/crawlergang/nsf-award-search-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "dE18okzkHgDLUgScq",
-    "name": "CPAN Module Scraper",
-    "description": "Scrape CPAN (Comprehensive Perl Archive Network) via MetaCPAN API. Search modules and releases, or fetch by exact module name. Returns version, author, license, repository, and download info.",
-    "rating": 5,
-    "rating_count": 11,
-    "url": "https://apify.com/crawlergang/cpan-scraper?fpr=hs6s8"
   },
   {
     "id": "6RB7icHgp5qzSrnx1",
@@ -120,10 +104,26 @@
     "url": "https://apify.com/crawlergang/college-scorecard-scraper?fpr=hs6s8"
   },
   {
+    "id": "GPyZpNLqyRZMZS5Yf",
+    "name": "NSF Award Search Scraper",
+    "description": "Search and extract NSF (National Science Foundation) research award data including funding amounts, principal investigators, awardee organizations, and project abstracts. Filter by keyword, date range, and US state.",
+    "rating": 4.999999999999999,
+    "rating_count": 11,
+    "url": "https://apify.com/crawlergang/nsf-award-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "dE18okzkHgDLUgScq",
+    "name": "CPAN Module Scraper",
+    "description": "Scrape CPAN (Comprehensive Perl Archive Network) via MetaCPAN API. Search modules and releases, or fetch by exact module name. Returns version, author, license, repository, and download info.",
+    "rating": 4.999999999999999,
+    "rating_count": 11,
+    "url": "https://apify.com/crawlergang/cpan-scraper?fpr=hs6s8"
+  },
+  {
     "id": "IeZZMR1Uv6J9h7pdS",
     "name": "Website Scraper",
     "description": "Extract information from websites using intelligent AI 🤖from contact details to custom data fields, summaries, and creative content 🌐. Automatically crawl contact, about, and team pages to gather emails, phone numbers, job titles, and social links. Batch process hundreds of URLs efficiently.",
-    "rating": 3.911698381804775,
+    "rating": 3.911698381804776,
     "rating_count": 14,
     "url": "https://apify.com/dz_omar/ai-lead-extractor?fpr=hs6s8"
   },
@@ -131,7 +131,7 @@
     "id": "BEwUoGEsRUQC2iUPa",
     "name": "Tester MCP Client",
     "description": "A model context protocol (MCP) client that connects to any MCP server using Streamable HTTP and displays the conversation in a chat-like UI. It is a standalone Actor server designed for testing MCP servers over Stremable HTTP.",
-    "rating": 4.994887453087782,
+    "rating": 4.994887453087781,
     "rating_count": 8,
     "url": "https://apify.com/jiri.spilka/tester-mcp-client?fpr=hs6s8"
   },
@@ -139,8 +139,8 @@
     "id": "vFDBqKNXeGllTgOLz",
     "name": "Fast Website Content Crawler",
     "description": "A high-performance web scraper that rapidly extracts and analyzes content from multiple websites simultaneously. Perfect for competitive research, content aggregation, and website structure analysis.",
-    "rating": 4.901418590329144,
-    "rating_count": 7,
+    "rating": 4.977957851692668,
+    "rating_count": 8,
     "url": "https://apify.com/6sigmag/fast-website-content-crawler?fpr=hs6s8"
   },
   {
@@ -155,7 +155,7 @@
     "id": "aQRfpx1smqXOzVMcU",
     "name": "Video Transcript",
     "description": "Universal video-to-text API across YouTube, TikTok, Instagram, X, Facebook, Vimeo and 1000+ platforms. Returns the full transcript as timestamped segments with the source video metadata, optionally translated into 100+ target languages — one endpoint replacing per-platform transcription stacks.",
-    "rating": 4.068263091405321,
+    "rating": 4.06826309140532,
     "rating_count": 7,
     "url": "https://apify.com/agentx/video-transcript?fpr=hs6s8"
   },
@@ -195,7 +195,7 @@
     "id": "thaH6GigjLUnfVyph",
     "name": "Backlink Checker - Backlinks, Referring Domains & Anchors",
     "description": "Check backlinks for any domain or URL: referring page, anchor text, dofollow/nofollow, domain authority rank, spam score, and first/last seen dates. Filter by quality. Clean JSON/CSV for link audits & competitor research. An Ahrefs alternative. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/backlink-checker?fpr=hs6s8"
   },
@@ -208,18 +208,10 @@
     "url": "https://apify.com/santhej/google-shopping-scraper?fpr=hs6s8"
   },
   {
-    "id": "bJrcieSB7EigcgsL7",
-    "name": "Website Contact Extractor - Emails, Phones & Social Links",
-    "description": "Bulk-extract contact details from any list of websites: email addresses, phone numbers, and social profiles (LinkedIn, X, Facebook, Instagram, YouTube). Crawls homepage + contact/about pages. Clean JSON/CSV for lead lists & enrichment.",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/santhej/website-contact-extractor?fpr=hs6s8"
-  },
-  {
     "id": "RMiZDaNWGEBjz1NSu",
     "name": "Instagram Profile Scraper - Followers, Bio & Business Info",
     "description": "Scrape Instagram profiles in bulk: followers, following, posts, bio, verified & business status, category, external link, and public business email/phone. Paste usernames or URLs. Clean JSON/CSV for influencer & lead research. No login.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/instagram-profile-scraper?fpr=hs6s8"
   },
@@ -272,14 +264,6 @@
     "url": "https://apify.com/santhej/tripadvisor-scraper-pro?fpr=hs6s8"
   },
   {
-    "id": "lAybf7rRybdzabbBk",
-    "name": "Telegram Info Scraper",
-    "description": "Bulk-resolve up to 1,000 Telegram identifiers in one call — mix usernames, @handles, and t.me URLs covering users, bots, channels, supergroups, and groups. Each result returns the canonical entity record with ID, type, title or first/last name, listed phone, scam/fake/verified flags, and members.",
-    "rating": 5.000000000000001,
-    "rating_count": 4,
-    "url": "https://apify.com/agentx/telegram-info-scraper?fpr=hs6s8"
-  },
-  {
     "id": "XqEZodkkqvqAtiSkV",
     "name": "Google AI Overview API",
     "description": "Fetch Google AI Overviews for any query - get the AI-generated answer and its cited sources as structured JSON. Send one or many queries, target a country and language, and handle Google's deferred (page-token) generation automatically. Pay per retrieval. MCP-ready for Claude and AI agents.",
@@ -320,14 +304,6 @@
     "url": "https://apify.com/the.beast/workflow-orchestrator?fpr=hs6s8"
   },
   {
-    "id": "nV26oTXBRmhgaVu00",
-    "name": "Ranked Keywords Checker - Any Domain's Google Keywords",
-    "description": "See every keyword a domain ranks for on Google: position, search volume, CPC, competition, traffic estimate & the exact ranking URL. Spy on competitors or audit your own site. 190+ countries. Clean JSON/CSV. A cheap Ahrefs/Semrush alternative. No API keys.",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/santhej/ranked-keywords-checker?fpr=hs6s8"
-  },
-  {
     "id": "l4HsHJMVLoS2kAzhJ",
     "name": "Google Search Results Scraper - SERP API, PAA & Rich Results",
     "description": "Scrape Google Search results at scale: organic rankings, People Also Ask, AI Overview, featured snippets, ads & related searches. Any keyword, 190+ countries, desktop or mobile. Clean JSON/CSV. 95%+ success. No proxies or API keys to manage.",
@@ -339,7 +315,7 @@
     "id": "wXYfSpmEkFP87hgmF",
     "name": "AI Search Volume Explorer - Keyword Demand Across AI Search",
     "description": "Discover how often keywords are actually searched inside AI assistants like ChatGPT. Get AI search volume and 12-month trend for any keyword — the GEO/AEO metric traditional SEO tools can't show you. Clean JSON/CSV. Future-proof your content. No API keys.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 4,
     "url": "https://apify.com/santhej/ai-search-volume-explorer?fpr=hs6s8"
   },
@@ -347,9 +323,33 @@
     "id": "pP89MLYlHpenyYt5Y",
     "name": "Domain Availability, Expiry, WHOIS, DNS, IP, ASN, 70+ TLD",
     "description": "Domain availability and expiry dates, WHOIS & RDAP data,  DNS (A, MX, NS, TXT),  IP geolocation and ASN details, calculates domain age, and supports batch processing. Supports 70+ TLDs, handles errors gracefully, and delivers clean, structured JSON output.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/datascoutapi/DomainDaddy?fpr=hs6s8"
+  },
+  {
+    "id": "bJrcieSB7EigcgsL7",
+    "name": "Website Contact Extractor - Emails, Phones & Social Links",
+    "description": "Bulk-extract contact details from any list of websites: email addresses, phone numbers, and social profiles (LinkedIn, X, Facebook, Instagram, YouTube). Crawls homepage + contact/about pages. Clean JSON/CSV for lead lists & enrichment.",
+    "rating": 4.999999999999999,
+    "rating_count": 4,
+    "url": "https://apify.com/santhej/website-contact-extractor?fpr=hs6s8"
+  },
+  {
+    "id": "lAybf7rRybdzabbBk",
+    "name": "Telegram Info Scraper",
+    "description": "Bulk-resolve up to 1,000 Telegram identifiers in one call — mix usernames, @handles, and t.me URLs covering users, bots, channels, supergroups, and groups. Each result returns the canonical entity record with ID, type, title or first/last name, listed phone, scam/fake/verified flags, and members.",
+    "rating": 4.999999999999999,
+    "rating_count": 4,
+    "url": "https://apify.com/agentx/telegram-info-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "nV26oTXBRmhgaVu00",
+    "name": "Ranked Keywords Checker - Any Domain's Google Keywords",
+    "description": "See every keyword a domain ranks for on Google: position, search volume, CPC, competition, traffic estimate & the exact ranking URL. Spy on competitors or audit your own site. 190+ countries. Clean JSON/CSV. A cheap Ahrefs/Semrush alternative. No API keys.",
+    "rating": 4.999999999999999,
+    "rating_count": 4,
+    "url": "https://apify.com/santhej/ranked-keywords-checker?fpr=hs6s8"
   },
   {
     "id": "aUz1Rf2n45CuHvStY",
@@ -368,10 +368,26 @@
     "url": "https://apify.com/agentx/youtube-transcript?fpr=hs6s8"
   },
   {
+    "id": "w8SNoAPyZLk7sLuOl",
+    "name": "Google Scholar Case Law API",
+    "description": "API for Google Scholar US case law. Search opinions and pull full case details with court, year, and citation filters. Returns structured JSON. MCP-ready.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/johnvc/google-scholar-case-law?fpr=hs6s8"
+  },
+  {
+    "id": "VZTENHFJOyJEGIKCv",
+    "name": "Speech-to-Text Transcription",
+    "description": "Transcribe audio and video from YouTube, TikTok, podcasts, X, and 1,000+ other sites or any direct media URL into accurate, speaker-labeled text. Uses World's best speech to text AI models with automatic language detection, multilingual support, and smart formatting.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/hgservices/speech-to-text?fpr=hs6s8"
+  },
+  {
     "id": "SNF4mtH30RUzZT8Ir",
     "name": "Google Trends Scraper - Interest Over Time, Peaks & Compare",
     "description": "Scrape Google Trends for any keywords: interest-over-time series, average, peak and latest interest, plus side-by-side comparison of up to 5 terms. Pick country and time range. Clean JSON/CSV for trend research and content timing. No API keys.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/santhej/google-trends-scraper?fpr=hs6s8"
   },
@@ -392,28 +408,12 @@
     "url": "https://apify.com/cheapget/best-job-search?fpr=hs6s8"
   },
   {
-    "id": "w8SNoAPyZLk7sLuOl",
-    "name": "Google Scholar Case Law API",
-    "description": "API for Google Scholar US case law. Search opinions and pull full case details with court, year, and citation filters. Returns structured JSON. MCP-ready.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/johnvc/google-scholar-case-law?fpr=hs6s8"
-  },
-  {
     "id": "WuRRLognFnFA1WHJs",
     "name": "TempMail OTP MCP",
     "description": "TempMail & OTP Extractor MCP server for AI Agents. Instantly generate temporary emails, auto-poll inboxes, and extract verification codes or activation links. Perfect for registration automation.",
     "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/rexreus/tempmail-otp-mcp?fpr=hs6s8"
-  },
-  {
-    "id": "VZTENHFJOyJEGIKCv",
-    "name": "Speech-to-Text Transcription",
-    "description": "Transcribe audio and video from YouTube, TikTok, podcasts, X, and 1,000+ other sites or any direct media URL into accurate, speaker-labeled text. Uses World's best speech to text AI models with automatic language detection, multilingual support, and smart formatting.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/hgservices/speech-to-text?fpr=hs6s8"
   },
   {
     "id": "awbkkk1w2CKtNBScC",
@@ -435,7 +435,7 @@
     "id": "iw2hVeBlinZyZqLwm",
     "name": "AI Brand Visibility - ChatGPT, Perplexity, Copilot, Google AI",
     "description": "Does ChatGPT recommend your brand? AI Brand Visibility Tracker across ChatGPT, Perplexity, Gemini, Copilot & Google AI Overview - $0.30/query expands to 15-25 real AI datapoints. Ground-truth validated (no LLM hallucination), MCP server for Claude/Cursor, GEO/AEO audit. No subscription.",
-    "rating": 4.082576335235113,
+    "rating": 4.082576335235112,
     "rating_count": 3,
     "url": "https://apify.com/doesaiknow/ai-brand-visibility---chatgpt-perplexity-copilot-google-ai?fpr=hs6s8"
   },
@@ -451,7 +451,7 @@
     "id": "f8d1fJGFQuLQW1MH0",
     "name": "Google Maps MCP",
     "description": "Unified Apify MCP server for Google Maps. Search for businesses and extract comprehensive data including ratings, reviews, contact info, and more. Scrape detailed reviews from any Google Maps place.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/crawlerbros/google-maps-mcp?fpr=hs6s8"
   },
@@ -462,14 +462,6 @@
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8"
-  },
-  {
-    "id": "PVpATK5xrZz1JBNvn",
-    "name": "𝕏 (twitter) Info Scraper",
-    "description": "Bulk X/Twitter profile lookup — send up to 1,000 usernames, @handles, or x.com URLs per run. Every row returns the full profile: display name, bio, follower and following counts, tweet count, verified type (blue/business/government), join date, location, website, and pinned tweet.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/agentx/twitter-info-scraper?fpr=hs6s8"
   },
   {
     "id": "7Ig3I8YcOQ6Rta5vH",
@@ -542,6 +534,14 @@
     "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/disarming_screw-owner/1-2-000-leads-apollo-scraper-replacement-b2b-b2c-leads?fpr=hs6s8"
+  },
+  {
+    "id": "PVpATK5xrZz1JBNvn",
+    "name": "𝕏 (twitter) Info Scraper",
+    "description": "Bulk X/Twitter profile lookup — send up to 1,000 usernames, @handles, or x.com URLs per run. Every row returns the full profile: display name, bio, follower and following counts, tweet count, verified type (blue/business/government), join date, location, website, and pinned tweet.",
+    "rating": 4.999999999999999,
+    "rating_count": 2,
+    "url": "https://apify.com/agentx/twitter-info-scraper?fpr=hs6s8"
   },
   {
     "id": "claPedDvrKAd56Bgb",
@@ -688,14 +688,6 @@
     "url": "https://apify.com/mrbridge/latest-news-mcp-server?fpr=hs6s8"
   },
   {
-    "id": "7NVnVLCPUfh1SuJU2",
-    "name": "Discord Mcp Server",
-    "description": "Connect your AI assistant directly to Discord and automate messages, roles, and moderation without building or hosting custom bots.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/goodboycoder/discord-mcp-server?fpr=hs6s8"
-  },
-  {
     "id": "o5VftMG0K2ZgXavVJ",
     "name": "Immobiliare Scraper & Opportunity Notification",
     "description": "Serverless scraper for immobiliare.it that extracts property listings, identifies those under your maxPrice (marked with shouldBuy=True), and sends automatic emails with links, photos, and descriptions only for matching deals.",
@@ -710,14 +702,6 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/ilborso/catawiki-scraper-opportunity-notification?fpr=hs6s8"
-  },
-  {
-    "id": "hkRhEwU4uKBMH9OhR",
-    "name": "Google Maps Scraper — Places, Reviews & Contact Data",
-    "description": "Scrape business listings from Google Maps. Extract name, address, phone, website, rating, reviews, coordinates, timezone and more. Fast parallel scraping with residential proxy support.",
-    "rating": 5,
-    "rating_count": 1,
-    "url": "https://apify.com/openclawai/google-maps-scraper?fpr=hs6s8"
   },
   {
     "id": "nQxTzKe5yrbyzysYh",
@@ -826,7 +810,7 @@
   {
     "id": "1JzoyOYYazotUoh0g",
     "name": "🎭 Playwright MCP — AI Browser Automation",
-    "description": "MCP server for AI agents to control browsers via Playwright — navigate, click, type, screenshot & extract data. Give Claude or GPT web browsing abilities. 17 tools for browser automation.",
+    "description": "MCP server exposing Playwright browser automation — navigate, click, fill forms, extract content and screenshot — as 17 agent tools. Connect Claude, Cursor, n8n.",
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/nexgendata/playwright-mcp-server?fpr=hs6s8"
@@ -851,7 +835,7 @@
     "id": "nvkqTQDIQvVRfW4e8",
     "name": "YouTube Channel Email Scraper - Emails, Website & Socials",
     "description": "Extract creator contact details from YouTube channels: business website, email addresses, and social profiles (Instagram, TikTok, X & more). Paste channel URLs or @handles. Clean JSON/CSV for influencer outreach & lead gen. No login.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/santhej/youtube-channel-email-scraper?fpr=hs6s8"
   },
@@ -859,7 +843,7 @@
     "id": "AzH6VdHu71IxgeNvs",
     "name": "Trustpilot Reviews Scraper - Ratings, Text, Author & Date",
     "description": "Scrape Trustpilot reviews for any company: star rating, review title & text, author, verified status, language, date and company replies. Bulk by domain. Clean JSON/CSV for reputation monitoring & sentiment analysis. Cheapest in market. No API keys.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/santhej/trustpilot-reviews-scraper?fpr=hs6s8"
   },
@@ -950,6 +934,30 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/michael.g/whatsapp-number-validator?fpr=hs6s8"
+  },
+  {
+    "id": "AtH8dLzp3UsP8OmSm",
+    "name": "Reddit MCP Server",
+    "description": "Enter a company name, get its decision makers — founders, C-suite, VPs & directors with LinkedIn profiles, & roles. Deliver to Notion, Slack, Jira & more via MCP.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/techforce.global/reddit-posts-mcp-server?fpr=hs6s8"
+  },
+  {
+    "id": "7NVnVLCPUfh1SuJU2",
+    "name": "Discord Mcp Server",
+    "description": "Connect your AI assistant directly to Discord and automate messages, roles, and moderation without building or hosting custom bots.",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/goodboycoder/discord-mcp-server?fpr=hs6s8"
+  },
+  {
+    "id": "hkRhEwU4uKBMH9OhR",
+    "name": "Google Maps Scraper — Places, Reviews & Contact Data",
+    "description": "Scrape business listings from Google Maps. Extract name, address, phone, website, rating, reviews, coordinates, timezone and more. Fast parallel scraping with residential proxy support.",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/openclawai/google-maps-scraper?fpr=hs6s8"
   },
   {
     "id": "OFdvsjf7TqVYuQPky",
@@ -1426,7 +1434,7 @@
   {
     "id": "iS91cqk3mFTWub23X",
     "name": "SEO & Web Analysis MCP Server",
-    "description": "MCP server for AI agents to crawl sites, detect tech stacks, and check DNS, SSL & WHOIS. Connect Claude, GPT or any MCP client. 5 tools for website & domain analysis.",
+    "description": "MCP server exposing on-page crawl, tech-stack detection, DNS, SSL and WHOIS as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/seo-web-analysis-mcp-server?fpr=hs6s8"
@@ -1954,7 +1962,7 @@
   {
     "id": "rRDQsFu4MMLT0HMZR",
     "name": "Redfin Real Estate MCP Server",
-    "description": "Redfin real estate MCP server for AI agents (Claude Desktop, Cursor, OpenAI Agents SDK). Search Redfin listings and get property details via MCP. 2 tools for property research. Pay per tool call.",
+    "description": "MCP server exposing Redfin property search and full listing detail as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live Redfin data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/redfin-mcp-server?fpr=hs6s8"
@@ -2274,7 +2282,7 @@
   {
     "id": "fgKTW7pyUpPXHMdyC",
     "name": "Legal Research MCP Server",
-    "description": "MCP server giving AI agents ten US legal & IP tools in one connection: court records, case law, federal dockets (RECAP), judges, oral arguments, SEC litigation, FINRA BrokerCheck, TTAB oppositions, copyright records & trademark-conflict alerts. Pay per call.",
+    "description": "MCP server exposing case law, court dockets, FINRA BrokerCheck and trademark data as 10 agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK. Not legal advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/legal-mcp-server?fpr=hs6s8"
@@ -2338,7 +2346,7 @@
   {
     "id": "ba5IvUyUgWetvIuSz",
     "name": "HR & Compensation Data MCP Server",
-    "description": "MCP server for AI agents to search H-1B visa salary records and general salary data. Connect Claude, GPT or any MCP client to compensation data. 2 salary-search tools. Pay per tool call.",
+    "description": "MCP server exposing salary and H-1B disclosed-wage data as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live compensation data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/hr-compensation-mcp-server?fpr=hs6s8"
@@ -2362,7 +2370,7 @@
   {
     "id": "ZuY8xExrmZTJualCf",
     "name": "Developer Tools MCP Server",
-    "description": "MCP server giving AI agents 7 tools: GitHub repo lookup & search, npm & PyPI package metadata, Stack Overflow search, plus arXiv & Google Scholar academic search. Works with Claude, GPT & any MCP client.",
+    "description": "MCP server exposing GitHub, npm, PyPI, Stack Overflow, arXiv and Scholar search as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/developer-tools-mcp-server?fpr=hs6s8"
@@ -2490,7 +2498,7 @@
   {
     "id": "TtAI8dvxRH4ji375T",
     "name": "GitHub Repository Analytics MCP Server",
-    "description": "MCP server giving AI agents (Claude, Cursor, custom) read-only analytics on any public GitHub repo with no personal access token. Four tools: get_repo_stats (stars/forks/issues), search_repos by topic, get_repo_languages, and compare_repos. Runs on Apify's proxy pool, no rate-limit juggling.",
+    "description": "MCP server exposing GitHub repo search, stats, language breakdown and comparison as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/github-mcp-server?fpr=hs6s8"
@@ -2514,7 +2522,7 @@
   {
     "id": "SXNjE9PGIstaB77LK",
     "name": "Google Maps Business & Lead Gen MCP Server",
-    "description": "MCP server exposing three tools: search_local_businesses, generate_leads and validate_emails. Search Google Maps business listings, build local-business lead lists and verify emails from Claude, Cursor and any MCP agent. Pay-per-event, no monthly minimum.",
+    "description": "MCP server exposing local-business search, lead generation and email validation as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/google-maps-mcp-server?fpr=hs6s8"
@@ -2626,7 +2634,7 @@
   {
     "id": "OsDpP44sLlEWi88CH",
     "name": "Finance & Market Data MCP Server",
-    "description": "MCP server giving AI agents (Claude, Cursor, n8n) live market data via five tools: get_stock_data (price, P/E, market cap, dividend yield via Yahoo Finance), screen_stocks (Finviz), get_crypto_prices (CoinGecko), get_exchange_rates and track_crypto_portfolio. Pay-per-result Bloomberg alternative.",
+    "description": "MCP server exposing live stock quotes, a stock screener, crypto prices and FX rates as agent tools. Connect Claude, Cursor, or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/finance-mcp-server?fpr=hs6s8"
@@ -2698,7 +2706,7 @@
   {
     "id": "MJi4dzjS5RnatpNHc",
     "name": "Academic Research MCP Server",
-    "description": "MCP server exposing two tools: search_arxiv and search_google_scholar. Find scholarly papers from arXiv and Google Scholar from Claude, Cursor and any MCP agent. Returns clean JSON for LLM tool-use. Pay-per-event, no monthly minimum.",
+    "description": "MCP server exposing arXiv and Google Scholar paper search as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live academic literature.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/academic-research-mcp-server?fpr=hs6s8"
@@ -2730,7 +2738,7 @@
   {
     "id": "LjGCyVAYO45XhjA7U",
     "name": "Real Estate MCP Server",
-    "description": "MCP server giving AI agents (Claude, Cursor, n8n) live U.S. Redfin property data via two tools: search_redfin_properties (by city or ZIP) and get_property_details (full listing by URL). Structured JSON for LLM function-calling — the agentic alternative to building your own Redfin scraper.",
+    "description": "MCP server exposing US property search and full listing detail (Redfin-sourced) as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/real-estate-mcp-server?fpr=hs6s8"
@@ -2826,7 +2834,7 @@
   {
     "id": "IHlSJsgAiuJ6lJyOh",
     "name": "Sports Scores MCP Server",
-    "description": "MCP server giving AI agents live NBA, NFL, and NHL scoreboards (scores, teams, game status) as clean JSON. 4 tools for Claude Desktop, Cursor, and other MCP clients. Scoreboards only; pay-per-event, no subscription.",
+    "description": "MCP server exposing NBA, NFL, NHL and combined sports scores as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live game scores.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/sports-mcp-server?fpr=hs6s8"
@@ -3018,7 +3026,7 @@
   {
     "id": "BbDcu0yhYwjZwMGYk",
     "name": "Social & Content MCP Server",
-    "description": "MCP server giving AI agents (Claude Desktop, Cursor, OpenAI/Vercel AI SDK) 4 tools: search_devto (developer articles), get_steam_games, search_podcasts (episodes), and search_events (Eventbrite). Pay-per-tool-call content & media search, no monthly minimum.",
+    "description": "MCP server exposing Steam games, Dev.to articles, events and podcasts as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live content feeds.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/social-content-mcp-server?fpr=hs6s8"
@@ -3082,7 +3090,7 @@
   {
     "id": "9Rjliaasiet0JaC0k",
     "name": "E-Commerce Intelligence MCP Server",
-    "description": "MCP server giving AI agents 2 Shopify tools: analyze_shopify_store (store overview/analysis) and get_store_products (product catalog). Shopify-only. Clean JSON for Claude Desktop, Cursor, and other MCP clients. Pay-per-event.",
+    "description": "MCP server exposing Shopify store analysis and product-catalog extraction as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/ecommerce-intelligence-mcp-server?fpr=hs6s8"
@@ -3250,7 +3258,7 @@
   {
     "id": "3RVknXdI7QQbIIcCo",
     "name": "News & Media MCP Server",
-    "description": "News monitoring MCP server for AI agents (Claude Desktop, Cursor, OpenAI Agents SDK). Live news search and headlines across AP News, BBC, NPR, Hacker News, and Google News via MCP. Pay per tool call.",
+    "description": "MCP server exposing AP, BBC, NPR, Hacker News and Google News search as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live news feeds.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/news-mcp-server?fpr=hs6s8"
@@ -4106,7 +4114,7 @@
   {
     "id": "zkY3vlcJ2mIARugRl",
     "name": "📈 Yahoo Finance MCP — AI Stock Analysis",
-    "description": "Yahoo Finance MCP server for AI agents (Claude Desktop, Cursor, OpenAI/Vercel AI SDK). 3 tools: get_stock_quote, get_multiple_quotes, and compare_stocks — price, change, volume, market cap and P/E per ticker. Pay-per-tool-call, no monthly minimum.",
+    "description": "MCP server exposing Yahoo Finance stock quotes and multi-ticker comparison as agent tools. Connect Claude, Cursor, or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/yahoo-finance-mcp-server?fpr=hs6s8"
@@ -4658,7 +4666,7 @@
   {
     "id": "uyuumvohnZ5Arss5n",
     "name": "🎬 YouTube MCP — AI Video Search & Transcripts",
-    "description": "Media MCP server for AI agents (Claude Desktop, Cursor, OpenAI Agents SDK). Fetch YouTube video transcripts, search podcast episodes, and search IMDB titles via MCP. Pay per tool call.",
+    "description": "MCP server exposing YouTube transcripts, IMDb search and podcast search as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live media data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/youtube-media-mcp-server?fpr=hs6s8"
@@ -4666,7 +4674,7 @@
   {
     "id": "tBs0B77aO5qYyQoyJ",
     "name": "🌐 Domain Intel MCP — AI WHOIS & DNS Analysis",
-    "description": "MCP server giving AI agents 4 domain-intelligence tools: dns_lookup, whois_lookup, ssl_check (single certificate), and ip_geolocation. Clean JSON for Claude Desktop, Cursor, and other MCP clients. Pay-per-event.",
+    "description": "MCP server exposing DNS, WHOIS, IP geolocation and SSL checks as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live domain data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/domain-intelligence-mcp-server?fpr=hs6s8"
@@ -4674,7 +4682,7 @@
   {
     "id": "fq5IY0ytOPc0Riihs",
     "name": "⭐ Review Intel MCP — AI Review Analysis",
-    "description": "Customer review MCP server for AI agents (Claude Desktop, Cursor, OpenAI Agents SDK). Fetch reviews from Trustpilot, G2, and Yelp via MCP for product, competitive, and CX workflows. Pay per tool call.",
+    "description": "MCP server exposing G2, Trustpilot and Yelp review data as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live customer-review data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/review-intelligence-mcp-server?fpr=hs6s8"
@@ -4682,7 +4690,7 @@
   {
     "id": "b5fGAzZmpQp9kN6EA",
     "name": "💼 Jobs MCP — AI Salary & Career Search",
-    "description": "MCP server giving AI agents (Claude Desktop, Cursor, OpenAI/Vercel AI SDK) 3 tools: search_jobs (Indeed listings), company_reviews (Glassdoor), and salary_search (H1B visa salary data). Pay-per-tool-call job market data, no monthly minimum.",
+    "description": "MCP server exposing job-posting search, salary data and employer reviews as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/job-market-mcp-server?fpr=hs6s8"
@@ -4690,7 +4698,7 @@
   {
     "id": "QqPuHSJKb1s7oWi5b",
     "name": "🌤️ Weather MCP — AI Forecast & Climate Data",
-    "description": "MCP server exposing one tool, get_weather(location), that returns current conditions plus a multi-day forecast for any city or lat,lon. For Claude Desktop, Cursor, Cline and any MCP-compatible AI agent. Pay-per-event, no monthly minimum.",
+    "description": "MCP server exposing current weather and forecast lookup as an agent tool. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live weather data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/weather-mcp-server?fpr=hs6s8"
@@ -4698,7 +4706,7 @@
   {
     "id": "PQ6ZPgOu9OeueUaQx",
     "name": "🔴 Reddit MCP — AI Post & Comment Search",
-    "description": "Reddit MCP server for AI agents: search Reddit posts and browse subreddit feeds via the Model Context Protocol. Works with Claude Desktop, Cursor, Cline and any MCP client. 2 tools for community research.",
+    "description": "MCP server exposing subreddit feeds and Reddit search as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live Reddit content.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/reddit-mcp-server?fpr=hs6s8"
@@ -4706,7 +4714,7 @@
   {
     "id": "NjlgQBEwsSq9kegVH",
     "name": "₿ Crypto MCP — AI Token & Market Data",
-    "description": "MCP server giving AI agents two tools: crypto_prices (live cryptocurrency prices via CoinGecko) and exchange_rates (fiat currency exchange rates). Clean JSON for Claude Desktop, Cursor, and other MCP clients. Pay-per-event.",
+    "description": "MCP server exposing live cryptocurrency prices and FX rates as agent tools. Connect Claude, Cursor, or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/crypto-mcp-server?fpr=hs6s8"
@@ -4714,7 +4722,7 @@
   {
     "id": "LEM7cXyO2T1TdNcBN",
     "name": "✈️ Travel MCP — AI Hotel & Flight Search",
-    "description": "MCP server letting AI agents (Claude Desktop, Cursor, n8n, OpenAI Agents SDK) search Airbnb listings, Booking.com hotels, and TripAdvisor reviews and rankings across three sources in one connection. Pay-per-result, no quotas — built for AI travel concierges and itinerary builders.",
+    "description": "MCP server exposing Airbnb, hotel and TripAdvisor search as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live travel data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/travel-mcp-server?fpr=hs6s8"
@@ -4730,7 +4738,7 @@
   {
     "id": "BHc0QVOgHRVPetzjg",
     "name": "🕷️ Web Scraping MCP — AI Content Extraction",
-    "description": "MCP server giving AI agents (Claude Desktop, Cursor, n8n, Windsurf) 3 tools: crawl_website (multi-page content crawl), google_search (organic results), and wikipedia_lookup. Pay-per-tool-call web extraction for RAG and research agents.",
+    "description": "MCP server exposing website crawling, Google search and Wikipedia lookup as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/web-scraping-mcp-server?fpr=hs6s8"
@@ -4746,7 +4754,7 @@
   {
     "id": "1Abbtz4UT5cQgTIXG",
     "name": "🚗 Automotive MCP — AI Vehicle & Dealer Search",
-    "description": "MCP server letting AI agents search vehicle listings and run car market analysis from Cars.com. Works with Claude, Cursor, Cline and any MCP client. 2 tools for car shopping and auto market research.",
+    "description": "MCP server exposing car-listing search and used-car market analysis as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live automotive data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/automotive-mcp-server?fpr=hs6s8"
@@ -4770,7 +4778,7 @@
   {
     "id": "YP8KJ8jnYQZvJZHAd",
     "name": "💎 Premium Data MCP — AI Intelligence & Analytics Server",
-    "description": "MCP server with five tools: search government contracts, lookup business registration, search Amazon products, search FDA recalls and compare product prices. Public and commercial data for Claude, Cursor and any MCP agent. Pay-per-event, no monthly minimum.",
+    "description": "MCP server exposing government contracts, business registration, FDA recalls and product-price data as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/premium-data-mcp-server?fpr=hs6s8"
@@ -8626,7 +8634,7 @@
   {
     "id": "xfesWUUfRPGnwQdOk",
     "name": "🎯 Sales Intelligence MCP",
-    "description": "One MCP endpoint that gives any AI agent ten B2B prospecting tools: find company emails, enrich companies, discover leads by industry, detect hiring signals, track funding, detect tech stack, and search LinkedIn jobs. Works in Claude Desktop, Cursor, Cline, Windsurf, and n8n. Billed per call.",
+    "description": "MCP server exposing B2B lead finding, company enrichment, email discovery and funding tracking as 10 agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/sales-intelligence-mcp?fpr=hs6s8"
@@ -8634,7 +8642,7 @@
   {
     "id": "wHuGwy7GJlm2zveXw",
     "name": "📊 Global Equities Screener MCP",
-    "description": "MCP server bundling 26 regional stock screeners as agent tools — Bloomberg / Wind alternative for global market screening",
+    "description": "MCP server exposing equity screeners for 26 global markets as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK. Not investment advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/global-equities-screener-mcp?fpr=hs6s8"
@@ -8658,7 +8666,7 @@
   {
     "id": "poaMUgWqsrzTDExQW",
     "name": "🏦 FRED + Treasury Auctions Macro Data MCP for AI Agents",
-    "description": "MCP server for AI agents to fetch FRED macro data (CPI, GDP, unemployment, fed funds) + US Treasury yield curve and auction calendar in one tool-call. Premium fixed-income data for LLM trading assistants.",
+    "description": "MCP server exposing FRED economic series, Treasury yields and auction data as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK. Not investment advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/fred-treasury-macro-data-mcp?fpr=hs6s8"
@@ -8674,7 +8682,7 @@
   {
     "id": "Rfoht1EMXyUllA8bY",
     "name": "📋 Regulatory Filings MCP",
-    "description": "MCP server giving AI agents 17 SEC + institutional filing tools: Form 4, 8-K, 13F, Schedule 13D, Form D, plus insider clusters, 13F deltas, SWF holdings, and IPO/earnings calendars. Pay per tool call, no seats.",
+    "description": "MCP server exposing SEC filings — 13F, Form 4, 8-K, 13D, IPO and short-interest data — as 17 agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK. Not investment advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/regulatory-filings-mcp?fpr=hs6s8"
@@ -8682,7 +8690,7 @@
   {
     "id": "KbQDicevemdMbzG8N",
     "name": "Patents & Trademarks (IP) MCP — Patent Search for AI Agents",
-    "description": "MCP server giving AI agents patent search via Google Patents: keyword search, lookup by publication number, company IP portfolios, and inventor discovery. Patents only. Connect Claude, Cursor or Windsurf. Pay per tool call.",
+    "description": "MCP server exposing patent and inventor search plus full patent detail as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK to live IP data.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/patents-trademarks-ip-mcp-server?fpr=hs6s8"
@@ -8806,14 +8814,6 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/themineworks/openfda-unified-crawler?fpr=hs6s8"
-  },
-  {
-    "id": "AtH8dLzp3UsP8OmSm",
-    "name": "Reddit MCP Server",
-    "description": "Enter a company name, get its decision makers — founders, C-suite, VPs & directors with LinkedIn profiles, & roles. Deliver to Notion, Slack, Jira & more via MCP.",
-    "rating": 0,
-    "rating_count": 0,
-    "url": "https://apify.com/techforce.global/reddit-posts-mcp-server?fpr=hs6s8"
   },
   {
     "id": "57SKI9Cz02tOmI7Hi",
@@ -9186,7 +9186,7 @@
   {
     "id": "vBOrgoK2YUAEUse1y",
     "name": "China A-Share Market Intelligence MCP — Data for AI Agents",
-    "description": "MCP server giving AI agents one-connection access to China A-share data: financials, earnings/unlock/IPO calendars, institutional & fund holdings, smart-money, dragon-tiger, block trades, Stock Connect flow, disclosures, news. Hosted, zero-config for Claude/Cursor/n8n. Bloomberg/Wind alternative.",
+    "description": "MCP server exposing China A-share screening, filings, holdings, flows and calendars as agent tools. Connect Claude, Cursor, or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/china-market-intelligence-mcp?fpr=hs6s8"
@@ -9194,7 +9194,7 @@
   {
     "id": "h8fx1QflVvX2GggTV",
     "name": "Chinese Social Signals MCP",
-    "description": "MCP server: AI-agent access to Chinese social & trend signals — Douyin, Weibo, Xiaohongshu/RedNote, Zhihu, Bilibili, Kuaishou, Douban, Toutiao.",
+    "description": "MCP server exposing Chinese social trends — Weibo, Douyin, Xiaohongshu, Bilibili, Zhihu — as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/chinese-social-signals-mcp?fpr=hs6s8"
@@ -9202,7 +9202,7 @@
   {
     "id": "aw2rkAvdee3wJRayX",
     "name": "SEC Corporate Events MCP — M&A, Buybacks, IPO Tools",
-    "description": "MCP server with 10 SEC corporate-event tools for AI agents — M&A, buybacks, IPOs, delistings, going-private, comment letters, activist proxies. Normalized JSON, pay-per-call.",
+    "description": "MCP server exposing SEC corporate-event tracking — M&A, buybacks, delistings, going-private and exec comp — as 10 agent tools. Connect Claude, Cursor, n8n. Not investment advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/sec-corporate-events-mcp?fpr=hs6s8"
@@ -9210,7 +9210,7 @@
   {
     "id": "OuHHvMZxkIMMW8aXr",
     "name": "🪙 Crypto & DeFi MCP — TVL, Stablecoins, Funding, Odds",
-    "description": "MCP server giving AI agents one-connection access to crypto & DeFi data: DeFi protocol TVL, stablecoin supply & peg, perpetual-futures funding rates, Kalshi & Polymarket prediction markets, and top-100 crypto by market cap.",
+    "description": "MCP server exposing DeFi TVL, stablecoin supply, perp funding, top coins and prediction-market data as agent tools. Connect Claude, Cursor, n8n.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/crypto-defi-mcp?fpr=hs6s8"
@@ -9242,7 +9242,7 @@
   {
     "id": "34ymhaRQlzoLavWla",
     "name": "Healthcare & FDA Intelligence MCP — FDA, NIH, CMS & CDC for AI",
-    "description": "Healthcare & FDA Intelligence MCP gives any AI agent one connection to 15 tools across FDA drug labels, approvals, recalls, adverse events, warning letters, the Orange & Purple Books, 510(k) devices, ClinicalTrials.gov, NIH grants, CMS Open Payments, PubMed and CDC data. Normalized JSON.",
+    "description": "MCP server exposing FDA, CDC, NIH, PubMed and clinical-trials data as 15 agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK. Not medical advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/healthcare-fda-intelligence-mcp?fpr=hs6s8"
@@ -9258,7 +9258,7 @@
   {
     "id": "neARIrTsQbUGkk9Pd",
     "name": "Sanctions Compliance MCP Server",
-    "description": "MCP server: sanctions & enforcement screening for AI agents — screen any name across OFAC, EU, UN & UK HMT lists in one call, plus FTC/EPA/FCA/ASIC/MAS/SFC/CFTC enforcement actions. For AML/KYC, compliance & due diligence.",
+    "description": "MCP server exposing OFAC, EU, UN and UK sanctions screening plus regulator enforcement search as 12 agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/sanctions-compliance-mcp-server?fpr=hs6s8"
@@ -9274,7 +9274,7 @@
   {
     "id": "ieaD9t0GRhGBXBfCR",
     "name": "Healthcare & Medical Data MCP Server",
-    "description": "MCP server: healthcare & medical data for AI agents — FDA drug labels, recalls, approvals, adverse events (FAERS), warning letters; PubMed; NIH grants; CMS Open Payments; CDC surveillance. For pharma, clinical & health research.",
+    "description": "MCP server exposing FDA, CDC, NIH and PubMed medical data as 9 agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK. Not medical advice.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/healthcare-medical-mcp-server?fpr=hs6s8"
@@ -9282,7 +9282,7 @@
   {
     "id": "eWmel82SfKEYlbd85",
     "name": "🏦 Banking & Financial Stability MCP",
-    "description": "MCP server: US banking & financial-stability data for AI agents — FDIC bank financials & health metrics, bank-regulator enforcement actions, and systemic-risk signals. Connect Claude/GPT to monitor bank soundness, supervision and financial-system stability.",
+    "description": "MCP server exposing bank financials, central-bank rates, enforcement actions and fair-lending data as agent tools. Connect Claude, Cursor, or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/banking-financial-stability-mcp?fpr=hs6s8"
@@ -9290,7 +9290,7 @@
   {
     "id": "eNmu6Roiukgu68VDw",
     "name": "France Map MCP Server",
-    "description": "",
+    "description": "France Map MCP Server connects Claude, ChatGPT, Cursor and VS Code to French APICarto data. It exposes 10 tools for cadastre, administrative boundaries, urban planning, environment, RPG agriculture, roads and postal codes, returning compact GeoJSON summaries for LLM workflows.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/mrbridge/France-Map-MCP-Server?fpr=hs6s8"
@@ -9298,7 +9298,7 @@
   {
     "id": "d05SNNPgsekAXe297",
     "name": "Aviation & Flight Tracking MCP — Live Aircraft for AI Agents",
-    "description": "MCP server: live flight tracking for AI agents (adsb.lol ADS-B) — find aircraft near any point/radius, track by ICAO hex, search by callsign/airline, summarize airspace over a city/airport. For aviation, OSINT & awareness.",
+    "description": "MCP server exposing live flight tracking — by callsign, location and airspace — as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/aviation-flight-tracking-mcp-server?fpr=hs6s8"
@@ -9306,7 +9306,7 @@
   {
     "id": "ICcZVuVDeb9AdOR6t",
     "name": "Government Contracts MCP — Federal Awards for AI Agents",
-    "description": "MCP server: US federal spending intelligence for AI agents (USAspending.gov) — search contract & grant awards by keyword, rank top recipients by dollars, spending by agency, recipient profiles. For govcon & market research.",
+    "description": "MCP server exposing USAspending federal award search, agency spending and recipient data as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/government-contracts-procurement-mcp-server?fpr=hs6s8"
@@ -9314,7 +9314,7 @@
   {
     "id": "63IVCdekgaGv5ntfi",
     "name": "Cybersecurity MCP Server",
-    "description": "MCP server: cybersecurity & vulnerability intelligence for AI agents — search CVEs (NVD), CISA KEV exploited vulns with EPSS, dependency advisories, SSL/TLS checks, domain security posture, Chrome-extension risk. For DevSecOps & threat intel.",
+    "description": "MCP server exposing CVE search, CISA KEV, dependency advisories and SSL checks as agent tools. Connect Claude, Cursor, n8n or the OpenAI Agents SDK.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/nexgendata/cybersecurity-mcp-server?fpr=hs6s8"
@@ -9374,5 +9374,125 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/seibs.co/mcp-meta-content-intel?fpr=hs6s8"
+  },
+  {
+    "id": "4V5mR1uW1qKp8q1cX",
+    "name": "Allegro Seller Scraper — Prices, EAN, SKU, Images, Specs (PL)",
+    "description": "Scrape full seller catalogs from Allegro.pl — Poland's #1 e-commerce marketplace. Extract URL, name, price, EAN, SKU, descriptions, parameters, images. DataDome bypass included. Built by Klevio — Polish e-commerce specialists.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/allegro-seller-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "oPWwqhqx8nv1Tuery",
+    "name": "Discord Server Scraper — Messages, Members & Channels",
+    "description": "Export a Discord server via your bot token: messages, members, channels, roles & full structure. HTTP-only, no proxy. MCP-ready Apify Actor.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/discord-server-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "ngdXfQe1mBhDG1L5q",
+    "name": "Jumia Product Scraper",
+    "description": "Scrape Jumia products across 11 African markets by keyword, category URL, or product URL.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/jumia-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "naLolkSveLb5vNfxk",
+    "name": "OLX Nieruchomości: Mieszkania, Domy, Działki + Monitoring",
+    "description": "Scraper OLX.pl dla nieruchomości: mieszkania, domy, działki, garaże, biura. Pełne filtry OLX (kategoria, miasto, promień, cena, m², pokoje, piętro) oraz monitoring nowych ogłoszeń dla leadgenu agencji. Ustrukturyzowany JSON/CSV. Bez klejenia URL. Od Klevio, polski specjalista e-commerce.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/olx-nieruchomosci-pl?fpr=hs6s8"
+  },
+  {
+    "id": "kOsFEDHvJlYOEZk2Y",
+    "name": "Alibaba Products Scraper — Suppliers, Prices & MOQ",
+    "description": "Scrape Alibaba.com B2B products by keyword or URL — tier prices, MOQ, supplier name, years, country, gold status, response rate, GMV, and reviews. HTTP-only, MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/alibaba-products-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "hbKBvAThScQN8p3uM",
+    "name": "Allegro EAN Price Tracker — All Sellers by EAN",
+    "description": "Premium Allegro.pl price tracker by EAN/GTIN code. Bulk scrape up to 1000 EANs per run — get all sellers + their prices for each product. Ideal for brand MAP monitoring, distributors, dropshipper research, and repricers. Built by Klevio — Polish e-commerce specialists.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/allegro-ean-price-tracker?fpr=hs6s8"
+  },
+  {
+    "id": "gGkcvgHLLGEEZ5hA0",
+    "name": "Allegro Photos, Descriptions & Specs by EAN",
+    "description": "Bulk Allegro.pl product-content scraper by EAN/GTIN: product photos (full resolution, optional file download), description (HTML/plain text) and parameters. Up to 1000 EANs per run. 🇵🇱 Zdjęcia, opisy i parametry produktów z Allegro po kodzie EAN. By Klevio.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/allegro-description-photo-parameters?fpr=hs6s8"
+  },
+  {
+    "id": "fXk3so03MZlaoPGDz",
+    "name": "Allegro Price Scraper — All Sellers & Prices by URL",
+    "description": "Give a product or offer URL, get every seller + price for that product on Allegro.pl — sorted, with min/max/avg. Built by Klevio — Polish e-commerce specialists.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/allegro-price-comparison?fpr=hs6s8"
+  },
+  {
+    "id": "bQdUv7QT88EgN7FK4",
+    "name": "Monitor Przetargów Publicznych PL (BZP + eZamówienia)",
+    "description": "🇵🇱 Monitor przetargów i zamówień publicznych z oficjalnego BZP. Nowe postępowania, rozstrzygnięcia, ceny umów, kryteria oceny. Filtry CPV, województwo, NIP. Pay-per-event od 12 zł/mc.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/bzp-monitor-pl?fpr=hs6s8"
+  },
+  {
+    "id": "TUt3tdb56zGSONwt6",
+    "name": "OLX Motoryzacja Polska: Samochody, Filtry, Monitoring",
+    "description": "Scraper OLX.pl dla motoryzacji: samochody osobowe, motocykle, ciężarowe, dostawcze, części. Multi-brand i multi-model. Pełne filtry (marka, rocznik, przebieg, paliwo, skrzynia, cena, miasto z promieniem). Monitoring nowych okazji dla autokomisów. Od Klevio, polski specjalista e-commerce.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/klevio/olx-motoryzacja-pl?fpr=hs6s8"
+  },
+  {
+    "id": "LKAk6HaLHNFVSk6eo",
+    "name": "Yellow Pages US Business Scraper — Phone, Email & Address",
+    "description": "Scrape US businesses from yellowpages.com by keyword+city, category URL, or profile URL. Returns name, phone, address, website, categories, rating, years in business + optional email/hours enrichment. Firefox Cloudflare-bypass, residential proxy. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/yellow-pages-us-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "Ke6WYXzq0MCe0vT2l",
+    "name": "Broward County FL Real Estate MCP",
+    "description": "MCP server for Broward County (FL) Property Appraiser records: property, sales, commercial, land, subdivision, time-share and tangible searches, parcel details, and a tax estimator.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/rl1987/broward-fl-real-estate-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "7K9zOCyOyBrenska4",
+    "name": "Expedia Hotels Scraper",
+    "description": "Scrape Expedia.com hotel search results by destination + dates (or a Hotel-Search URL): name, nightly price, total, star class, guest rating, review count, location, image, deal badges, and property URL. Filters for star, guest rating, and price. PPE. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/expedia-hotels-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "4gaCI0yAeMVK6LEUQ",
+    "name": "Flipkart Product Scraper",
+    "description": "Scrape Flipkart product details and search results — price, MRP, discount, rating, specs, seller, offers, stock. URL or keyword in, structured JSON out. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/flipkart-product-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "15WbTOWces7c1L664",
+    "name": "Alibaba Listings Scraper — Suppliers, MOQ & Price",
+    "description": "Search Alibaba.com B2B listings by keyword or URL: title, price range, MOQ, supplier name, country, years, verified / gold / trade-assurance flags, rating, image. Filters for price, MOQ, supplier country/years, verified-only, trade-assurance-only. PPE. MCP-ready.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/khadinakbar/alibaba-listings-scraper?fpr=hs6s8"
   }
 ]
