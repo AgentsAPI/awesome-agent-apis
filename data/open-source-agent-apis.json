@@ -27,7 +27,7 @@
     "id": "YrQuEkowkNCLdk4j2",
     "name": "Cheerio Scraper",
     "description": "Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a Node.js code. Supports both recursive crawling and lists of URLs. This actor is a high-performance alternative to apify/web-scraper for websites that do not require JavaScript.",
-    "rating": 4.597870206704204,
+    "rating": 4.597870206704203,
     "rating_count": 28,
     "url": "https://apify.com/apify/cheerio-scraper?fpr=hs6s8"
   },
@@ -51,8 +51,8 @@
     "id": "3ox4R101TgZz67sLr",
     "name": "RAG Web Browser",
     "description": "Web search and fetch tool for AI agents and RAG pipelines. It queries Google Search, scrapes the top N pages using a full web browser, and returns their content as clean Markdown for further processing by an LLM. Can also fetch individual URLs.",
-    "rating": 3.78985279409509,
-    "rating_count": 25,
+    "rating": 3.976287850081809,
+    "rating_count": 26,
     "url": "https://apify.com/apify/rag-web-browser?fpr=hs6s8"
   },
   {
@@ -99,7 +99,7 @@
     "id": "BEwUoGEsRUQC2iUPa",
     "name": "Tester MCP Client",
     "description": "A model context protocol (MCP) client that connects to any MCP server using Streamable HTTP and displays the conversation in a chat-like UI. It is a standalone Actor server designed for testing MCP servers over Stremable HTTP.",
-    "rating": 4.994887453087781,
+    "rating": 4.994887453087782,
     "rating_count": 8,
     "url": "https://apify.com/jiri.spilka/tester-mcp-client?fpr=hs6s8"
   },
@@ -211,7 +211,7 @@
     "id": "FWdvK8wduoktWgTJp",
     "name": "OpenAI Vector Store Integration",
     "description": "This integration uploads data from Apify Actors to the OpenAI Vector Store linked to OpenAI Assistant.",
-    "rating": 4.800000000000001,
+    "rating": 4.8,
     "rating_count": 5,
     "url": "https://apify.com/jiri.spilka/openai-vector-store-integration?fpr=hs6s8"
   },
@@ -363,7 +363,7 @@
     "id": "CswfAJyYLh5mB8xFP",
     "name": "Example Web Server",
     "description": "This example demonstrates how to use web server in actor as communication channel with outer world. Read  more at Apify docs https://docs.apify.com/actors/running#container-web-server",
-    "rating": 4.784710430871334,
+    "rating": 4.784710430871333,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-web-server?fpr=hs6s8"
   },
@@ -395,7 +395,7 @@
     "id": "rGeTNESChDZ65EbYh",
     "name": "Sitemap Extractor",
     "description": "This Apify Actor extracts all URLs from a website's sitemaps and checks their status codes via lightweight HTTP requests. It provides a clean list of valid links, acting as an ideal pre-processor to ensure your larger crawling projects target only active URLs.",
-    "rating": 3.057766389240442,
+    "rating": 3.057766389240443,
     "rating_count": 5,
     "url": "https://apify.com/apify/sitemap-extractor?fpr=hs6s8"
   },
@@ -459,7 +459,7 @@
     "id": "1KoCTvsASIAXqkvY7",
     "name": "Linkedin Email Scraper",
     "description": "Linkedin Email Scraper- Scrap Emails from linkedin specific profile using google search engine",
-    "rating": 3.042237056619252,
+    "rating": 3.042237056619251,
     "rating_count": 4,
     "url": "https://apify.com/bhansalisoft/linkedin-email-scraper?fpr=hs6s8"
   },
@@ -483,7 +483,7 @@
     "id": "SdlcUciRgXdRUxNBA",
     "name": "Omni Jobs Board Scraper ~$2 per 500 results",
     "description": "Scrape job listings from Indeed, Reed, Totaljobs, CV-Library, Adzuna, RemoteOK, Arbeitnow and more across the UK, US and Europe. Export title, company, location, salary, description and apply URL. Filter by keyword and location. CSV, JSON, Excel.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/doggo/uk-jobs-board-scraper?fpr=hs6s8"
   },
@@ -491,7 +491,7 @@
     "id": "cLo1vfjaaMlAzaQao",
     "name": "Scrape And Bypass Any Url Using Scrappey",
     "description": "Scrape data from modern, JavaScript-heavy web pages using the Scrappey.com API integrated with an Apify Actor. A robust solution for complex scraping scenarios — managed browser sessions, proxy rotation, and full browser automation.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/dormic/apify-scrappey?fpr=hs6s8"
   },
@@ -515,7 +515,7 @@
     "id": "gPXO7vSp7cy15YJHA",
     "name": "Upload to Web3",
     "description": "Bulk upload files to the decentralized web (IPFS) - backup images, PDFs, videos, and any file type to permanent, censorship-resistant storage. Uses Pinata API and IPFS pinning for fast, reliable Web3 file uploads and more.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/onescales/upload-to-web3?fpr=hs6s8"
   },
@@ -523,7 +523,7 @@
     "id": "SEQBnEA5oe2R9Hgdj",
     "name": "Dataset Image Downloader & Uploader",
     "description": "Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/images-download-upload?fpr=hs6s8"
   },
@@ -531,7 +531,7 @@
     "id": "HwCRQdx9zLlfM59cO",
     "name": "AmiAmi Product Search",
     "description": "Search AmiAmi by keyword, optionally scrape product page (section.item-about) with Playwright.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/emt_getdataforu/amiami-product-search?fpr=hs6s8"
   },
@@ -595,7 +595,7 @@
     "id": "fgCg268Rg9Yrvrx24",
     "name": "Keywords Extractor",
     "description": "Use our free website keyword extractor to crawl any website and extract keyword counts on each page.",
-    "rating": 4.781511805944947,
+    "rating": 4.781511805944948,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8"
   },
@@ -659,7 +659,7 @@
     "id": "sdaWtWlBRdciVKZQf",
     "name": "/llms.txt Generator",
     "description": "The /llms.txt Generator 🕸️📄 extracts website content to create an llms.txt file for AI apps 🤖✨ like LLM fine-tuning and indexing. Output is available 📥 in the Key-Value Store for easy download and integration into workflows. 🚀",
-    "rating": 3.059930605348446,
+    "rating": 3.059930605348447,
     "rating_count": 2,
     "url": "https://apify.com/jakub.kopecky/llmstxt-generator?fpr=hs6s8"
   },
@@ -667,7 +667,7 @@
     "id": "73JZk4CeKcDsWoJQu",
     "name": "Telegram Channel Scraper",
     "description": "Telegram channel Scraper for getting public messages without login, phone number, or Telegram app. In the message supported forward and telegram reply URLs.",
-    "rating": 3,
+    "rating": 3.0,
     "rating_count": 2,
     "url": "https://apify.com/danielmilevski9/telegram-channel-scraper?fpr=hs6s8"
   },
@@ -675,7 +675,7 @@
     "id": "NTfBVYWebZ5cdqxal",
     "name": "Etsy Scraper Pro",
     "description": "Fast and reliable Etsy scraper that extracts product listings from search results. Get product titles, prices, ratings, reviews, shop names, and images - perfect for market research, price monitoring, competitor analysis, and e-commerce automation.",
-    "rating": 2.193522915936356,
+    "rating": 2.193522915936355,
     "rating_count": 3,
     "url": "https://apify.com/webdatalabs/etsy-scraper-pro?fpr=hs6s8"
   },
@@ -771,7 +771,7 @@
     "id": "FU1qmzddgHcAw32CE",
     "name": "Github Issue Labels Sync",
     "description": "Synchronize issue labels across repositories in your account. Choose a source repo and copy labels to other repos, optionally overriding and cleaning extra labels.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lukaskrivka/github-issue-labels-sync?fpr=hs6s8"
   },
@@ -779,7 +779,7 @@
     "id": "ANSWJ5bUWJws7Dz5H",
     "name": "Ai Job Finder",
     "description": "Give a prompt or a CV and find jobs according to you",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/stefanie-rink/ai-job-finder?fpr=hs6s8"
   },
@@ -875,7 +875,7 @@
     "id": "YJkHOSnbBnVIoVBeb",
     "name": "Google Maps Scraper",
     "description": "It will help you scrape the Google Maps leads with emails looking into the websites listed.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/keen_doughnut/google-maps-scraper?fpr=hs6s8"
   },
@@ -939,7 +939,7 @@
     "id": "MgiH6ORGRnhfHZiM7",
     "name": "Torrent Scraper",
     "description": "Scrape information about torrents from popular torrent sites. Download the data in JSON, CSV, and Excel.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/ondrejklinovsky/torrent-scraper?fpr=hs6s8"
   },
@@ -1011,7 +1011,7 @@
     "id": "m7QkAOpTRBj8Jszlv",
     "name": "Steam Store Scraper",
     "description": "Steam Store Scraper crawls the Steam front page and extracts data from individual Steam Store pages. The extracted data is stored in a dataset, from where you can extract it in various formats, such as JSON, XML, CSV, and Excel.",
-    "rating": 3,
+    "rating": 3.0,
     "rating_count": 1,
     "url": "https://apify.com/m0uka/steam-store-scraper?fpr=hs6s8"
   },
@@ -8470,5 +8470,37 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/ayeeyee/shopee-lazada-sea-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "yxvY8AoECBidXowCp",
+    "name": "Remote Jobs Aggregator",
+    "description": "Scrapes remote & tech jobs from Remote OK, We Work Remotely & Hacker News. Outputs a unified deduplicated dataset (~200-250 jobs/run) with title, company, salary, tags, source & more.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/foanthoan/Remote-Jobs-Aggregator?fpr=hs6s8"
+  },
+  {
+    "id": "ehYZ7zF73zOtI6Mfq",
+    "name": "News Sentiment API",
+    "description": "News Sentiment API returns normalized, review-ready API data with robust inputs, consistent outputs, and pay-per-result pricing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/ayeeyee/news-sentiment-api?fpr=hs6s8"
+  },
+  {
+    "id": "BdR6frCbdMeZaNhFe",
+    "name": "Airbnb Occupancy, ADR & Market Report 📈 AirDNA Alternative",
+    "description": "Occupancy %, ADR, RevPAR & projected annual revenue for every Airbnb listing in a market — with a comp-set percentile rank plus a median/quartile market report. AirDNA-grade STR analytics, priced per pull. Honest occupancy method, no login. For STR/LMNP investors, hosts & AI agents (MCP).",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/tagadanar/airbnb-str-yield?fpr=hs6s8"
+  },
+  {
+    "id": "77ziNgcfW9AzCI7Zl",
+    "name": "Text-to-Speech API",
+    "description": "Text-to-Speech API returns normalized, review-ready API data with robust inputs, consistent outputs, and pay-per-result pricing.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/ayeeyee/text-to-speech-api?fpr=hs6s8"
   }
 ]
