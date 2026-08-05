@@ -11,7 +11,7 @@
     "id": "u0sG3Wiy5pdt9mIfU",
     "name": "Email Verifier & Validator | Bulk Deliverability Check",
     "description": "Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean email lists to reduce bounce rates.",
-    "rating": 4.8319042834029,
+    "rating": 4.831904283402901,
     "rating_count": 20,
     "url": "https://apify.com/michael.g/email-verifier-validator?fpr=hs6s8"
   },
@@ -19,7 +19,7 @@
     "id": "HYuOke00wY4emLHz1",
     "name": "Trustpilot Reviews + AI Intelligence [$0.75💰] [NO LIMIT]",
     "description": "[From 💰$0.50/1K] Export every Trustpilot review — past the ~200-review web cap. Incremental mode: pull only reviews newer than a date, so daily syncs stay cheap. 40+ fields, company replies, ratings, reviewer country. Filter by star, language, date, verified. Brand search, regional domains.",
-    "rating": 4.685837162181675,
+    "rating": 4.685837162181676,
     "rating_count": 19,
     "url": "https://apify.com/memo23/trustpilot-scraper-ppe?fpr=hs6s8"
   },
@@ -51,7 +51,7 @@
     "id": "ZKn5LnJkKMLeywwpS",
     "name": "Realtor.com [$1.5💰] [GET ALL AGENTS] [NO 3K LIMIT]",
     "description": "💰$1.50 per 1,000 results. Effortlessly scrape real estate data from Realtor.com, including property listings AND agent profiles. Extract property details like prices, amenities, locations, and photos, plus agent information such as contact details, reviews, specializations, and performance metrics.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 14,
     "url": "https://apify.com/memo23/realtor-search-cheerio?fpr=hs6s8"
   },
@@ -75,7 +75,7 @@
     "id": "0ZCQONxB3BdyOzrbD",
     "name": "LoopNet US + UK + Realla [$1.5💰] Commercial Property Scraper",
     "description": "💰 $1.50 per 1,000 results, scrape commercial property from LoopNet (US) AND LoopNet UK / Realla (UK) in one actor — the only Apify scraper bundling both. Lease & sale listings across all US states + every UK city. Rich rows: address, geo, sqft, asking rent/price, broker, EPC. $1.50/1k.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 12,
     "url": "https://apify.com/memo23/loopnet-scraper-ppe?fpr=hs6s8"
   },
@@ -88,20 +88,28 @@
     "url": "https://apify.com/spry_wholemeal/reddit-scraper?fpr=hs6s8"
   },
   {
+    "id": "GPyZpNLqyRZMZS5Yf",
+    "name": "NSF Award Search Scraper",
+    "description": "Search and extract NSF (National Science Foundation) research award data including funding amounts, principal investigators, awardee organizations, and project abstracts. Filter by keyword, date range, and US state.",
+    "rating": 5.000000000000001,
+    "rating_count": 11,
+    "url": "https://apify.com/crawlergang/nsf-award-search-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "dE18okzkHgDLUgScq",
+    "name": "CPAN Module Scraper",
+    "description": "Scrape CPAN (Comprehensive Perl Archive Network) via MetaCPAN API. Search modules and releases, or fetch by exact module name. Returns version, author, license, repository, and download info.",
+    "rating": 5.000000000000001,
+    "rating_count": 11,
+    "url": "https://apify.com/crawlergang/cpan-scraper?fpr=hs6s8"
+  },
+  {
     "id": "xb0fMFsu0z9PW3OUO",
     "name": "IRS Tax Exempt Organization Scraper",
     "description": "Search and retrieve IRS tax-exempt organizations (501c nonprofits) from the official IRS Exempt Organizations Business Master File. Search by name/EIN, filter by state, NTEE code, deductibility status.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/irs-tax-exempt-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "te0ndTSrTNUWOGXAo",
-    "name": "ClinicalTrials.gov Scraper",
-    "description": "Search and extract clinical trial data from ClinicalTrials.gov - conditions, interventions, phases, enrollment, sponsors, locations and status. Free, no authentication required.",
-    "rating": 5.000000000000001,
-    "rating_count": 11,
-    "url": "https://apify.com/crawlergang/clinicaltrials-scraper?fpr=hs6s8"
   },
   {
     "id": "kLEEyGkCMO2ZmAFSH",
@@ -126,22 +134,6 @@
     "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/college-scorecard-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "GPyZpNLqyRZMZS5Yf",
-    "name": "NSF Award Search Scraper",
-    "description": "Search and extract NSF (National Science Foundation) research award data including funding amounts, principal investigators, awardee organizations, and project abstracts. Filter by keyword, date range, and US state.",
-    "rating": 5,
-    "rating_count": 11,
-    "url": "https://apify.com/crawlergang/nsf-award-search-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "dE18okzkHgDLUgScq",
-    "name": "CPAN Module Scraper",
-    "description": "Scrape CPAN (Comprehensive Perl Archive Network) via MetaCPAN API. Search modules and releases, or fetch by exact module name. Returns version, author, license, repository, and download info.",
-    "rating": 5,
-    "rating_count": 11,
-    "url": "https://apify.com/crawlergang/cpan-scraper?fpr=hs6s8"
   },
   {
     "id": "Bg5FIpA3n5MalU1WA",
@@ -171,9 +163,17 @@
     "id": "BxqR7K5nh6xWTV1h6",
     "name": "NPI Provider Registry Scraper",
     "description": "Search the CMS National Provider Identifier (NPI) registry for US healthcare providers - doctors, hospitals, nurses, and other licensed professionals. Free, no authentication required.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 11,
     "url": "https://apify.com/crawlergang/npi-provider-registry?fpr=hs6s8"
+  },
+  {
+    "id": "te0ndTSrTNUWOGXAo",
+    "name": "ClinicalTrials.gov Scraper",
+    "description": "Search and extract clinical trial data from ClinicalTrials.gov - conditions, interventions, phases, enrollment, sponsors, locations and status. Free, no authentication required.",
+    "rating": 4.999999999999999,
+    "rating_count": 11,
+    "url": "https://apify.com/crawlergang/clinicaltrials-scraper?fpr=hs6s8"
   },
   {
     "id": "8F2l3z0gKCYBCF4Bc",
@@ -187,7 +187,7 @@
     "id": "eaycjEuCMKHBDuL9z",
     "name": "Facebook Marketplace [$1.5💰] Get newest items ASAP",
     "description": "💰$1.50/1K Facebook Marketplace scraper with no cookies or login — anti-bot handled and maintained so your pipeline doesn't die mid-contract. Keyword or URL search, price/condition/radius filters; cars include make, model, odometer & VIN. $1.50/1k flat — a per-result price you can quote to clients.",
-    "rating": 4.694498689944052,
+    "rating": 4.694498689944051,
     "rating_count": 11,
     "url": "https://apify.com/memo23/facebook-marketplace-scraper-ppe?fpr=hs6s8"
   },
@@ -195,7 +195,7 @@
     "id": "IeZZMR1Uv6J9h7pdS",
     "name": "Website Scraper",
     "description": "Extract information from websites using intelligent AI 🤖from contact details to custom data fields, summaries, and creative content 🌐. Automatically crawl contact, about, and team pages to gather emails, phone numbers, job titles, and social links. Batch process hundreds of URLs efficiently.",
-    "rating": 3.911698381804775,
+    "rating": 3.911698381804776,
     "rating_count": 14,
     "url": "https://apify.com/dz_omar/ai-lead-extractor?fpr=hs6s8"
   },
@@ -219,7 +219,7 @@
     "id": "pIVhuvHZkW2Llfjrr",
     "name": "StepStone Job Scraper — Keyword/URL Search + Emails [$1💰]",
     "description": "💰 $1/1,000 results. StepStone job scraper — keyword & listing search on StepStone Germany, Austria & Belgium, or drop in any job link for one clean row per posting: title, company, salary, location, skills, dates, labels + employer emails. Pure HTTP, no browser. Totaljobs/CWJobs too.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/memo23/stepstone-search-cheerio-ppr?fpr=hs6s8"
   },
@@ -267,7 +267,7 @@
     "id": "rzWN5rWOZelwVxehV",
     "name": "Email Verifier Pro | $0.85/1k - Bulk Email Validator",
     "description": "Verify email addresses in bulk with real SMTP checks. Detect disposable, role-based, and catch-all emails. CSV upload, live progress, smart retries. Cheapest full-SMTP verifier on the Store at $0.85/1k emails. No API key required!",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 7,
     "url": "https://apify.com/blessiticus/email-verifier-pro?fpr=hs6s8"
   },
@@ -275,9 +275,17 @@
     "id": "vFDBqKNXeGllTgOLz",
     "name": "Fast Website Content Crawler",
     "description": "A high-performance web scraper that rapidly extracts and analyzes content from multiple websites simultaneously. Perfect for competitive research, content aggregation, and website structure analysis.",
-    "rating": 4.901418590329144,
+    "rating": 4.901418590329143,
     "rating_count": 7,
     "url": "https://apify.com/6sigmag/fast-website-content-crawler?fpr=hs6s8"
+  },
+  {
+    "id": "LyXcAGTiFNWjgv4bP",
+    "name": "Google Keyword Planner MCP",
+    "description": "A comprehensive Google Keyword Planner MCP Actor that provides keyword research, search volume analysis, and location-based targeting using Google's official data. Ideal for SEO professionals, digital marketers, and content creators seeking data-driven keyword strategies.",
+    "rating": 4.165825794567465,
+    "rating_count": 8,
+    "url": "https://apify.com/smacient/google-keyword-planner-mcp?fpr=hs6s8"
   },
   {
     "id": "uy4g4QqKk2miQe2lb",
@@ -291,7 +299,7 @@
     "id": "aQRfpx1smqXOzVMcU",
     "name": "Video Transcript",
     "description": "Video Transcript is a universal video-to-text API for automation. Submit one supported public URL or an audio/video upload up to 8 GB; receive detected-language text, ordered timestamped segments, source metadata, and optional translation into 133 languages. Transcript pricing begins at $0.3483.",
-    "rating": 4.068263091405321,
+    "rating": 4.06826309140532,
     "rating_count": 7,
     "url": "https://apify.com/agentx/video-transcript?fpr=hs6s8"
   },
@@ -307,17 +315,9 @@
     "id": "GLe30YgAs5xqzNBQg",
     "name": "BAYUT [$0.89💰] | Search & Detail(s) & Agent(s) & Company(s)",
     "description": "💰 $0.89 per 1,000 listings, get comprehensive Bayut property data including pricing, specs (rooms, area, furnishing), location details, agent/agency info, verification status, high-res photos, and multilingual descriptions. Ideal for market analysis, lead generation, and property research.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/memo23/apify-bayut-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "LyXcAGTiFNWjgv4bP",
-    "name": "Google Keyword Planner MCP",
-    "description": "A comprehensive Google Keyword Planner MCP Actor that provides keyword research, search volume analysis, and location-based targeting using Google's official data. Ideal for SEO professionals, digital marketers, and content creators seeking data-driven keyword strategies.",
-    "rating": 3.652301134031154,
-    "rating_count": 7,
-    "url": "https://apify.com/smacient/google-keyword-planner-mcp?fpr=hs6s8"
   },
   {
     "id": "hwFYoftv3cqE07w3T",
@@ -331,8 +331,8 @@
     "id": "WuRRLognFnFA1WHJs",
     "name": "TempMail OTP MCP",
     "description": "TempMail & OTP Extractor MCP server for AI Agents. Instantly generate temporary emails, auto-poll inboxes, and extract verification codes or activation links. Perfect for registration automation.",
-    "rating": 4.728497527446769,
-    "rating_count": 5,
+    "rating": 5,
+    "rating_count": 4,
     "url": "https://apify.com/rexreus/tempmail-otp-mcp?fpr=hs6s8"
   },
   {
@@ -472,14 +472,6 @@
     "url": "https://apify.com/santhej/google-maps-scraper?fpr=hs6s8"
   },
   {
-    "id": "vC8hsCNxgy47AQxDr",
-    "name": "LinkedIn Profile Scraper & Email Finder - No Login",
-    "description": "Scrape public LinkedIn profiles in bulk: name, headline, location, about & current company. Optionally find verified work emails by company domain. Paste profile URLs or slugs. Clean JSON/CSV for recruiting & sales. No login required.",
-    "rating": 5,
-    "rating_count": 4,
-    "url": "https://apify.com/santhej/linkedin-profile-email-scraper?fpr=hs6s8"
-  },
-  {
     "id": "jfclCqRPH9LL4muUk",
     "name": "Keyword Research Tool: Search Volume, CPC & Keyword Ideas",
     "description": "Bulk keyword research: accurate Google search volume, CPC, competition & thousands of keyword ideas for any seed or market. Clean JSON/CSV for SEO, PPC & content. Up to 5,000 keywords/run, 190+ countries. No subscriptions, no API keys.",
@@ -507,9 +499,17 @@
     "id": "9jVyDHFHnZ5eRl8J8",
     "name": "Google Shopping Scraper - Products, Prices & Sellers",
     "description": "Scrape Google Shopping results: product title, price, old price, currency, seller, rating, review count & product URL. Compare prices across sellers for any product. 190+ countries. Clean JSON/CSV for price intelligence & e-commerce. No API keys.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/santhej/google-shopping-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "vC8hsCNxgy47AQxDr",
+    "name": "LinkedIn Profile Scraper & Email Finder - No Login",
+    "description": "Scrape public LinkedIn profiles in bulk: name, headline, location, about & current company. Optionally find verified work emails by company domain. Paste profile URLs or slugs. Clean JSON/CSV for recruiting & sales. No login required.",
+    "rating": 4.999999999999999,
+    "rating_count": 4,
+    "url": "https://apify.com/santhej/linkedin-profile-email-scraper?fpr=hs6s8"
   },
   {
     "id": "aUz1Rf2n45CuHvStY",
@@ -544,10 +544,18 @@
     "url": "https://apify.com/doesaiknow/ai-brand-visibility---chatgpt-perplexity-copilot-google-ai?fpr=hs6s8"
   },
   {
+    "id": "ld72QfV246QeCXv5l",
+    "name": "$1/2,000 Leads Apollo Scraper Replacement B2B B2C Leads",
+    "description": "$0.50/1k leads — 2× cheaper than every Apollo alternative. 800M+ verified contacts: work email, mobile, LinkedIn, company data. Owned database, not scraped. Sub-200ms. No charge for misses. Free trial included.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/disarming_screw-owner/1-2-000-leads-apollo-scraper-replacement-b2b-b2c-leads?fpr=hs6s8"
+  },
+  {
     "id": "6KLyRx66f0nHYV60f",
     "name": "Google Patents API",
     "description": "Google Patents API for Claude, Cursor, ChatGPT, and any MCP-compatible AI agent. Search by keyword, inventor, or assignee across USPTO, EPO, WIPO, JPO, CN, KR + 100 offices. Pull claims, citations, family graphs, CPC. AI patent summaries. Pay per event.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/johnvc/google-patents-api?fpr=hs6s8"
   },
@@ -584,14 +592,6 @@
     "url": "https://apify.com/hgservices/speech-to-text?fpr=hs6s8"
   },
   {
-    "id": "ld72QfV246QeCXv5l",
-    "name": "$1/2,000 Leads Apollo Scraper Replacement B2B B2C Leads",
-    "description": "$0.50/1k leads — 2× cheaper than every Apollo alternative. 800M+ verified contacts: work email, mobile, LinkedIn, company data. Owned database, not scraped. Sub-200ms. No charge for misses. Free trial included.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/disarming_screw-owner/1-2-000-leads-apollo-scraper-replacement-b2b-b2c-leads?fpr=hs6s8"
-  },
-  {
     "id": "SNF4mtH30RUzZT8Ir",
     "name": "Google Trends Scraper - Interest Over Time, Peaks & Compare",
     "description": "Scrape Google Trends for any keywords: interest-over-time series, average, peak and latest interest, plus side-by-side comparison of up to 5 terms. Pick country and time range. Clean JSON/CSV for trend research and content timing. No API keys.",
@@ -608,14 +608,6 @@
     "url": "https://apify.com/cheapget/telegram-profile?fpr=hs6s8"
   },
   {
-    "id": "UCzjtW1W8P8hKvP7V",
-    "name": "Nexus-IQ: Enterprise-Grade Competitive Intelligence",
-    "description": "Extract competitive intelligence and sentiment analysis from 16 sources using AI-powered hierarchical summarization.",
-    "rating": 4.608443002888988,
-    "rating_count": 3,
-    "url": "https://apify.com/rexreus/Nexus-IQ?fpr=hs6s8"
-  },
-  {
     "id": "TpLqaxMYSJzwVnXoj",
     "name": "Telegram Channel Message",
     "description": "Extract Telegram messages, reactions, and media from channels and groups. Includes forward chain tracking, sender metadata, service events, and date-range filters",
@@ -627,15 +619,23 @@
     "id": "78cFU7dXHwszeVm9A",
     "name": "Website Content Crawler Pro",
     "description": "Crawl websites and extract clean, structured content in Markdown, JSON, or plain text for AI models, LLMs, vector DBs, or RAG pipelines. Fast, reliable, and stealthy, with bulk processing, advanced metadata extraction, and seamless integration with LangChain, LlamaIndex, and AI workflows.",
-    "rating": 3.656051162985842,
+    "rating": 3.656051162985843,
     "rating_count": 3,
     "url": "https://apify.com/datascoutapi/website-content-crawler-pro?fpr=hs6s8"
+  },
+  {
+    "id": "UCzjtW1W8P8hKvP7V",
+    "name": "Nexus-IQ: Enterprise-Grade Competitive Intelligence",
+    "description": "Extract competitive intelligence and sentiment analysis from 16 sources using AI-powered hierarchical summarization.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/rexreus/Nexus-IQ?fpr=hs6s8"
   },
   {
     "id": "nD2s2cv56CzATolKf",
     "name": "Home Assistant MCP Server",
     "description": "Control your Home Assistant smart home devices through AI agents using Model Context Protocol (MCP). Get states, call services, list entities, and manage lights, switches, sensors, climate controls, and more. Perfect for AI-powered home automation and voice assistants.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/home-assistant-mcp-server?fpr=hs6s8"
   },
@@ -643,7 +643,7 @@
     "id": "dGtHx6cS0LNSUqj2H",
     "name": "Slack MCP",
     "description": "Model Context Protocol server that lets AI copilots list channels, pull message history, send updates, manage membership, and fetch metadata from your Slack workspace using scoped bot tokens.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/slack-mcp?fpr=hs6s8"
   },
@@ -651,7 +651,7 @@
     "id": "3wubGouTtUYf1LUtk",
     "name": "Markdown to PDF MCP Server",
     "description": "Convert Markdown content to PDF format using Model Context Protocol (MCP). Perfect for developers, content creators, and businesses who need to programmatically convert Markdown documents to professional PDFs with custom styling, page sizes, margins, and orientations.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/parseforge/markdown-to-pdf-mcp?fpr=hs6s8"
   },
@@ -667,7 +667,7 @@
     "id": "jzGXL39AgmD19Ul2d",
     "name": "Markdownify MCP Server",
     "description": "Convert any webpage to clean, formatted Markdown perfect for AI consumption. Ideal for building knowledge bases, documentation scrapers, and content migration tools.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/crawlerbros/markdownify-mcp-server?fpr=hs6s8"
   },
@@ -691,7 +691,7 @@
     "id": "VKbkpw9WWHSSKAuja",
     "name": "Propertyfinder Scraper",
     "description": "Extract property listings from PropertyFinder across the UAE, Saudi Arabia, Bahrain, Egypt & Qatar. Get prices, locations, agent contacts, amenities & specs. Fast, reliable scraping with multi-country support. Perfect for real estate pros & market analysis.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/dz_omar/propertyfinder-scraper?fpr=hs6s8"
   },
@@ -723,7 +723,7 @@
     "id": "claPedDvrKAd56Bgb",
     "name": "Normal Mode Test Actor",
     "description": "A simple Actor that adds two numbers together, with an optional delay; it can simulate long-running processes.\n\nThe main purpose of this Actor is to enable fast, cheap testing.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/apify/normal-mode-test-actor?fpr=hs6s8"
   },
@@ -755,17 +755,9 @@
     "id": "0pArcqOZFSjoCBlJX",
     "name": "Bulk LLM Runner GPT, Claude, Perplexity, Kimi (No API Key)",
     "description": "Run hundreds of prompts in parallel across GPT, Claude, Gemini and Perplexity Sonar — plus 400+ other LLMs — without API key. Built-in web search, PDF reading, vision, JSON output and side-by-side model comparison.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/fayoussef/bulk-llm-runner?fpr=hs6s8"
-  },
-  {
-    "id": "mgx12dTurSGGLfquT",
-    "name": "SignalRadar",
-    "description": "Smart competitor tracking built for AI Agents! SignalRadar monitors pricing, jobs, & product changes without the noise. Access structured JSON-LD data and markdown briefs directly in your IDE (Cursor/Windsurf) using the Model Context Protocol (MCP) server. Cost-effective & fast!",
-    "rating": 4.480653006402794,
-    "rating_count": 2,
-    "url": "https://apify.com/rexreus/SignalRadar?fpr=hs6s8"
   },
   {
     "id": "fN4fJgXUfEbeYjNxL",
@@ -774,6 +766,14 @@
     "rating": 3.579772429064423,
     "rating_count": 2,
     "url": "https://apify.com/cheapget/tiktok-live-recorder?fpr=hs6s8"
+  },
+  {
+    "id": "mgx12dTurSGGLfquT",
+    "name": "SignalRadar",
+    "description": "Smart competitor tracking built for AI Agents! SignalRadar monitors pricing, jobs, & product changes without the noise. Access structured JSON-LD data and markdown briefs directly in your IDE (Cursor/Windsurf) using the Model Context Protocol (MCP) server. Cost-effective & fast!",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/rexreus/SignalRadar?fpr=hs6s8"
   },
   {
     "id": "a0vrzW9D4j361dMyV",
@@ -827,7 +827,7 @@
     "id": "U8MLnOIcHueTeDnLj",
     "name": "Forage — MCP Server for AI Agents",
     "description": "MCP server giving AI agents real-time web search, page scraping, company intelligence, email discovery, local lead generation, and a persistent knowledge graph. \n\nPay only for what you use, no subscriptions.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/ernesta_labs/forage?fpr=hs6s8"
   },
@@ -971,7 +971,7 @@
     "id": "k3FO6rYYWLi1U2g3b",
     "name": "Trends MCP - Social Listening",
     "description": "MCP server giving AI agents trend data across Google Search, YouTube, TikTok, Amazon, Reddit, Wikipedia, Steam, npm, news sentiment, and 25+ live feeds. Powered by trendsmcp.ai.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/trendsmcp/trendsmcp-mcp?fpr=hs6s8"
   },
@@ -1147,7 +1147,7 @@
     "id": "aDUTk2w96F6bgy5oZ",
     "name": "Dailymotion Text & Metadata Scraper",
     "description": "A powerful Apify Actor that automatically download video, extracts transcriptions, subtitles, auto-generated captions, and detailed metadata from Dailymotion videos. Process single videos by URL or search and scrape entire collections matching your criteria.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/ilborso/dailymotion-text-metadata-scraper?fpr=hs6s8"
   },
@@ -1227,7 +1227,7 @@
     "id": "O63j3hLJAHrHI1P00",
     "name": "OpenTable Reviews API | Restaurant Review Intelligence",
     "description": "Scrape OpenTable restaurant reviews as structured JSON: review text, dined and submitted dates, the diner's profile, and the full rating breakdown (overall, food, service, ambience, value, noise). For hospitality analytics and restaurant competitive intelligence. Pay per review, MCP-ready.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/johnvc/opentable-reviews-api?fpr=hs6s8"
   },
@@ -13978,7 +13978,7 @@
   {
     "id": "g9QW5sN6OhfnCRwH8",
     "name": "MCP Tool Contract Gate",
-    "description": "Catch consumer-breaking MCP tool contract changes before agents break. Compare HTTPS tool catalogs to a baseline and export Dataset findings, SUMMARY, SARIF, and JUnit for CI or schedules.",
+    "description": "MCP server tool-contract monitor for agent platforms. Catch consumer-breaking MCP tool changes before agents break: compare an HTTPS tool catalog to a baseline and export Dataset findings, SUMMARY, SARIF, and JUnit for CI or schedules.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/quietrelay/mcp-tool-contract-gate?fpr=hs6s8"
@@ -14302,5 +14302,69 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/muhammadafzal/waqi-air-quality-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "sjdzbGhiTcKFbgJgR",
+    "name": "Filesystem Path Safety MCP",
+    "description": "Validate agent-proposed file paths and operations against allowed roots, traversal, protected locations, extension policy and read-only constraints.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/q_services/filesystem-path-safety-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "Y4nHzzJuB5CpRqGS8",
+    "name": "Agent URL & SSRF Guard MCP",
+    "description": "Validate URLs, DNS targets and redirect chains before AI agents access remote resources.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/q_services/agent-url-ssrf-guard-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "WnPiOlzq80AqUuqpx",
+    "name": "TripAdvisor Reviews Scraper",
+    "description": "Scrape reviews from TripAdvisor hotel pages using GraphQL API with DataDome protection bypass.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/rigelbytes/tripadvisor-reviews-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "PxDcb4zgWD5KTIuN6",
+    "name": "Hotel Review Aggregator",
+    "description": "Aggregates hotel reviews from multiple platforms (currently Google & TripAdvisor, more coming) into one normalized API. Supports both REST API and MCP access",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/antsarlabs/hotel-review-aggregator?fpr=hs6s8"
+  },
+  {
+    "id": "EXLwgzF5PkaEgycwy",
+    "name": "Google Flights Scraper | Real-Time Flight Prices API",
+    "description": "Real-time Google Flights prices. One-way and round-trip fares with airlines, layovers, durations, Google price insights and a direct booking link on every result. Per-leg filters for stops, airlines and departure times. Ideal for price monitoring, travel apps, fare analytics and AI agents.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/mtnrabi/google-flights-real-time-api?fpr=hs6s8"
+  },
+  {
+    "id": "9f5eaHO7dNKuV4G2p",
+    "name": "Booking.com Scraper | Live Hotel Prices & Availability",
+    "description": "Live Booking.com hotel prices and availability. Search a destination or look up a hotel by name for real-time room rates, review scores and direct booking links. Per-country pricing for rate parity checks. Ideal for price monitoring, revenue management, travel apps and AI agents.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/mtnrabi/booking-real-time-api?fpr=hs6s8"
+  },
+  {
+    "id": "S1Y32qJCHkUTbE2lP",
+    "name": "Archive Extraction Safety MCP",
+    "description": "Gate archive extraction from entry metadata using traversal, absolute-path, symlink, duplicate, executable, depth, size and compression-ratio controls.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/q_services/archive-extraction-safety-mcp?fpr=hs6s8"
+  },
+  {
+    "id": "FWyifkFy8BYnWp7rg",
+    "name": "California SOS Business Search Scraper",
+    "description": "Search California Secretary of State BizFile business entities by name or entity number and return normalized status, filing, agent, address, and risk signals.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/muhammadafzal/sos-scraper?fpr=hs6s8"
   }
 ]
