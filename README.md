@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  A collection of <b>50,000+ APIs</b> designed to power your agents 🤖
+  A collection of <b>100,000+ APIs</b> designed to power your agents 🤖
 </p>
 
 <p align="center">
