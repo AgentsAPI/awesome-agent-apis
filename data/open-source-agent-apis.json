@@ -3,7 +3,7 @@
     "id": "moJRLRc85AitArpNN",
     "name": "Web Scraper",
     "description": "Crawls arbitrary websites using a web browser and extracts structured data from web pages using a provided JavaScript function. The Actor supports both recursive crawling and lists of URLs, and automatically manages concurrency for maximum performance.",
-    "rating": 4.672969675388116,
+    "rating": 4.672969675388117,
     "rating_count": 97,
     "url": "https://apify.com/apify/web-scraper?fpr=hs6s8"
   },
@@ -27,7 +27,7 @@
     "id": "YrQuEkowkNCLdk4j2",
     "name": "Cheerio Scraper",
     "description": "Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a Node.js code. Supports both recursive crawling and lists of URLs. This actor is a high-performance alternative to apify/web-scraper for websites that do not require JavaScript.",
-    "rating": 4.736612337528598,
+    "rating": 4.736612337528597,
     "rating_count": 36,
     "url": "https://apify.com/apify/cheerio-scraper?fpr=hs6s8"
   },
@@ -51,7 +51,7 @@
     "id": "YJCnS9qogi9XxDgLB",
     "name": "Puppeteer Scraper",
     "description": "Crawls websites with the headless Chrome and Puppeteer library using a provided server-side Node.js code. This crawler is an alternative to apify/web-scraper that gives you finer control over the process. Supports both recursive crawling and list of URLs. Supports login to website.",
-    "rating": 4.992680656011558,
+    "rating": 4.992680656011557,
     "rating_count": 26,
     "url": "https://apify.com/apify/puppeteer-scraper?fpr=hs6s8"
   },
@@ -75,7 +75,7 @@
     "id": "rGCyoaKTKhyMiiTvS",
     "name": "Website Screenshot Generator",
     "description": "Create a screenshot of a website based on a specified URL. The screenshot is stored as the output in a key-value store. It can be used to monitor web changes regularly after setting up the scheduler.",
-    "rating": 3.821495097162036,
+    "rating": 3.821495097162035,
     "rating_count": 20,
     "url": "https://apify.com/apify/screenshot-url?fpr=hs6s8"
   },
@@ -107,7 +107,7 @@
     "id": "rYbjZxrCaAR9K4Xax",
     "name": "Bing Ads Scraper",
     "description": "Find and scrape current and past ads on Bing. Get ad copy, shown dates and locations, impressions, and more. Download and analyze data from the Microsoft Ad Library for competitive analysis.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/lexis-solutions/bing-ads-scraper?fpr=hs6s8"
   },
@@ -171,7 +171,7 @@
     "id": "YPh5JENjSSR6vBf2E",
     "name": "Legacy PhantomJS Crawler",
     "description": "Replacement for the legacy Apify Crawler product with a backward-compatible interface. The Actor uses PhantomJS headless browser to recursively crawl websites and extract data from them using a piece of front-end JavaScript code.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 6,
     "url": "https://apify.com/apify/legacy-phantomjs-crawler?fpr=hs6s8"
   },
@@ -211,7 +211,7 @@
     "id": "9doUWrGx8wuXIw7Jy",
     "name": "Apify Run Queue",
     "description": "Apify utility to queue runs until memory is available. Workaround to memory exceeded errors on Apify. This actor will retry starting actor starts with a delay. Open source and free!",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/lexis-solutions/apify-run-queue?fpr=hs6s8"
   },
@@ -235,7 +235,7 @@
     "id": "aAaDnGZgNwHm4mzcl",
     "name": "Extended GPT Scraper",
     "description": "Extract data from any website and feed it into GPT via the OpenAI API. Use ChatGPT to proofread content, analyze sentiment, summarize reviews, extract contact details, and much more.",
-    "rating": 4.84465626813089,
+    "rating": 4.844656268130889,
     "rating_count": 5,
     "url": "https://apify.com/drobnikj/extended-gpt-scraper?fpr=hs6s8"
   },
@@ -315,7 +315,7 @@
     "id": "Z2B65CMPn2aEXnfFk",
     "name": "Firestore Import",
     "description": "Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 4,
     "url": "https://apify.com/apify/firestore-import?fpr=hs6s8"
   },
@@ -363,7 +363,7 @@
     "id": "Ry4J4TsOFXnTlBxag",
     "name": "Apify Email Signature Generator",
     "description": "Generates a standardized email signature for Apify team members, using provided details.",
-    "rating": 4.024138956885659,
+    "rating": 4.02413895688566,
     "rating_count": 5,
     "url": "https://apify.com/apify/email-signature-generator?fpr=hs6s8"
   },
@@ -371,7 +371,7 @@
     "id": "QBBGcsmFo3SSNMhDb",
     "name": "Example Live View",
     "description": "This example demonstrates how to use web server in actor as communication channel with outer world. Read  more at Apify docs https://docs.apify.com/actors/running#container-web-server",
-    "rating": 4.022737524168049,
+    "rating": 4.022737524168048,
     "rating_count": 5,
     "url": "https://apify.com/apify/example-live-view?fpr=hs6s8"
   },
@@ -387,7 +387,7 @@
     "id": "2WwuYWu2yan9JpNju",
     "name": "Example Call",
     "description": "A simple example showing how to call another actor from an actor. Note that this actor doesn't accept any input and doesn't generate any output.",
-    "rating": 4.466848248865457,
+    "rating": 4.466848248865458,
     "rating_count": 4,
     "url": "https://apify.com/apify/example-call?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "cGnGvob9maz6I9Ohr",
     "name": "Google Hotels Scraper",
     "description": "Google Hotels Scraper is an actor for extracting prices from Google search results.",
-    "rating": 3.635233547803033,
+    "rating": 3.635233547803034,
     "rating_count": 5,
     "url": "https://apify.com/martin.forejt/google-hotels-scraper?fpr=hs6s8"
   },
@@ -411,7 +411,7 @@
     "id": "CswfAJyYLh5mB8xFP",
     "name": "Example Web Server",
     "description": "This example demonstrates how to use web server in actor as communication channel with outer world. Read  more at Apify docs https://docs.apify.com/actors/running#container-web-server",
-    "rating": 4.040228437454307,
+    "rating": 4.040228437454308,
     "rating_count": 4,
     "url": "https://apify.com/apify/example-web-server?fpr=hs6s8"
   },
@@ -443,7 +443,7 @@
     "id": "RQvGxA7iQm9ZF8htk",
     "name": "Milvus Integration",
     "description": "This integration transfers data from Apify Actors to a Milvus/Zilliz database and is a good starting point for a question-answering, search, or RAG use case.",
-    "rating": 4.994615474920306,
+    "rating": 4.994615474920307,
     "rating_count": 3,
     "url": "https://apify.com/apify/milvus-integration?fpr=hs6s8"
   },
@@ -483,7 +483,7 @@
     "id": "HH9rhkFXiZbheuq1V",
     "name": "Example Code Runner (Python)",
     "description": "Python Actor to run code examples from the documentation via \"Run on Apify\" links.",
-    "rating": 4.46741845415607,
+    "rating": 4.467418454156069,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-code-runner-python?fpr=hs6s8"
   },
@@ -507,7 +507,7 @@
     "id": "Wa8AOJpMTOnV1V7uX",
     "name": "Pcpartpicker Scraper",
     "description": "Scrape and collect detailed PC component information from the PCPartPicker website.",
-    "rating": 4.049525079683877,
+    "rating": 4.049525079683878,
     "rating_count": 3,
     "url": "https://apify.com/matyascimbulka/pcpartpicker-scraper?fpr=hs6s8"
   },
@@ -515,7 +515,7 @@
     "id": "1KoCTvsASIAXqkvY7",
     "name": "Linkedin Email Scraper",
     "description": "Linkedin Email Scraper- Scrap Emails from linkedin specific profile using google search engine",
-    "rating": 3.042237056619252,
+    "rating": 3.042237056619251,
     "rating_count": 4,
     "url": "https://apify.com/bhansalisoft/linkedin-email-scraper?fpr=hs6s8"
   },
@@ -539,7 +539,7 @@
     "id": "4GTGBCOGLfgrUhcb3",
     "name": "YouTube To Transcript",
     "description": "Extract YouTube transcripts from public video URLs",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8"
   },
@@ -568,22 +568,6 @@
     "url": "https://apify.com/lexis-solutions/pinterest-ads-scraper?fpr=hs6s8"
   },
   {
-    "id": "ou2buPCN9hYdGLVdT",
-    "name": "Merge, Dedup & Transform Datasets",
-    "description": "The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8"
-  },
-  {
-    "id": "SEQBnEA5oe2R9Hgdj",
-    "name": "Dataset Image Downloader & Uploader",
-    "description": "Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.",
-    "rating": 5,
-    "rating_count": 2,
-    "url": "https://apify.com/lukaskrivka/images-download-upload?fpr=hs6s8"
-  },
-  {
     "id": "ykpPc8CcQXrmfjEhP",
     "name": "Example Selenium",
     "description": "Example of loading a web page in headless Chrome using Selenium Webdriver.",
@@ -608,10 +592,42 @@
     "url": "https://apify.com/agentify/browserbase-mcp-server?fpr=hs6s8"
   },
   {
+    "id": "gPXO7vSp7cy15YJHA",
+    "name": "Upload to Web3",
+    "description": "Bulk upload files to the decentralized web (IPFS) - backup images, PDFs, videos, and any file type to permanent, censorship-resistant storage. Uses Pinata API and IPFS pinning for fast, reliable Web3 file uploads and more.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/onescales/upload-to-web3?fpr=hs6s8"
+  },
+  {
+    "id": "HwCRQdx9zLlfM59cO",
+    "name": "AmiAmi Product Search",
+    "description": "Search AmiAmi by keyword, optionally scrape product page (section.item-about) with Playwright.",
+    "rating": 5,
+    "rating_count": 2,
+    "url": "https://apify.com/emt_getdataforu/amiami-product-search?fpr=hs6s8"
+  },
+  {
+    "id": "ou2buPCN9hYdGLVdT",
+    "name": "Merge, Dedup & Transform Datasets",
+    "description": "The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run.",
+    "rating": 4.999999999999999,
+    "rating_count": 2,
+    "url": "https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8"
+  },
+  {
+    "id": "SEQBnEA5oe2R9Hgdj",
+    "name": "Dataset Image Downloader & Uploader",
+    "description": "Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.",
+    "rating": 4.999999999999999,
+    "rating_count": 2,
+    "url": "https://apify.com/lukaskrivka/images-download-upload?fpr=hs6s8"
+  },
+  {
     "id": "3Pp61GRohzeO18mfN",
     "name": "Website Image Scraper",
     "description": "Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8"
   },
@@ -624,28 +640,12 @@
     "url": "https://apify.com/dormic/apify-scrappey?fpr=hs6s8"
   },
   {
-    "id": "gPXO7vSp7cy15YJHA",
-    "name": "Upload to Web3",
-    "description": "Bulk upload files to the decentralized web (IPFS) - backup images, PDFs, videos, and any file type to permanent, censorship-resistant storage. Uses Pinata API and IPFS pinning for fast, reliable Web3 file uploads and more.",
-    "rating": 4.999999999999999,
-    "rating_count": 2,
-    "url": "https://apify.com/onescales/upload-to-web3?fpr=hs6s8"
-  },
-  {
     "id": "SdlcUciRgXdRUxNBA",
     "name": "Omni Jobs Board Scraper ~$2 per 500 results",
     "description": "Scrape job listings from Indeed, Reed, Totaljobs, CV-Library, Adzuna, RemoteOK, Arbeitnow and more across the UK, US and Europe. Export title, company, location, salary, description and apply URL. Filter by keyword and location. CSV, JSON, Excel.",
     "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/doggo/uk-jobs-board-scraper?fpr=hs6s8"
-  },
-  {
-    "id": "HwCRQdx9zLlfM59cO",
-    "name": "AmiAmi Product Search",
-    "description": "Search AmiAmi by keyword, optionally scrape product page (section.item-about) with Playwright.",
-    "rating": 4.999999999999999,
-    "rating_count": 2,
-    "url": "https://apify.com/emt_getdataforu/amiami-product-search?fpr=hs6s8"
   },
   {
     "id": "fgCg268Rg9Yrvrx24",
@@ -667,7 +667,7 @@
     "id": "dMRHnB0XHbnV9Cifh",
     "name": "Camoufox Scraper",
     "description": "Crawls websites with stealthy Camoufox browser and Playwright library using a provided server-side Node.js code. Supports both recursive crawling and a list of URLs. Supports login to a website.",
-    "rating": 4.520744878488089,
+    "rating": 4.52074487848809,
     "rating_count": 2,
     "url": "https://apify.com/apify/camoufox-scraper?fpr=hs6s8"
   },
@@ -707,7 +707,7 @@
     "id": "73JZk4CeKcDsWoJQu",
     "name": "Telegram Channel Scraper",
     "description": "Telegram channel Scraper for getting public messages without login, phone number, or Telegram app. In the message supported forward and telegram reply URLs.",
-    "rating": 3,
+    "rating": 3.0,
     "rating_count": 2,
     "url": "https://apify.com/danielmilevski9/telegram-channel-scraper?fpr=hs6s8"
   },
@@ -811,7 +811,7 @@
     "id": "5RhXfI19PTuOs0XgX",
     "name": "Website Content Crawler Fast",
     "description": "Scraping data from every single web page.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/timelody/website-content-crawler-fast?fpr=hs6s8"
   },
