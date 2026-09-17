@@ -3,7 +3,7 @@
 
 **Organized APIs by Open Source**
 
-**1296 APIs in this category**
+**1297 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -36,8 +36,8 @@
 | [Algolia Website Indexer](https://apify.com/apify/algolia-website-indexer?fpr=hs6s8) | ⭐️ 4.99 (6) | The Indexer crawls recursively a website using the Puppeteer browser (headless Chrome) and indexes the selected pages to the Algolia index. |
 | [Example Web Server](https://apify.com/apify/example-web-server?fpr=hs6s8) | ⭐️ 4.73 (6) | This example demonstrates how to use web server in actor as communication channel with outer world. Read more at Apify docs https://docs.apify.com/actors/running#container-web-server |
 | [Linkedin Profile Search By Name scraper ✅ No Cookies](https://apify.com/harvestapi/linkedin-profile-search-by-name?fpr=hs6s8) | ⭐️ 4.61 (6) | Search for LinkedIn profiles by name with filters and extract detailed profile information, including work experience, education history, location and more. No cookies or account required. |
+| [Firestore Import](https://apify.com/apify/firestore-import?fpr=hs6s8) | ⭐️ 5.0 (5) | Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function. |
 | [Apify Run Queue](https://apify.com/lexis-solutions/apify-run-queue?fpr=hs6s8) | ⭐️ 5.0 (5) | Apify utility to queue runs until memory is available. Workaround to memory exceeded errors on Apify. This actor will retry starting actor starts with a delay. Open source and free! |
-| [Firestore Import](https://apify.com/apify/firestore-import?fpr=hs6s8) | ⭐️ 4.99 (5) | Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function. |
 | [Proxy Test](https://apify.com/apify/proxy-test?fpr=hs6s8) | ⭐️ 4.99 (5) | This actor simply tests given array of URLs against selected proxy URLs or Apify proxy groups. |
 | [Example Php](https://apify.com/apify/example-php?fpr=hs6s8) | ⭐️ 4.99 (5) | Example act using PHP as the main language. |
 | [Image Difference Generator](https://apify.com/apify/image-diff?fpr=hs6s8) | ⭐️ 4.99 (5) | Returns a difference of two given images as JPEG or PNG image. |
@@ -85,12 +85,12 @@
 | [AI YouTube Transcript Analyzer](https://apify.com/hexa-api/youtube-transcript-ai-analyzer?fpr=hs6s8) | ⭐️ 5.0 (2) | Prompt + YouTube URL - { ❤️‍🔥 } |
 | [Browserbase MCP Server](https://apify.com/agentify/browserbase-mcp-server?fpr=hs6s8) | ⭐️ 5.0 (2) | A Model Context Protocol (MCP) server that provides browser automation capabilities using Browserbase. |
 | [Upload to Web3](https://apify.com/onescales/upload-to-web3?fpr=hs6s8) | ⭐️ 4.99 (2) | Bulk upload files to the decentralized web (IPFS) - backup images, PDFs, videos, and any file type to permanent, censorship-resistant storage. Uses Pinata API and IPFS pinning for fast, reliable Web3 file uploads and more. |
-| [Merge, Dedup & Transform Datasets](https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8) | ⭐️ 5.0 (2) | The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run. |
+| [Merge, Dedup & Transform Datasets](https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8) | ⭐️ 4.99 (2) | The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run. |
 | [Website Image Scraper](https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8) | ⭐️ 5.0 (2) | Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download. |
 | [Omni Jobs Board Scraper ~$2 per 500 results](https://apify.com/doggo/uk-jobs-board-scraper?fpr=hs6s8) | ⭐️ 5.0 (2) | Scrape job listings from Indeed, Reed, Totaljobs, CV-Library, Adzuna, RemoteOK, Arbeitnow and more across the UK, US and Europe. Export title, company, location, salary, description and apply URL. Filter by keyword and location. CSV, JSON, Excel. |
 | [Dataset Image Downloader & Uploader](https://apify.com/lukaskrivka/images-download-upload?fpr=hs6s8) | ⭐️ 5.0 (2) | Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket. |
 | [Natural Language Dataset Query](https://apify.com/apify/natural-language-dataset-query?fpr=hs6s8) | ⭐️ 5.0 (2) | Use natural language queries to retrieve results from an Apify dataset. This Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results. It works as an MCP (Model Context Protocol) server or REST API in Actor standby mode. |
-| [YouTube To Transcript](https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8) | ⭐️ 4.99 (2) | Extract YouTube transcripts from public video URLs |
+| [YouTube To Transcript](https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8) | ⭐️ 5.0 (2) | Extract YouTube transcripts from public video URLs |
 | [Keywords Extractor](https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8) | ⭐️ 4.78 (2) | Use our free website keyword extractor to crawl any website and extract keyword counts on each page. |
 | [BestBuy products](https://apify.com/alexey/bestbuy-products-actor?fpr=hs6s8) | ⭐️ 4.58 (2) | Unofficial Best Buy API to scrape product data with no limits from bestbuy.com. Extract id, name, URL, images, currency, current price, original price, sale value, rating, category, and stock status. Download datasets in structured formats for reports, databases, applications, and spreadsheets. |
 | [Chroma Integration](https://apify.com/apify/chroma-integration?fpr=hs6s8) | ⭐️ 4.5 (2) | This integration transfers data from Apify Actors to a Chroma and is a good starting point for a question-answering, search, or RAG use case. |
@@ -107,8 +107,8 @@
 | [Print env vars](https://apify.com/lukaskrivka/print-env-vars?fpr=hs6s8) | ⭐️ 5.0 (1) | Prints both raw and parsed environment variables provided to each actor run. Stores them to dataset, KV Store and log for easy analysis. |
 | [OMR Review Scraper](https://apify.com/scrapers123/omr-review-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Scrapes software reviews from OMR |
 | [Email Finder](https://apify.com/tomba-io/email-finder?fpr=hs6s8) | ⭐️ 5.0 (1) | Email Finder tool helps you discover verified professional email addresses using just a person's name and their company domain. |
-| [Github Issue Labels Sync](https://apify.com/lukaskrivka/github-issue-labels-sync?fpr=hs6s8) | ⭐️ 4.99 (1) | Synchronize issue labels across repositories in your account. Choose a source repo and copy labels to other repos, optionally overriding and cleaning extra labels. |
-| [Ai Job Finder](https://apify.com/stefanie-rink/ai-job-finder?fpr=hs6s8) | ⭐️ 5.0 (1) | Give a prompt or a CV and find jobs according to you |
+| [Github Issue Labels Sync](https://apify.com/lukaskrivka/github-issue-labels-sync?fpr=hs6s8) | ⭐️ 5.0 (1) | Synchronize issue labels across repositories in your account. Choose a source repo and copy labels to other repos, optionally overriding and cleaning extra labels. |
+| [Ai Job Finder](https://apify.com/stefanie-rink/ai-job-finder?fpr=hs6s8) | ⭐️ 4.99 (1) | Give a prompt or a CV and find jobs according to you |
 | [Website Content Crawler Fast](https://apify.com/timelody/website-content-crawler-fast?fpr=hs6s8) | ⭐️ 5.0 (1) | Scraping data from every single web page. |
 | [Best Actor Finder](https://apify.com/pranavpatel/best-actor-finder?fpr=hs6s8) | ⭐️ 5.0 (1) | Finds and tests the best actors for a specific task. |
 | [Dataset(s) To Schema](https://apify.com/zuzka/dataset-to-schema?fpr=hs6s8) | ⭐️ 5.0 (1) | Takes a Dataset ID(s) and outputs a JSON schema of the contents of the dataset into key value store. |
@@ -1303,6 +1303,7 @@
 | [LinkedIn Jobs Scraper Multi-Role & Remote Search](https://apify.com/herazur/all-jobs-search-api?fpr=hs6s8) |  | Search LinkedIn jobs by role, location and date. Verify remote work from job content, merge duplicates, and export descriptions, company details and direct LinkedIn job URLs. |
 | [Eventbrite Event Scraper](https://apify.com/midnight_static/eventbrite-events-scraper?fpr=hs6s8) |  | Scrape upcoming Eventbrite events by city and category: title, dates, venue, price range and organizer name. No personal data collected, robots.txt respected, rate-limited crawling. |
 | [NHTSA Vehicle Recall Search - Cars, Makes & Campaigns](https://apify.com/captainhandsome/nhtsa-vehicle-recall-search?fpr=hs6s8) |  | Search official NHTSA vehicle safety recalls by year, make and model or campaign number. Export defect, consequence, remedy and urgent-warning data as flat records. |
+| [LinkedIn Jobs Pro](https://apify.com/future_devloper/linkedin-jobs-pro?fpr=hs6s8) |  | Scrape LinkedIn job listings with keyword, location, and filter support. Extract full job descriptions, employment type, seniority level, and hiring manager info and no LinkedIn login required. |
 
 ---
 
