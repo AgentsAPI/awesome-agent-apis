@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/AgentsAPI/awesome-agent-apis?style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AgentsAPI.awesome-agent-apis&title=Visitors" />
   <img src="https://img.shields.io/badge/Categories-17-blue?logo=adafruit" />
-  <img src="https://img.shields.io/badge/APIs-193058-blue?logo=chainguard" />
+  <img src="https://img.shields.io/badge/APIs-194089-blue?logo=chainguard" />
   <img src="https://img.shields.io/badge/Updated-today-00c853?logo=rubocop" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=googlegemini" />
 </p>
@@ -59,23 +59,23 @@ With these APIs, your agents can:
 
 ## 📚 API Categories
 
-- 🤖 [Agents](agents-agent-apis) - 4,510 APIs
-- 🤖 [AI](ai-agent-apis) - 10,948 APIs
-- 🤖 [Automation](automation-agent-apis) - 38,746 APIs
-- 🤖 [Developer Tools](developer-tools-agent-apis) - 27,560 APIs
-- 🤖 [Ecommerce](ecommerce-agent-apis) - 16,219 APIs
-- 🤖 [Integrations](integrations-agent-apis) - 3,564 APIs
-- 🤖 [Jobs](jobs-agent-apis) - 7,141 APIs
-- 🤖 [Lead Generation](lead-generation-agent-apis) - 31,000 APIs
-- 🤖 [MCP Servers](mcp-servers-agent-apis) - 2,688 APIs
-- 🤖 [News](news-agent-apis) - 4,490 APIs
-- 🤖 [Open Source](open-source-agent-apis) - 1,297 APIs
-- 🤖 [Other](other-agent-apis) - 10,495 APIs
-- 🤖 [Real Estate](real-estate-agent-apis) - 5,665 APIs
-- 🤖 [SEO Tools](seo-tools-agent-apis) - 5,187 APIs
-- 🤖 [Social Media](social-media-agent-apis) - 16,200 APIs
-- 🤖 [Travel](travel-agent-apis) - 3,135 APIs
-- 🤖 [Videos](videos-agent-apis) - 4,213 APIs
+- 🤖 [Agents](agents-agent-apis) - 4,524 APIs
+- 🤖 [AI](ai-agent-apis) - 11,023 APIs
+- 🤖 [Automation](automation-agent-apis) - 38,964 APIs
+- 🤖 [Developer Tools](developer-tools-agent-apis) - 27,688 APIs
+- 🤖 [Ecommerce](ecommerce-agent-apis) - 16,273 APIs
+- 🤖 [Integrations](integrations-agent-apis) - 3,569 APIs
+- 🤖 [Jobs](jobs-agent-apis) - 7,181 APIs
+- 🤖 [Lead Generation](lead-generation-agent-apis) - 31,201 APIs
+- 🤖 [MCP Servers](mcp-servers-agent-apis) - 2,744 APIs
+- 🤖 [News](news-agent-apis) - 4,535 APIs
+- 🤖 [Open Source](open-source-agent-apis) - 1,299 APIs
+- 🤖 [Other](other-agent-apis) - 10,531 APIs
+- 🤖 [Real Estate](real-estate-agent-apis) - 5,707 APIs
+- 🤖 [SEO Tools](seo-tools-agent-apis) - 5,216 APIs
+- 🤖 [Social Media](social-media-agent-apis) - 16,256 APIs
+- 🤖 [Travel](travel-agent-apis) - 3,144 APIs
+- 🤖 [Videos](videos-agent-apis) - 4,234 APIs
 
 
 ---
@@ -83,22 +83,22 @@ With these APIs, your agents can:
 ## 🔥 Explore Agent APIs by Category
 
 ### 🤖 Agents
-📦 **4,510 APIs in this category** • [View all →](agents-agent-apis)
+📦 **4,524 APIs in this category** • [View all →](agents-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
 | [Google Maps Scraper $1.5/1k places 📍 with emails 📧](https://apify.com/microworlds/crawler-google-places?fpr=hs6s8) | ⭐️ 4.25 (116) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. |
-| [YouTube Video Transcript](https://apify.com/starvibe/youtube-video-transcript?fpr=hs6s8) | ⭐️ 4.99 (23) | This Apify Actor extracts full transcripts (with timestamps) and metadata from YouTube videos, including title, description, upload date, views, likes, channel info, and duration |
+| [YouTube Video Transcript](https://apify.com/starvibe/youtube-video-transcript?fpr=hs6s8) | ⭐️ 5.0 (23) | This Apify Actor extracts full transcripts (with timestamps) and metadata from YouTube videos, including title, description, upload date, views, likes, channel info, and duration |
 | [Universal News Article Intelligence Agent](https://apify.com/workhard3000/news-intelligence-rag-extractor?fpr=hs6s8) | ⭐️ 5.0 (21) | High-fidelity news normalization for AI & Agentic RAG. Extract clean Markdown, full-text, and metadata from premium domains (Bloomberg, Wall Street Journal, Financial Times, New York Times, Washington Post, etc.). Success-only billing, only pay when full-text is verified. |
 | [AlphaScrape](https://apify.com/data_voyager/AlphaScrape?fpr=hs6s8) | ⭐️ 5.0 (20) | My Apify actor analyzes earnings-day data, revenue, earnings trends, growth signals, executive commentary, and past price behavior to predict stock movement and provide confidence scores that guide investment decisions. |
-| [Trustpilot $0.75💰Reviews Ratings/Reply/Filter/Bypass 200 Limit](https://apify.com/memo23/trustpilot-scraper-ppe?fpr=hs6s8) | ⭐️ 4.8 (20) | From 💰$0.50/1K Export every Trustpilot review — past the ~200-review web cap. Incremental mode: pull only reviews newer than a date, so daily syncs stay cheap. 40+ fields, company replies, ratings, reviewer country. Filter by star, language, date, verified. Brand search, regional domains. |
+| [Trustpilot $0.75💰Reviews Ratings/Reply/Filter/Bypass 200 Limit](https://apify.com/memo23/trustpilot-scraper-ppe?fpr=hs6s8) | ⭐️ 4.8 (20) | From 💰$0.65/1K Export every Trustpilot review — past the ~200-review web cap. Incremental mode: pull only reviews newer than a date, so daily syncs stay cheap. 40+ fields, company replies, ratings, reviewer country. Filter by star, language, date, verified. Brand search, regional domains. |
 | [Reddit Scraper All-In-One $1.5 / 1K](https://apify.com/fatihtahta/reddit-scraper-search-fast?fpr=hs6s8) | ⭐️ 4.23 (21) | Extract Reddit posts and full comment threads from searches, subreddits, user pages, and direct post URLs. Built for enterprise-grade speed, richest-in-class data coverage, advanced filtering, and clean JSON for market intelligence, sentiment analysis and analytics. |
 | [Facebook Marketplace $1.5💰 Get newest items ASAP](https://apify.com/memo23/facebook-marketplace-scraper-ppe?fpr=hs6s8) | ⭐️ 4.81 (16) | 💰$1.50/1K Facebook Marketplace scraper with no cookies or login — anti-bot handled and maintained so your pipeline doesn't die mid-contract. Keyword or URL search, price/condition/radius filters; cars include make, model, odometer & VIN. $1.50/1k flat — a per-result price you can quote to clients. |
 | [AI Web Scraper](https://apify.com/apify/ai-web-scraper?fpr=hs6s8) | ⭐️ 4.86 (15) | AI-first web scraper that extracts structured data from any website using natural-language prompts. No programming knowledge required. No hard-coded logic that breaks when a website changes. |
 | [⭐️ FREE Reddit Scraper Pro](https://apify.com/spry_wholemeal/reddit-scraper?fpr=hs6s8) | ⭐️ 4.84 (15) | Free Reddit scraper that does what the paid ones do but better. No API keys needed, no usage fees. Pairs with ready-made n8n workflow templates for lead gen and content research. |
 | [Meta (Facebook) Ad Library Scraper - Fast & Reliable](https://apify.com/whoareyouanas/meta-ad-scraper?fpr=hs6s8) | ⭐️ 4.97 (14) | Scrape Meta ads in seconds - no fluff, just instant access to the ad data and insights you need. Get detailed ad information including title, description, images, videos, CTA, Social platform and metadata |
 | [Meta Threads Scraper - User Posts & Keyword Search & Views](https://apify.com/futurizerush/meta-threads-scraper?fpr=hs6s8) | ⭐️ 4.09 (18) | Search Threads posts by keyword, or grab any profile's posts, replies and reposts. Export engagement, views when available, and media. No login. |
-| [Company Organization Leads Finder similar to Apollo Linkedin](https://apify.com/braveleads/company-organization-finder-apollo-linkedin?fpr=hs6s8) | ⭐️ 4.99 (13) | Filter by industry, revenue, size, and more. Built to match the depth of Apollo, LinkedIn, and ZoomInfo. |
+| [Company Organization Leads Finder similar to Apollo Linkedin](https://apify.com/braveleads/company-organization-finder-apollo-linkedin?fpr=hs6s8) | ⭐️ 5.0 (13) | Filter by industry, revenue, size, and more. Built to match the depth of Apollo, LinkedIn, and ZoomInfo. |
 | [NIH RePORTER Scraper](https://apify.com/crawlergang/nih-reporter-grants-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape NIH research projects, publications, and clinical studies from the NIH Research Portfolio Online Reporting Tools (RePORTER). Search by keyword, PI, organization, fiscal year, activity code, and agency. |
 | [Bankrate Financial Rates Scraper](https://apify.com/crawlergang/bankrate-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape current financial rates from Bankrate.com - mortgage rates, savings account rates, CD rates, auto loan rates, and personal loan rates from hundreds of banks and lenders. |
 | [Greenhouse Jobs Scraper](https://apify.com/crawlergang/greenhouse-jobs-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape job listings from Greenhouse.io company boards. Get all jobs from one or more companies, or fetch specific job details by ID - with location, departments, salary, and apply links. |
@@ -116,7 +116,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 AI
-📦 **10,948 APIs in this category** • [View all →](ai-agent-apis)
+📦 **11,023 APIs in this category** • [View all →](ai-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -133,7 +133,7 @@ With these APIs, your agents can:
 | [YouTube Transcript Ninja ⚡️🥷⚡](https://apify.com/topaz_sharingan/Youtube-Transcript-Scraper-1?fpr=hs6s8) | ⭐️ 4.99 (28) | Extract transcripts from YouTube videos with ease! This actor takes a YouTube video URL as input and returns the transcript of the video in the specified format. |
 | [Universal News Article Intelligence Agent](https://apify.com/workhard3000/news-intelligence-rag-extractor?fpr=hs6s8) | ⭐️ 5.0 (21) | High-fidelity news normalization for AI & Agentic RAG. Extract clean Markdown, full-text, and metadata from premium domains (Bloomberg, Wall Street Journal, Financial Times, New York Times, Washington Post, etc.). Success-only billing, only pay when full-text is verified. |
 | [AlphaScrape](https://apify.com/data_voyager/AlphaScrape?fpr=hs6s8) | ⭐️ 5.0 (20) | My Apify actor analyzes earnings-day data, revenue, earnings trends, growth signals, executive commentary, and past price behavior to predict stock movement and provide confidence scores that guide investment decisions. |
-| [Thesis Literature Review Scraper](https://apify.com/leafy-dev-jr/thesis-literature-review-scraper?fpr=hs6s8) | ⭐️ 4.99 (20) | Turn any research topic into a clean reading list of peer-reviewed papers from multiple data sources in one run. Includes citation-manager exports, spreadsheets, and an LLM-ready Markdown bundle for contextualizing AI queries with real academic literature. |
+| [Thesis Literature Review Scraper](https://apify.com/leafy-dev-jr/thesis-literature-review-scraper?fpr=hs6s8) | ⭐️ 5.0 (20) | Turn any research topic into a clean reading list of peer-reviewed papers from multiple data sources in one run. Includes citation-manager exports, spreadsheets, and an LLM-ready Markdown bundle for contextualizing AI queries with real academic literature. |
 | [Video Transcript Scraper: Youtube, X, Facebook, Tiktok, etc.](https://apify.com/invideoiq/video-transcript-scraper?fpr=hs6s8) | ⭐️ 4.38 (24) | Scrapes transcripts from online video/audio content on multiple plateforms (Youtube, X, ..) in any available language. It delivers outputs in both JSON and LLM-ready formats, making it ideal for analytics, and AI-based applications. Perfect for research and building intelligent conversational agents |
 | [B2B LinkedIn Lead Generator](https://apify.com/chieftools/b2b-linkedin-lead-generator?fpr=hs6s8) | ⭐️ 4.28 (24) | Find B2B decision-makers on LinkedIn by describing your ideal customer. AI discovers matching companies from live web data, identifies the right people, and scores every lead for relevance. Pay only for qualifying leads. |
 | [Amazon Reviews Scraper](https://apify.com/web_wanderer/amazon-reviews-extractor?fpr=hs6s8) | ⭐️ 3.38 (31) | UPDATED Scrape Amazon reviews per product! Filter by stars, keywords, media & verified purchases. Extract global reviews (20+ regions). Export JSON/CSV. Perfect for market research & SEO. |
@@ -149,7 +149,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Automation
-📦 **38,746 APIs in this category** • [View all →](automation-agent-apis)
+📦 **38,964 APIs in this category** • [View all →](automation-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -173,7 +173,7 @@ With these APIs, your agents can:
 | [Amazon Reviews Scraper with Advanced Filters](https://apify.com/delicious_zebu/amazon-reviews-scraper-with-advanced-filters?fpr=hs6s8) | ⭐️ 3.93 (53) | Extract thousands of Amazon reviews from any ASIN or URL across 17 global marketplaces. Utilize advanced filters for ratings, keywords, and verified purchases to capture precise customer insights for competitor analysis and market research. |
 | [🚀 Indeed jobs scraper PPR](https://apify.com/borderline/indeed-scraper?fpr=hs6s8) | ⭐️ 4.63 (37) | Pay per result - Fast and reliable Indeed Job Scraper! 🚀 Extract job listings with company details effortlessly with advanced filters, avoid blocking, and enjoy lightning-speed execution. Build your analytics, automate searches, or benchmark salaries—all with seamless outputs. Try it now for free |
 | [Deep Email, Phone, & Social Media Scraper Search](https://apify.com/peterasorensen/snacci?fpr=hs6s8) | ⭐️ 4.86 (33) | A powerful tool that searches emails, phone numbers, and social media profiles from any website. It intelligently navigates, prioritizing pages likely to have contact info - even deep in the site. Perfect for lead generation, market research, competitive analysis, and building contact databases. |
-| [YellowPages USA Business Lead Scraper](https://apify.com/delicious_zebu/yellowpages-usa-business-lead-scraper?fpr=hs6s8) | ⭐️ 4.99 (31) | Effortlessly gather business data from YellowPages (US) based on keywords and locations or directly from filtered URLs. With customizable sorting and pagination options, you can scrape valuable business details like names, addresses, ratings, and more—perfect for market research and lead generation! |
+| [YellowPages USA Business Lead Scraper](https://apify.com/delicious_zebu/yellowpages-usa-business-lead-scraper?fpr=hs6s8) | ⭐️ 5.0 (31) | Effortlessly gather business data from YellowPages (US) based on keywords and locations or directly from filtered URLs. With customizable sorting and pagination options, you can scrape valuable business details like names, addresses, ratings, and more—perfect for market research and lead generation! |
 | [Email Verifier & Validator Bulk Deliverability Check](https://apify.com/michael.g/email-verifier-validator?fpr=hs6s8) | ⭐️ 4.68 (35) | Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean email lists to reduce bounce rates. |
 | [Upwork Job Scraper](https://apify.com/neatrat/upwork-job-scraper?fpr=hs6s8) | ⭐️ 4.75 (34) | Scrape Upwork jobs without limits 🌟 Bypass CAPTCHAs & apply custom filters. Apify is retiring rental Actors, so pricing is changing. For many users around ~7k jobs/month, cost should stay near the old $25. You still get the same no-cookie setup, with in-house Upwork accounts and proxies built in. |
 | [Google Maps Scraper $0.50/1K Results 💰](https://apify.com/scraperlink/google-maps-scraper?fpr=hs6s8) | ⭐️ 4.97 (31) | 🔥 $0.40/1K results🔥 **CHEAPEST** Google Maps Scraper on Apify — 4× cheaper than competitors. Proxies & platform costs included. Results in seconds. Extract names, phones, addresses, ratings, hours & more. Multi-query, up to 200 results per search. |
@@ -182,7 +182,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Developer Tools
-📦 **27,560 APIs in this category** • [View all →](developer-tools-agent-apis)
+📦 **27,688 APIs in this category** • [View all →](developer-tools-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -194,7 +194,7 @@ With these APIs, your agents can:
 | [YouTube Search Scraper](https://apify.com/api-ninja/youtube-search-scraper?fpr=hs6s8) | ⭐️ 4.82 (39) | Extract structured YouTube search results with advanced filtering. Search videos, channels, playlists, shorts, movies, and shows using YouTube API. Fastest YouTube scraper on the market |
 | [Cheerio Scraper](https://apify.com/apify/cheerio-scraper?fpr=hs6s8) | ⭐️ 4.74 (38) | Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a Node.js code. Supports both recursive crawling and lists of URLs. This actor is a high-performance alternative to apify/web-scraper for websites that do not require JavaScript. |
 | [Deep Email, Phone, & Social Media Scraper Search](https://apify.com/peterasorensen/snacci?fpr=hs6s8) | ⭐️ 4.86 (33) | A powerful tool that searches emails, phone numbers, and social media profiles from any website. It intelligently navigates, prioritizing pages likely to have contact info - even deep in the site. Perfect for lead generation, market research, competitive analysis, and building contact databases. |
-| [YellowPages USA Business Lead Scraper](https://apify.com/delicious_zebu/yellowpages-usa-business-lead-scraper?fpr=hs6s8) | ⭐️ 4.99 (31) | Effortlessly gather business data from YellowPages (US) based on keywords and locations or directly from filtered URLs. With customizable sorting and pagination options, you can scrape valuable business details like names, addresses, ratings, and more—perfect for market research and lead generation! |
+| [YellowPages USA Business Lead Scraper](https://apify.com/delicious_zebu/yellowpages-usa-business-lead-scraper?fpr=hs6s8) | ⭐️ 5.0 (31) | Effortlessly gather business data from YellowPages (US) based on keywords and locations or directly from filtered URLs. With customizable sorting and pagination options, you can scrape valuable business details like names, addresses, ratings, and more—perfect for market research and lead generation! |
 | [Google Maps Scraper $0.50/1K Results 💰](https://apify.com/scraperlink/google-maps-scraper?fpr=hs6s8) | ⭐️ 4.97 (31) | 🔥 $0.40/1K results🔥 **CHEAPEST** Google Maps Scraper on Apify — 4× cheaper than competitors. Proxies & platform costs included. Results in seconds. Extract names, phones, addresses, ratings, hours & more. Multi-query, up to 200 results per search. |
 | [YellowPages Australia Lead Generator](https://apify.com/delicious_zebu/yellowpages-australia-lead-generator?fpr=hs6s8) | ⭐️ 5.0 (30) | Effortlessly scrape detailed business data from YellowPages.com.au by keyword, location, and filters like “Open Now” or “Popular.” Fast, flexible, and ideal for lead generation or market research. |
 | [LinkedIn Jobs Scraper Remove Duplicate Jobs Pay Per Result](https://apify.com/cheap_scraper/linkedin-job-scraper?fpr=hs6s8) | ⭐️ 4.1 (41) | LinkedIn Jobs Scraper Remove Duplicate Jobs. The LinkedIn jobs scraper allows you to collect jobs in 2 ways: By providing one or more start URLs, or By entering multiple keywords, search queries. You can use either method individually or combine both. |
@@ -203,7 +203,7 @@ With these APIs, your agents can:
 | [Ultimate X (Twitter) Advanced Search Scraper](https://apify.com/delicious_zebu/ultimate-x-twitter-advanced-search-scraper?fpr=hs6s8) | ⭐️ 4.97 (28) | 🚀 Scrape X (Twitter) Advanced Search without login — filter by keyword, hashtag, user, engagement, media, language & date range, and batch many searches at once. Export 55 fields including media, author stats & more. Fast API, pay per result. |
 | [Yelp Business Info Scraper](https://apify.com/delicious_zebu/yelp-business-info-scraper?fpr=hs6s8) | ⭐️ 4.67 (31) | Quickly gather rich, detailed data from Yelp business pages—perfect for insights and analysis! 🚀 |
 | [Youtube Transcript Scraper](https://apify.com/pintostudio/youtube-transcript-scraper?fpr=hs6s8) | ⭐️ 3.72 (49) | Looking for a reliable way to extract transcripts from YouTube videos? 🎥✨ Look no further! The YouTube-Transcript-Scraper has you covered. 🚀 It effortlessly retrieves transcripts while offering additional valuable insights. Ready to start? Let’s scrape away! 🕵️‍♂️💻 |
-| [eBay Product Reviews Scraper with Advanced Filters](https://apify.com/delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters?fpr=hs6s8) | ⭐️ 4.99 (27) | Effortlessly scrape product reviews from eBay with customizable filters for sorting, rating types, and image-only reviews. Fast, reliable, and packed with rich data to power your market insights. |
+| [eBay Product Reviews Scraper with Advanced Filters](https://apify.com/delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters?fpr=hs6s8) | ⭐️ 5.0 (27) | Effortlessly scrape product reviews from eBay with customizable filters for sorting, rating types, and image-only reviews. Fast, reliable, and packed with rich data to power your market insights. |
 | [🔥 Leads Finder ✅ $1/1k with EMAILS ✅ Apollo LinkedIn Profile](https://apify.com/boneswill/leads-generator?fpr=hs6s8) | ⭐️ 4.49 (32) | 🔥 Downtime issue fixed ✅ Affordable alternative ✅ to Apollo, ZoomInfo, Lusha & LinkedIn. Extract leads with verified 📞 Mobile Number, verified ✅ Business & Person Emails, LinkedIn profiles, company details! |
 | [YouTube Comments & Replies Scraper](https://apify.com/delicious_zebu/youtube-comments-replies-scraper?fpr=hs6s8) | ⭐️ 4.8 (28) | Automatically collect detailed comment data from YouTube videos, including first and second-level replies. Get real-time insights into user engagement with rich, organized data—perfect for market analysis, competitor research, and content strategy. |
 | [YellowPages.ca Business Data Scraper](https://apify.com/delicious_zebu/yellowpages-ca-business-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (26) | Effortlessly extract comprehensive Canadian business data from YellowPages.ca with flexible search options, rich detail extraction, and customizable pagination for your market research and lead generation needs. |
@@ -215,7 +215,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Ecommerce
-📦 **16,219 APIs in this category** • [View all →](ecommerce-agent-apis)
+📦 **16,273 APIs in this category** • [View all →](ecommerce-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -230,11 +230,11 @@ With these APIs, your agents can:
 | [Amazon Product Data Scraper](https://apify.com/delicious_zebu/amazon-product-data-scraper?fpr=hs6s8) | ⭐️ 4.96 (31) | Scrape Amazon product data by keyword or category/search URL across 20 country websites: price, rating, reviews, variants, seller, images and more. |
 | [Amazon Reviews Scraper](https://apify.com/axesso_data/amazon-reviews-scraper?fpr=hs6s8) | ⭐️ 4.21 (41) | Our Amazon Reviews Scraper extracts real-time reviews from Amazon, including ratings, titles, descriptions, user reactions, review dates, images and many more. Download the data in formats like JSON, CSV, Excel, XML, or HTML. Fast, accurate, and ideal for in-depth insights. |
 | [Yelp Advanced Data Scraper](https://apify.com/delicious_zebu/yelp-advanced-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (29) | Effortlessly scrape detailed business data from Yelp — ratings, reviews, contact info, hours, amenities, popular dishes, health scores, Q&A, and more. Works for restaurants, services, and any Yelp category. Perfect for lead generation, market analysis, apps, and research. |
-| [eBay Product Details Scraper](https://apify.com/delicious_zebu/ebay-product-details-scraper?fpr=hs6s8) | ⭐️ 4.99 (28) | Scrape full eBay product details from any country site: price, discount, condition, quantity sold/available, seller, shipping, ratings, category, brand/MPN/UPC, images and description. |
+| [eBay Product Details Scraper](https://apify.com/delicious_zebu/ebay-product-details-scraper?fpr=hs6s8) | ⭐️ 5.0 (28) | Scrape full eBay product details from any country site: price, discount, condition, quantity sold/available, seller, shipping, ratings, category, brand/MPN/UPC, images and description. |
 | [Yelp Advanced Business Scraper: Pay Per Result](https://apify.com/delicious_zebu/yelp-advanced-business-scraper-pay-per-result?fpr=hs6s8) | ⭐️ 4.95 (28) | Scrape Yelp business data & leads at scale — names, ratings, reviews, contact info, hours, amenities, popular dishes, health scores, Q&A & more. Works for restaurants, services & any Yelp category. Pay per result, no subscription. Great for lead generation, market research & apps. |
 | [Amazon Reviews Scraper](https://apify.com/junglee/amazon-reviews-scraper?fpr=hs6s8) | ⭐️ 3.92 (44) | Amazon scraper to extract reviews from Amazon products. Scrape and download detailed reviews without using the Amazon API, including rating score, review description, reactions and images. Download your data as HTML table, JSON, CSV, Excel, XML. |
-| [eBay Product Reviews Scraper with Advanced Filters](https://apify.com/delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters?fpr=hs6s8) | ⭐️ 4.99 (27) | Effortlessly scrape product reviews from eBay with customizable filters for sorting, rating types, and image-only reviews. Fast, reliable, and packed with rich data to power your market insights. |
-| [Amazon Product Details Scraper](https://apify.com/delicious_zebu/amazon-product-details-scraper?fpr=hs6s8) | ⭐️ 4.99 (27) | Effortlessly scrape comprehensive Amazon product details, including pricing, reviews, ratings, availability, and more. Ideal for market analysis, competitor tracking, and data-driven decision-making. 🚀 |
+| [eBay Product Reviews Scraper with Advanced Filters](https://apify.com/delicious_zebu/ebay-product-reviews-scraper-with-advanced-filters?fpr=hs6s8) | ⭐️ 5.0 (27) | Effortlessly scrape product reviews from eBay with customizable filters for sorting, rating types, and image-only reviews. Fast, reliable, and packed with rich data to power your market insights. |
+| [Amazon Product Details Scraper](https://apify.com/delicious_zebu/amazon-product-details-scraper?fpr=hs6s8) | ⭐️ 5.0 (27) | Effortlessly scrape comprehensive Amazon product details, including pricing, reviews, ratings, availability, and more. Ideal for market analysis, competitor tracking, and data-driven decision-making. 🚀 |
 | [Facebook Ads Library Scraper 🎯📈 - Fast & cheap 💬⭐](https://apify.com/scrapestorm/facebook-ads-library-scraper---fast-cheap?fpr=hs6s8) | ⭐️ 4.31 (34) | 🚀 Extract Facebook (Meta) Ads Data 📊 from one or multiple Pages! Gather page details, reach estimates, impressions, ad IDs, and more 📅. Download in JSON, CSV, or Excel formats 🔽 for seamless integration into apps, spreadsheets, and reports. Perfect for analysis and insights 📈💻. |
 | [eBay Store Scraper](https://apify.com/delicious_zebu/ebay-store-scraper?fpr=hs6s8) | ⭐️ 4.72 (27) | eBay Store Product Scraper allows you to collect detailed information from any eBay store. Simply provide the store URL, and this Actor will scrape all product details, including pricing, images, shipping info, and more. |
 | [Trustpilot Scraper Pro](https://apify.com/coder_zoro/Trustpilot-Scraper-Pro?fpr=hs6s8) | ⭐️ 4.72 (24) | Trustpilot Scraper Pro is a powerful Apify actor that extracts detailed business information and customer reviews from Trustpilot. Choose between two modes: scrape company data (name, rating, contact, etc.) or collect reviews with filters. |
@@ -248,14 +248,14 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Integrations
-📦 **3,564 APIs in this category** • [View all →](integrations-agent-apis)
+📦 **3,569 APIs in this category** • [View all →](integrations-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
 | [X (Twitter) Advanced Search Scraper 𝕏](https://apify.com/api-ninja/x-twitter-advanced-search?fpr=hs6s8) | ⭐️ 4.88 (46) | Advanced X (Twitter) post search with 50+ filters: content, users, geo, time, engagement, media. Dual modes: simple queries or structured filters. Enterprise-grade reliability for precise data extraction |
 | [X (Twitter) Community Search Post Scraper 𝕏](https://apify.com/api-ninja/x-twitter-community-search-post-scraper?fpr=hs6s8) | ⭐️ 4.93 (33) | Extract tweets from X (Twitter) communities. Process single or multiple communities, get comprehensive tweet data with community context, and handle large-scale data collection efficiently. |
 | [X-Cavator](https://apify.com/knowten/x-cavator?fpr=hs6s8) | ⭐️ 4.97 (28) | The fastest X.com (twitter) scraper at $0.30/1k tweets — with built-in AI Sentiment Analysis (0.0 to 1.0 scale). 600+ tweets/min, zero browser overhead, advanced filters included. |
-| [Amazon Product Details Scraper](https://apify.com/delicious_zebu/amazon-product-details-scraper?fpr=hs6s8) | ⭐️ 4.99 (27) | Effortlessly scrape comprehensive Amazon product details, including pricing, reviews, ratings, availability, and more. Ideal for market analysis, competitor tracking, and data-driven decision-making. 🚀 |
+| [Amazon Product Details Scraper](https://apify.com/delicious_zebu/amazon-product-details-scraper?fpr=hs6s8) | ⭐️ 5.0 (27) | Effortlessly scrape comprehensive Amazon product details, including pricing, reviews, ratings, availability, and more. Ideal for market analysis, competitor tracking, and data-driven decision-making. 🚀 |
 | [LinkedIn Profile Scraper for cheap lead enrichment ✅](https://apify.com/anchor/linkedin-profile-enrichment?fpr=hs6s8) | ⭐️ 4.86 (21) | Extract LIVE LinkedIn profile data from LinkedIn URLs. Works with people and companies. Upload a CSV of LinkedIn URLs or use the API. Automate your LinkedIn enrichment with N8N, Make, Zapier integrations... No Cookies. Cheap, high-quality, live lead enrichment for LinkedIn profiles ! |
 | [Amazon Product Batch Scraper](https://apify.com/apiguru/amazon-product-batch-scraper?fpr=hs6s8) | ⭐️ 5.0 (17) | 🔥Amazon🔥 🔥ULTRA Fast🔥 🔥Recommended🔥APIs:TikTok,Instagram,Youtube,Google,Twitter,Amazon,ChatGPT,Whatsapp,Spotify,LinkedIn,Facebook,Yahoo,Threads,Telegram,Meta,taobao,tmall,jingdong,shopee,lazada,Xiaohongshu,wechat,news,baidu,reddit,dianping,ele,meituan,bili,temu,dewu,AI,Chat,GPT,Midjourney |
 | [FDA Recalls Database Scraper](https://apify.com/crawlergang/fda-recalls-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape FDA recalls from the openFDA REST API. Search food, drug, device, biologics, cosmetics, and veterinary recalls by keyword, product type, firm name, or classification. No API key required. |
@@ -281,7 +281,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Jobs
-📦 **7,141 APIs in this category** • [View all →](jobs-agent-apis)
+📦 **7,181 APIs in this category** • [View all →](jobs-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -304,21 +304,21 @@ With these APIs, your agents can:
 | [⚡️Rapid Linkedin Jobs Scraper Free Jobs Scraper](https://apify.com/worldunboxer/rapid-linkedin-scraper?fpr=hs6s8) | ⭐️ 3.73 (28) | 🔥 $0.45/1K Jobs. Scrape LinkedIn Jobs without cookies 🍪. Extract job listings by keyword, company, city, or country. Get complete structured data including titles, descriptions, locations, salaries, experience, skills, company details, apply links, contact emails, and more. |
 | [Upwork Job Scraper Scrape up to 10k Jobs ✨ (MCP)](https://apify.com/upwork-vibe/upwork-job-scraper?fpr=hs6s8) | ⭐️ 4.5 (20) | Get ALL Upwork jobs instantly. Pre-indexed database delivers 10,000+ jobs at once. No cookies, no timeouts, filters that actually work. Perfect for freelancers, agencies, and Clay/Zapier automations. Pay only $0.003 per job - no subscriptions required. upwork@vistorio.online |
 | [💡 Indeed Jobs Scraper](https://apify.com/valig/indeed-jobs-scraper?fpr=hs6s8) | ⭐️ 4.72 (18) | $0.1/1K jobs Scrape job listings, salaries, and company details from Indeed with customizable search filters and structured output. |
-| [Pingrole Job Scraper(Linkedin, Indeed, Glassdoor,...)🇨🇦🇩🇪](https://apify.com/hermann_samimi/pingrole-job-scraper-linkedin-indeed-glassdoor?fpr=hs6s8) | ⭐️ 5.0 (16) | Real-time Jobs API aggregating LinkedIn, Indeed, Workday, Glassdoor, ZipRecruiter, XING, Arbeitsagentur, ICIMS, Talent.com, Randstad, Hays, Recruit.net, Bayt, Built In, Job Bank Canada, Walmart Careers, Uber Careers, and more. |
+| [Pingrole Job Scraper(Linkedin, Indeed, Glassdoor,...)🇨🇦🇩🇪](https://apify.com/hermann_samimi/pingrole-job-scraper-linkedin-indeed-glassdoor?fpr=hs6s8) | ⭐️ 4.99 (16) | Real-time Jobs API aggregating LinkedIn, Indeed, Workday, Glassdoor, ZipRecruiter, XING, Arbeitsagentur, ICIMS, Talent.com, Randstad, Hays, Recruit.net, Bayt, Built In, Job Bank Canada, Walmart Careers, Uber Careers, and more. |
 | [Naukri & Naukrigulf $0.99💰 Jobs Search & Detail Scraper](https://apify.com/memo23/naukri-scraper?fpr=hs6s8) | ⭐️ 4.73 (17) | The only Naukri scraper that also covers NaukriGulf — India and the Gulf in one run, so you buy one actor instead of two. 41 fields per job: salary bands, skills, education, apply links, plus optional employer emails and AmbitionBox company ratings. Rated 4.7★ by 17 users. JSON or CSV. |
 | [Profile Details Batch Scraper for LinkedIn + EMAIL (No Cookies)](https://apify.com/apimaestro/linkedin-profile-batch-scraper-no-cookies-required?fpr=hs6s8) | ⭐️ 4.37 (19) | (no cookies need) Extract In Bulk comprehensive LinkedIn profile data including work experience, education history, certifications, and location details. Get structured information from any public LinkedIn profile using their username. |
+| [SimplyHired Job Scraper](https://apify.com/shahidirfan/Simplyhired-Job-Scraper?fpr=hs6s8) | ⭐️ 5.0 (14) | Unlock full job market visibility with this SimplyHired scraper! Instantly extract job titles, salaries, and company details. Perfect for recruiters and aggregators seeking reliable data. Optimized for speed and performance to deliver high-quality results effortlessly. |
 | [Learn4Good Job Scraper](https://apify.com/shahidirfan/Learn4Good-Job-Scraper?fpr=hs6s8) | ⭐️ 5.0 (14) | Extract worldwide job postings, teaching roles, and career listings from Learn4Good effortlessly. Generate structured data instantly to power your HR platforms, job boards, and market research with fresh, accurate employment insights. |
-| [SimplyHired Job Scraper](https://apify.com/shahidirfan/Simplyhired-Job-Scraper?fpr=hs6s8) | ⭐️ 4.99 (14) | Unlock full job market visibility with this SimplyHired scraper! Instantly extract job titles, salaries, and company details. Perfect for recruiters and aggregators seeking reliable data. Optimized for speed and performance to deliver high-quality results effortlessly. |
 | [GulfTalent Job Scraper](https://apify.com/shahidirfan/GulfTalent-Job-Scraper?fpr=hs6s8) | ⭐️ 4.92 (14) | Scrape live job listings from GulfTalent across UAE, Saudi Arabia, Kuwait & Bahrain. Extract job titles, companies, salaries, experience requirements, job descriptions & application links. Ideal for Gulf recruitment analytics, salary intelligence, talent market research & HR datasets. |
 
 ---
 
 ### 🤖 Lead Generation
-📦 **31,000 APIs in this category** • [View all →](lead-generation-agent-apis)
+📦 **31,201 APIs in this category** • [View all →](lead-generation-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
-| [Google Maps Scraper](https://apify.com/compass/crawler-google-places?fpr=hs6s8) | ⭐️ 4.69 (1817) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. |
+| [Google Maps Scraper](https://apify.com/compass/crawler-google-places?fpr=hs6s8) | ⭐️ 4.69 (1816) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. |
 | [Google Maps Extractor](https://apify.com/compass/google-maps-extractor?fpr=hs6s8) | ⭐️ 4.85 (232) | Extract data from hundreds of places fast. Scrape Google Maps by keyword, category, location, URLs & other filters. Get addresses, contact info, opening hours, popular times, prices, menus & more. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other tools. |
 | [Google Search Results Scraper](https://apify.com/apify/google-search-scraper?fpr=hs6s8) | ⭐️ 4.65 (219) | Scrape Google Search Engine Results Pages (SERPs). Select the country or language and extract organic and paid results, AI Mode, AI overviews, ads, queries, People Also Ask, prices, reviews, like a Google SERP API. Export data, run the scraper via API, schedule runs, or integrate with other tools. |
 | [📩📍 Google Maps Email Extractor](https://apify.com/lukaskrivka/google-maps-with-contact-details?fpr=hs6s8) | ⭐️ 4.62 (221) | Extract Google Maps contact details. Scrape websites of Google Maps places for contact details and get email addresses, website, location, address, zipcode, phone number, social media links. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools. |
@@ -347,15 +347,15 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 MCP Servers
-📦 **2,688 APIs in this category** • [View all →](mcp-servers-agent-apis)
+📦 **2,744 APIs in this category** • [View all →](mcp-servers-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
 | [Email Verifier & Validator Bulk Deliverability Check](https://apify.com/michael.g/email-verifier-validator?fpr=hs6s8) | ⭐️ 4.68 (35) | Bulk email verifier and email validator for email list verification. Verify email addresses, detect invalid emails, check deliverability, and clean email lists to reduce bounce rates. |
 | [Email Verifier by Million Verifier - $1/1k emails](https://apify.com/account56/email-verifier?fpr=hs6s8) | ⭐️ 4.48 (30) | ✅ #1 Email Verification Service ✅ Only pay for valid and invalid emails ✅ No charge for catch all emails ✅ Easily verify emails from apollo, zoominfo etc |
 | [Skool Classroom Media/Video · Posts · Nested Comments](https://apify.com/memo23/skool-posts-with-comments-scraper?fpr=hs6s8) | ⭐️ 4.85 (23) | Skool.com posts + nested comments + classroom courses + media files. Date filter for new-content delta runs, storage dedup across runs (no double-billing), tab selector for community/classroom, configurable comment depth. The most thorough Skool content extractor. JSON or CSV. |
-| [Youtube Transcript](https://apify.com/dz_omar/youtube-transcript-metadata-extractor?fpr=hs6s8) | ⭐️ 5.0 (21) | 🎥Extract complete transcripts with precise timestamps ⏱️ and comprehensive video metadata from any YouTube video — ⚡Fast, reliable, and ready to use. |
-| [Trustpilot Reviews + AI Intelligence $0.75💰 NO LIMIT](https://apify.com/memo23/trustpilot-scraper-ppe?fpr=hs6s8) | ⭐️ 4.8 (20) | From 💰$0.50/1K Export every Trustpilot review — past the ~200-review web cap. Incremental mode: pull only reviews newer than a date, so daily syncs stay cheap. 40+ fields, company replies, ratings, reviewer country. Filter by star, language, date, verified. Brand search, regional domains. |
+| [Youtube Transcript](https://apify.com/dz_omar/youtube-transcript-metadata-extractor?fpr=hs6s8) | ⭐️ 4.99 (21) | 🎥Extract complete transcripts with precise timestamps ⏱️ and comprehensive video metadata from any YouTube video — ⚡Fast, reliable, and ready to use. |
+| [Trustpilot Reviews + AI Intelligence $0.75💰 NO LIMIT](https://apify.com/memo23/trustpilot-scraper-ppe?fpr=hs6s8) | ⭐️ 4.8 (20) | From 💰$0.65/1K Export every Trustpilot review — past the ~200-review web cap. Incremental mode: pull only reviews newer than a date, so daily syncs stay cheap. 40+ fields, company replies, ratings, reviewer country. Filter by star, language, date, verified. Brand search, regional domains. |
 | [Naukri Job Scraper — India + Gulf · Emails & 41 Fields](https://apify.com/memo23/naukri-scraper?fpr=hs6s8) | ⭐️ 4.73 (17) | The only Naukri scraper that also covers NaukriGulf — India and the Gulf in one run, so you buy one actor instead of two. 41 fields per job: salary bands, skills, education, apply links, plus optional employer emails and AmbitionBox company ratings. Rated 4.7★ by 17 users. JSON or CSV. |
 | [Facebook Marketplace $1.5💰 Get newest items ASAP](https://apify.com/memo23/facebook-marketplace-scraper-ppe?fpr=hs6s8) | ⭐️ 4.81 (16) | 💰$1.50/1K Facebook Marketplace scraper with no cookies or login — anti-bot handled and maintained so your pipeline doesn't die mid-contract. Keyword or URL search, price/condition/radius filters; cars include make, model, odometer & VIN. $1.50/1k flat — a per-result price you can quote to clients. |
 | [Realtor.com $1.5💰 GET ALL AGENTS NO 3K LIMIT](https://apify.com/memo23/realtor-search-cheerio?fpr=hs6s8) | ⭐️ 5.0 (15) | 💰$1.50 per 1,000 results. Effortlessly scrape real estate data from Realtor.com, including property listings AND agent profiles. Extract property details like prices, amenities, locations, and photos, plus agent information such as contact details, reviews, specializations, and performance metrics. |
@@ -380,7 +380,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 News
-📦 **4,490 APIs in this category** • [View all →](news-agent-apis)
+📦 **4,535 APIs in this category** • [View all →](news-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -393,7 +393,7 @@ With these APIs, your agents can:
 | [Twitter (X.com) Tweets & Profiles Scraper](https://apify.com/web.harvester/twitter-scraper?fpr=hs6s8) | ⭐️ 4.56 (21) | Extract tweets and full profile data from any Twitter (X.com) account with our powerful scraper. Search profiles, scrape tweets with replies, or extract data via URL or username. Download in JSON, CSV, Excel, XML, or HTML—ideal for social media monitoring, content analysis, and competitive research. |
 | [Google News Scraper Fast & cheap ⭐ (Pay per results) 📰⚡](https://apify.com/scrapestorm/google-news-scraper-fast-cheap-pay-per-results?fpr=hs6s8) | ⭐️ 3.65 (21) | Unlock the power of the Google News scraper tool! 📰✨ Effortlessly gather news articles based on your chosen Keyword or topic 🔍. Get key details like the title 📝 source 🌐, publication time ⏰, images 🖼️, & direct links to the full articles 🔗perfect for staying informed and ahead of the curve! 🚀 |
 | [Weather Forecast](https://apify.com/accelerationengg/weather-forecast?fpr=hs6s8) | ⭐️ 5.0 (13) | The Weather Forecast Scraper collects daily weather data for a city, including temperature, conditions, wind, humidity, precipitation, and UV index. It supports solar forecasting, trip planning, data dashboards, and research on weather and solar patterns. |
-| [Product Hunt Scraper](https://apify.com/michael.g/product-hunt-scraper?fpr=hs6s8) | ⭐️ 4.99 (12) | Scrape data on products and their team members from Product Hunt, which features new launches every day. Export scraped data, schedule via API, and integrate with other tools or AI workflows. |
+| [Product Hunt Scraper](https://apify.com/michael.g/product-hunt-scraper?fpr=hs6s8) | ⭐️ 5.0 (12) | Scrape data on products and their team members from Product Hunt, which features new launches every day. Export scraped data, schedule via API, and integrate with other tools or AI workflows. |
 | [Google News Scraper](https://apify.com/lhotanova/google-news-scraper?fpr=hs6s8) | ⭐️ 4.59 (13) | Gets featured articles from Google News with title, link, source, publication date and image. |
 | [Google Jobs Scraper](https://apify.com/johnvc/Google-Jobs-Scraper?fpr=hs6s8) | ⭐️ 4.54 (13) | The most advanced Google Jobs Scraper available! Built with enterprise-grade flexibility, lightning-fast performance, and comprehensive customization options. Extract detailed job data, application links, company information, and full job descriptions. Unlimited usage, no monthly rental fees. |
 | [Twitter (X.com) Search Scraper](https://apify.com/web.harvester/easy-twitter-search-scraper?fpr=hs6s8) | ⭐️ 4.74 (12) | Easily extract tweets from Twitter (X.com) search results with our powerful Twitter Search Scraper. Get full tweet data, including text, engagement, media, and user info. Export in JSON, CSV, Excel, or HTML—perfect for social media monitoring, market research, competitor analysis, and trend tracking |
@@ -413,7 +413,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Open Source
-📦 **1,297 APIs in this category** • [View all →](open-source-agent-apis)
+📦 **1,299 APIs in this category** • [View all →](open-source-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -430,7 +430,7 @@ With these APIs, your agents can:
 | [LinkedIn Post Comments Scraper (No Cookies)⚡$2 per 1k](https://apify.com/harvestapi/linkedin-post-comments?fpr=hs6s8) | ⭐️ 4.61 (13) | Extract LinkedIn post comments or comment replies in bulk, as well as comment social activities such as the number of likes and reactions. No cookies or account required |
 | [LuaRocks Scraper](https://apify.com/crawlergang/luarocks-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape LuaRocks - the official Lua package repository. Search modules or fetch details for specific rocks. Extract names, descriptions, authors, versions, licenses, homepages, download counts, and labels. |
 | [Linkedin Company Details Scraper (No Cookies) ✅ Bulk](https://apify.com/harvestapi/linkedin-company?fpr=hs6s8) | ⭐️ 4.68 (11) | Extract detailed information from LinkedIn Companies such as company name, address, phone numbers, website, employee count, and more. Find LinkedIn company URLs by name in Bulk. No cookies or account required. |
-| [Bing Ads Scraper](https://apify.com/lexis-solutions/bing-ads-scraper?fpr=hs6s8) | ⭐️ 5.0 (9) | Find and scrape current and past ads on Bing. Get ad copy, shown dates and locations, impressions, and more. Download and analyze data from the Microsoft Ad Library for competitive analysis. |
+| [Bing Ads Scraper](https://apify.com/lexis-solutions/bing-ads-scraper?fpr=hs6s8) | ⭐️ 4.99 (9) | Find and scrape current and past ads on Bing. Get ad copy, shown dates and locations, impressions, and more. Download and analyze data from the Microsoft Ad Library for competitive analysis. |
 | [AI Web Agent](https://apify.com/apify/ai-web-agent?fpr=hs6s8) | ⭐️ 4.97 (9) | Use natural language prompts to browse the web, click on elements, fill and submit forms, extract data, and take screenshots using the OpenAI API. |
 | [Link Prospecting Tool](https://apify.com/apify/link-prospecting-tool?fpr=hs6s8) | ⭐️ 5.0 (8) | Monitor your brand visibility across AI and organic search platforms (ChatGPT, Google AI Mode, Google AI Overviews, and Perplexity). Check if quoted sources include your brand, and find link outreach opportunities. |
 | [Legacy PhantomJS Crawler](https://apify.com/apify/legacy-phantomjs-crawler?fpr=hs6s8) | ⭐️ 5.0 (8) | Replacement for the legacy Apify Crawler product with a backward-compatible interface. The Actor uses PhantomJS headless browser to recursively crawl websites and extract data from them using a piece of front-end JavaScript code. |
@@ -446,13 +446,13 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Other
-📦 **10,495 APIs in this category** • [View all →](other-agent-apis)
+📦 **10,531 APIs in this category** • [View all →](other-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
 | [Naver Map Search Results Scraper](https://apify.com/delicious_zebu/naver-map-search-results-scraper?fpr=hs6s8) | ⭐️ 4.94 (42) | Scrape Naver Map business listings by keyword or URL: names, categories, ratings, reviews, phone numbers, addresses, coordinates, hours, menus and more. A fast, no-code Naver Place API alternative. |
 | [LinkedIn Jobs Scraper (No Login Required)](https://apify.com/delicious_zebu/linkedin-jobs-scraper-no-login-required?fpr=hs6s8) | ⭐️ 5.0 (27) | Effortlessly extract LinkedIn job listings with rich details like title, company, salary, and description—no login required. Freely filter by keyword, location, or other criteria. Perfect for HR tech, talent analytics, and job market research. |
-| [Thesis Literature Review Scraper](https://apify.com/leafy-dev-jr/thesis-literature-review-scraper?fpr=hs6s8) | ⭐️ 4.99 (20) | Turn any research topic into a clean reading list of peer-reviewed papers from multiple data sources in one run. Includes citation-manager exports, spreadsheets, and an LLM-ready Markdown bundle for contextualizing AI queries with real academic literature. |
+| [Thesis Literature Review Scraper](https://apify.com/leafy-dev-jr/thesis-literature-review-scraper?fpr=hs6s8) | ⭐️ 5.0 (20) | Turn any research topic into a clean reading list of peer-reviewed papers from multiple data sources in one run. Includes citation-manager exports, spreadsheets, and an LLM-ready Markdown bundle for contextualizing AI queries with real academic literature. |
 | [GOG.com Game Scraper](https://apify.com/crawlerbros/gog-scraper?fpr=hs6s8) | ⭐️ 4.99 (19) | Scrape GOG.com game catalog with search by title, browse by genre, or fetch specific games by ID. Gets prices, ratings, developers, screenshots, platforms and more from the public GOG catalog API. No auth, no proxy |
 | [Google Ads Scraper](https://apify.com/silva95gustavo/google-ads-scraper?fpr=hs6s8) | ⭐️ 4.89 (19) | Extract up to 400 ads per minute along with text, image and video ads from Google Ads, scraped from the ad library provided by the Google Ads Transparency Center. Gain access to ad details, ad copy, locations and more for a faster competitive edge. |
 | [Linkedin Sales Navigator Scraper](https://apify.com/bestscrapers/linkedin-sales-navigator-scraper?fpr=hs6s8) | ⭐️ 3.41 (30) | A powerful tool designed to extract detailed lead information from a Sales Navigator URL — without the need for cookies or login. |
@@ -460,7 +460,7 @@ With these APIs, your agents can:
 | [Luma Scraper](https://apify.com/lexis-solutions/lu-ma-scraper?fpr=hs6s8) | ⭐️ 4.76 (16) | Scrape event data from lu.ma—including titles, dates, organizers, attendee counts, and descriptions. Ideal for event analytics, marketing research, and aggregation. Fast, structured, and customizable extraction from the Lu.ma platform. |
 | [Zalando Scraper](https://apify.com/vistics/zalando-scraper?fpr=hs6s8) | ⭐️ 5.0 (14) | Scrape Zalando product data across all European markets. Extracts product name, brand, price, currency, discount, images, color, variants & description. Supports UK, DE, FR, IT, ES and more. Fast, reliable & easy to use. 🚀 |
 | [WhatsApp Number Lookup — Profile, Leaks, Telegram, Bulk](https://apify.com/eduair94/whatsapp-data-lookup?fpr=hs6s8) | ⭐️ 4.94 (13) | Verify any WhatsApp number worldwide. Returns profile picture (real pics for normal users, not just businesses), about/status, business flag, Telegram cross-check, Google/TrueCaller intel, leak/breach data, and bulk verification. Covers gaps left by generic WA lookup actors. |
-| [Astonomical Data (Sunrise, sunset, twilight, etc)](https://apify.com/accelerationengg/sun-only?fpr=hs6s8) | ⭐️ 5.0 (12) | The Sun Data Scraper collects daily astronomical data for a given city. It gives sunrise, sunset, day length, solar noon, and various twilight times (civil, nautical, astronomical) which are ideal for solar planning, photography, research, and integration with various platfroms |
+| [Astonomical Data (Sunrise, sunset, twilight, etc)](https://apify.com/accelerationengg/sun-only?fpr=hs6s8) | ⭐️ 4.99 (12) | The Sun Data Scraper collects daily astronomical data for a given city. It gives sunrise, sunset, day length, solar noon, and various twilight times (civil, nautical, astronomical) which are ideal for solar planning, photography, research, and integration with various platfroms |
 | [Remote Jobs Scraper (Remotive)](https://apify.com/crawlergang/remote-com-jobs-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape remote job listings from Remotive's public API. Browse all available remote positions or search by keyword, category, location, and job type. No authentication required. |
 | [WHO Global Health Observatory (GHO) Scraper](https://apify.com/crawlergang/who-gho-health-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape the WHO Global Health Observatory (GHO) - the world's most comprehensive public health statistics database. Access 2,000+ health indicators across 194 countries: life expectancy, disease burden, mortality rates, nutrition, tobacco use, mental health, and more. No authentication required. |
 | [USDA FoodData Central Scraper](https://apify.com/crawlergang/usda-food-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape USDA FoodData Central - search 600k+ foods, get full nutritional profiles (calories, protein, fat, carbs, vitamins, minerals). Search by keyword, lookup by FDC ID, or browse by data type. |
@@ -479,7 +479,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Real Estate
-📦 **5,665 APIs in this category** • [View all →](real-estate-agent-apis)
+📦 **5,707 APIs in this category** • [View all →](real-estate-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -498,10 +498,10 @@ With these APIs, your agents can:
 | [Zillow Search Scraper](https://apify.com/api-ninja/zillow-search-scraper?fpr=hs6s8) | ⭐️ 4.95 (14) | Your ultimate Zillow scraping tool. The actor extracts comprehensive property data from Zillow search results, including prices, addresses, and more. |
 | [Airbnb Scraper](https://apify.com/tri_angle/airbnb-scraper?fpr=hs6s8) | ⭐️ 4.54 (15) | Scrape Airbnb rentals in your chosen destinations. Extract descriptions, locations, prices per night, ratings, reviews count, host details, amenities and more. Download scraped data in various formats including HTML, JSON and Excel. |
 | [LoopNet $1.5💰 Search Details Agent BizData No Limits](https://apify.com/memo23/loopnet-scraper-ppe?fpr=hs6s8) | ⭐️ 5.0 (13) | 💰 $1.50 per 1,000 results, scrape commercial property from LoopNet (US) AND LoopNet UK / Realla (UK) in one actor — the only Apify scraper bundling both. Lease & sale listings across all US states + every UK city. Rich rows: address, geo, sqft, asking rent/price, broker, EPC. $1.50/1k. |
-| [UAE Dubai Property & Real Estate Leads Scraper – PropertyFinder](https://apify.com/skyline_scrapers/uae-dubai-property-real-estate-leads-scraper-propertyfinder?fpr=hs6s8) | ⭐️ 5.0 (12) | Extract real-time property listings, agent details, prices, locations, and real estate leads from PropertyFinder UAE. Built for real estate agencies, brokers, investors, lead generation, market research, and property data automation across Dubai and the UAE. |
 | [Realtor Leads Real Estate Agent Scraper](https://apify.com/olympus/realtor-leads-real-estate-agent-scraper?fpr=hs6s8) | ⭐️ 5.0 (12) | $1/1k leads Pull verified real estate agent profiles, emails, phones, ratings, bios, social links, brokerage details from Realtor.com in minutes. |
 | [Streeteasy Buy Rent Sell Agent No Limits PPE](https://apify.com/memo23/streeteasy-ppr?fpr=hs6s8) | ⭐️ 5.0 (12) | Comprehensive NYC StreetEasy data: sales/rentals, agents, buildings, amenities, pricing, media, coordinates. Address search, monitoring mode, and bypass limits. New: an instant NYC agent database - emails, direct phones, brokerages and NY license numbers, with no scraping. |
 | [Idealista Only $1💰 Spain Italy Portugal](https://apify.com/memo23/idealista-scraper?fpr=hs6s8) | ⭐️ 5.0 (12) | Production Idealista scraper for Spain, Italy & Portugal — anti-bot handled, maintained daily, bypasses the hidden 1,500-result cap (+31% rows). 80+ fields, agent phones & emails, GPS. NEW 🧠 AI Market Analysis: per-city short-let ADR, occupancy, rent & yield with cited sources. Flat $0.65/1k. |
+| [UAE Dubai Property & Real Estate Leads Scraper – PropertyFinder](https://apify.com/skyline_scrapers/uae-dubai-property-real-estate-leads-scraper-propertyfinder?fpr=hs6s8) | ⭐️ 4.99 (12) | Extract real-time property listings, agent details, prices, locations, and real estate leads from PropertyFinder UAE. Built for real estate agencies, brokers, investors, lead generation, market research, and property data automation across Dubai and the UAE. |
 | [Airbnb Rooms URLs Scraper](https://apify.com/tri_angle/airbnb-rooms-urls-scraper?fpr=hs6s8) | ⭐️ 4.55 (13) | Scrape direct Airbnb rooms URLs and get all available details about the accommodation. |
 | [Crexi.com intelligence Search Detail(s) Agent Scraper](https://apify.com/memo23/apify-crexi?fpr=hs6s8) | ⭐️ 5.0 (11) | Unlock Crexi's commercial real estate network. Extract property listings and broker profiles for market insights, deal-making, and investment opportunities. Your key to data-driven decisions in commercial real estate |
 | [Apartments.com Scraper 🏡](https://apify.com/epctex/apartments-scraper?fpr=hs6s8) | ⭐️ 5.0 (11) | Scrape Apartments.com to crawl millions of real estate properties nationwide. Specify any US location and extract data on all available properties in that area. Our real estate scraper lets you filter and limit the results by page or total number. You can also target a specific property or area. |
@@ -512,7 +512,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 SEO Tools
-📦 **5,187 APIs in this category** • [View all →](seo-tools-agent-apis)
+📦 **5,216 APIs in this category** • [View all →](seo-tools-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -524,7 +524,7 @@ With these APIs, your agents can:
 | [Youtube View Generator](https://apify.com/forward_dinosaur/youtube-view-generator?fpr=hs6s8) | ⭐️ 4.12 (62) | Youtube view generator is a simple tool to increase the number of views of any YouTube videos. |
 | [Amazon Product Data Scraper](https://apify.com/delicious_zebu/amazon-product-data-scraper?fpr=hs6s8) | ⭐️ 4.96 (31) | Scrape Amazon product data by keyword or category/search URL across 20 country websites: price, rating, reviews, variants, seller, images and more. |
 | [YouTube Video Scraper by Keyword](https://apify.com/delicious_zebu/youtube-video-scraper-by-keyword?fpr=hs6s8) | ⭐️ 5.0 (30) | Quickly search and scrape YouTube videos based on any keyword with detailed insights including title, publisher, view count, and more. Perfect for market research, competitor analysis, and trend tracking. |
-| [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 4.99 (30) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
+| [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (30) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
 | [Skip Trace](https://apify.com/one-api/skip-trace?fpr=hs6s8) | ⭐️ 4.62 (32) | Locate hard-to-find individuals with our powerful skip trace/tracing API. TruePeopleSearch, Fastpeoplesearch, Lead Finder, Truthfinder, Spokeo, BeenVerified, PeopleFinders. Please leave 5 stars ⭐️ if found useful. If you do not receive any results, please contact: 📬 support@realtyapi.io |
 | [Yelp Business Info Scraper](https://apify.com/delicious_zebu/yelp-business-info-scraper?fpr=hs6s8) | ⭐️ 4.67 (31) | Quickly gather rich, detailed data from Yelp business pages—perfect for insights and analysis! 🚀 |
 | [Trustpilot Scraper Pro](https://apify.com/coder_zoro/Trustpilot-Scraper-Pro?fpr=hs6s8) | ⭐️ 4.72 (24) | Trustpilot Scraper Pro is a powerful Apify actor that extracts detailed business information and customer reviews from Trustpilot. Choose between two modes: scrape company data (name, rating, contact, etc.) or collect reviews with filters. |
@@ -540,12 +540,12 @@ With these APIs, your agents can:
 | [🏯 Tiktok Comments Scraper (Pay Per Result)](https://apify.com/apidojo/tiktok-comments-scraper?fpr=hs6s8) | ⭐️ 4.95 (14) | Extract TikTok comments at 100–200 comments/second. No proxy required. 98% success rate. Scrape text, likes, replies, and user data with simple URL input. Export to JSON/CSV, integrate via API. Ideal for influencer research, lead generation, and trend analysis. $0.30 per 1,000 comments. |
 | [Bulk Emails Verifier](https://apify.com/devil_port369-owner/email-verifier?fpr=hs6s8) | ⭐️ 4.85 (14) | Verify emails with this Apify actor: get meta info like full name, domain, and deliverability status. Input bulk emails, receive detailed JSON output. Fast, accurate email validation. |
 | [Leads Scraper ✅ With EMAILS ✅ like Apollo LinkedIn Profile](https://apify.com/peakydev/leads-scraper?fpr=hs6s8) | ⭐️ 3.22 (27) | DISCONTINUED $100 for 200k leads monthly. (90% Email rate ✅) Extract leads with verified ☎️ Phone 💌 Work & Personal Emails - Similar to Apollo, ZoomInfo, Lusha, LinkedIn |
-| [Google Search Results Scraper](https://apify.com/datarava/google-search-results-scraper?fpr=hs6s8) | ⭐️ 5.0 (13) | Scrape Google SERP data at scale. Get thousands of results including titles, links, snippets, knowledge graph data, related search terms, People Also Ask, and more. Export to JSON, CSV, Excel. A reliable Google Search API alternative for SEO, keyword research, and competitor analysis. |
+| [Daraz Product Review Scraper](https://apify.com/itclan-bd/daraz-product-review-scraper?fpr=hs6s8) | ⭐️ 5.0 (13) | Scrape product reviews from Daraz across Bangladesh, Pakistan, Sri Lanka, Myanmar, and Nepal. |
 
 ---
 
 ### 🤖 Social Media
-📦 **16,200 APIs in this category** • [View all →](social-media-agent-apis)
+📦 **16,256 APIs in this category** • [View all →](social-media-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -578,11 +578,11 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Travel
-📦 **3,135 APIs in this category** • [View all →](travel-agent-apis)
+📦 **3,144 APIs in this category** • [View all →](travel-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
-| [Google Maps Scraper](https://apify.com/compass/crawler-google-places?fpr=hs6s8) | ⭐️ 4.69 (1817) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. |
+| [Google Maps Scraper](https://apify.com/compass/crawler-google-places?fpr=hs6s8) | ⭐️ 4.69 (1816) | Extract data from thousands of Google Maps locations and businesses, including reviews, reviewer details, images, contact info, including full name, email, and job title, opening hours, prices & more. Export data, run via API, schedule and monitor runs, or integrate with other tools. |
 | [Google Maps Extractor](https://apify.com/compass/google-maps-extractor?fpr=hs6s8) | ⭐️ 4.85 (232) | Extract data from hundreds of places fast. Scrape Google Maps by keyword, category, location, URLs & other filters. Get addresses, contact info, opening hours, popular times, prices, menus & more. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other tools. |
 | [Google Maps Reviews Scraper](https://apify.com/compass/Google-Maps-Reviews-Scraper?fpr=hs6s8) | ⭐️ 4.85 (197) | Extract all reviews of Google Maps places using place URLs. Get review text, published date, response from owner, review URL, and reviewer's details. Download scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools. |
 | [Tripadvisor Reviews Scraper](https://apify.com/maxcopell/tripadvisor-reviews?fpr=hs6s8) | ⭐️ 4.95 (52) | Get and download reviews for chosen places on Tripadvisor. Extract the review text, URL, rating, date of travel, published date, basic reviewer info, owner's response, helpful votes, images, review language, place details. Download reviews in XML, JSON, CSV. |
@@ -592,14 +592,14 @@ With these APIs, your agents can:
 | [Booking Scraper](https://apify.com/voyager/booking-scraper?fpr=hs6s8) | ⭐️ 4.53 (34) | Scrape Booking with this hotels scraper and get data about accommodation on Booking.com. You can crawl by keywords or URLs for hotel prices, ratings, addresses, number of reviews, stars. You can also download all that room and hotel data from Booking.com with a few clicks: CSV, JSON, HTML, and Excel |
 | [Tripadvisor Scraper](https://apify.com/maxcopell/tripadvisor?fpr=hs6s8) | ⭐️ 4.92 (26) | This unofficial Tripadvisor API is a data extraction tool able to get data on hotels, restaurants, things to do, vacation rentals, attractions, tours, and public trips. Get pricing, contact details, amenities, awards, ratings, and more. Download your data in Excel, JSON, CSV, and other formats. |
 | [Tripadvisor Hotel Details Scraper](https://apify.com/delicious_zebu/tripadvisor-hotel-details-scraper?fpr=hs6s8) | ⭐️ 5.0 (25) | Scrape TripAdvisor hotels, restaurants, and attractions at scale. Enter a city name or paste any list/detail URL. Extract 50+ fields per item — ratings, reviews, prices, photos, contact info, nearby places, opening hours, Q&A, and more. Supports 50+ regional domains. |
-| [TripAdvisor Review Collector](https://apify.com/delicious_zebu/tripadvisor-review-collector?fpr=hs6s8) | ⭐️ 4.99 (23) | Scrape reviews from TripAdvisor for all 5 categories: Hotels, Restaurants, Attractions, Activities, and Cruises. Rich filters for any need: rating, traveler type, language, date range, and more. Fast API-based, no browser needed. |
+| [TripAdvisor Review Collector](https://apify.com/delicious_zebu/tripadvisor-review-collector?fpr=hs6s8) | ⭐️ 5.0 (23) | Scrape reviews from TripAdvisor for all 5 categories: Hotels, Restaurants, Attractions, Activities, and Cruises. Rich filters for any need: rating, traveler type, language, date range, and more. Fast API-based, no browser needed. |
 | [Booking Reviews Scraper](https://apify.com/voyager/booking-reviews-scraper?fpr=hs6s8) | ⭐️ 4.31 (30) | Scraper to get reviews from hotels, apartments and other accommodations listed on the Booking.com portal. Extract data using hotel URLs for review text, ratings, stars, basic reviewer info, length of stay, liked/disliked parts, room info, date of stay and more. Download in JSON, HTML, Excel, CSV. |
 | [Google Maps Scraper](https://apify.com/api-ninja/google-maps-scraper?fpr=hs6s8) | ⭐️ 4.94 (14) | Extract comprehensive business data from Google Maps, including ratings, emails, social media profiles, photos, and operational details. Perfect for market research and lead generation. |
 | [Airbnb Scraper](https://apify.com/tri_angle/airbnb-scraper?fpr=hs6s8) | ⭐️ 4.54 (15) | Scrape Airbnb rentals in your chosen destinations. Extract descriptions, locations, prices per night, ratings, reviews count, host details, amenities and more. Download scraped data in various formats including HTML, JSON and Excel. |
 | [Weather Forecast](https://apify.com/accelerationengg/weather-forecast?fpr=hs6s8) | ⭐️ 5.0 (13) | The Weather Forecast Scraper collects daily weather data for a city, including temperature, conditions, wind, humidity, precipitation, and UV index. It supports solar forecasting, trip planning, data dashboards, and research on weather and solar patterns. |
 | [Leads Scraper ✅ With EMAILS ✅ like Apollo LinkedIn Profile](https://apify.com/peakydev/leads-scraper?fpr=hs6s8) | ⭐️ 3.22 (27) | ✅ WE ARE BACK ✅ $100 for 100k Extract leads with verified ☎️ Phone 💌 Work & Personal Emails - Similar to Apollo, ZoomInfo, Lusha, LinkedIn |
 | [2gis Places Scraper](https://apify.com/m_mamaev/2gis-places-scraper?fpr=hs6s8) | ⭐️ 4.75 (13) | Извлекайте данные из тысяч мест и предприятий на 2ГИС, включая номера телефонов, соцсети, сайты. отзывы, фотографии и многое другое. Экспортируйте данные, запускайте через API, планируйте и отслеживайте запуски или интегрируйте с другими инструментами. |
-| [Astonomical Data (Sunrise, sunset, twilight, etc)](https://apify.com/accelerationengg/sun-only?fpr=hs6s8) | ⭐️ 5.0 (12) | The Sun Data Scraper collects daily astronomical data for a given city. It gives sunrise, sunset, day length, solar noon, and various twilight times (civil, nautical, astronomical) which are ideal for solar planning, photography, research, and integration with various platfroms |
+| [Astonomical Data (Sunrise, sunset, twilight, etc)](https://apify.com/accelerationengg/sun-only?fpr=hs6s8) | ⭐️ 4.99 (12) | The Sun Data Scraper collects daily astronomical data for a given city. It gives sunrise, sunset, day length, solar noon, and various twilight times (civil, nautical, astronomical) which are ideal for solar planning, photography, research, and integration with various platfroms |
 | [Tripadvisor Reviews Scraper](https://apify.com/api-ninja/tripadvisor-reviews-scraper?fpr=hs6s8) | ⭐️ 4.91 (12) | Scrape reviews from TripAdvisor using customizable search queries and filters. Extract review data including ratings, dates, traveler types, and more with support for multiple sorting options and keyword filtering. |
 | [Airbnb Rooms URLs Scraper](https://apify.com/tri_angle/airbnb-rooms-urls-scraper?fpr=hs6s8) | ⭐️ 4.55 (13) | Scrape direct Airbnb rooms URLs and get all available details about the accommodation. |
 | [OpenStreetMap Business Search (Overpass)](https://apify.com/crawlergang/openstreetmap-business-search?fpr=hs6s8) | ⭐️ 5.0 (11) | Search for businesses, amenities, and points of interest from OpenStreetMap using the free Overpass API. Find restaurants, hotels, pharmacies, hospitals, and 20+ other amenity types near a location or in any city worldwide. |
@@ -611,7 +611,7 @@ With these APIs, your agents can:
 ---
 
 ### 🤖 Videos
-📦 **4,213 APIs in this category** • [View all →](videos-agent-apis)
+📦 **4,234 APIs in this category** • [View all →](videos-agent-apis)
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -629,14 +629,14 @@ With these APIs, your agents can:
 | [YouTube Channel Video Scraper](https://apify.com/delicious_zebu/youtube-channel-video-scraper?fpr=hs6s8) | ⭐️ 4.98 (31) | Fast and stable YouTube profile scraper with expert support! 🚀 |
 | [TikTok Hashtag Scraper](https://apify.com/clockworks/tiktok-hashtag-scraper?fpr=hs6s8) | ⭐️ 4.92 (31) | Scrape TikTok hashtag data. Just add one or more hashtags and extract TikTok videos with that hashtag: URLs, likes, country of creation, video and music metadata, TikTok creator data. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools. |
 | [YouTube Video Scraper by Keyword](https://apify.com/delicious_zebu/youtube-video-scraper-by-keyword?fpr=hs6s8) | ⭐️ 5.0 (30) | Quickly search and scrape YouTube videos based on any keyword with detailed insights including title, publisher, view count, and more. Perfect for market research, competitor analysis, and trend tracking. |
-| [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 4.99 (30) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
+| [YouTube Video Data Scraper](https://apify.com/delicious_zebu/youtube-video-data-scraper?fpr=hs6s8) | ⭐️ 5.0 (30) | Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research. |
 | [TikTok Video Scraper](https://apify.com/clockworks/tiktok-video-scraper?fpr=hs6s8) | ⭐️ 4.6 (35) | Extract data from chosen tiktoks. Just add a TikTok URL and get TikTok video and profile data: URLs, numbers of shares, followers, hashtags, hearts, video, and music metadata. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools. |
 | [TikTok Video & Comment Scraper](https://apify.com/delicious_zebu/tiktok-video-comment-scraper?fpr=hs6s8) | ⭐️ 5.0 (29) | Effortlessly extract rich TikTok video details and comments with stable, high-speed data collection! |
 | [YouTube Comments & Replies Scraper](https://apify.com/delicious_zebu/youtube-comments-replies-scraper?fpr=hs6s8) | ⭐️ 4.8 (28) | Automatically collect detailed comment data from YouTube videos, including first and second-level replies. Get real-time insights into user engagement with rich, organized data—perfect for market analysis, competitor research, and content strategy. |
 | [🏯 Tiktok Scraper (Pay Per Result)](https://apify.com/apidojo/tiktok-scraper?fpr=hs6s8) | ⭐️ 4.36 (30) | Extract TikTok profiles, videos, hashtags, comments at 600 posts/sec. No proxy, 98% success rate. Scrape music, locations & user data with query builder. Export JSON/CSV, API integration. Perfect for influencer discovery, lead gen, market research. $0.30 per 1K posts. |
-| [YouTube Video Transcript](https://apify.com/starvibe/youtube-video-transcript?fpr=hs6s8) | ⭐️ 4.99 (23) | This Apify Actor extracts full transcripts (with timestamps) and metadata from YouTube videos, including title, description, upload date, views, likes, channel info, and duration |
+| [YouTube Video Transcript](https://apify.com/starvibe/youtube-video-transcript?fpr=hs6s8) | ⭐️ 5.0 (23) | This Apify Actor extracts full transcripts (with timestamps) and metadata from YouTube videos, including title, description, upload date, views, likes, channel info, and duration |
 | [TikTok Followers Scraper](https://apify.com/clockworks/tiktok-followers-scraper?fpr=hs6s8) | ⭐️ 4.72 (24) | Scrape TikTok followers and following profiles from any account. Input a profile name, and get detailed lists of followers and following profiles with complete metadata. Perfect for lead generation, audience analysis, and segmentation. |
-| [Youtube Transcript](https://apify.com/dz_omar/youtube-transcript-metadata-extractor?fpr=hs6s8) | ⭐️ 5.0 (21) | 🎥Extract complete transcripts with precise timestamps ⏱️ and comprehensive video metadata from any YouTube video — ⚡Fast, reliable, and ready to use. |
+| [Youtube Transcript](https://apify.com/dz_omar/youtube-transcript-metadata-extractor?fpr=hs6s8) | ⭐️ 4.99 (21) | 🎥Extract complete transcripts with precise timestamps ⏱️ and comprehensive video metadata from any YouTube video — ⚡Fast, reliable, and ready to use. |
 | [YouTube Video Downloader](https://apify.com/streamers/youtube-video-downloader?fpr=hs6s8) | ⭐️ 4.25 (28) | Use YouTube Video Downloader to download YouTube videos in MP4, MP3, avi, and other formats directly to your cloud storage service. Just add a YouTube video URL and get the converted video in a few seconds. |
 | [☀️ Google Maps Scraper](https://apify.com/olympus/google-maps-leads-scraper?fpr=hs6s8) | ⭐️ 4.88 (21) | ISSUES FIXED - Extract detailed business data from thousands of Google Maps listings, including reviews, reviewer insights, images, contact information, operating hours, pricing, ratings, locations, and more. |
 | [YouTube Shorts Scraper](https://apify.com/streamers/youtube-shorts-scraper?fpr=hs6s8) | ⭐️ 4.35 (22) | Extract YouTube Shorts data from one or multiple YouTube channels. Get video URL, caption, timestamp, likes, dislikes, views and comments count, basic channel info, and more. This alternative YouTube API has no limits or quotas. Download the data in JSON, CSV, and Excel. |
