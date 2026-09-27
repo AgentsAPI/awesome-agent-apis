@@ -11,7 +11,7 @@
     "id": "sSuwVmyjxzabXcoMh",
     "name": "Sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks using open-source project https://github.com/sherlock-project/sherlock",
-    "rating": 4.799781553484593,
+    "rating": 4.799781553484594,
     "rating_count": 85,
     "url": "https://apify.com/misceres/sherlock?fpr=hs6s8"
   },
@@ -35,7 +35,7 @@
     "id": "3ox4R101TgZz67sLr",
     "name": "RAG Web Browser",
     "description": "Web search and fetch tool for AI agents and RAG pipelines. It queries Google Search, scrapes the top N pages using a full web browser, and returns their content as clean Markdown for further processing by an LLM. Can also fetch individual URLs.",
-    "rating": 4.712993024051765,
+    "rating": 4.712993024051764,
     "rating_count": 36,
     "url": "https://apify.com/apify/rag-web-browser?fpr=hs6s8"
   },
@@ -131,7 +131,7 @@
     "id": "YPh5JENjSSR6vBf2E",
     "name": "Legacy PhantomJS Crawler",
     "description": "Replacement for the legacy Apify Crawler product with a backward-compatible interface. The Actor uses PhantomJS headless browser to recursively crawl websites and extract data from them using a piece of front-end JavaScript code.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 8,
     "url": "https://apify.com/apify/legacy-phantomjs-crawler?fpr=hs6s8"
   },
@@ -179,7 +179,7 @@
     "id": "tqzqfIiXvKWCpbRiv",
     "name": "Qdrant Integration",
     "description": "Transfer data from Apify Actors to a Qdrant vector database.",
-    "rating": 4.999473886709566,
+    "rating": 4.999473886709565,
     "rating_count": 7,
     "url": "https://apify.com/apify/qdrant-integration?fpr=hs6s8"
   },
@@ -195,7 +195,7 @@
     "id": "uCbMx3aLeKZLuDKvH",
     "name": "Google Sheets Import & Export",
     "description": "Import data from datasets or JSON files to Google Sheets. Programmatically process data in Sheets. Easier and faster than the official Google Sheets API and perfect for importing data from scraping.",
-    "rating": 4.810587299890249,
+    "rating": 4.810587299890248,
     "rating_count": 7,
     "url": "https://apify.com/lukaskrivka/google-sheets?fpr=hs6s8"
   },
@@ -259,7 +259,7 @@
     "id": "anC7yL6vXWmaXdKim",
     "name": "Example Php",
     "description": "Example act using PHP as the main language.",
-    "rating": 4.995655648247097,
+    "rating": 4.995655648247096,
     "rating_count": 5,
     "url": "https://apify.com/apify/example-php?fpr=hs6s8"
   },
@@ -267,7 +267,7 @@
     "id": "eXdpn9RZfxEhkHHHr",
     "name": "Image Difference Generator",
     "description": "Returns a difference of two given images as JPEG or PNG image.",
-    "rating": 4.992248971276194,
+    "rating": 4.992248971276193,
     "rating_count": 5,
     "url": "https://apify.com/apify/image-diff?fpr=hs6s8"
   },
@@ -283,7 +283,7 @@
     "id": "jbh0zHol24i9VITYz",
     "name": "SuperScraper API",
     "description": "Generic REST API for scraping websites: send a URL and get back HTML. This Actor is a drop-in replacement for ScrapingBee, ScrapingAnt, and ScraperAPI services. And it is open-source!",
-    "rating": 4.151207596398738,
+    "rating": 4.151207596398737,
     "rating_count": 6,
     "url": "https://apify.com/apify/super-scraper-api?fpr=hs6s8"
   },
@@ -363,7 +363,7 @@
     "id": "DNuIixWm0Mm3iwwhG",
     "name": "Weaviate Integration",
     "description": "This integration transfers data from Apify Actors to a Weaviate and is a good starting point for a question-answering, search, or RAG use case.",
-    "rating": 4.993744583555695,
+    "rating": 4.993744583555694,
     "rating_count": 4,
     "url": "https://apify.com/apify/weaviate-integration?fpr=hs6s8"
   },
@@ -371,7 +371,7 @@
     "id": "6B2YGVbCEmqJVLbOH",
     "name": "JSDOM Scraper",
     "description": "Parses the HTML using the JSDOM library, providing the same DOM API as browsers do (e.g. `window`). It is able to process client-side JavaScript without using a real browser. Performance-wise, it stands somewhere between the Cheerio Scraper and the browser scrapers.",
-    "rating": 4.987528175339923,
+    "rating": 4.987528175339922,
     "rating_count": 4,
     "url": "https://apify.com/apify/jsdom-scraper?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "2WwuYWu2yan9JpNju",
     "name": "Example Call",
     "description": "A simple example showing how to call another actor from an actor. Note that this actor doesn't accept any input and doesn't generate any output.",
-    "rating": 4.466848248865458,
+    "rating": 4.466848248865457,
     "rating_count": 4,
     "url": "https://apify.com/apify/example-call?fpr=hs6s8"
   },
@@ -419,9 +419,17 @@
     "id": "cGnGvob9maz6I9Ohr",
     "name": "Google Hotels Scraper",
     "description": "Google Hotels Scraper is an actor for extracting prices from Google search results.",
-    "rating": 3.635233547803034,
+    "rating": 3.635233547803033,
     "rating_count": 5,
     "url": "https://apify.com/martin.forejt/google-hotels-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "cLo1vfjaaMlAzaQao",
+    "name": "Scrape And Bypass Any Url Using Scrappey",
+    "description": "Scrape data from modern, JavaScript-heavy web pages using the Scrappey.com API integrated with an Apify Actor. A robust solution for complex scraping scenarios — managed browser sessions, proxy rotation, and full browser automation.",
+    "rating": 5.000000000000001,
+    "rating_count": 3,
+    "url": "https://apify.com/dormic/apify-scrappey?fpr=hs6s8"
   },
   {
     "id": "TCZgliqsdbWeVYdq6",
@@ -443,7 +451,7 @@
     "id": "ykpPc8CcQXrmfjEhP",
     "name": "Example Selenium",
     "description": "Example of loading a web page in headless Chrome using Selenium Webdriver.",
-    "rating": 5.000000000000001,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-selenium?fpr=hs6s8"
   },
@@ -459,23 +467,15 @@
     "id": "zzTXgEQSjEwxnJjMn",
     "name": "Example using GitHub Gist",
     "description": "Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-github-gist?fpr=hs6s8"
-  },
-  {
-    "id": "cLo1vfjaaMlAzaQao",
-    "name": "Scrape And Bypass Any Url Using Scrappey",
-    "description": "Scrape data from modern, JavaScript-heavy web pages using the Scrappey.com API integrated with an Apify Actor. A robust solution for complex scraping scenarios — managed browser sessions, proxy rotation, and full browser automation.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/dormic/apify-scrappey?fpr=hs6s8"
   },
   {
     "id": "uK6sq3DWSjsaQFbb3",
     "name": "Example Process Crawl Results",
     "description": "Iterates through all results from a crawler run and count them. Needs to be called from the crawler's finish webhook by adding an URL to finish the webhook of your crawler. Use this actor as a starting point to develop custom post-processing of data from the crawler.",
-    "rating": 4.995627152465319,
+    "rating": 4.995627152465318,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-process-crawl-results?fpr=hs6s8"
   },
@@ -483,7 +483,7 @@
     "id": "RQvGxA7iQm9ZF8htk",
     "name": "Milvus Integration",
     "description": "This integration transfers data from Apify Actors to a Milvus/Zilliz database and is a good starting point for a question-answering, search, or RAG use case.",
-    "rating": 4.994615474920306,
+    "rating": 4.994615474920307,
     "rating_count": 3,
     "url": "https://apify.com/apify/milvus-integration?fpr=hs6s8"
   },
@@ -531,7 +531,7 @@
     "id": "ZCOxiMur0V1uSt8qE",
     "name": "HTML to PDF converter",
     "description": "Convert HTML string to A4 PDF.",
-    "rating": 4.333333333333333,
+    "rating": 4.333333333333334,
     "rating_count": 3,
     "url": "https://apify.com/apify/html-to-pdf-converter?fpr=hs6s8"
   },
@@ -547,7 +547,7 @@
     "id": "Wa8AOJpMTOnV1V7uX",
     "name": "Pcpartpicker Scraper",
     "description": "Scrape and collect detailed PC component information from the PCPartPicker website.",
-    "rating": 4.049525079683878,
+    "rating": 4.049525079683877,
     "rating_count": 3,
     "url": "https://apify.com/matyascimbulka/pcpartpicker-scraper?fpr=hs6s8"
   },
@@ -563,7 +563,7 @@
     "id": "jjjNZa4tG4SzDEFcp",
     "name": "SEO Audit Tool",
     "description": "Search Engine Optimization tool to carry out an SEO audit on any website. Finds broken links, missing images, and provides information about possible page improvements.",
-    "rating": 3.81215872727978,
+    "rating": 3.812158727279781,
     "rating_count": 3,
     "url": "https://apify.com/misceres/seo-audit-tool?fpr=hs6s8"
   },
@@ -571,7 +571,7 @@
     "id": "gPXO7vSp7cy15YJHA",
     "name": "Upload to Web3",
     "description": "Bulk upload files to the decentralized web (IPFS) - backup images, PDFs, videos, and any file type to permanent, censorship-resistant storage. Uses Pinata API and IPFS pinning for fast, reliable Web3 file uploads and more.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/onescales/upload-to-web3?fpr=hs6s8"
   },
@@ -579,7 +579,7 @@
     "id": "5sC0wri0mEuKLqQvG",
     "name": "Pinterest Ads Scraper",
     "description": "Scrape Pinterest ads to extract trending product insights, campaign performance, and audience data. Ideal for market research, competitor tracking, and digital marketing optimization. Fast, structured, and customizable ad data.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/lexis-solutions/pinterest-ads-scraper?fpr=hs6s8"
   },
@@ -595,7 +595,7 @@
     "id": "UE49UoVO31wJe4yW5",
     "name": "Market Mind AI",
     "description": "Analyze real-time news and social media stock sentiment to uncover key market trends and investor interest. It provides a market summary with top discussions and emerging opportunities. With personalized insights based on your profile, it helps you make data-driven investment decisions",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/katzino/market-mind-ai?fpr=hs6s8"
   },
@@ -627,7 +627,7 @@
     "id": "ou2buPCN9hYdGLVdT",
     "name": "Merge, Dedup & Transform Datasets",
     "description": "The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8"
   },
@@ -635,7 +635,7 @@
     "id": "SdlcUciRgXdRUxNBA",
     "name": "Omni Jobs Board Scraper ~$2 per 500 results",
     "description": "Scrape job listings from Indeed, Reed, Totaljobs, CV-Library, Adzuna, RemoteOK, Arbeitnow and more across the UK, US and Europe. Export title, company, location, salary, description and apply URL. Filter by keyword and location. CSV, JSON, Excel.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/doggo/uk-jobs-board-scraper?fpr=hs6s8"
   },
@@ -643,7 +643,7 @@
     "id": "SEQBnEA5oe2R9Hgdj",
     "name": "Dataset Image Downloader & Uploader",
     "description": "Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/images-download-upload?fpr=hs6s8"
   },
@@ -659,7 +659,7 @@
     "id": "3Pp61GRohzeO18mfN",
     "name": "Website Image Scraper",
     "description": "Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8"
   },
@@ -683,7 +683,7 @@
     "id": "fgCg268Rg9Yrvrx24",
     "name": "Keywords Extractor",
     "description": "Use our free website keyword extractor to crawl any website and extract keyword counts on each page.",
-    "rating": 4.781511805944948,
+    "rating": 4.781511805944947,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8"
   },
@@ -747,7 +747,7 @@
     "id": "s3TATkW81Ra9e4Jsn",
     "name": "OCR for Google Maps pins",
     "description": "Actor will try to find pins specified exactly by sprite https://github.com/apify-alexey/gmaps-ocrpin/blob/main/pin.png and store coordinates of the pins found in dataset and OUTPUT",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/danielmilevski9/google-maps-pins-map-ocr?fpr=hs6s8"
   },
@@ -755,7 +755,7 @@
     "id": "GfFgsw3793ST0yKc9",
     "name": "LD+JSON Schema scraper",
     "description": "Extract all LD+JSON tags from the given URLs.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/pocesar/json-ld-schema?fpr=hs6s8"
   },
@@ -779,7 +779,7 @@
     "id": "SzZ919qxlmNknI7uU",
     "name": "Create Mini Actor",
     "description": "",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/valek.josef/create-mini-actor?fpr=hs6s8"
   },
@@ -843,7 +843,7 @@
     "id": "kMFja3BjKqZiO7pGc",
     "name": "Dataset(s) To Schema",
     "description": "Takes a Dataset ID(s) and outputs a JSON schema of the contents of the dataset into key value store.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/zuzka/dataset-to-schema?fpr=hs6s8"
   },
@@ -883,7 +883,7 @@
     "id": "5lngKwZTb2YvJNNhW",
     "name": "Actor Testing",
     "description": "Test your actors with varying inputs and expected outputs, duplicates, bad output fields, or unexpected log messages using Jasmine",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/pocesar/actor-testing?fpr=hs6s8"
   },
@@ -979,7 +979,7 @@
     "id": "E5lODlO4y8zDZQJJF",
     "name": "FincaRaiz Colombia Scraper — Delta Mode + Estrato Filter",
     "description": "Extract Colombia real estate listings with price/m², stratum filter (1-6),\nWhatsApp flag, and incremental delta to detect new listings and price changes.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/don.eich/fincaraiz-colombia-scraper?fpr=hs6s8"
   },
@@ -987,7 +987,7 @@
     "id": "zeAYjlzeyFior6aOD",
     "name": "✨ WordPress Content Extractor",
     "description": "🔍Easily scrape and export posts, pages, metadata, images, and comments from any WordPress site. ✨ WordPress content to JSON, CSV, or TXT — instantly.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/ramman/wordpress-content-extractor?fpr=hs6s8"
   },
@@ -10442,7 +10442,7 @@
   {
     "id": "b4ER66171vjBemjax",
     "name": "Stock Earnings Calendar Scraper (Multi-Source)",
-    "description": "Scrape stock earnings dates from multiple independent financial sources. Compare results across providers with Best, All, or Custom source modes.",
+    "description": "Scrape earnings dates from multiple sources and compare with Best, All, or Custom modes, plus optional cost checks using TipRanks, Wall Street Numbers, Seeking Alpha, Earnings Whispers, Finviz, TradingView, Nasdaq, MarketWatch, MarketScreener, Google, Investing, Zacks, Benzinga, Yahoo.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/risky_doughnut/stock-earnings-calendar-scraper?fpr=hs6s8"
@@ -10514,7 +10514,7 @@
   {
     "id": "0qyBUmprhIyXAh2Xo",
     "name": "Airbnb & Vrbo Scraper - Listings, Calendar, Occupancy & Revenue",
-    "description": "Scrape Airbnb and Vrbo listings by location or URL. Get prices, amenities, host details, reviews and day-by-day availability, plus occupancy rate, ADR, RevPAR and revenue estimates. No login. Export to JSON, CSV or Excel.",
+    "description": "Scrape Airbnb and Vrbo listings for a whole city in one run, with day-by-day availability calendars and estimated occupancy rate, ADR, RevPAR and revenue. A pay-per-use AirDNA alternative. Export to JSON, CSV or Excel.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/headply/airbnb-vrbo-scraper?fpr=hs6s8"
@@ -10606,5 +10606,13 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/openrows/website-tech-stack?fpr=hs6s8"
+  },
+  {
+    "id": "9I4ZhzKHoQQCV85Ow",
+    "name": "Google Trends Scraper: 50+ Terms on One Scale, Daily Data",
+    "description": "Compare 50+ keywords on one Google Trends scale, ranked, with daily data for any date range and a ready spreadsheet. Full keyword reports and trending now included. No browser, no start fee, and failed or empty keywords are never charged.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/theoliveirad/google-trends-scraper-50-terms-on-one-scale-daily-data?fpr=hs6s8"
   }
 ]
