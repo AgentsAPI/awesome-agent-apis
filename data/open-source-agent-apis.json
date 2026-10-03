@@ -11,7 +11,7 @@
     "id": "sSuwVmyjxzabXcoMh",
     "name": "Sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks using open-source project https://github.com/sherlock-project/sherlock",
-    "rating": 4.799781553484594,
+    "rating": 4.799781553484593,
     "rating_count": 85,
     "url": "https://apify.com/misceres/sherlock?fpr=hs6s8"
   },
@@ -43,7 +43,7 @@
     "id": "ZKUmhJ8g57q9YYZwe",
     "name": "LinkedIn Profile Scraper (No Cookies)",
     "description": "Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more. No cookies or account required.",
-    "rating": 4.870853049372801,
+    "rating": 4.870853049372802,
     "rating_count": 31,
     "url": "https://apify.com/baseball/Social-Url-AP?fpr=hs6s8"
   },
@@ -75,7 +75,7 @@
     "id": "rGCyoaKTKhyMiiTvS",
     "name": "Website Screenshot Generator",
     "description": "Create a screenshot of a website based on a specified URL. The screenshot is stored as the output in a key-value store. It can be used to monitor web changes regularly after setting up the scheduler.",
-    "rating": 3.902732630971479,
+    "rating": 3.90273263097148,
     "rating_count": 21,
     "url": "https://apify.com/apify/screenshot-url?fpr=hs6s8"
   },
@@ -107,7 +107,7 @@
     "id": "rYbjZxrCaAR9K4Xax",
     "name": "Bing Ads Scraper",
     "description": "Find and scrape current and past ads on Bing. Get ad copy, shown dates and locations, impressions, and more. Download and analyze data from the Microsoft Ad Library for competitive analysis.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 9,
     "url": "https://apify.com/lexis-solutions/bing-ads-scraper?fpr=hs6s8"
   },
@@ -232,26 +232,26 @@
     "url": "https://apify.com/harvestapi/linkedin-profile-search-by-name?fpr=hs6s8"
   },
   {
-    "id": "9doUWrGx8wuXIw7Jy",
-    "name": "Apify Run Queue",
-    "description": "Apify utility to queue runs until memory is available. Workaround to memory exceeded errors on Apify. This actor will retry starting actor starts with a delay. Open source and free!",
-    "rating": 5,
-    "rating_count": 5,
-    "url": "https://apify.com/lexis-solutions/apify-run-queue?fpr=hs6s8"
-  },
-  {
     "id": "Z2B65CMPn2aEXnfFk",
     "name": "Firestore Import",
     "description": "Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 5,
     "url": "https://apify.com/apify/firestore-import?fpr=hs6s8"
+  },
+  {
+    "id": "9doUWrGx8wuXIw7Jy",
+    "name": "Apify Run Queue",
+    "description": "Apify utility to queue runs until memory is available. Workaround to memory exceeded errors on Apify. This actor will retry starting actor starts with a delay. Open source and free!",
+    "rating": 4.999999999999999,
+    "rating_count": 5,
+    "url": "https://apify.com/lexis-solutions/apify-run-queue?fpr=hs6s8"
   },
   {
     "id": "NqprxYBdYagEPp7Za",
     "name": "Proxy Test",
     "description": "This actor simply tests given array of URLs against selected proxy URLs or Apify proxy groups.",
-    "rating": 4.997442752160672,
+    "rating": 4.997442752160674,
     "rating_count": 5,
     "url": "https://apify.com/apify/proxy-test?fpr=hs6s8"
   },
@@ -283,7 +283,7 @@
     "id": "jbh0zHol24i9VITYz",
     "name": "SuperScraper API",
     "description": "Generic REST API for scraping websites: send a URL and get back HTML. This Actor is a drop-in replacement for ScrapingBee, ScrapingAnt, and ScraperAPI services. And it is open-source!",
-    "rating": 4.151207596398737,
+    "rating": 4.151207596398738,
     "rating_count": 6,
     "url": "https://apify.com/apify/super-scraper-api?fpr=hs6s8"
   },
@@ -291,7 +291,7 @@
     "id": "FWdvK8wduoktWgTJp",
     "name": "OpenAI Vector Store Integration",
     "description": "This integration uploads data from Apify Actors to the OpenAI Vector Store linked to OpenAI Assistant.",
-    "rating": 4.8,
+    "rating": 4.800000000000001,
     "rating_count": 5,
     "url": "https://apify.com/jiri.spilka/openai-vector-store-integration?fpr=hs6s8"
   },
@@ -363,7 +363,7 @@
     "id": "DNuIixWm0Mm3iwwhG",
     "name": "Weaviate Integration",
     "description": "This integration transfers data from Apify Actors to a Weaviate and is a good starting point for a question-answering, search, or RAG use case.",
-    "rating": 4.993744583555695,
+    "rating": 4.993744583555694,
     "rating_count": 4,
     "url": "https://apify.com/apify/weaviate-integration?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "QBBGcsmFo3SSNMhDb",
     "name": "Example Live View",
     "description": "This example demonstrates how to use web server in actor as communication channel with outer world. Read  more at Apify docs https://docs.apify.com/actors/running#container-web-server",
-    "rating": 4.022737524168049,
+    "rating": 4.02273752416805,
     "rating_count": 5,
     "url": "https://apify.com/apify/example-live-view?fpr=hs6s8"
   },
@@ -419,7 +419,7 @@
     "id": "5bOWSIsdbIyA6X7F4",
     "name": "Pinecone Integration",
     "description": "This integration transfers data from Apify Actors to a Pinecone and is a good starting point for a question-answering, search, or RAG use case.",
-    "rating": 3.209124444429139,
+    "rating": 3.20912444442914,
     "rating_count": 6,
     "url": "https://apify.com/apify/pinecone-integration?fpr=hs6s8"
   },
@@ -464,20 +464,20 @@
     "url": "https://apify.com/dz_omar/apify-scraper?fpr=hs6s8"
   },
   {
+    "id": "zzTXgEQSjEwxnJjMn",
+    "name": "Example using GitHub Gist",
+    "description": "Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away.",
+    "rating": 5,
+    "rating_count": 3,
+    "url": "https://apify.com/apify/example-github-gist?fpr=hs6s8"
+  },
+  {
     "id": "ykpPc8CcQXrmfjEhP",
     "name": "Example Selenium",
     "description": "Example of loading a web page in headless Chrome using Selenium Webdriver.",
     "rating": 4.999999999999999,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-selenium?fpr=hs6s8"
-  },
-  {
-    "id": "zzTXgEQSjEwxnJjMn",
-    "name": "Example using GitHub Gist",
-    "description": "Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away.",
-    "rating": 4.999999999999999,
-    "rating_count": 3,
-    "url": "https://apify.com/apify/example-github-gist?fpr=hs6s8"
   },
   {
     "id": "uK6sq3DWSjsaQFbb3",
@@ -515,7 +515,7 @@
     "id": "dMRHnB0XHbnV9Cifh",
     "name": "Camoufox Scraper",
     "description": "Crawls websites with stealthy Camoufox browser and Playwright library using a provided server-side Node.js code. Supports both recursive crawling and a list of URLs. Supports login to a website.",
-    "rating": 4.710111013114501,
+    "rating": 4.710111013114499,
     "rating_count": 3,
     "url": "https://apify.com/apify/camoufox-scraper?fpr=hs6s8"
   },
@@ -555,7 +555,7 @@
     "id": "Wa8AOJpMTOnV1V7uX",
     "name": "Pcpartpicker Scraper",
     "description": "Scrape and collect detailed PC component information from the PCPartPicker website.",
-    "rating": 4.049525079683878,
+    "rating": 4.049525079683877,
     "rating_count": 3,
     "url": "https://apify.com/matyascimbulka/pcpartpicker-scraper?fpr=hs6s8"
   },
@@ -571,7 +571,7 @@
     "id": "jjjNZa4tG4SzDEFcp",
     "name": "SEO Audit Tool",
     "description": "Search Engine Optimization tool to carry out an SEO audit on any website. Finds broken links, missing images, and provides information about possible page improvements.",
-    "rating": 3.81215872727978,
+    "rating": 3.812158727279779,
     "rating_count": 3,
     "url": "https://apify.com/misceres/seo-audit-tool?fpr=hs6s8"
   },
@@ -579,7 +579,7 @@
     "id": "ou2buPCN9hYdGLVdT",
     "name": "Merge, Dedup & Transform Datasets",
     "description": "The ultimate dataset processor. Extremely fast merging, deduplications & transformations all in a single run.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/dedup-datasets?fpr=hs6s8"
   },
@@ -587,7 +587,7 @@
     "id": "3Pp61GRohzeO18mfN",
     "name": "Website Image Scraper",
     "description": "Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8"
   },
@@ -595,7 +595,7 @@
     "id": "bNLFHqgWro6XnB9h7",
     "name": "Natural Language Dataset Query",
     "description": "Use natural language queries to retrieve results from an Apify dataset. This Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results. It works as an MCP (Model Context Protocol) server or REST API in Actor standby mode.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/apify/natural-language-dataset-query?fpr=hs6s8"
   },
@@ -651,7 +651,7 @@
     "id": "4GTGBCOGLfgrUhcb3",
     "name": "YouTube To Transcript",
     "description": "Extract YouTube transcripts from public video URLs",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8"
   },
@@ -683,7 +683,7 @@
     "id": "SEQBnEA5oe2R9Hgdj",
     "name": "Dataset Image Downloader & Uploader",
     "description": "Download image files from image URLs in your datasets and save them to a Zip file, Key-Value store, or directly your AWS S3 bucket.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/images-download-upload?fpr=hs6s8"
   },
@@ -707,7 +707,7 @@
     "id": "fgCg268Rg9Yrvrx24",
     "name": "Keywords Extractor",
     "description": "Use our free website keyword extractor to crawl any website and extract keyword counts on each page.",
-    "rating": 4.781511805944948,
+    "rating": 4.781511805944947,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8"
   },
@@ -763,7 +763,7 @@
     "id": "s3TATkW81Ra9e4Jsn",
     "name": "OCR for Google Maps pins",
     "description": "Actor will try to find pins specified exactly by sprite https://github.com/apify-alexey/gmaps-ocrpin/blob/main/pin.png and store coordinates of the pins found in dataset and OUTPUT",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/danielmilevski9/google-maps-pins-map-ocr?fpr=hs6s8"
   },
@@ -790,14 +790,6 @@
     "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lukaskrivka/input-analyzer?fpr=hs6s8"
-  },
-  {
-    "id": "SzZ919qxlmNknI7uU",
-    "name": "Create Mini Actor",
-    "description": "",
-    "rating": 5.000000000000001,
-    "rating_count": 1,
-    "url": "https://apify.com/valek.josef/create-mini-actor?fpr=hs6s8"
   },
   {
     "id": "oXTuyqGR803PjzDha",
@@ -963,17 +955,9 @@
     "id": "RN56X5nW0dvclOfI4",
     "name": "Google Shopping",
     "description": "Searches Google Shopping for a query, scrapes product listings with all identifiers",
-    "rating": 4.999999999999999,
-    "rating_count": 1,
-    "url": "https://apify.com/breathtaking_turtle/google-shopping?fpr=hs6s8"
-  },
-  {
-    "id": "fm6qY4Jiauz5fZe2Z",
-    "name": "Telegram Groups Search Scraper",
-    "description": "Search and rank Telegram groups by keyword. Get member counts, rankings, language, avatars, and Telegram links with automatic pagination. 📊",
     "rating": 5,
     "rating_count": 1,
-    "url": "https://apify.com/powerai/telegram-groups-search-scraper?fpr=hs6s8"
+    "url": "https://apify.com/breathtaking_turtle/google-shopping?fpr=hs6s8"
   },
   {
     "id": "daoJE6yLvTWfDhHjV",
@@ -987,7 +971,7 @@
     "id": "E5lODlO4y8zDZQJJF",
     "name": "FincaRaiz Colombia Scraper — Delta Mode + Estrato Filter",
     "description": "Extract Colombia real estate listings with price/m², stratum filter (1-6),\nWhatsApp flag, and incremental delta to detect new listings and price changes.",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/don.eich/fincaraiz-colombia-scraper?fpr=hs6s8"
   },
@@ -1048,10 +1032,34 @@
     "url": "https://apify.com/midnight_static/eventbrite-events-scraper?fpr=hs6s8"
   },
   {
+    "id": "M3a0oz4UCOZe1EVgj",
+    "name": "OSM Overpass Hiking Trail Route Scraper",
+    "description": "Query the Overpass API for OpenStreetMap hiking route relations by bounding box or region. Returns ODbL-licensed trail geometry: route names, distance, network level, way coordinates, and full OSM tags. The only license-clean trail corpus on Apify — safe for AI training and GIS use.",
+    "rating": 5,
+    "rating_count": 1,
+    "url": "https://apify.com/jungle_synthesizer/osm-overpass-hiking-route-relation-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "SzZ919qxlmNknI7uU",
+    "name": "Create Mini Actor",
+    "description": "",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/valek.josef/create-mini-actor?fpr=hs6s8"
+  },
+  {
+    "id": "fm6qY4Jiauz5fZe2Z",
+    "name": "Telegram Groups Search Scraper",
+    "description": "Search and rank Telegram groups by keyword. Get member counts, rankings, language, avatars, and Telegram links with automatic pagination. 📊",
+    "rating": 4.999999999999999,
+    "rating_count": 1,
+    "url": "https://apify.com/powerai/telegram-groups-search-scraper?fpr=hs6s8"
+  },
+  {
     "id": "5lngKwZTb2YvJNNhW",
     "name": "Actor Testing",
     "description": "Test your actors with varying inputs and expected outputs, duplicates, bad output fields, or unexpected log messages using Jasmine",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/pocesar/actor-testing?fpr=hs6s8"
   },
@@ -10854,5 +10862,21 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/123webdata/walmart-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "cUbXXIv8aL2dbWfqk",
+    "name": "Tech Stack Detector - Website Technology Checker",
+    "description": "Detect the CMS, ecommerce platform, analytics, tag managers, ad pixels, CRM/marketing automation, chat, payment, CDN, hosting and JS frameworks used by any list of websites, from their HTTP headers and HTML - no browser needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/feedsmith/tech-stack-detector?fpr=hs6s8"
+  },
+  {
+    "id": "IVJIu9d7HkZnXvsOy",
+    "name": "Danish Electricity Day-Ahead Prices (DK1, DK2, NO2, SE3, SE4)",
+    "description": "Day-ahead electricity spot prices for one day and bidding area, in EUR and DKK per MWh, quarter-hourly or hourly, with min/max/average and the cheapest hours. Tomorrow's prices are normally published around 13:00 CET.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/ambolt/dk-electricity-prices?fpr=hs6s8"
   }
 ]
