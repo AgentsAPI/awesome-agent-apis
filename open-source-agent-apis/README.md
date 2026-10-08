@@ -3,7 +3,7 @@
 
 **Organized APIs by Open Source**
 
-**1370 APIs in this category**
+**1371 APIs in this category**
 
 | API | Rating | Description |
 |-----|--------|-------------|
@@ -36,8 +36,8 @@
 | [Algolia Website Indexer](https://apify.com/apify/algolia-website-indexer?fpr=hs6s8) | ⭐️ 4.99 (6) | The Indexer crawls recursively a website using the Puppeteer browser (headless Chrome) and indexes the selected pages to the Algolia index. |
 | [Example Web Server](https://apify.com/apify/example-web-server?fpr=hs6s8) | ⭐️ 4.73 (6) | This example demonstrates how to use web server in actor as communication channel with outer world. Read more at Apify docs https://docs.apify.com/actors/running#container-web-server |
 | [Linkedin Profile Search By Name scraper ✅ No Cookies](https://apify.com/harvestapi/linkedin-profile-search-by-name?fpr=hs6s8) | ⭐️ 4.61 (6) | Search for LinkedIn profiles by name with filters and extract detailed profile information, including work experience, education history, location and more. No cookies or account required. |
-| [Firestore Import](https://apify.com/apify/firestore-import?fpr=hs6s8) | ⭐️ 5.0 (5) | Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function. |
-| [Apify Run Queue](https://apify.com/lexis-solutions/apify-run-queue?fpr=hs6s8) | ⭐️ 4.99 (5) | Apify utility to queue runs until memory is available. Workaround to memory exceeded errors on Apify. This actor will retry starting actor starts with a delay. Open source and free! |
+| [Apify Run Queue](https://apify.com/lexis-solutions/apify-run-queue?fpr=hs6s8) | ⭐️ 5.0 (5) | Apify utility to queue runs until memory is available. Workaround to memory exceeded errors on Apify. This actor will retry starting actor starts with a delay. Open source and free! |
+| [Firestore Import](https://apify.com/apify/firestore-import?fpr=hs6s8) | ⭐️ 4.99 (5) | Seamlessly import data from Apify datasets into Firebase Firestore database. This integration allows full control over document IDs, conflict resolution (overwrite, merge, skip), and data transformation using a custom JavaScript function. |
 | [Proxy Test](https://apify.com/apify/proxy-test?fpr=hs6s8) | ⭐️ 4.99 (5) | This actor simply tests given array of URLs against selected proxy URLs or Apify proxy groups. |
 | [Example Php](https://apify.com/apify/example-php?fpr=hs6s8) | ⭐️ 4.99 (5) | Example act using PHP as the main language. |
 | [Image Difference Generator](https://apify.com/apify/image-diff?fpr=hs6s8) | ⭐️ 4.99 (5) | Returns a difference of two given images as JPEG or PNG image. |
@@ -61,7 +61,7 @@
 | [Example Call](https://apify.com/apify/example-call?fpr=hs6s8) | ⭐️ 4.46 (4) | A simple example showing how to call another actor from an actor. Note that this actor doesn't accept any input and doesn't generate any output. |
 | [Pinecone Integration](https://apify.com/apify/pinecone-integration?fpr=hs6s8) | ⭐️ 3.2 (6) | This integration transfers data from Apify Actors to a Pinecone and is a good starting point for a question-answering, search, or RAG use case. |
 | [Google Hotels Scraper](https://apify.com/martin.forejt/google-hotels-scraper?fpr=hs6s8) | ⭐️ 3.63 (5) | Google Hotels Scraper is an actor for extracting prices from Google search results. |
-| [Example Selenium](https://apify.com/apify/example-selenium?fpr=hs6s8) | ⭐️ 4.99 (3) | Example of loading a web page in headless Chrome using Selenium Webdriver. |
+| [Example Selenium](https://apify.com/apify/example-selenium?fpr=hs6s8) | ⭐️ 5.0 (3) | Example of loading a web page in headless Chrome using Selenium Webdriver. |
 | [Anon Lab](https://apify.com/bikrambiswas/anon-lab?fpr=hs6s8) | ⭐️ 5.0 (3) | Anon Lab is an open research workspace that transforms anonymity and privacy papers into readable explanations and executable code. Built on the Free Haven Anonymity Bibliography, it makes decades of privacy research interactive, reproducible, and usable for developers and researchers. |
 | [Apify Scraper](https://apify.com/dz_omar/apify-scraper?fpr=hs6s8) | ⭐️ 5.0 (3) | Extract actor data from the Apify Store, including pricing, stats, and user info. Supports multiple queries, filters, and crash-safe state persistence. 🧑‍💻 Open-source and ideal for research, analysis, and discovering tools. |
 | [Example using GitHub Gist](https://apify.com/apify/example-github-gist?fpr=hs6s8) | ⭐️ 5.0 (3) | Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away. |
@@ -103,7 +103,7 @@
 | [LinkedIn Profile Comments Scraper (No Cookies) ✅ $2 per 1k](https://apify.com/harvestapi/linkedin-profile-comments?fpr=hs6s8) | ⭐️ 5.0 (1) | Extract LinkedIn profile comments, as well as comment social activities such as likes and reactions. No cookies or account required, fast response times |
 | [Sitemap Sniffer](https://apify.com/vaclavrut/sitemap-sniffer?fpr=hs6s8) | ⭐️ 5.0 (1) | Sitemap sniffer will check the most used variants of sitemaps and you can use that for crawling. This will just save you time so you don't have to check manually. |
 | [OCR for Google Maps pins](https://apify.com/danielmilevski9/google-maps-pins-map-ocr?fpr=hs6s8) | ⭐️ 5.0 (1) | Actor will try to find pins specified exactly by sprite https://github.com/apify-alexey/gmaps-ocrpin/blob/main/pin.png and store coordinates of the pins found in dataset and OUTPUT |
-| [LD+JSON Schema scraper](https://apify.com/pocesar/json-ld-schema?fpr=hs6s8) | ⭐️ 4.99 (1) | Extract all LD+JSON tags from the given URLs. |
+| [LD+JSON Schema scraper](https://apify.com/pocesar/json-ld-schema?fpr=hs6s8) | ⭐️ 5.0 (1) | Extract all LD+JSON tags from the given URLs. |
 | [Public Actors Lister](https://apify.com/jancurn/public-actors-fetcher?fpr=hs6s8) | ⭐️ 5.0 (1) | Downloads a list of all Actors published in Apify Store, with all properties such as URL, title, description, etc. This is useful to create a knowledge file for a GPT, so that it knows which Actors can it use. |
 | [Input Analyzer](https://apify.com/lukaskrivka/input-analyzer?fpr=hs6s8) | ⭐️ 5.0 (1) | Analyze input field variations across any number of actor runs. Works with nested inputs as well. |
 | [Print env vars](https://apify.com/lukaskrivka/print-env-vars?fpr=hs6s8) | ⭐️ 5.0 (1) | Prints both raw and parsed environment variables provided to each actor run. Stores them to dataset, KV Store and log for easy analysis. |
@@ -112,7 +112,7 @@
 | [Github Issue Labels Sync](https://apify.com/lukaskrivka/github-issue-labels-sync?fpr=hs6s8) | ⭐️ 5.0 (1) | Synchronize issue labels across repositories in your account. Choose a source repo and copy labels to other repos, optionally overriding and cleaning extra labels. |
 | [Ai Job Finder](https://apify.com/stefanie-rink/ai-job-finder?fpr=hs6s8) | ⭐️ 5.0 (1) | Give a prompt or a CV and find jobs according to you |
 | [Website Content Crawler Fast](https://apify.com/timelody/website-content-crawler-fast?fpr=hs6s8) | ⭐️ 5.0 (1) | Scraping data from every single web page. |
-| [Best Actor Finder](https://apify.com/pranavpatel/best-actor-finder?fpr=hs6s8) | ⭐️ 5.0 (1) | Finds and tests the best actors for a specific task. |
+| [Best Actor Finder](https://apify.com/pranavpatel/best-actor-finder?fpr=hs6s8) | ⭐️ 4.99 (1) | Finds and tests the best actors for a specific task. |
 | [Dataset(s) To Schema](https://apify.com/zuzka/dataset-to-schema?fpr=hs6s8) | ⭐️ 5.0 (1) | Takes a Dataset ID(s) and outputs a JSON schema of the contents of the dataset into key value store. |
 | [Obchodni Rejstrik Downloader](https://apify.com/valek.josef/obchodni-rejstrik-downloader?fpr=hs6s8) | ⭐️ 5.0 (1) | Downloads data from Czech company registry https://or.justice.cz/ |
 | [Webpage Change Tracker & Ai summary](https://apify.com/charmed_magnolia/webpage-change-tracker-ai?fpr=hs6s8) | ⭐️ 5.0 (1) | Monitor webpages for changes using text or HTML diffing. This actor delivers AI-powered summaries via OpenAI, Gemini, or OpenRouter. Simply provide a URL to receive clear, human-readable reports on exactly what changed and why. |
@@ -128,7 +128,7 @@
 | [My Actors Issues Notifier 🔔](https://apify.com/azzouzana/my-actors-issues-notifier?fpr=hs6s8) | ⭐️ 5.0 (1) | Up your Apify game 🔥 Get notified when users open/re-open issues on your Apify actors. This actor monitors your actors for new open/re-opened issues and automatically writes them to a JSON dataset, ready for external integrations (Telegram, Slack, Jira, n8n or custom webhooks..) - 100% Open Source |
 | [Google Shopping](https://apify.com/breathtaking_turtle/google-shopping?fpr=hs6s8) | ⭐️ 5.0 (1) | Searches Google Shopping for a query, scrapes product listings with all identifiers |
 | [Discord User Search Scraper](https://apify.com/easyapi/discord-user-search-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Search Discord users by username or display name. Extract user ID, avatar, badges, clan tag, server count, and invite count. Perfect for user discovery and community research. 👤 |
-| [FincaRaiz Colombia Scraper — Delta Mode + Estrato Filter](https://apify.com/don.eich/fincaraiz-colombia-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Extract Colombia real estate listings with price/m², stratum filter (1-6), WhatsApp flag, and incremental delta to detect new listings and price changes. |
+| [FincaRaiz Colombia Scraper — Delta Mode + Estrato Filter](https://apify.com/don.eich/fincaraiz-colombia-scraper?fpr=hs6s8) | ⭐️ 4.99 (1) | Extract Colombia real estate listings with price/m², stratum filter (1-6), WhatsApp flag, and incremental delta to detect new listings and price changes. |
 | [✨ WordPress Content Extractor](https://apify.com/ramman/wordpress-content-extractor?fpr=hs6s8) | ⭐️ 5.0 (1) | 🔍Easily scrape and export posts, pages, metadata, images, and comments from any WordPress site. ✨ WordPress content to JSON, CSV, or TXT — instantly. |
 | [UK VAT number checker](https://apify.com/novotnyj/uk-vat-number-checker?fpr=hs6s8) | ⭐️ 5.0 (1) | This actor uses https://www.tax.service.gov.uk/ to check if UK VAT number is valid or not. It can check multiple VAT numbers in one run. If VAT number is valid then business name and address are fetched. |
 | [Login Session](https://apify.com/pocesar/login-session?fpr=hs6s8) | ⭐️ 5.0 (1) | Get localStorage, sessionStorage and cookies from logins for usage in other actors. |
@@ -137,7 +137,7 @@
 | [LinkedIn Jobs Pro](https://apify.com/future_devloper/linkedin-jobs-pro?fpr=hs6s8) | ⭐️ 5.0 (1) | Scrape LinkedIn job listings with keyword, location, and filter support. Extract full job descriptions, employment type, seniority level, and hiring manager info and no LinkedIn login required. |
 | [Eventbrite Event Scraper](https://apify.com/midnight_static/eventbrite-events-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Eventbrite event scraper: upcoming events by city and category, with a date range filter. Every row: title, start and end date, venue, city, online flag, ticket price range with currency, organizer name and URL, event URL. Ambiguous cities stop the run and list candidates. No personal data. |
 | [OSM Overpass Hiking Trail Route Scraper](https://apify.com/jungle_synthesizer/osm-overpass-hiking-route-relation-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Query the Overpass API for OpenStreetMap hiking route relations by bounding box or region. Returns ODbL-licensed trail geometry: route names, distance, network level, way coordinates, and full OSM tags. The only license-clean trail corpus on Apify — safe for AI training and GIS use. |
-| [Create Mini Actor](https://apify.com/valek.josef/create-mini-actor?fpr=hs6s8) | ⭐️ 5.0 (1) |  |
+| [Create Mini Actor](https://apify.com/valek.josef/create-mini-actor?fpr=hs6s8) | ⭐️ 4.99 (1) |  |
 | [Telegram Groups Search Scraper](https://apify.com/powerai/telegram-groups-search-scraper?fpr=hs6s8) | ⭐️ 5.0 (1) | Search and rank Telegram groups by keyword. Get member counts, rankings, language, avatars, and Telegram links with automatic pagination. 📊 |
 | [Actor Testing](https://apify.com/pocesar/actor-testing?fpr=hs6s8) | ⭐️ 5.0 (1) | Test your actors with varying inputs and expected outputs, duplicates, bad output fields, or unexpected log messages using Jasmine |
 | [CEO, Founder & Leadership Email Finder by Domain](https://apify.com/aeonkosmos/ceo-founder-email-finder-by-domain?fpr=hs6s8) | ⭐️ 5.0 (1) | Find CEO and founder work emails from one company domain. Returns only addresses matching the requested company domain. |
@@ -1377,6 +1377,7 @@
 | [deps.dev Scraper Package Licenses, Advisories & Versions](https://apify.com/muzafferkadir/depsdev-scraper?fpr=hs6s8) |  | Scrape open-source package licenses, security advisories and versions from Google's deps.dev API: npm, PyPI, Go, Maven, Cargo, NuGet. No API key. |
 | [Stack Overflow Scraper - Questions, Answers, Tags](https://apify.com/s-r/stackexchange-scraper?fpr=hs6s8) |  | Get questions and answers from Stack Overflow and 170+ Stack Exchange sites by tag or search term: question text, accepted and top-voted answer, score, views, tags, closure reason and asker. One row per question, no account or API key needed. For docs research, support triage and AI training data. |
 | [GitHub Trending Repositories & Developers Scraper](https://apify.com/webintel/github-trending?fpr=hs6s8) |  | Scrape GitHub Trending repositories and developers by language, period and spoken language. Optional GitHub REST enrichment for repository details. |
+| [Username Search & OSINT - Maigret Profile Finder, 5,000+ Sites](https://apify.com/anshumanatrey/maigret-username-search?fpr=hs6s8) |  | Username search on 5,000+ sites with Maigret: find the social media accounts that use a handle and read each profile's name, bio, followers and join date. Follows linked usernames. A username lookup, checker and Sherlock alternative for OSINT, no login or API key. |
 
 ---
 
