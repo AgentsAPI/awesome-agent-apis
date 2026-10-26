@@ -27,7 +27,7 @@
     "id": "YrQuEkowkNCLdk4j2",
     "name": "Cheerio Scraper",
     "description": "Crawls websites using raw HTTP requests, parses the HTML with the Cheerio library, and extracts data from the pages using a Node.js code. Supports both recursive crawling and lists of URLs. This actor is a high-performance alternative to apify/web-scraper for websites that do not require JavaScript.",
-    "rating": 4.746823157848185,
+    "rating": 4.746823157848184,
     "rating_count": 38,
     "url": "https://apify.com/apify/cheerio-scraper?fpr=hs6s8"
   },
@@ -35,8 +35,8 @@
     "id": "3ox4R101TgZz67sLr",
     "name": "RAG Web Browser",
     "description": "Web search and fetch tool for AI agents and RAG pipelines. It queries Google Search, scrapes the top N pages using a full web browser, and returns their content as clean Markdown for further processing by an LLM. Can also fetch individual URLs.",
-    "rating": 4.713115441531599,
-    "rating_count": 35,
+    "rating": 4.750697509379741,
+    "rating_count": 36,
     "url": "https://apify.com/apify/rag-web-browser?fpr=hs6s8"
   },
   {
@@ -115,7 +115,7 @@
     "id": "dLXH5Ia8gLsNjieKV",
     "name": "AI Web Agent",
     "description": "Use natural language prompts to browse the web, click on elements, fill and submit forms, extract data, and take screenshots using the OpenAI API.",
-    "rating": 4.978091839095462,
+    "rating": 4.978091839095461,
     "rating_count": 9,
     "url": "https://apify.com/apify/ai-web-agent?fpr=hs6s8"
   },
@@ -195,7 +195,7 @@
     "id": "uCbMx3aLeKZLuDKvH",
     "name": "Google Sheets Import & Export",
     "description": "Import data from datasets or JSON files to Google Sheets. Programmatically process data in Sheets. Easier and faster than the official Google Sheets API and perfect for importing data from scraping.",
-    "rating": 4.810587299890247,
+    "rating": 4.810587299890248,
     "rating_count": 7,
     "url": "https://apify.com/lukaskrivka/google-sheets?fpr=hs6s8"
   },
@@ -283,7 +283,7 @@
     "id": "jbh0zHol24i9VITYz",
     "name": "SuperScraper API",
     "description": "Generic REST API for scraping websites: send a URL and get back HTML. This Actor is a drop-in replacement for ScrapingBee, ScrapingAnt, and ScraperAPI services. And it is open-source!",
-    "rating": 4.151207596398738,
+    "rating": 4.151207596398737,
     "rating_count": 6,
     "url": "https://apify.com/apify/super-scraper-api?fpr=hs6s8"
   },
@@ -299,7 +299,7 @@
     "id": "rGeTNESChDZ65EbYh",
     "name": "Sitemap Extractor",
     "description": "This Apify Actor extracts all URLs from a website's sitemaps and checks their status codes via lightweight HTTP requests. It provides a clean list of valid links, acting as an ideal pre-processor to ensure your larger crawling projects target only active URLs.",
-    "rating": 3.24065679283384,
+    "rating": 3.240656792833839,
     "rating_count": 8,
     "url": "https://apify.com/apify/sitemap-extractor?fpr=hs6s8"
   },
@@ -395,7 +395,7 @@
     "id": "Ry4J4TsOFXnTlBxag",
     "name": "Apify Email Signature Generator",
     "description": "Generates a standardized email signature for Apify team members, using provided details.",
-    "rating": 4.024138956885659,
+    "rating": 4.024138956885658,
     "rating_count": 5,
     "url": "https://apify.com/apify/email-signature-generator?fpr=hs6s8"
   },
@@ -403,7 +403,7 @@
     "id": "QBBGcsmFo3SSNMhDb",
     "name": "Example Live View",
     "description": "This example demonstrates how to use web server in actor as communication channel with outer world. Read  more at Apify docs https://docs.apify.com/actors/running#container-web-server",
-    "rating": 4.022737524168048,
+    "rating": 4.022737524168049,
     "rating_count": 5,
     "url": "https://apify.com/apify/example-live-view?fpr=hs6s8"
   },
@@ -411,7 +411,7 @@
     "id": "2WwuYWu2yan9JpNju",
     "name": "Example Call",
     "description": "A simple example showing how to call another actor from an actor. Note that this actor doesn't accept any input and doesn't generate any output.",
-    "rating": 4.466848248865458,
+    "rating": 4.466848248865457,
     "rating_count": 4,
     "url": "https://apify.com/apify/example-call?fpr=hs6s8"
   },
@@ -427,7 +427,7 @@
     "id": "cGnGvob9maz6I9Ohr",
     "name": "Google Hotels Scraper",
     "description": "Google Hotels Scraper is an actor for extracting prices from Google search results.",
-    "rating": 3.635233547803033,
+    "rating": 3.635233547803034,
     "rating_count": 5,
     "url": "https://apify.com/martin.forejt/google-hotels-scraper?fpr=hs6s8"
   },
@@ -435,7 +435,7 @@
     "id": "zzTXgEQSjEwxnJjMn",
     "name": "Example using GitHub Gist",
     "description": "Example of an Apify actor with source code hosted in a GitHub Gist. For example, this is useful if you want to have public code examples accompanied by a working API that anyone can try straight away.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/apify/example-github-gist?fpr=hs6s8"
   },
@@ -456,14 +456,6 @@
     "url": "https://apify.com/dz_omar/apify-scraper?fpr=hs6s8"
   },
   {
-    "id": "cLo1vfjaaMlAzaQao",
-    "name": "Scrape And Bypass Any Url Using Scrappey",
-    "description": "Scrape data from modern, JavaScript-heavy web pages using the Scrappey.com API integrated with an Apify Actor. A robust solution for complex scraping scenarios — managed browser sessions, proxy rotation, and full browser automation.",
-    "rating": 5,
-    "rating_count": 3,
-    "url": "https://apify.com/dormic/apify-scrappey?fpr=hs6s8"
-  },
-  {
     "id": "ykpPc8CcQXrmfjEhP",
     "name": "Example Selenium",
     "description": "Example of loading a web page in headless Chrome using Selenium Webdriver.",
@@ -475,9 +467,17 @@
     "id": "TCZgliqsdbWeVYdq6",
     "name": "Automate WhatsApp in One API",
     "description": "Unlock WhatsApp automation in minutes: connect once via QR, then run messaging, media sends, number verification, chat exports, backups, and job tracking from one production-ready Control Center + API. Built for CRM, support, sales, and ops teams that need speed, reliability, and scale.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 3,
     "url": "https://apify.com/leadsbrary/automate-whatsapp-in-one-api?fpr=hs6s8"
+  },
+  {
+    "id": "cLo1vfjaaMlAzaQao",
+    "name": "Scrape And Bypass Any Url Using Scrappey",
+    "description": "Scrape data from modern, JavaScript-heavy web pages using the Scrappey.com API integrated with an Apify Actor. A robust solution for complex scraping scenarios — managed browser sessions, proxy rotation, and full browser automation.",
+    "rating": 4.999999999999999,
+    "rating_count": 3,
+    "url": "https://apify.com/dormic/apify-scrappey?fpr=hs6s8"
   },
   {
     "id": "uK6sq3DWSjsaQFbb3",
@@ -539,7 +539,7 @@
     "id": "ZCOxiMur0V1uSt8qE",
     "name": "HTML to PDF converter",
     "description": "Convert HTML string to A4 PDF.",
-    "rating": 4.333333333333332,
+    "rating": 4.333333333333333,
     "rating_count": 3,
     "url": "https://apify.com/apify/html-to-pdf-converter?fpr=hs6s8"
   },
@@ -571,7 +571,7 @@
     "id": "jjjNZa4tG4SzDEFcp",
     "name": "SEO Audit Tool",
     "description": "Search Engine Optimization tool to carry out an SEO audit on any website. Finds broken links, missing images, and provides information about possible page improvements.",
-    "rating": 3.81215872727978,
+    "rating": 3.812158727279781,
     "rating_count": 3,
     "url": "https://apify.com/misceres/seo-audit-tool?fpr=hs6s8"
   },
@@ -579,7 +579,7 @@
     "id": "sh0sjNMKZyhplAsQW",
     "name": "MercadoLibre Scraper - Best Sellers, Prices & Products",
     "description": "Scrape MercadoLibre: best-seller rankings by category with rank, price, rating and units sold, plus full product detail (attributes, variations, stock, seller reputation, reviews, images). Export JSON, CSV, Excel.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/scrapers_lat/mercadolibre-scraper?fpr=hs6s8"
   },
@@ -603,7 +603,7 @@
     "id": "4GTGBCOGLfgrUhcb3",
     "name": "YouTube To Transcript",
     "description": "Extract YouTube transcripts from public video URLs",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 2,
     "url": "https://apify.com/hexa-api/youtube-to-transcript?fpr=hs6s8"
   },
@@ -611,7 +611,7 @@
     "id": "SdlcUciRgXdRUxNBA",
     "name": "Omni Jobs Board Scraper ~$2 per 500 results",
     "description": "Scrape job listings from Indeed, Reed, Totaljobs, CV-Library, Adzuna, RemoteOK, Arbeitnow and more across the UK, US and Europe. Export title, company, location, salary, description and apply URL. Filter by keyword and location. CSV, JSON, Excel.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/doggo/uk-jobs-board-scraper?fpr=hs6s8"
   },
@@ -619,7 +619,7 @@
     "id": "bNLFHqgWro6XnB9h7",
     "name": "Natural Language Dataset Query",
     "description": "Use natural language queries to retrieve results from an Apify dataset. This Actor provides a query engine that loads a dataset, executes SQL queries, and synthesizes results. It works as an MCP (Model Context Protocol) server or REST API in Actor standby mode.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/apify/natural-language-dataset-query?fpr=hs6s8"
   },
@@ -643,7 +643,7 @@
     "id": "UE49UoVO31wJe4yW5",
     "name": "Market Mind AI",
     "description": "Analyze real-time news and social media stock sentiment to uncover key market trends and investor interest. It provides a market summary with top discussions and emerging opportunities. With personalized insights based on your profile, it helps you make data-driven investment decisions",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/katzino/market-mind-ai?fpr=hs6s8"
   },
@@ -651,7 +651,7 @@
     "id": "fq3JGocNzvVGB8vTi",
     "name": "⚡Glassdoor Jobs Scraper",
     "description": "Introducing the Glassdoor Jobs Scraper for Apify! This cutting-edge tool simplifies job listing extraction from Glassdoor. Ideal for job seekers, recruiters, and market analysts, it provides extensive customization to meet diverse job-hunting and research requirements effortlessly.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 2,
     "url": "https://apify.com/silo/glassdoor-jobs-scraper?fpr=hs6s8"
   },
@@ -667,7 +667,7 @@
     "id": "HwCRQdx9zLlfM59cO",
     "name": "AmiAmi Product Search",
     "description": "Search AmiAmi by keyword, optionally scrape product page (section.item-about) with Playwright.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/emt_getdataforu/amiami-product-search?fpr=hs6s8"
   },
@@ -691,7 +691,7 @@
     "id": "3Pp61GRohzeO18mfN",
     "name": "Website Image Scraper",
     "description": "Website Image Scraper is a fast, lightweight tool that crawls websites to extract image URLs (jpg, png, svg) without downloading files or using browsers. It supports recursive crawling, respects robots.txt, and efficiently collects image links for analysis or monitoring or a later download.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 2,
     "url": "https://apify.com/gomorrhadev/website-image-scraper?fpr=hs6s8"
   },
@@ -707,7 +707,7 @@
     "id": "fgCg268Rg9Yrvrx24",
     "name": "Keywords Extractor",
     "description": "Use our free website keyword extractor to crawl any website and extract keyword counts on each page.",
-    "rating": 4.781511805944948,
+    "rating": 4.781511805944947,
     "rating_count": 2,
     "url": "https://apify.com/lukaskrivka/keywords-extractor?fpr=hs6s8"
   },
@@ -795,7 +795,7 @@
     "id": "oXTuyqGR803PjzDha",
     "name": "Print env vars",
     "description": "Prints both raw and parsed environment variables provided to each actor run. Stores them to dataset, KV Store and log for easy analysis.",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/lukaskrivka/print-env-vars?fpr=hs6s8"
   },
@@ -803,7 +803,7 @@
     "id": "gQnCswZksZUL1uZhw",
     "name": "OMR Review Scraper",
     "description": "Scrapes software reviews from OMR",
-    "rating": 5,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/scrapers123/omr-review-scraper?fpr=hs6s8"
   },
@@ -971,7 +971,7 @@
     "id": "WL6WNguVOix559buh",
     "name": "Python Example",
     "description": "Example Actor written in Python, showing how to read the Actor input and push to the Actor's default dataset.",
-    "rating": 5,
+    "rating": 4.999999999999999,
     "rating_count": 1,
     "url": "https://apify.com/apify/python-example?fpr=hs6s8"
   },
@@ -1067,7 +1067,7 @@
     "id": "P2M3dZzrvinZA2454",
     "name": "Login Session",
     "description": "Get localStorage, sessionStorage and cookies from logins for usage in other actors.",
-    "rating": 4.999999999999999,
+    "rating": 5.000000000000001,
     "rating_count": 1,
     "url": "https://apify.com/pocesar/login-session?fpr=hs6s8"
   },
@@ -1075,7 +1075,7 @@
     "id": "5RhXfI19PTuOs0XgX",
     "name": "Website Content Crawler Fast",
     "description": "Scraping data from every single web page.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/timelody/website-content-crawler-fast?fpr=hs6s8"
   },
@@ -1083,7 +1083,7 @@
     "id": "VB96jbBA9Na6OSbJG",
     "name": "UK VAT number checker",
     "description": "This actor uses https://www.tax.service.gov.uk/ to check if UK VAT number is valid or not.\nIt can check multiple VAT numbers in one run.\nIf VAT number is valid then business name and address are fetched.",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "rating_count": 1,
     "url": "https://apify.com/novotnyj/uk-vat-number-checker?fpr=hs6s8"
   },
@@ -11778,7 +11778,7 @@
   {
     "id": "AeU38KovFWOAA2Fd3",
     "name": "Web & Docs Website to Clean Markdown, RAG Chunks & Metadata",
-    "description": "Convert any webpage or documentation site into clean LLM-ready Markdown, overlapping RAG text chunks with estimated token counts, and JSON-LD/OpenGraph metadata.",
+    "description": "Convert any webpage or documentation site into clean structured Markdown, section-aware overlapping RAG text chunks with estimated token counts, H1-H3 outlines, quality scores, and ready-to-use llms.txt index entries.",
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/lucacelli/ai-ready-website-to-markdown-rag-crawler?fpr=hs6s8"
@@ -11790,5 +11790,93 @@
     "rating": 0,
     "rating_count": 0,
     "url": "https://apify.com/adaptive_nightmare/huggingface-ai-models-radar?fpr=hs6s8"
+  },
+  {
+    "id": "vY27863DSDQxRm0DI",
+    "name": "OpenAPI, Swagger, GraphQL & MCP Server Endpoint Discoverer",
+    "description": "Probe developer portals and SaaS domains for public API documentation, OpenAPI/Swagger specs, GraphQL references, developer doc links, and Model Context Protocol (MCP) integrations.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/chrisfang100/openapi-swagger-mcp-endpoint-discoverer?fpr=hs6s8"
+  },
+  {
+    "id": "xaP72dbf1pSUSUGgr",
+    "name": "Career Site Jobs Scraper: Greenhouse, Lever, Ashby, Workable",
+    "description": "Get open jobs from any company's Greenhouse, Lever, Ashby, Workable or Recruitee career site as clean JSON. Input: board names or URLs (e.g. \"stripe\"). Output: one row per job with title, department, location, remote, salary, posted date, description and apply URL. No login or proxy.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/swillz/career-site-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "vCAwWvNofUlwpRTBX",
+    "name": "XML Sitemap URL Extractor & Sitemap to CSV",
+    "description": "Get every URL from a website's XML sitemap as JSON, CSV or Excel. Give a domain or sitemap URL: it finds sitemaps via robots.txt, follows indexes and .gz files, and returns one row per page with lastmod, images and hreflang. Optional HTTP status check and new-page monitoring.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/swillz/sitemap-url-extractor?fpr=hs6s8"
+  },
+  {
+    "id": "snpojAsSzzCiuSkOO",
+    "name": "AI Extract: Structured Data from Any Web Page",
+    "description": "Extract structured JSON from any public web page with a plain-English prompt or a JSON schema. Input: URLs + what to extract. Output: one validated row per page (products, prices, articles, events, listings). Optional crawling. AI included, no API key needed.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/swillz/ai-extract?fpr=hs6s8"
+  },
+  {
+    "id": "qOG8UsyaBTctmj3bT",
+    "name": "Biotech Catalyst Tracker: FDA & MHRA Approvals, Trials, AdComs",
+    "description": "Biotech and pharma catalysts from official public sources: FDA approvals and CRLs (openFDA), FDA approval news, FDA advisory committee calendar, MHRA UK authorisations and ClinicalTrials.gov results and status changes. Company and condition filters, tickers.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/seaf999ield/biotech-catalyst-tracker?fpr=hs6s8"
+  },
+  {
+    "id": "qBt8Xd1Zi0Fk3ieD8",
+    "name": "Workday Jobs Scraper: All Jobs from Any myworkdayjobs.com Site",
+    "description": "Get every open job from any company's Workday career site (myworkdayjobs.com) as JSON, past Workday's 2,000-job cap. Input: the Workday jobs URL. Output: one row per job with title, locations, country, remote, pay range, posted date, description and apply URL. No login. From $1 per 1,000 jobs.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/swillz/workday-jobs-scraper?fpr=hs6s8"
+  },
+  {
+    "id": "b9lXUGTpUzzroTxhD",
+    "name": "Google Sheets Import & Export: Dataset to Sheet, Sheet to JSON",
+    "description": "Write any Apify dataset or JSON rows to Google Sheets (append or replace, header merge, dedup), or read a sheet tab or range as JSON rows. No OAuth: share the sheet with our service-account email once. Built for scraper → sheet pipelines and AI agents. $0.01 per 1,000 rows.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/swillz/google-sheets-import-export?fpr=hs6s8"
+  },
+  {
+    "id": "UACPtNa6wXni2B8jW",
+    "name": "Firecrawl, Jina Reader, HTML to Markdown & RAG Markdown API",
+    "description": "Firecrawl, Jina Reader, HTML to Markdown & RAG Markdown Web Extractor. Convert any web page or documentation site into clean, token-optimized Markdown with metadata and chunking for LLMs.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/invaluable_rondeau/llm-markdown-rag-web-extractor?fpr=hs6s8"
+  },
+  {
+    "id": "MqlizBjxT9hqTI1sT",
+    "name": "CVE Security Vulnerability Radar",
+    "description": "Collect security advisories, CVE identifiers, CVSS severity levels, and affected package versions across software ecosystems.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/adaptive_nightmare/cve-security-vulnerability-radar?fpr=hs6s8"
+  },
+  {
+    "id": "G0YiiQdELtyz44E0V",
+    "name": "UK NHS Prescribing Data: GP Drug Trends for All 4 Nations",
+    "description": "Monthly GP prescribing for any drug or BNF code across the UK (NHSBSA England, Public Health Scotland, NHS Wales, Northern Ireland BSO): items, quantity and cost by nation, region, ICB or health board, and practice, plus biggest month on month movers.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/seaf999ield/uk-nhs-prescribing-data?fpr=hs6s8"
+  },
+  {
+    "id": "0HxisfNWYAsAK6h7e",
+    "name": "Company Website Enrichment: Contacts, Socials, Tech Stack",
+    "description": "Turn company domains into lead data: name, description, logo, generic emails (info@, sales@), phones, address, LinkedIn and socials, key pages and 130+ technologies. Input: domains, or another Actor's dataset such as Google Maps results. One row per company. Respects robots.txt.",
+    "rating": 0,
+    "rating_count": 0,
+    "url": "https://apify.com/swillz/company-website-enrichment?fpr=hs6s8"
   }
 ]
